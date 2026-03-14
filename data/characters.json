@@ -43930,7 +43930,7 @@
             "id": "sp0043",
             "name": "ナギサ",
             "img": "standing/ナギサ_2.png",
-            "icon": "face/.png",
+            "icon": "face/ナギサ.png",
             "atk_attribute": "爆発",
             "def_attribute": "重装甲",
             "status": {
@@ -44155,7 +44155,7 @@
             "id": "sp0044",
             "name": "ハルカ（正月）",
             "img": "standing/ハルカ（正月）_圧縮.png",
-            "icon": "face/.png",
+            "icon": "face/ハルカ（正月）.png",
             "atk_attribute": "爆発",
             "def_attribute": "軽装甲",
             "status": {
@@ -44380,7 +44380,7 @@
             "id": "sp0045",
             "name": "ユズ（メイド）",
             "img": "standing/ユズ（メイド）.png",
-            "icon": "face/.png",
+            "icon": "face/ユズ（メイド）.png",
             "atk_attribute": "爆発",
             "def_attribute": "弾力装甲",
             "status": {
@@ -44605,7 +44605,7 @@
             "id": "sp0046",
             "name": "ミノリ",
             "img": "standing/ミノリ.png",
-            "icon": "face/.png",
+            "icon": "face/ミノリ.png",
             "atk_attribute": "爆発",
             "def_attribute": "特殊装甲",
             "status": {
@@ -44830,7 +44830,7 @@
             "id": "sp0047",
             "name": "ミユ（水着）",
             "img": "standing/ミユ（水着）.png",
-            "icon": "face/.png",
+            "icon": "face/ミユ（水着）.png",
             "atk_attribute": "爆発",
             "def_attribute": "軽装甲",
             "status": {
@@ -45279,7 +45279,7 @@
             "id": "sp0049",
             "name": "ヒナタ（水着）",
             "img": "standing/ヒナタ（水着）.png",
-            "icon": "face/.png",
+            "icon": "face/ヒナタ（水着）.png",
             "atk_attribute": "爆発",
             "def_attribute": "軽装甲",
             "status": {
@@ -45504,7 +45504,7 @@
             "id": "sp0050",
             "name": "ミモリ（水着）",
             "img": "standing/ミモリ（水着）.png",
-            "icon": "face/.png",
+            "icon": "face/ミモリ（水着）.png",
             "atk_attribute": "神秘",
             "def_attribute": "特殊装甲",
             "status": {
@@ -45729,7 +45729,7 @@
             "id": "sp0051",
             "name": "ハルナ（体操服）",
             "img": "standing/ハルナ（体操服）.png",
-            "icon": "face/.png",
+            "icon": "face/ハルナ（体操服）.png",
             "atk_attribute": "振動",
             "def_attribute": "重装甲",
             "status": {
@@ -45960,7 +45960,7 @@
             "id": "sp0052",
             "name": "シグレ（温泉）",
             "img": "standing/シグレ（温泉）.png",
-            "icon": "face/.png",
+            "icon": "face/シグレ（温泉）.png",
             "atk_attribute": "貫通",
             "def_attribute": "特殊装甲",
             "status": {
@@ -46185,7 +46185,7 @@
             "id": "sp0053",
             "name": "佐天涙子",
             "img": "standing/佐天涙子.png",
-            "icon": "face/.png",
+            "icon": "face/佐天涙子.png",
             "atk_attribute": "貫通",
             "def_attribute": "特殊装甲",
             "status": {
@@ -46613,7 +46613,7 @@
             "id": "sp0055",
             "name": "マコト",
             "img": "standing/マコト_圧縮.png",
-            "icon": "face/.png",
+            "icon": "face/マコト.png",
             "atk_attribute": "貫通",
             "def_attribute": "特殊装甲",
             "status": {
@@ -46838,7 +46838,7 @@
             "id": "sp0056",
             "name": "アカリ（正月）",
             "img": "standing/アカリ（正月）.png",
-            "icon": "face/.png",
+            "icon": "face/アカリ（正月）.png",
             "atk_attribute": "神秘",
             "def_attribute": "特殊装甲",
             "status": {
@@ -47063,7 +47063,7 @@
             "id": "sp0057",
             "name": "ツバキ（ガイド）",
             "img": "standing/ツバキ（ガイド）.png",
-            "icon": "face/.png",
+            "icon": "face/ツバキ（ガイド）.png",
             "atk_attribute": "貫通",
             "def_attribute": "重装甲",
             "status": {
@@ -47288,7 +47288,7 @@
             "id": "sp0058",
             "name": "セリカ（水着）",
             "img": "standing/セリカ（水着）_圧縮.png",
-            "icon": "face/.png",
+            "icon": "face/セリカ（水着）.png",
             "atk_attribute": "神秘",
             "def_attribute": "重装甲",
             "status": {
@@ -47907,6 +47907,231 @@
                         "effect": [
                             {
                                 "skill_attribute": "atk",
+                                "rate": [
+                                    9.1,
+                                    9.5,
+                                    10,
+                                    11.8,
+                                    12.3,
+                                    12.7,
+                                    14.5,
+                                    15,
+                                    15.5,
+                                    17.32
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "id": "sp0061",
+            "name": "アツコ（水着）",
+            "img": "standing/アツコ（水着）.png",
+            "icon": "face/アツコ（水着）.png",
+            "atk_attribute": "振動",
+            "def_attribute": "特殊装甲",
+            "status": {
+                "atk": 304.03,
+                "heal": 3066.4,
+                "hit": 702,
+                "avoid": 1103,
+                "cri": 270,
+                "cri_damage": 200,
+                "penetrate": 0,
+                "balance": 1477,
+                "urban": "B",
+                "outdoor": "B",
+                "indoor": "B"
+            },
+            "limit": [
+                5,
+                4,
+                5,
+                4,
+                5,
+                4,
+                5,
+                4,
+                5,
+                4,
+                5,
+                4,
+                5,
+                4,
+                5,
+                4,
+                5,
+                5,
+                4,
+                5,
+                4,
+                5,
+                4,
+                5,
+                4
+            ],
+            "weapon": [
+                {
+                    "wep1": "シューズ",
+                    "wep2": "バッジ",
+                    "wep3": "ネックレス",
+                    "unique_wep": [
+                        {
+                            "atk": 319,
+                            "heal": 892
+                        }
+                    ]
+                }
+            ],
+            "bond": [
+                {
+                    "atk": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "heal": [
+                        8,
+                        12,
+                        16,
+                        20,
+                        5,
+                        7,
+                        12
+                    ]
+                }
+            ],
+            "class": "アツコ",
+            "skill": {
+                "EX": {
+                    "default": {
+                        "skillname": "",
+                        "cost": 0,
+                        "hittime": 0.0,
+                        "cooltime": 0,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "one",
+                                "hitAmount": 0,
+                                "rate": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            {
+                                "skill_attribute": "",
+                                "skilltime": 0,
+                                "rate": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            {
+                                "skill_attribute": ""
+                            }
+                        ]
+                    }
+                },
+                "NS": {
+                    "default": {
+                        "skillname": "",
+                        "hittime": 0.0,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "one",
+                                "hitAmount": 0,
+                                "rate": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            {
+                                "skill_attribute": "",
+                                "skilltime": 0,
+                                "rate": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "NS+": {
+                    "default": {
+                        "skillname": ""
+                    }
+                },
+                "PS": [
+                    {
+                        "skill_attribute": "",
+                        "rate": [
+                            14,
+                            14.7,
+                            15.4,
+                            18.2,
+                            18.9,
+                            19.6,
+                            22.4,
+                            23.1,
+                            23.8,
+                            26.6
+                        ]
+                    }
+                ],
+                "PS+": [
+                    {
+                        "skill_attribute": "",
+                        "rate": [
+                            2000,
+                            2100,
+                            2200,
+                            2600,
+                            2700,
+                            2800,
+                            3200,
+                            3300,
+                            3400,
+                            3800
+                        ]
+                    }
+                ],
+                "SS": {
+                    "default": {
+                        "skillname": "",
+                        "effect": [
+                            {
+                                "skill_attribute": "",
+                                "skilltime": 13,
                                 "rate": [
                                     9.1,
                                     9.5,
