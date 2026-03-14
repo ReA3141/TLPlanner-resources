@@ -54032,7 +54032,7 @@
             "id": "sp0059",
             "name": "フブキ（水着）",
             "img": "standing/フブキ（水着）.png",
-            "icon": "face/.png",
+            "icon": "face/フブキ（水着）.png",
             "atk_attribute": "爆発",
             "def_attribute": "重装甲",
             "status": {
