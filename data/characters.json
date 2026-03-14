@@ -30301,16 +30301,16 @@
                     {
                         "skill_attribute": "atk",
                         "rate": [
-                            2000,
-                            2100,
-                            2200,
-                            2600,
-                            2700,
-                            2800,
-                            3200,
-                            3300,
-                            3400,
-                            3800
+                            326,
+                            342,
+                            358,
+                            423,
+                            440,
+                            456,
+                            521,
+                            537,
+                            553,
+                            618
                         ]
                     }
                 ],
@@ -30532,16 +30532,16 @@
                     {
                         "skill_attribute": "sp_atk",
                         "rate": [
-                            2000,
-                            2100,
-                            2200,
-                            2600,
-                            2700,
-                            2800,
-                            3200,
-                            3300,
-                            3400,
-                            3800
+                            26,
+                            27.3,
+                            28.6,
+                            33.8,
+                            35.1,
+                            36.4,
+                            41.6,
+                            42.9,
+                            44.2,
+                            49.4
                         ]
                     }
                 ],
@@ -30665,29 +30665,31 @@
                     "default": {
                         "skillname": "爆発クライマックス",
                         "cost": 10,
-                        "hittime": 0.0,
-                        "cooltime": 0,
+                        "hittime": 4.5,
+                        "cooltime": 6.567,
                         "effect": [
                             {
                                 "skill_attribute": "atk",
-                                "skilltime": 0,
+                                "skill_tage": "own",
+                                "skilltime": 50,
                                 "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
+                                    59.1,
+                                    68,
+                                    85.8,
+                                    94.6,
+                                    112
                                 ]
                             },
                             {
                                 "skill_attribute": "atk_speed",
-                                "skilltime": 0,
+                                "skill_tage": "own",
+                                "skilltime": 50,
                                 "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
+                                    59.1,
+                                    68,
+                                    85.8,
+                                    94.6,
+                                    112
                                 ]
                             },
                             {
@@ -30695,11 +30697,11 @@
                                 "skill_tage": "own",
                                 "skilltime": 10,
                                 "rate": [
-                                    10,
-                                    10,
-                                    10,
-                                    10,
-                                    10
+                                    5,
+                                    5,
+                                    5,
+                                    5,
+                                    5
                                 ]
                             }
                         ]
@@ -30707,29 +30709,663 @@
                 },
                 "NS": {
                     "default": {
-                        "skillname": "",
+                        "skillname": "ビジュアルメーカー",
                         "hittime": 0.0,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
                                 "skill_pattern": "one",
-                                "hitAmount": 0,
+                                "hitAmount": [
+                                    1.534,
+                                    1.733,
+                                    1.900,
+                                    2.100,
+                                    2.267,
+                                    2.467,
+                                    2.633,
+                                    2.833,
+                                    3.000,
+                                    3.200,
+                                    3.400,
+                                    3.600
+                                ],
                                 "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
+                                    508,
+                                    534,
+                                    559,
+                                    661,
+                                    686,
+                                    711,
+                                    813,
+                                    839,
+                                    864,
+                                    966
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "NS+": {
+                    "default": {
+                        "skillname": ""
+                    }
+                },
+                "PS": [
+                    {
+                        "skill_attribute": "atk",
+                        "rate": [
+                            14,
+                            14.7,
+                            15.4,
+                            18.2,
+                            18.9,
+                            19.6,
+                            22.4,
+                            23.1,
+                            23.8,
+                            26.6
+                        ]
+                    }
+                ],
+                "PS+": [
+                    {
+                        "skill_attribute": "cri_damage",
+                        "rate": [
+                            2000,
+                            2100,
+                            2200,
+                            2600,
+                            2700,
+                            2800,
+                            3200,
+                            3300,
+                            3400,
+                            3800
+                        ]
+                    }
+                ],
+                "SS": {
+                    "default": {
+                        "skillname": "スイーツハーモニクス",
+                        "effect": [
+                            {
+                                "skill_attribute": "add_damage",
+                                "hitAmount": 1,
+                                "rate": [
+                                    9.1,
+                                    9.5,
+                                    10,
+                                    11.8,
+                                    12.3,
+                                    12.7,
+                                    14.5,
+                                    15,
+                                    15.5,
+                                    17.32
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "id": "st0125",
+            "name": "アイリ（バンド）",
+            "img": "standing/アイリ（バンド）.png",
+            "icon": "face/アイリ（バンド）.png",
+            "atk_attribute": "爆発",
+            "def_attribute": "特殊装甲",
+            "status": {
+                "atk": 349.1,
+                "heal": 1671.9,
+                "hit": 701,
+                "avoid": 798,
+                "cri": 200,
+                "cri_damage": 200,
+                "penetrate": 0,
+                "balance": 350,
+                "urban": "B",
+                "outdoor": "A",
+                "indoor": "D"
+            },
+            "dps": {
+                "hit": 15,
+                "hits": 3,
+                "delay": 62,
+                "reload": 75,
+                "beforeTime": 154
+            },
+            "limit": [
+                5,
+                5,
+                6,
+                5,
+                5,
+                5,
+                5,
+                6,
+                5,
+                5,
+                5,
+                5,
+                6,
+                5,
+                5,
+                5,
+                5,
+                6,
+                5,
+                5,
+                5,
+                5,
+                6,
+                5,
+                5
+            ],
+            "weapon": [
+                {
+                    "wep1": "帽子",
+                    "wep2": "ヘアピン",
+                    "wep3": "お守り",
+                    "unique_wep": [
+                        {
+                            "atk": 366,
+                            "heal": 0
+                        }
+                    ]
+                }
+            ],
+            "bond": [
+                {
+                    "atk": [
+                        3,
+                        4,
+                        6,
+                        7,
+                        2,
+                        3,
+                        4
+                    ],
+                    "heal": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "class": "アイリ",
+            "skill": {
+                "EX": {
+                    "default": {
+                        "skillname": "幸せのメロディ",
+                        "cost": 2,
+                        "hittime": 1.567,
+                        "cooltime": 7.4,
+                        "effect": [
+                            {
+                                "skill_attribute": "sp_atk",
+                                "skill_tage": "own",
+                                "skilltime": 30,
+                                "rate": [
+                                    95.8,
+                                    110,
+                                    138,
+                                    153,
+                                    182
+                                ]
+                            },
+                            {
+                                "skill_attribute": "sugar_rush",
+                                "skill_tage": "own",
+                                "skilltime": 30
+                            }
+                        ]
+                    }
+                },
+                "NS": {
+                    "default": {
+                        "skillname": "チョコミントな音の階段",
+                        "hittime": 0.0,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "one",
+                                "hitAmount": [
+                                    1.933,
+                                    2.067,
+                                    2.167,
+                                    2.300,
+                                    2.400,
+                                    2.533,
+                                    2.633,
+                                    2.767,
+                                    2.867,
+                                    3.000,
+                                    3.100,
+                                    3.200
+                                ],
+                                "rate": [
+                                    710,
+                                    745,
+                                    781,
+                                    923,
+                                    958,
+                                    994,
+                                    1136,
+                                    1171,
+                                    1207,
+                                    1349
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "NS+": {
+                    "default": {
+                        "skillname": ""
+                    }
+                },
+                "PS": [
+                    {
+                        "skill_attribute": "atk_speed",
+                        "rate": [
+                            11.2,
+                            11.7,
+                            12.3,
+                            14.5,
+                            15.1,
+                            15.6,
+                            17.9,
+                            18.4,
+                            19,
+                            21.2
+                        ]
+                    },
+                    {
+                        "skill_attribute": "range",
+                        "rate": [
+                            100,
+                            100,
+                            100,
+                            100,
+                            100,
+                            100,
+                            100,
+                            100,
+                            100,
+                            100
+                        ]
+                    }
+                ],
+                "PS+": [
+                    {
+                        "skill_attribute": "atk",
+                        "rate": [
+                            356,
+                            373,
+                            391,
+                            462,
+                            480,
+                            498,
+                            569,
+                            587,
+                            604,
+                            675
+                        ]
+                    }
+                ],
+                "SS": {
+                    "default": {
+                        "skillname": "染み込む感情",
+                        "effect": [
+                            {
+                                "skill_attribute": "cri_damage_regist",
+                                "skilltime": 16,
+                                "rate": [
+                                    12.8,
+                                    13.5,
+                                    14.1,
+                                    16.7,
+                                    17.3,
+                                    18,
+                                    20.5,
+                                    21.2,
+                                    21.8,
+                                    24.4
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "id": "st0126",
+            "name": "キララ",
+            "img": "standing/キララ.png",
+            "icon": "face/キララ.png",
+            "atk_attribute": "振動",
+            "def_attribute": "軽装甲",
+            "status": {
+                "atk": 313.2,
+                "heal": 1736.3,
+                "hit": 738,
+                "avoid": 755,
+                "cri": 263,
+                "cri_damage": 200,
+                "penetrate": 0,
+                "balance": 1320,
+                "urban": "S",
+                "outdoor": "B",
+                "indoor": "D"
+            },
+            "dps": {
+                "hit": 15,
+                "hits": 3,
+                "delay": 60,
+                "reload": 59,
+                "beforeTime": 116
+            },
+            "limit": [
+                5,
+                4,
+                5,
+                5,
+                5,
+                4,
+                5,
+                4,
+                5,
+                5,
+                4,
+                5,
+                5,
+                4,
+                5,
+                4,
+                5,
+                5,
+                4,
+                5,
+                5,
+                5,
+                4,
+                5,
+                5
+            ],
+            "weapon": [
+                {
+                    "wep1": "グローブ",
+                    "wep2": "バッジ",
+                    "wep3": "腕時計",
+                    "unique_wep": [
+                        {
+                            "atk": 410,
+                            "heal": 0
+                        }
+                    ]
+                }
+            ],
+            "bond": [
+                {
+                    "atk": [
+                        3,
+                        4,
+                        5,
+                        6,
+                        2,
+                        2,
+                        4
+                    ],
+                    "heal": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "class": "キララ",
+            "skill": {
+                "EX": {
+                    "default": {
+                        "skillname": "ゲヘナのセレブリティー！",
+                        "cost": 4,
+                        "hittime": 3.034,
+                        "cooltime": 5.1,
+                        "effect": [
+                            {
+                                "skill_attribute": "atk",
+                                "skill_tage": "own",
+                                "skilltime": 40,
+                                "rate": [
+                                    39.6,
+                                    39.6,
+                                    45.5,
+                                    45.5,
+                                    51.4
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "NS": {
+                    "default": {
+                        "skillname": "いつもキラキラ！",
+                        "hittime": 0.0,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "one",
+                                "hitAmount": 1.767,
+                                "rate": [
+                                    391,
+                                    411,
+                                    430,
+                                    509,
+                                    528,
+                                    548,
+                                    626,
+                                    646,
+                                    665,
+                                    744
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "NS+": {
+                    "default": {
+                        "skillname": ""
+                    }
+                },
+                "PS": [
+                    {
+                        "skill_attribute": "cri_damage",
+                        "rate": [
+                            14,
+                            14.7,
+                            15.4,
+                            18.2,
+                            18.9,
+                            19.6,
+                            22.4,
+                            23.1,
+                            23.8,
+                            26.6
+                        ]
+                    }
+                ],
+                "PS+": [
+                    {
+                        "skill_attribute": "cri_damage",
+                        "rate": [
+                            2000,
+                            2100,
+                            2200,
+                            2600,
+                            2700,
+                            2800,
+                            3200,
+                            3300,
+                            3400,
+                            3800
+                        ]
+                    }
+                ],
+                "SS": {
+                    "default": {
+                        "skillname": "トキメキ☆って感じ？",
+                        "effect": [
+                            {
+                                "skill_attribute": "aim",
+                                "rate": [
+                                    16.1,
+                                    16.9,
+                                    17.7,
+                                    20.9,
+                                    21.7,
+                                    22.5,
+                                    25.8,
+                                    26.6,
+                                    27.4,
+                                    30.6
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "id": "st0127",
+            "name": "モモイ（メイド）",
+            "img": "standing/モモイ（メイド）.png",
+            "icon": "face/モモイ（メイド）.png",
+            "atk_attribute": "振動",
+            "def_attribute": "軽装甲",
+            "status": {
+                "atk": 257.6,
+                "heal": 1661.8,
+                "hit": 707,
+                "avoid": 791,
+                "cri": 202,
+                "cri_damage": 200,
+                "penetrate": 0,
+                "balance": 1384,
+                "urban": "D",
+                "outdoor": "S",
+                "indoor": "B"
+            },
+            "dps": {
+                "hit": 15,
+                "hits": 3,
+                "delay": 50,
+                "reload": 58,
+                "beforeTime": 107
+            },
+            "limit": [
+                4,
+                4,
+                4,
+                3,
+                4,
+                4,
+                4,
+                4,
+                4,
+                3,
+                4,
+                4,
+                4,
+                4,
+                4,
+                3,
+                4,
+                4,
+                4,
+                4,
+                4,
+                3,
+                4,
+                4,
+                4
+            ],
+            "weapon": [
+                {
+                    "wep1": "帽子",
+                    "wep2": "ヘアピン",
+                    "wep3": "腕時計",
+                    "unique_wep": [
+                        {
+                            "atk": 338,
+                            "heal": 0
+                        }
+                    ]
+                }
+            ],
+            "bond": [
+                {
+                    "atk": [
+                        2,
+                        3,
+                        4,
+                        5,
+                        1,
+                        2,
+                        3
+                    ],
+                    "heal": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "class": "モモイ",
+            "skill": {
+                "EX": {
+                    "default": {
+                        "skillname": "バーチャル・メイドウェポン！",
+                        "cost": 4,
+                        "hittime": 0.0,
+                        "cooltime": 0,
+                        "effect": [
+                            {
+                                "skill_attribute": "atk_speed",
+                                "skilltime": 10,
+                                "rate": [
                                     0,
                                     0,
                                     0,
                                     0,
                                     0
                                 ]
-                            },
+                            }
+                        ]
+                    }
+                },
+                "NS": {
+                    "default": {
+                        "skillname": "結果よければ全てよし！",
+                        "hittime": 0.0,
+                        "effect": [
                             {
-                                "skill_attribute": "",
-                                "skilltime": 0,
+                                "skill_attribute": "damage",
+                                "skill_pattern": "one",
+                                "hitAmount": 0,
                                 "rate": [
                                     0,
                                     0,
@@ -30753,7 +31389,7 @@
                 },
                 "PS": [
                     {
-                        "skill_attribute": "",
+                        "skill_attribute": "cri_damage",
                         "rate": [
                             14,
                             14.7,
@@ -30770,7 +31406,7 @@
                 ],
                 "PS+": [
                     {
-                        "skill_attribute": "",
+                        "skill_attribute": "cri",
                         "rate": [
                             2000,
                             2100,
@@ -30787,22 +31423,222 @@
                 ],
                 "SS": {
                     "default": {
-                        "skillname": "",
+                        "skillname": "誤射注意！",
                         "effect": [
                             {
-                                "skill_attribute": "",
-                                "skilltime": 13,
+                                "skill_attribute": "amo"
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "id": "st0128",
+            "name": "ミドリ（メイド）",
+            "img": "standing/ミドリ（メイド）.png",
+            "icon": "face/ミドリ（メイド）.png",
+            "atk_attribute": "振動",
+            "def_attribute": "軽装甲",
+            "status": {
+                "atk": 273,
+                "heal": 1650.2,
+                "hit": 902,
+                "avoid": 199,
+                "cri": 200,
+                "cri_damage": 200,
+                "penetrate": 0,
+                "balance": 1992,
+                "urban": "D",
+                "outdoor": "S",
+                "indoor": "B"
+            },
+            "dps": {
+                "hit": 5,
+                "hits": 1,
+                "delay": 49,
+                "reload": 58,
+                "beforeTime": 111
+            },
+            "limit": [
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                5,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                5,
+                4,
+                4
+            ],
+            "weapon": [
+                {
+                    "wep1": "帽子",
+                    "wep2": "ヘアピン",
+                    "wep3": "腕時計",
+                    "unique_wep": [
+                        {
+                            "atk": 357,
+                            "heal": 0
+                        }
+                    ]
+                }
+            ],
+            "bond": [
+                {
+                    "atk": [
+                        2,
+                        3,
+                        4,
+                        5,
+                        1,
+                        2,
+                        3
+                    ],
+                    "heal": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "class": "ミドリ",
+            "skill": {
+                "EX": {
+                    "default": {
+                        "skillname": "バーチャル・メイドショット",
+                        "cost": 5,
+                        "hittime": 0.0,
+                        "cooltime": 3.733,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "one",
+                                "hitAmount": [
+                                    0.766,
+                                    1,
+                                    1.3,
+                                    1.566,
+                                    1.9,
+                                    2.133
+                                ],
                                 "rate": [
-                                    9.1,
-                                    9.5,
-                                    10,
-                                    11.8,
-                                    12.3,
-                                    12.7,
-                                    14.5,
-                                    15,
-                                    15.5,
-                                    17.32
+                                    914,
+                                    1052,
+                                    1326,
+                                    1464,
+                                    1738
+                                ]
+                            },
+                            {
+                                "skill_attribute": "causeOfSS"
+                            }
+                        ]
+                    }
+                },
+                "NS": {
+                    "default": {
+                        "skillname": "完璧なお掃除",
+                        "hittime": 3.0,
+                        "effect": [
+                            {
+                                "skill_attribute": "atk",
+                                "skill_tage": "own",
+                                "skilltime": 23,
+                                "rate": [
+                                    24.8,
+                                    25.8,
+                                    26.9,
+                                    31.8,
+                                    33.1,
+                                    34.3,
+                                    40,
+                                    41.4,
+                                    42.9,
+                                    49.3
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "NS+": {
+                    "default": {
+                        "skillname": ""
+                    }
+                },
+                "PS": [
+                    {
+                        "skill_attribute": "atk",
+                        "rate": [
+                            14,
+                            14.7,
+                            15.4,
+                            18.2,
+                            18.9,
+                            19.6,
+                            22.4,
+                            23.1,
+                            23.8,
+                            26.6
+                        ]
+                    }
+                ],
+                "PS+": [
+                    {
+                        "skill_attribute": "sp_atk",
+                        "rate": [
+                            26,
+                            27.3,
+                            28.6,
+                            33.8,
+                            35.1,
+                            36.4,
+                            41.6,
+                            42.9,
+                            44.2,
+                            49.4
+                        ]
+                    }
+                ],
+                "SS": {
+                    "default": {
+                        "skillname": "スコアチャレンジ",
+                        "effect": [
+                            {
+                                "skill_attribute": "cri",
+                                "skill_tage": "own",
+                                "skilltime": 10,
+                                "rate": [
+                                    30.2,
+                                    31.7,
+                                    33.2,
+                                    39.3,
+                                    40.8,
+                                    42.3,
+                                    48.3,
+                                    49.9,
+                                    51.4,
+                                    57.4
                                 ]
                             }
                         ]
@@ -31017,6 +31853,248 @@
                                     26.5,
                                     27.3,
                                     30.6
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "id": "st0130",
+            "name": "モエ（水着）",
+            "img": "standing/モエ（水着）.png",
+            "icon": "face/モエ（水着）.png",
+            "atk_attribute": "振動",
+            "def_attribute": "特殊装甲",
+            "status": {
+                "atk": 285.4,
+                "heal": 1778.2,
+                "hit": 432,
+                "avoid": 735,
+                "cri": 216,
+                "cri_damage": 200,
+                "penetrate": 0,
+                "balance": 916,
+                "urban": "D",
+                "outdoor": "B",
+                "indoor": "S"
+            },
+            "dps": {
+                "hit": 16,
+                "hits": 8,
+                "delay": 4,
+                "reload": 44,
+                "beforeTime": 158
+            },
+            "limit": [
+                4,
+                5,
+                4,
+                4,
+                4,
+                5,
+                4,
+                4,
+                4,
+                5,
+                4,
+                4,
+                4,
+                5,
+                4,
+                4,
+                4,
+                5,
+                4,
+                4,
+                4,
+                5,
+                4,
+                4,
+                4
+            ],
+            "weapon": [
+                {
+                    "wep1": "シューズ",
+                    "wep2": "ヘアピン",
+                    "wep3": "腕時計",
+                    "unique_wep": [
+                        {
+                            "atk": 374,
+                            "heal": 0
+                        }
+                    ]
+                }
+            ],
+            "bond": [
+                {
+                    "atk": [
+                        2,
+                        3,
+                        5,
+                        6,
+                        1,
+                        2,
+                        4
+                    ],
+                    "heal": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "class": "モエ",
+            "skill": {
+                "EX": {
+                    "default": {
+                        "skillname": "弾道ミサイル砲撃",
+                        "cost": 6,
+                        "hittime": 0.0,
+                        "cooltime": 6.567,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "one",
+                                "hitAmount": [
+                                    0.000,
+                                    0.367,
+                                    0.733,
+                                    1.100,
+                                    1.467,
+                                    1.867,
+                                    2.233,
+                                    2.600,
+                                    2.967,
+                                    3.333,
+                                    3.733,
+                                    4.100
+                                ],
+                                "rate": [
+                                    995,
+                                    1145,
+                                    1443,
+                                    1593,
+                                    1892
+                                ]
+                            },
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "other",
+                                "hitAmount": [
+                                    0.000,
+                                    0.367,
+                                    0.733,
+                                    1.100,
+                                    1.467,
+                                    1.867,
+                                    2.233,
+                                    2.600,
+                                    2.967,
+                                    3.333,
+                                    3.733,
+                                    4.100
+                                ],
+                                "rate": [
+                                    199,
+                                    229,
+                                    288,
+                                    318,
+                                    378
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "NS": {
+                    "default": {
+                        "skillname": "ハイドロストライク",
+                        "hittime": 0.0,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "one",
+                                "hitAmount": [
+                                    1.866
+                                ],
+                                "rate": [
+                                    312,
+                                    327,
+                                    343,
+                                    405,
+                                    421,
+                                    437,
+                                    499,
+                                    515,
+                                    530,
+                                    593
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "NS+": {
+                    "default": {
+                        "skillname": ""
+                    }
+                },
+                "PS": [
+                    {
+                        "skill_attribute": "atk",
+                        "rate": [
+                            14,
+                            14.7,
+                            15.4,
+                            18.2,
+                            18.9,
+                            19.6,
+                            22.4,
+                            23.1,
+                            23.8,
+                            26.6
+                        ]
+                    }
+                ],
+                "PS+": [
+                    {
+                        "skill_attribute": "atk",
+                        "rate": [
+                            281,
+                            295,
+                            309,
+                            366,
+                            380,
+                            394,
+                            450,
+                            464,
+                            478,
+                            534
+                        ]
+                    }
+                ],
+                "SS": {
+                    "default": {
+                        "skillname": "爆破のスペシャリスト",
+                        "effect": [
+                            {
+                                "skill_attribute": "add_damage",
+                                "skilltime": 13,
+                                "rate": [
+                                    9.3,
+                                    9.8,
+                                    10.3,
+                                    12.1,
+                                    12.6,
+                                    13.1,
+                                    14.9,
+                                    15.4,
+                                    15.9,
+                                    17.7
                                 ]
                             }
                         ]
