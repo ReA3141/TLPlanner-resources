@@ -39556,8 +39556,8 @@
         {
             "id": "st0162",
             "name": "カノエ",
-            "img": "standing/.png",
-            "icon": "face/.png",
+            "img": "standing/カノエ.png",
+            "icon": "face/カノエ.png",
             "atk_attribute": "神秘",
             "def_attribute": "重装甲",
             "status": {
