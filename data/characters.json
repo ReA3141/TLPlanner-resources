@@ -51374,7 +51374,7 @@
             "goods": {
                 "img": "goods/hanae_christmas.png",
                 "name": "ハナエのプレゼント袋",
-                "key": "治癒力",
+                "key": "healUp",
                 "value": 500
             },
             "limit": [
