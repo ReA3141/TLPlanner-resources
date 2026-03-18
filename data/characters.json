@@ -34977,6 +34977,7 @@
                             },
                             {
                                 "skill_attribute": "def",
+                                "allowType": "軽装甲",
                                 "skilltime": 25,
                                 "rate": [
                                     32.2,
@@ -51132,6 +51133,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "atk",
+                                "allowType": "神秘",
                                 "rate": [
                                     12.7,
                                     13.4,
@@ -52022,6 +52024,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "公安局特製弾",
+                                "allowType": "貫通",
                                 "rate": [
                                     12.7,
                                     13.4,
@@ -52166,6 +52169,7 @@
                             },
                             {
                                 "skill_attribute": "def",
+                                "allowType": "軽装甲",
                                 "skilltime": 15,
                                 "rate": [
                                     30.9,
@@ -52247,6 +52251,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "cri_damage",
+                                "allowType": "爆発",
                                 "rate": [
                                     12.7,
                                     13.4,
@@ -56320,6 +56325,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "atk",
+                                "allowType": "神秘",
                                 "rate": [
                                     12.7,
                                     13.4,
@@ -57828,6 +57834,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "cri_damage",
+                                "allowType": "貫通",
                                 "rate": [
                                     12.7,
                                     13.4,
