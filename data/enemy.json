@@ -645,11 +645,9 @@
                             "effect": [
                                 {
                                     "skill_attribute": "sp_atk",
+                                    "start": true,
                                     "skill_tage": "own",
                                     "rate": 50
-                                },
-                                {
-                                    "skill_attribute": "start"
                                 }
                             ]
                         },
@@ -899,11 +897,9 @@
                             "effect": [
                                 {
                                     "skill_attribute": "heal_downed",
+                                    "start": true,
                                     "skill_tage": "all",
                                     "rate": 80
-                                },
-                                {
-                                    "skill_attribute": "start"
                                 }
                             ]
                         }
@@ -979,11 +975,9 @@
                             "effect": [
                                 {
                                     "skill_attribute": "heal_downed",
+                                    "start": true,
                                     "skill_tage": "all",
                                     "rate": 80
-                                },
-                                {
-                                    "skill_attribute": "start"
                                 }
                             ]
                         }
@@ -1442,11 +1436,9 @@
                             "effect": [
                                 {
                                     "skill_attribute": "penetrate",
+                                    "start": true,
                                     "skill_tage": "own",
                                     "rate": 750
-                                },
-                                {
-                                    "skill_attribute": "start"
                                 }
                             ]
                         }
