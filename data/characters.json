@@ -40592,6 +40592,9 @@
                                     21.8,
                                     25.9
                                 ]
+                            },
+                            {
+                                "skill_attribute": "causeOfSS"
                             }
                         ]
                     }
