@@ -34532,8 +34532,61 @@
                                 ]
                             },
                             {
-                                "skill_attribute": "atk_debaff",
-                                "skilltime": 20,
+                                "skill_attribute": "damage",
+                                "skill_pattern": "one",
+                                "hitAmount": [
+                                    1.667,
+                                    3,
+                                    3.134,
+                                    3.3,
+                                    3.434
+                                ],
+                                "rate": [
+                                    327,
+                                    343,
+                                    360,
+                                    392,
+                                    409,
+                                    425,
+                                    458,
+                                    474,
+                                    491,
+                                    523
+                                ]
+                            },
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "one",
+                                "hitAmount": [
+                                    1.667,
+                                    3,
+                                    3.134,
+                                    3.3,
+                                    3.434
+                                ],
+                                "rate": [
+                                    446,
+                                    468,
+                                    491,
+                                    535,
+                                    557,
+                                    580,
+                                    624,
+                                    647,
+                                    669,
+                                    714
+                                ]
+                            },
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "one",
+                                "hitAmount": [
+                                    1.667,
+                                    3,
+                                    3.134,
+                                    3.3,
+                                    3.434
+                                ],
                                 "rate": [
                                     565,
                                     593,
@@ -34545,6 +34598,22 @@
                                     819,
                                     848,
                                     904
+                                ]
+                            },
+                            {
+                                "skill_attribute": "atk_debaff",
+                                "skilltime": 20,
+                                "rate": [
+                                    21.7,
+                                    21.7,
+                                    21.7,
+                                    23.9,
+                                    23.9,
+                                    23.9,
+                                    26,
+                                    26,
+                                    26,
+                                    28.2
                                 ]
                             }
                         ]
