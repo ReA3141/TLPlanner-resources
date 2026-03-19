@@ -27195,6 +27195,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "damage",
+                                "skill_tage": "enemy",
                                 "skip": 2,
                                 "skill_pattern": "many",
                                 "hitAmount": [
