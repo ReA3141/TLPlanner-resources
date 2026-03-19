@@ -27116,6 +27116,9 @@
                                     28.2,
                                     33.5
                                 ]
+                            },
+                            {
+                                "skill_attribute": "causeOfSS"
                             }
                         ]
                     }
@@ -27192,6 +27195,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "damage",
+                                "skip": 2,
                                 "skill_pattern": "many",
                                 "hitAmount": [
                                     1.867
