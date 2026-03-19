@@ -25488,6 +25488,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "sp_atk",
+                                "skill_tage": "ST",
                                 "skilltime": 30,
                                 "rate": [
                                     15.2,
@@ -25501,6 +25502,10 @@
                                     25.8,
                                     28.9
                                 ]
+                            },
+                            {
+                                "skill_attribute": "otherUsed",
+                                "value": 6
                             }
                         ]
                     }
@@ -25568,6 +25573,10 @@
                             {
                                 "skill_attribute": "clue",
                                 "duplicate": 3
+                            },
+                            {
+                                "skill_attribute": "otherUsed",
+                                "value": 2
                             }
                         ]
                     }
@@ -26036,6 +26045,10 @@
                                     34.2,
                                     38.3
                                 ]
+                            },
+                            {
+                                "skill_attribute": "otherUsed",
+                                "value": 0.4
                             }
                         ]
                     }
@@ -27899,8 +27912,18 @@
                         "skillname": "面を上げて向き合う責務",
                         "effect": [
                             {
+                                "skill_attribute": "prayer",
+                                "skill_tage": "own",
+                                "cost": true
+                            },
+                            {
+                                "skill_attribute": "otherUsed",
+                                "value": 1
+                            },
+                            {
                                 "skill_attribute": "cri_damage",
                                 "skill_tage": "own",
+                                "judge": "prayer",
                                 "skilltime": 15,
                                 "rate": [
                                     8.1,
@@ -29457,6 +29480,7 @@
                             {
                                 "skill_attribute": "damage",
                                 "skill_pattern": "many",
+                                "decay": 45,
                                 "hitAmount": [
                                     0.667,
                                     0.7,
@@ -29492,6 +29516,7 @@
                             {
                                 "skill_attribute": "damage",
                                 "skill_pattern": "many",
+                                "decay": 45,
                                 "hitAmount": [
                                     0.634,
                                     0.7,
@@ -29527,6 +29552,7 @@
                             {
                                 "skill_attribute": "damage",
                                 "skill_pattern": "many",
+                                "decay": 45,
                                 "hitAmount": [
                                     0.7,
                                     0.767,
@@ -34663,7 +34689,17 @@
                         "skillname": "ファンの声援",
                         "effect": [
                             {
+                                "skill_attribute": "penLight",
+                                "skill_tage": "own",
+                                "cost": true
+                            },
+                            {
+                                "skill_attribute": "otherUsed",
+                                "value": 1
+                            },
+                            {
                                 "skill_attribute": "my_def",
+                                "judge": "penLight",
                                 "skilltime": 20,
                                 "rate": [
                                     12.1,
@@ -48721,6 +48757,7 @@
                     "default": {
                         "skillname": "火力は十分+",
                         "hittime": 0.0,
+                        "decay": 45,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
