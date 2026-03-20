@@ -28795,6 +28795,7 @@
                                 "skill_attribute": "potato",
                                 "skill_tage": "own",
                                 "duplicate": 15,
+                                "multiple": true,
                                 "rate": [
                                     5,
                                     5,
@@ -30485,6 +30486,7 @@
                                 "skilltime": 40,
                                 "duplicate": 2,
                                 "skill_tage": "own",
+                                "multiple": true,
                                 "rate": [
                                     1,
                                     1,
@@ -30711,6 +30713,7 @@
                                 "skill_attribute": "sugar_rush",
                                 "skill_tage": "own",
                                 "skilltime": 10,
+                                "multiple": true,
                                 "rate": [
                                     5,
                                     5,
@@ -37546,6 +37549,10 @@
                                 "skill_attribute": "firing_signal",
                                 "skill_tage": "own",
                                 "duplicate": 3
+                            },
+                            {
+                                "skill_attribute": "otherUsed",
+                                "value": 2
                             }
                         ]
                     }
@@ -38122,7 +38129,15 @@
                             {
                                 "skill_attribute": "sugar_rush",
                                 "skill_tage": "own",
-                                "skilltime": 25
+                                "skilltime": 25,
+                                "multiple": true,
+                                "rate": [
+                                    2,
+                                    2,
+                                    2,
+                                    2,
+                                    2
+                                ]
                             }
                         ]
                     }
@@ -38634,6 +38649,7 @@
                                 "start": true,
                                 "skill_tage": "own",
                                 "duplicate": 3,
+                                "multiple": true,
                                 "rate": [
                                     2,
                                     2,
