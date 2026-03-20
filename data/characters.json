@@ -27857,6 +27857,7 @@
                             {
                                 "skill_attribute": "prayer",
                                 "skill_tage": "own",
+                                "duplicate": 50,
                                 "multiple": true,
                                 "rate": [
                                     10,
@@ -27920,6 +27921,7 @@
                             {
                                 "skill_attribute": "prayer",
                                 "skill_tage": "own",
+                                "duplicate": 50,
                                 "multiple": true,
                                 "cost": true
                             },
@@ -30715,6 +30717,7 @@
                                 "skill_attribute": "sugar_rush",
                                 "skill_tage": "own",
                                 "skilltime": 10,
+                                "duplicate": 5,
                                 "multiple": true,
                                 "rate": [
                                     5,
@@ -34702,6 +34705,7 @@
                             {
                                 "skill_attribute": "penLight",
                                 "skill_tage": "own",
+                                "duplicate": 30,
                                 "multiple": true,
                                 "cost": true
                             },
@@ -38134,6 +38138,7 @@
                                 "skill_attribute": "sugar_rush",
                                 "skill_tage": "own",
                                 "skilltime": 25,
+                                "duplicate": 2,
                                 "multiple": true,
                                 "rate": [
                                     2,
