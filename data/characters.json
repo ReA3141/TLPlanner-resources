@@ -35822,6 +35822,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "atk",
+                                "start": true,
                                 "skill_tage": "SP",
                                 "rate": [
                                     16.1,
