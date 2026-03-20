@@ -27857,6 +27857,7 @@
                             {
                                 "skill_attribute": "prayer",
                                 "skill_tage": "own",
+                                "multiple": true,
                                 "rate": [
                                     10,
                                     10,
@@ -27919,6 +27920,7 @@
                             {
                                 "skill_attribute": "prayer",
                                 "skill_tage": "own",
+                                "multiple": true,
                                 "cost": true
                             },
                             {
@@ -34526,6 +34528,7 @@
                                 "skill_attribute": "penLight",
                                 "duplicate": 30,
                                 "skill_tage": "own",
+                                "multiple": true,
                                 "rate": [
                                     5,
                                     5,
@@ -34699,6 +34702,7 @@
                             {
                                 "skill_attribute": "penLight",
                                 "skill_tage": "own",
+                                "multiple": true,
                                 "cost": true
                             },
                             {
