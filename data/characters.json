@@ -7966,6 +7966,23 @@
                                     457,
                                     511
                                 ]
+                            },
+                            {
+                                "skill_attribute": "costHeal",
+                                "start": true,
+                                "allow": "RW",
+                                "rate": [
+                                    77,
+                                    80,
+                                    85,
+                                    100,
+                                    104,
+                                    107,
+                                    122,
+                                    127,
+                                    131,
+                                    146
+                                ]
                             }
                         ]
                     }
@@ -15052,7 +15069,9 @@
                             },
                             {
                                 "skill_attribute": "poison",
-                                "skilltime": [
+                                "allow": "isMomoi",
+                                "skilltime": 20,
+                                "hitAmount": [
                                     1,
                                     5,
                                     9,
@@ -15115,6 +15134,24 @@
                                     143,
                                     160
                                 ]
+                            },
+                            {
+                                "skill_attribute": "atk",
+                                "allow": "isMomoi",
+                                "skill_tage": "momo",
+                                "skilltime": 25,
+                                "rate": [
+                                    21.9,
+                                    23,
+                                    24.1,
+                                    28.5,
+                                    29.6,
+                                    30.7,
+                                    35.1,
+                                    36.2,
+                                    37.3,
+                                    41.7
+                                ]
                             }
                         ]
                     }
@@ -15160,6 +15197,7 @@
                             {
                                 "skill_attribute": "atk_speed",
                                 "start": true,
+                                "skill_tage": "own",
                                 "rate": [
                                     15.1,
                                     15.8,
@@ -15171,6 +15209,24 @@
                                     24.9,
                                     25.7,
                                     28.7
+                                ]
+                            },
+                            {
+                                "skill_attribute": "atk_speed",
+                                "allow": "isMomoi",
+                                "start": true,
+                                "skill_tage": "own",
+                                "rate": [
+                                    18.1,
+                                    19,
+                                    19.9,
+                                    23.5,
+                                    24.5,
+                                    25.4,
+                                    29,
+                                    29.9,
+                                    30.8,
+                                    34.4
                                 ]
                             }
                         ]
@@ -16534,6 +16590,7 @@
                             },
                             {
                                 "skill_attribute": "burn",
+                                "allow": "isMidori",
                                 "skilltime": 20,
                                 "hitAmount": [
                                     0,
@@ -16602,7 +16659,8 @@
                             },
                             {
                                 "skill_attribute": "sp_atk",
-                                "skill_tage": "midori",
+                                "allow": "isMidori",
+                                "skill_tage": "mido",
                                 "skilltime": 25,
                                 "rate": [
                                     13.2,
@@ -16619,7 +16677,8 @@
                             },
                             {
                                 "skill_attribute": "atk",
-                                "skill_tage": "midori",
+                                "allow": "isMidori",
+                                "skill_tage": "mido",
                                 "skilltime": 25,
                                 "rate": [
                                     21.9,
@@ -16677,6 +16736,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "atk",
+                                "allow": "isMidori",
                                 "start": true,
                                 "skill_tage": "own",
                                 "rate": [
@@ -16690,6 +16750,24 @@
                                     24.9,
                                     25.7,
                                     28.7
+                                ]
+                            },
+                            {
+                                "skill_attribute": "atk",
+                                "allow": "isMidori",
+                                "start": true,
+                                "skill_tage": "own",
+                                "rate": [
+                                    18.1,
+                                    19,
+                                    19.9,
+                                    23.5,
+                                    24.5,
+                                    25.4,
+                                    29,
+                                    29.9,
+                                    30.8,
+                                    34.4
                                 ]
                             }
                         ]
@@ -18323,6 +18401,43 @@
                         "effect": [
                             {
                                 "skill_attribute": "atk",
+                                "arius": 2,
+                                "start": true,
+                                "skill_tage": "own",
+                                "rate": [
+                                    19.3,
+                                    20.2,
+                                    21.2,
+                                    25.1,
+                                    26,
+                                    27,
+                                    30.9,
+                                    31.8,
+                                    32.8,
+                                    36.7
+                                ]
+                            },
+                            {
+                                "skill_attribute": "atk",
+                                "arius": 3,
+                                "start": true,
+                                "skill_tage": "own",
+                                "rate": [
+                                    28.9,
+                                    30.4,
+                                    31.8,
+                                    37.6,
+                                    39.1,
+                                    40.5,
+                                    46.3,
+                                    47.8,
+                                    49.2,
+                                    55
+                                ]
+                            },
+                            {
+                                "skill_attribute": "atk",
+                                "arius": 4,
                                 "start": true,
                                 "skill_tage": "own",
                                 "rate": [
@@ -26307,7 +26422,27 @@
                     }
                 ],
                 "SS": {
-                    "default": {}
+                    "default": {
+                        "skillname": "設定崩壊！",
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_tage": "enemy",
+                                "rate": [
+                                    139,
+                                    146,
+                                    153,
+                                    181,
+                                    188,
+                                    195,
+                                    222,
+                                    229,
+                                    236,
+                                    264
+                                ]
+                            }
+                        ]
+                    }
                 }
             }
         },
@@ -27923,7 +28058,7 @@
                                 "skill_tage": "own",
                                 "duplicate": 50,
                                 "multiple": true,
-                                "cost": true
+                                "amount": "cost"
                             },
                             {
                                 "skill_attribute": "otherUsed",
@@ -28380,6 +28515,40 @@
                         "effect": [
                             {
                                 "skill_attribute": "sp_atk",
+                                "skilltime": 25,
+                                "rate": [
+                                    14.6,
+                                    15.3,
+                                    16.1,
+                                    19,
+                                    19.7,
+                                    20.4,
+                                    23.4,
+                                    24.1,
+                                    24.8,
+                                    27.8
+                                ]
+                            },
+                            {
+                                "skill_attribute": "sp_atk",
+                                "target": 2,
+                                "skilltime": 25,
+                                "rate": [
+                                    18,
+                                    18.9,
+                                    19.8,
+                                    23.4,
+                                    24.3,
+                                    25.2,
+                                    28.8,
+                                    29.7,
+                                    30.6,
+                                    34.2
+                                ]
+                            },
+                            {
+                                "skill_attribute": "sp_atk",
+                                "target": 3,
                                 "skilltime": 25,
                                 "rate": [
                                     21.4,
@@ -29025,7 +29194,21 @@
                             {
                                 "skill_attribute": "bodyGuard",
                                 "skill_tage": "own",
-                                "duplicate": 15
+                                "duplicate": 15,
+                                "amount": "target",
+                                "sub_attribute": "atk",
+                                "rate": [
+                                    3,
+                                    3.1,
+                                    3.3,
+                                    3.9,
+                                    4,
+                                    4.2,
+                                    4.8,
+                                    4.9,
+                                    5.1,
+                                    5.7
+                                ]
                             }
                         ]
                     }
@@ -29113,26 +29296,7 @@
                     }
                 ],
                 "SS": {
-                    "default": {
-                        "skillname": "作戦の成果",
-                        "effect": [
-                            {
-                                "skill_attribute": "atk",
-                                "rate": [
-                                    3,
-                                    3.1,
-                                    3.3,
-                                    3.9,
-                                    4,
-                                    4.2,
-                                    4.8,
-                                    4.9,
-                                    5.1,
-                                    5.7
-                                ]
-                            }
-                        ]
-                    }
+                    "default": {}
                 }
             }
         },
@@ -34541,6 +34705,102 @@
                                 ]
                             }
                         ]
+                    },
+                    "_10": {
+                        "skillname": "スーパーアイドルランディング",
+                        "cost": 3,
+                        "hittime": 1.933,
+                        "cooltime": 3.8,
+                        "effect": [
+                            {
+                                "skill_attribute": "atk_speed",
+                                "skilltime": 30,
+                                "rate": [
+                                    13,
+                                    15,
+                                    18.9,
+                                    20.8,
+                                    24.7
+                                ]
+                            },
+                            {
+                                "skill_attribute": "penLight",
+                                "duplicate": 30,
+                                "skill_tage": "own",
+                                "multiple": true,
+                                "rate": [
+                                    5,
+                                    5,
+                                    5,
+                                    5,
+                                    5
+                                ]
+                            }
+                        ]
+                    },
+                    "_20": {
+                        "skillname": "スーパーアイドルランディング",
+                        "cost": 3,
+                        "hittime": 1.933,
+                        "cooltime": 3.8,
+                        "effect": [
+                            {
+                                "skill_attribute": "atk_speed",
+                                "skilltime": 30,
+                                "rate": [
+                                    13,
+                                    15,
+                                    18.9,
+                                    20.8,
+                                    24.7
+                                ]
+                            },
+                            {
+                                "skill_attribute": "penLight",
+                                "duplicate": 30,
+                                "skill_tage": "own",
+                                "multiple": true,
+                                "rate": [
+                                    5,
+                                    5,
+                                    5,
+                                    5,
+                                    5
+                                ]
+                            }
+                        ]
+                    },
+                    "_30": {
+                        "skillname": "スーパーアイドルランディング",
+                        "cost": 3,
+                        "hittime": 1.933,
+                        "cooltime": 3.8,
+                        "effect": [
+                            {
+                                "skill_attribute": "atk_speed",
+                                "skilltime": 30,
+                                "rate": [
+                                    13,
+                                    15,
+                                    18.9,
+                                    20.8,
+                                    24.7
+                                ]
+                            },
+                            {
+                                "skill_attribute": "penLight",
+                                "duplicate": 30,
+                                "skill_tage": "own",
+                                "multiple": true,
+                                "rate": [
+                                    5,
+                                    5,
+                                    5,
+                                    5,
+                                    5
+                                ]
+                            }
+                        ]
                     }
                 },
                 "NS": {
@@ -34572,6 +34832,28 @@
                                 ]
                             },
                             {
+                                "skill_attribute": "atk_debaff",
+                                "skilltime": 20,
+                                "rate": [
+                                    16.7,
+                                    16.7,
+                                    16.7,
+                                    18.3,
+                                    18.3,
+                                    18.3,
+                                    20,
+                                    20,
+                                    20,
+                                    21.7
+                                ]
+                            }
+                        ]
+                    },
+                    "_10": {
+                        "skillname": "あなたに決めました",
+                        "hittime": 1.667,
+                        "effect": [
+                            {
                                 "skill_attribute": "damage",
                                 "skill_pattern": "one",
                                 "hitAmount": [
@@ -34595,6 +34877,28 @@
                                 ]
                             },
                             {
+                                "skill_attribute": "atk_debaff",
+                                "skilltime": 20,
+                                "rate": [
+                                    18.3,
+                                    18.3,
+                                    18.3,
+                                    20.2,
+                                    20.2,
+                                    20.2,
+                                    22,
+                                    22,
+                                    22,
+                                    23.9
+                                ]
+                            }
+                        ]
+                    },
+                    "_20": {
+                        "skillname": "あなたに決めました",
+                        "hittime": 1.667,
+                        "effect": [
+                            {
                                 "skill_attribute": "damage",
                                 "skill_pattern": "one",
                                 "hitAmount": [
@@ -34617,6 +34921,28 @@
                                     714
                                 ]
                             },
+                            {
+                                "skill_attribute": "atk_debaff",
+                                "skilltime": 20,
+                                "rate": [
+                                    20,
+                                    20,
+                                    20,
+                                    22,
+                                    22,
+                                    22,
+                                    24,
+                                    24,
+                                    24,
+                                    26
+                                ]
+                            }
+                        ]
+                    },
+                    "_30": {
+                        "skillname": "あなたに決めました",
+                        "hittime": 1.667,
+                        "effect": [
                             {
                                 "skill_attribute": "damage",
                                 "skill_pattern": "one",
@@ -34707,7 +35033,106 @@
                                 "skill_tage": "own",
                                 "duplicate": 30,
                                 "multiple": true,
-                                "cost": true
+                                "amount": "cost"
+                            },
+                            {
+                                "skill_attribute": "otherUsed",
+                                "value": 1
+                            },
+                            {
+                                "skill_attribute": "my_def",
+                                "judge": "penLight",
+                                "skilltime": 20,
+                                "rate": [
+                                    12.1,
+                                    12.7,
+                                    13.3,
+                                    15.7,
+                                    16.3,
+                                    16.9,
+                                    19.3,
+                                    19.9,
+                                    20.5,
+                                    22.9
+                                ]
+                            }
+                        ]
+                    },
+                    "_10": {
+                        "skillname": "ファンの声援",
+                        "effect": [
+                            {
+                                "skill_attribute": "penLight",
+                                "skill_tage": "own",
+                                "duplicate": 30,
+                                "multiple": true,
+                                "amount": "cost"
+                            },
+                            {
+                                "skill_attribute": "otherUsed",
+                                "value": 1
+                            },
+                            {
+                                "skill_attribute": "my_def",
+                                "judge": "penLight",
+                                "skilltime": 20,
+                                "rate": [
+                                    12.1,
+                                    12.7,
+                                    13.3,
+                                    15.7,
+                                    16.3,
+                                    16.9,
+                                    19.3,
+                                    19.9,
+                                    20.5,
+                                    22.9
+                                ]
+                            }
+                        ]
+                    },
+                    "_20": {
+                        "skillname": "ファンの声援",
+                        "effect": [
+                            {
+                                "skill_attribute": "penLight",
+                                "skill_tage": "own",
+                                "duplicate": 30,
+                                "multiple": true,
+                                "amount": "cost"
+                            },
+                            {
+                                "skill_attribute": "otherUsed",
+                                "value": 1
+                            },
+                            {
+                                "skill_attribute": "my_def",
+                                "judge": "penLight",
+                                "skilltime": 20,
+                                "rate": [
+                                    12.1,
+                                    12.7,
+                                    13.3,
+                                    15.7,
+                                    16.3,
+                                    16.9,
+                                    19.3,
+                                    19.9,
+                                    20.5,
+                                    22.9
+                                ]
+                            }
+                        ]
+                    },
+                    "_30": {
+                        "skillname": "ファンの声援",
+                        "effect": [
+                            {
+                                "skill_attribute": "penLight",
+                                "skill_tage": "own",
+                                "duplicate": 30,
+                                "multiple": true,
+                                "amount": "cost"
                             },
                             {
                                 "skill_attribute": "otherUsed",
@@ -36991,6 +37416,93 @@
                                 ]
                             }
                         ]
+                    },
+                    "_1": {
+                        "skillname": "目撃者排除",
+                        "cost": 4,
+                        "hittime": 0.0,
+                        "cooltime": 4.834,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "many",
+                                "hitAmount": [
+                                    0.000,
+                                    0.467,
+                                    0.933,
+                                    1.400,
+                                    1.900,
+                                    2.367,
+                                    2.833,
+                                    3.300
+                                ],
+                                "rate": [
+                                    527,
+                                    606,
+                                    764,
+                                    843,
+                                    1002
+                                ]
+                            }
+                        ]
+                    },
+                    "_2": {
+                        "skillname": "目撃者排除",
+                        "cost": 4,
+                        "hittime": 0.0,
+                        "cooltime": 4.834,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "many",
+                                "hitAmount": [
+                                    0.000,
+                                    0.467,
+                                    0.933,
+                                    1.400,
+                                    1.900,
+                                    2.367,
+                                    2.833,
+                                    3.300
+                                ],
+                                "rate": [
+                                    527,
+                                    606,
+                                    764,
+                                    843,
+                                    1002
+                                ]
+                            }
+                        ]
+                    },
+                    "_3": {
+                        "skillname": "目撃者排除",
+                        "cost": 4,
+                        "hittime": 0.0,
+                        "cooltime": 4.834,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "many",
+                                "hitAmount": [
+                                    0.000,
+                                    0.467,
+                                    0.933,
+                                    1.400,
+                                    1.900,
+                                    2.367,
+                                    2.833,
+                                    3.300
+                                ],
+                                "rate": [
+                                    527,
+                                    606,
+                                    764,
+                                    843,
+                                    1002
+                                ]
+                            }
+                        ]
                     }
                 },
                 "NS": {
@@ -37021,7 +37533,64 @@
                                 "skill_attribute": "causeOfSS"
                             }
                         ]
-                    }
+                    },
+                    "_1": {
+                        "skillname": "美しさの裏側",
+                        "hittime": 0.0,
+                        "effect": [
+                            {
+                                "skill_attribute": "costPlus",
+                                "rate": [
+                                    1.58,
+                                    1.6,
+                                    1.62,
+                                    1.77,
+                                    1.79,
+                                    1.81,
+                                    1.97,
+                                    1.99,
+                                    2.01,
+                                    2.17
+                                ]
+                            },
+                            {
+                                "skill_attribute": "battleField",
+                                "duplicate": 3
+                            },
+                            {
+                                "skill_attribute": "causeOfSS"
+                            }
+                        ]
+                    },
+                    "_2": {
+                        "skillname": "美しさの裏側",
+                        "hittime": 0.0,
+                        "effect": [
+                            {
+                                "skill_attribute": "costPlus",
+                                "rate": [
+                                    1.58,
+                                    1.6,
+                                    1.62,
+                                    1.77,
+                                    1.79,
+                                    1.81,
+                                    1.97,
+                                    1.99,
+                                    2.01,
+                                    2.17
+                                ]
+                            },
+                            {
+                                "skill_attribute": "battleField",
+                                "duplicate": 3
+                            },
+                            {
+                                "skill_attribute": "causeOfSS"
+                            }
+                        ]
+                    },
+                    "_3": {}
                 },
                 "NS+": {
                     "default": {
@@ -37070,6 +37639,48 @@
                                 "skill_attribute": "atk_speed",
                                 "skill_tage": "own",
                                 "rate": [
+                                    14.5,
+                                    15.2,
+                                    15.9,
+                                    18.8,
+                                    19.6,
+                                    20.3,
+                                    23.2,
+                                    23.9,
+                                    24.6,
+                                    27.5
+                                ]
+                            }
+                        ]
+                    },
+                    "_1": {
+                        "skillname": "加速する感覚",
+                        "effect": [
+                            {
+                                "skill_attribute": "atk_speed",
+                                "skill_tage": "own",
+                                "rate": [
+                                    31.4,
+                                    33,
+                                    34.6,
+                                    40.8,
+                                    42.4,
+                                    44,
+                                    50.3,
+                                    51.9,
+                                    53.4,
+                                    59.7
+                                ]
+                            }
+                        ]
+                    },
+                    "_2": {
+                        "skillname": "加速する感覚",
+                        "effect": [
+                            {
+                                "skill_attribute": "atk_speed",
+                                "skill_tage": "own",
+                                "rate": [
                                     53.2,
                                     55.8,
                                     58.5,
@@ -37083,7 +37694,8 @@
                                 ]
                             }
                         ]
-                    }
+                    },
+                    "_3": {}
                 }
             }
         },
@@ -39869,7 +40481,7 @@
                             },
                             {
                                 "skill_attribute": "magicalPower",
-                                "start": true,
+                                "skill_tage": "own",
                                 "duplicate": 2
                             }
                         ]
@@ -40101,6 +40713,23 @@
                                     297,
                                     306,
                                     342
+                                ]
+                            },
+                            {
+                                "skill_attribute": "costHeal",
+                                "start": true,
+                                "allow": "def_attribute",
+                                "rate": [
+                                    44,
+                                    46,
+                                    48,
+                                    57,
+                                    59,
+                                    61,
+                                    70,
+                                    72,
+                                    74,
+                                    85
                                 ]
                             }
                         ]
@@ -49333,6 +49962,7 @@
                             },
                             {
                                 "skill_attribute": "def",
+                                "arius": 2,
                                 "skilltime": 30,
                                 "rate": [
                                     23.2,
@@ -49343,7 +49973,16 @@
                                 ]
                             },
                             {
-                                "skill_attribute": "isArius"
+                                "skill_attribute": "def",
+                                "arius": 3,
+                                "skilltime": 30,
+                                "rate": [
+                                    39.7,
+                                    39.7,
+                                    45.7,
+                                    45.7,
+                                    51.6
+                                ]
                             }
                         ]
                     }
