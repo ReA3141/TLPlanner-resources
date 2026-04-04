@@ -2104,7 +2104,7 @@
             "goods": {
                 "img": "goods/aru.png",
                 "name": "アルのすごく貴重な財布",
-                "key": "hit",
+                "key": "aim",
                 "value": 150
             },
             "dps": {
@@ -2785,7 +2785,7 @@
                 ],
                 "PS+": [
                     {
-                        "skill_attribute": "hit",
+                        "skill_attribute": "aim",
                         "rate": [
                             160,
                             168,
@@ -22639,7 +22639,7 @@
             "goods": {
                 "img": "goods/toki.png",
                 "name": "高性能ヘッドセット",
-                "key": "hit",
+                "key": "aim",
                 "value": 200
             },
             "dps": {
@@ -27374,7 +27374,7 @@
                 ],
                 "PS+": [
                     {
-                        "skill_attribute": "hit",
+                        "skill_attribute": "aim",
                         "rate": [
                             160,
                             168,
