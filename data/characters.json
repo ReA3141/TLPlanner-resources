@@ -14489,12 +14489,6 @@
                 "outdoor": "B",
                 "indoor": "S"
             },
-            "goods": {
-                "img": "goods/.png",
-                "name": "",
-                "key": "",
-                "value": 0
-            },
             "dps": {
                 "hit": 20,
                 "hits": 4,
@@ -44941,12 +44935,6 @@
                 "urban": "D",
                 "outdoor": "B",
                 "indoor": "S"
-            },
-            "goods": {
-                "img": "goods/.png",
-                "name": "",
-                "key": "",
-                "value": 0
             },
             "limit": [
                 5,

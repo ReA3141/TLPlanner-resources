@@ -2736,6 +2736,205 @@
                     }
                 }
             }
+        },
+        {
+            "id": "e0010",
+            "name": "ホバークラフト",
+            "img": "enemy/HoverCraft.png",
+            "icon": "enemy/HoverCraft_icon.png",
+            "time": 240000,
+            "atk_attribute": "貫通",
+            "terr": [
+                "outdoor"
+            ],
+            "size": "big",
+            "class": "HoverCraft",
+            "difficulty": {
+                "NORMAL": {
+                    "HP": 100000,
+                    "def": 420,
+                    "avoid": 1,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 100,
+                    "Lv": 17,
+                    "damage_regist": 75,
+                    "GGauge": 999999999,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "こうなったら……！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "cri_regist",
+                                    "skill_tage": "own",
+                                    "skilltime": 32
+                                }
+                            ]
+                        }
+                    }
+                },
+                "HARD": {
+                    "HP": 300000,
+                    "def": 420,
+                    "avoid": 1,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 100,
+                    "Lv": 25,
+                    "damage_regist": 75,
+                    "GGauge": 999999999,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "こうなったら……！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "cri_regist",
+                                    "skill_tage": "own",
+                                    "skilltime": 32
+                                }
+                            ]
+                        }
+                    }
+                },
+                "VERYHARD": {
+                    "HP": 1000000,
+                    "def": 420,
+                    "avoid": 1,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 100,
+                    "Lv": 35,
+                    "damage_regist": 75,
+                    "GGauge": 999999999,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "こうなったら……！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "cri_regist",
+                                    "skill_tage": "own",
+                                    "skilltime": 32
+                                }
+                            ]
+                        }
+                    }
+                },
+                "HARDCORE": {
+                    "HP": 2000000,
+                    "def": 420,
+                    "avoid": 1,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 100,
+                    "Lv": 50,
+                    "damage_regist": 75,
+                    "GGauge": 999999999,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "こうなったら……！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "cri_regist",
+                                    "skill_tage": "own",
+                                    "skilltime": 32
+                                }
+                            ]
+                        }
+                    }
+                },
+                "EXTREAM": {
+                    "HP": 8500000,
+                    "def": 420,
+                    "avoid": 1,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 100,
+                    "Lv": 70,
+                    "damage_regist": 75,
+                    "GGauge": 999999999,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "こうなったら……！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "cri_regist",
+                                    "skill_tage": "own",
+                                    "skilltime": 32
+                                }
+                            ]
+                        }
+                    }
+                },
+                "INSANE": {
+                    "HP": 18000000,
+                    "def": 420,
+                    "avoid": 1,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 100,
+                    "Lv": 80,
+                    "damage_regist": 75,
+                    "GGauge": 999999999,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "こうなったら……！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "cri_regist",
+                                    "skill_tage": "own",
+                                    "skilltime": 32
+                                }
+                            ]
+                        }
+                    }
+                },
+                "TORMENT": {
+                    "HP": 32000000,
+                    "def": 420,
+                    "avoid": 1,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 100,
+                    "Lv": 90,
+                    "damage_regist": 75,
+                    "GGauge": 999999999,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "こうなったら……！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "cri_regist",
+                                    "skill_tage": "own",
+                                    "skilltime": 32
+                                }
+                            ]
+                        }
+                    }
+                },
+                "LUNATIC": {
+                    "HP": 100000000,
+                    "def": 420,
+                    "avoid": 1,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 100,
+                    "Lv": 90,
+                    "damage_regist": 75,
+                    "GGauge": 999999999,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "こうなったら……！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "cri_regist",
+                                    "skill_tage": "own",
+                                    "skilltime": 32
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
         }
     ],
     "ENEMIES": [
@@ -4560,6 +4759,224 @@
                                 },
                                 {
                                     "skill_attribute": "clear_debaff"
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": "e0121",
+            "name": "ワカモ（水着）",
+            "icon": "face/ワカモ（水着）.png",
+            "atk_attribute": "貫通",
+            "size": "middle",
+            "class": "HoverCraft",
+            "difficulty": {
+                "NORMAL": {
+                    "HP": 30000,
+                    "def": 420,
+                    "avoid": 1,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 10,
+                    "Lv": 17,
+                    "damage_regist": 75,
+                    "ccGauge": [
+                        6,
+                        7,
+                        8
+                    ],
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "秘色の花占い",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "knockOut",
+                                    "skilltime": 5
+                                }
+                            ]
+                        }
+                    }
+                },
+                "HARD": {
+                    "HP": 100000,
+                    "def": 420,
+                    "avoid": 1,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 10,
+                    "Lv": 25,
+                    "damage_regist": 75,
+                    "ccGauge": [
+                        6,
+                        7,
+                        8
+                    ],
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "秘色の花占い",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "knockOut",
+                                    "skilltime": 5
+                                }
+                            ]
+                        }
+                    }
+                },
+                "VERYHARD": {
+                    "HP": 500000,
+                    "def": 420,
+                    "avoid": 1,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 10,
+                    "Lv": 35,
+                    "damage_regist": 75,
+                    "ccGauge": [
+                        6,
+                        7,
+                        8
+                    ],
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "秘色の花占い",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "knockOut",
+                                    "skilltime": 5
+                                }
+                            ]
+                        }
+                    }
+                },
+                "HARDCORE": {
+                    "HP": 1250000,
+                    "def": 420,
+                    "avoid": 1,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 10,
+                    "Lv": 50,
+                    "damage_regist": 75,
+                    "ccGauge": [
+                        6,
+                        7,
+                        8
+                    ],
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "秘色の花占い",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "knockOut",
+                                    "skilltime": 5
+                                }
+                            ]
+                        }
+                    }
+                },
+                "EXTREAM": {
+                    "HP": 5000000,
+                    "def": 420,
+                    "avoid": 1,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 10,
+                    "Lv": 70,
+                    "damage_regist": 75,
+                    "ccGauge": [
+                        6,
+                        7,
+                        8
+                    ],
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "秘色の花占い",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "knockOut",
+                                    "skilltime": 5
+                                }
+                            ]
+                        }
+                    }
+                },
+                "INSANE": {
+                    "HP": 12500000,
+                    "def": 420,
+                    "avoid": 1,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 10,
+                    "Lv": 80,
+                    "damage_regist": 75,
+                    "ccGauge": [
+                        10,
+                        14,
+                        18
+                    ],
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "秘色の花占い",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "knockOut",
+                                    "skilltime": 5
+                                }
+                            ]
+                        }
+                    }
+                },
+                "TORMENT": {
+                    "HP": 20000000,
+                    "def": 420,
+                    "avoid": 1,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 10,
+                    "Lv": 90,
+                    "damage_regist": 75,
+                    "ccGauge": [
+                        10,
+                        14,
+                        18
+                    ],
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "秘色の花占い",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "knockOut",
+                                    "skilltime": 5
+                                }
+                            ]
+                        }
+                    }
+                },
+                "LUNATIC": {
+                    "HP": 75000000,
+                    "def": 420,
+                    "avoid": 1,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 10,
+                    "Lv": 90,
+                    "damage_regist": 75,
+                    "ccGauge": [
+                        16,
+                        18,
+                        20
+                    ],
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "秘色の花占い",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "knockOut",
+                                    "skilltime": 5
                                 }
                             ]
                         }
