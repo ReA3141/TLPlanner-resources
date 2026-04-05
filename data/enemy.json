@@ -5258,7 +5258,7 @@
         {
             "id": "e0116",
             "name": "インベイドピラー",
-            "icon": "face/invadePillor.png",
+            "icon": "enemy/invadePillor.png",
             "atk_attribute": "神秘",
             "size": "middle",
             "class": "HOD",
