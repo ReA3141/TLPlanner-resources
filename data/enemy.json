@@ -5285,6 +5285,18 @@
                                     "rate": 350
                                 }
                             ]
+                        },
+                        "skill_1": {
+                            "skillname": "名誉の影に",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "cri_regist_baff",
+                                    "start": true,
+                                    "skill_tage": "own",
+                                    "rate": 400
+                                }
+                            ]
                         }
                     }
                 },
@@ -5308,6 +5320,18 @@
                                     "skill_attribute": "costHeal_down",
                                     "skill_tage": "all",
                                     "rate": 350
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "名誉の影に",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "cri_regist_baff",
+                                    "start": true,
+                                    "skill_tage": "own",
+                                    "rate": 400
                                 }
                             ]
                         }
@@ -5335,6 +5359,18 @@
                                     "rate": 350
                                 }
                             ]
+                        },
+                        "skill_1": {
+                            "skillname": "名誉の影に",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "cri_regist_baff",
+                                    "start": true,
+                                    "skill_tage": "own",
+                                    "rate": 400
+                                }
+                            ]
                         }
                     }
                 },
@@ -5358,6 +5394,18 @@
                                     "skill_attribute": "costHeal_down",
                                     "skill_tage": "all",
                                     "rate": 350
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "名誉の影に",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "cri_regist_baff",
+                                    "start": true,
+                                    "skill_tage": "own",
+                                    "rate": 400
                                 }
                             ]
                         }
@@ -5385,6 +5433,18 @@
                                     "rate": 350
                                 }
                             ]
+                        },
+                        "skill_1": {
+                            "skillname": "名誉の影に",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "cri_regist_baff",
+                                    "start": true,
+                                    "skill_tage": "own",
+                                    "rate": 400
+                                }
+                            ]
                         }
                     }
                 },
@@ -5408,6 +5468,18 @@
                                     "skill_attribute": "costHeal_down",
                                     "skill_tage": "all",
                                     "rate": 350
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "名誉の影に",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "cri_regist_baff",
+                                    "start": true,
+                                    "skill_tage": "own",
+                                    "rate": 400
                                 }
                             ]
                         }
@@ -5440,6 +5512,18 @@
                                     "rate": 3000
                                 }
                             ]
+                        },
+                        "skill_1": {
+                            "skillname": "名誉の影に",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "cri_regist_baff",
+                                    "start": true,
+                                    "skill_tage": "own",
+                                    "rate": 400
+                                }
+                            ]
                         }
                     }
                 },
@@ -5468,6 +5552,18 @@
                                     "skill_attribute": "cri_damage_debaff",
                                     "skill_tage": "all",
                                     "rate": 3000
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "名誉の影に",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "cri_regist_baff",
+                                    "start": true,
+                                    "skill_tage": "own",
+                                    "rate": 400
                                 }
                             ]
                         }
