@@ -1551,7 +1551,7 @@
                             "hittime": 0,
                             "effect": [
                                 {
-                                    "skill_attribute": "def",
+                                    "skill_attribute": "my_def",
                                     "skill_tage": "own",
                                     "rate": 1000
                                 }
@@ -1639,7 +1639,7 @@
                             "hittime": 0,
                             "effect": [
                                 {
-                                    "skill_attribute": "def",
+                                    "skill_attribute": "my_def",
                                     "skill_tage": "own",
                                     "rate": 1000
                                 }
@@ -1727,7 +1727,7 @@
                             "hittime": 0,
                             "effect": [
                                 {
-                                    "skill_attribute": "def",
+                                    "skill_attribute": "my_def",
                                     "skill_tage": "own",
                                     "rate": 1000
                                 }
@@ -1815,7 +1815,7 @@
                             "hittime": 0,
                             "effect": [
                                 {
-                                    "skill_attribute": "def",
+                                    "skill_attribute": "my_def",
                                     "skill_tage": "own",
                                     "rate": 1000
                                 }
@@ -1903,7 +1903,7 @@
                             "hittime": 0,
                             "effect": [
                                 {
-                                    "skill_attribute": "def",
+                                    "skill_attribute": "my_def",
                                     "skill_tage": "own",
                                     "rate": 1000
                                 }
@@ -2002,7 +2002,7 @@
                             "hittime": 0,
                             "effect": [
                                 {
-                                    "skill_attribute": "def",
+                                    "skill_attribute": "my_def",
                                     "skill_tage": "own",
                                     "rate": 1000
                                 }
@@ -2101,7 +2101,7 @@
                             "hittime": 0,
                             "effect": [
                                 {
-                                    "skill_attribute": "def",
+                                    "skill_attribute": "my_def",
                                     "skill_tage": "own",
                                     "rate": 1000
                                 }
@@ -2119,6 +2119,758 @@
                     "damage_regist": 0,
                     "GGauge": 0,
                     "skill": {}
+                }
+            }
+        },
+        {
+            "id": "e0007",
+            "name": "ホド",
+            "img": "enemy/HOD.png",
+            "icon": "enemy/Hod_icon.png",
+            "time": 240000,
+            "atk_attribute": "神秘",
+            "terr": [
+                "urban",
+                "indoor"
+            ],
+            "size": "superBig",
+            "class": "HOD",
+            "difficulty": {
+                "NORMAL": {
+                    "HP": 80000,
+                    "def": 100,
+                    "avoid": 100,
+                    "cri_regist": 500,
+                    "cri_damage_regist": 50,
+                    "Lv": 17,
+                    "damage_regist": 90,
+                    "GGauge": 100000000,
+                    "ccGauge": [
+                        6
+                    ],
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "デストラクションType I",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_tage": "all",
+                                    "rate": 150
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "デストラクションType II",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_tage": "all",
+                                    "rate": 200
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "インベイドピラー生成",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "createInvadePillor",
+                                    "rate": 1
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "オーバーロードエナジー",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_tage": "all",
+                                    "rate": 150
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_tage": "all",
+                                    "rate": 300
+                                }
+                            ]
+                        },
+                        "skill_4": {
+                            "skillname": "栄光の輝き",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_tage": "all",
+                                    "rate": 740
+                                },
+                                {
+                                    "skill_attribute": "atk",
+                                    "duplicate": true,
+                                    "skill_tage": "own",
+                                    "rate": 50
+                                }
+                            ]
+                        },
+                        "skill_5": {
+                            "skillname": "名誉の影に",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "cri_regist_baff",
+                                    "start": true,
+                                    "skill_tage": "own",
+                                    "rate": 400
+                                }
+                            ]
+                        }
+                    }
+                },
+                "HARD": {
+                    "HP": 125000,
+                    "def": 100,
+                    "avoid": 100,
+                    "cri_regist": 500,
+                    "cri_damage_regist": 50,
+                    "Lv": 25,
+                    "damage_regist": 90,
+                    "GGauge": 100000000,
+                    "ccGauge": [
+                        7
+                    ],
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "デストラクションType I",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_tage": "all",
+                                    "rate": 150
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "デストラクションType II",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_tage": "all",
+                                    "rate": 200
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "インベイドピラー生成",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "createInvadePillor",
+                                    "rate": 1
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "オーバーロードエナジー",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_tage": "all",
+                                    "rate": 150
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_tage": "all",
+                                    "rate": 300
+                                }
+                            ]
+                        },
+                        "skill_4": {
+                            "skillname": "栄光の輝き",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_tage": "all",
+                                    "rate": 740
+                                },
+                                {
+                                    "skill_attribute": "atk",
+                                    "duplicate": true,
+                                    "skill_tage": "own",
+                                    "rate": 50
+                                }
+                            ]
+                        },
+                        "skill_5": {
+                            "skillname": "名誉の影に",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "cri_regist_baff",
+                                    "start": true,
+                                    "skill_tage": "own",
+                                    "rate": 400
+                                }
+                            ]
+                        }
+                    }
+                },
+                "VERYHARD": {
+                    "HP": 300000,
+                    "def": 100,
+                    "avoid": 100,
+                    "cri_regist": 500,
+                    "cri_damage_regist": 50,
+                    "Lv": 35,
+                    "damage_regist": 90,
+                    "GGauge": 100000000,
+                    "ccGauge": [
+                        8
+                    ],
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "デストラクションType I",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_tage": "all",
+                                    "rate": 150
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "デストラクションType II",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_tage": "all",
+                                    "rate": 200
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "インベイドピラー生成",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "createInvadePillor",
+                                    "rate": 1
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "オーバーロードエナジー",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_tage": "all",
+                                    "rate": 150
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_tage": "all",
+                                    "rate": 300
+                                }
+                            ]
+                        },
+                        "skill_4": {
+                            "skillname": "栄光の輝き",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_tage": "all",
+                                    "rate": 740
+                                },
+                                {
+                                    "skill_attribute": "atk",
+                                    "duplicate": true,
+                                    "skill_tage": "own",
+                                    "rate": 50
+                                }
+                            ]
+                        },
+                        "skill_5": {
+                            "skillname": "名誉の影に",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "cri_regist_baff",
+                                    "start": true,
+                                    "skill_tage": "own",
+                                    "rate": 400
+                                }
+                            ]
+                        }
+                    }
+                },
+                "HARDCORE": {
+                    "HP": 480000,
+                    "def": 100,
+                    "avoid": 100,
+                    "cri_regist": 500,
+                    "cri_damage_regist": 50,
+                    "Lv": 50,
+                    "damage_regist": 90,
+                    "GGauge": 100000000,
+                    "ccGauge": [
+                        9
+                    ],
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "デストラクションType I",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_tage": "all",
+                                    "rate": 150
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "デストラクションType II",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_tage": "all",
+                                    "rate": 200
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "インベイドピラー生成",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "createInvadePillor",
+                                    "rate": 1
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "オーバーロードエナジー",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_tage": "all",
+                                    "rate": 150
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_tage": "all",
+                                    "rate": 300
+                                }
+                            ]
+                        },
+                        "skill_4": {
+                            "skillname": "栄光の輝き",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_tage": "all",
+                                    "rate": 740
+                                },
+                                {
+                                    "skill_attribute": "atk",
+                                    "duplicate": true,
+                                    "skill_tage": "own",
+                                    "rate": 50
+                                }
+                            ]
+                        },
+                        "skill_5": {
+                            "skillname": "名誉の影に",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "cri_regist_baff",
+                                    "start": true,
+                                    "skill_tage": "own",
+                                    "rate": 400
+                                }
+                            ]
+                        }
+                    }
+                },
+                "EXTREAM": {
+                    "HP": 1600000,
+                    "def": 100,
+                    "avoid": 100,
+                    "cri_regist": 500,
+                    "cri_damage_regist": 50,
+                    "Lv": 70,
+                    "damage_regist": 90,
+                    "GGauge": 100000000,
+                    "ccGauge": [
+                        10
+                    ],
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "デストラクションType I",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_tage": "all",
+                                    "rate": 150
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "デストラクションType II",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_tage": "all",
+                                    "rate": 200
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "インベイドピラー生成",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "createInvadePillor",
+                                    "rate": 1
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "オーバーロードエナジー",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_tage": "all",
+                                    "rate": 150
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_tage": "all",
+                                    "rate": 300
+                                }
+                            ]
+                        },
+                        "skill_4": {
+                            "skillname": "栄光の輝き",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_tage": "all",
+                                    "rate": 740
+                                },
+                                {
+                                    "skill_attribute": "atk",
+                                    "duplicate": true,
+                                    "skill_tage": "own",
+                                    "rate": 50
+                                }
+                            ]
+                        },
+                        "skill_5": {
+                            "skillname": "名誉の影に",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "cri_regist_baff",
+                                    "start": true,
+                                    "skill_tage": "own",
+                                    "rate": 400
+                                }
+                            ]
+                        }
+                    }
+                },
+                "INSANE": {
+                    "HP": 2800000,
+                    "def": 100,
+                    "avoid": 100,
+                    "cri_regist": 500,
+                    "cri_damage_regist": 50,
+                    "Lv": 80,
+                    "damage_regist": 90,
+                    "GGauge": 100000000,
+                    "ccGauge": [
+                        15
+                    ],
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "デストラクションType I",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_tage": "all",
+                                    "rate": 150
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "デストラクションType II",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_tage": "all",
+                                    "rate": 200
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "インベイドピラー生成",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "createInvadePillor",
+                                    "amount": 2
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "オーバーロードエナジー",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_tage": "all",
+                                    "rate": 150
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_tage": "all",
+                                    "rate": 300
+                                }
+                            ]
+                        },
+                        "skill_4": {
+                            "skillname": "栄光の輝き",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_tage": "all",
+                                    "rate": 740
+                                },
+                                {
+                                    "skill_attribute": "atk",
+                                    "duplicate": true,
+                                    "skill_tage": "own",
+                                    "rate": 50
+                                }
+                            ]
+                        },
+                        "skill_5": {
+                            "skillname": "名誉の影に",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "cri_regist_baff",
+                                    "start": true,
+                                    "skill_tage": "own",
+                                    "rate": 400
+                                }
+                            ]
+                        }
+                    }
+                },
+                "TORMENT": {
+                    "HP": 18000000,
+                    "def": 100,
+                    "avoid": 100,
+                    "cri_regist": 500,
+                    "cri_damage_regist": 50,
+                    "Lv": 90,
+                    "damage_regist": 90,
+                    "GGauge": 100000000,
+                    "ccGauge": [
+                        20
+                    ],
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "デストラクションType I",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_tage": "all",
+                                    "rate": 150
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "デストラクションType II",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_tage": "all",
+                                    "rate": 200
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "インベイドピラー生成",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "createInvadePillor",
+                                    "amount": 2
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "オーバーロードエナジー",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_tage": "all",
+                                    "rate": 150
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_tage": "all",
+                                    "rate": 300
+                                }
+                            ]
+                        },
+                        "skill_4": {
+                            "skillname": "栄光の輝き",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_tage": "all",
+                                    "rate": 740
+                                },
+                                {
+                                    "skill_attribute": "atk",
+                                    "duplicate": true,
+                                    "skill_tage": "own",
+                                    "rate": 50
+                                }
+                            ]
+                        },
+                        "skill_5": {
+                            "skillname": "名誉の影に",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "cri_regist_baff",
+                                    "start": true,
+                                    "skill_tage": "own",
+                                    "rate": 400
+                                }
+                            ]
+                        }
+                    }
+                },
+                "LUNATIC": {
+                    "HP": 75000000,
+                    "def": 100,
+                    "avoid": 100,
+                    "cri_regist": 500,
+                    "cri_damage_regist": 50,
+                    "Lv": 35,
+                    "damage_regist": 90,
+                    "GGauge": 1000000000,
+                    "ccGauge": [
+                        20
+                    ],
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "デストラクションType I",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_tage": "all",
+                                    "rate": 150
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "デストラクションType II",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_tage": "all",
+                                    "rate": 200
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "インベイドピラー生成",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "createInvadePillor",
+                                    "amount": 2
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "オーバーロードエナジー",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_tage": "all",
+                                    "rate": 150
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_tage": "all",
+                                    "rate": 300
+                                }
+                            ]
+                        },
+                        "skill_4": {
+                            "skillname": "栄光の輝き",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_tage": "all",
+                                    "rate": 740
+                                },
+                                {
+                                    "skill_attribute": "atk",
+                                    "duplicate": true,
+                                    "skill_tage": "own",
+                                    "rate": 75
+                                }
+                            ]
+                        },
+                        "skill_5": {
+                            "skillname": "名誉の影に",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "cri_regist_baff",
+                                    "start": true,
+                                    "skill_tage": "own",
+                                    "rate": 400
+                                }
+                            ]
+                        }
+                    }
                 }
             }
         },
@@ -4500,6 +5252,226 @@
                     "Lv": 90,
                     "damage_regist": 0,
                     "skill": {}
+                }
+            }
+        },
+        {
+            "id": "e0116",
+            "name": "インベイドピラー",
+            "icon": "face/invadePillor.png",
+            "atk_attribute": "神秘",
+            "size": "middle",
+            "class": "HOD",
+            "difficulty": {
+                "NORMAL": {
+                    "HP": 30000,
+                    "def": 100,
+                    "avoid": 100,
+                    "cri_regist": 500,
+                    "cri_damage_regist": 50,
+                    "Lv": 17,
+                    "damage_regist": 80,
+                    "ccGauge": [
+                        6
+                    ],
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "インベイドピラー生成",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "costHeal_down",
+                                    "skill_tage": "all",
+                                    "rate": 350
+                                }
+                            ]
+                        }
+                    }
+                },
+                "HARD": {
+                    "HP": 60000,
+                    "def": 100,
+                    "avoid": 100,
+                    "cri_regist": 500,
+                    "cri_damage_regist": 50,
+                    "Lv": 25,
+                    "damage_regist": 80,
+                    "ccGauge": [
+                        7
+                    ],
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "インベイドピラー生成",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "costHeal_down",
+                                    "skill_tage": "all",
+                                    "rate": 350
+                                }
+                            ]
+                        }
+                    }
+                },
+                "VERYHARD": {
+                    "HP": 100000,
+                    "def": 100,
+                    "avoid": 100,
+                    "cri_regist": 500,
+                    "cri_damage_regist": 50,
+                    "Lv": 35,
+                    "damage_regist": 80,
+                    "ccGauge": [
+                        8
+                    ],
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "インベイドピラー生成",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "costHeal_down",
+                                    "skill_tage": "all",
+                                    "rate": 350
+                                }
+                            ]
+                        }
+                    }
+                },
+                "HARDCORE": {
+                    "HP": 160000,
+                    "def": 100,
+                    "avoid": 100,
+                    "cri_regist": 500,
+                    "cri_damage_regist": 50,
+                    "Lv": 50,
+                    "damage_regist": 80,
+                    "ccGauge": [
+                        9
+                    ],
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "インベイドピラー生成",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "costHeal_down",
+                                    "skill_tage": "all",
+                                    "rate": 350
+                                }
+                            ]
+                        }
+                    }
+                },
+                "EXTREAM": {
+                    "HP": 450000,
+                    "def": 100,
+                    "avoid": 100,
+                    "cri_regist": 500,
+                    "cri_damage_regist": 50,
+                    "Lv": 70,
+                    "damage_regist": 80,
+                    "ccGauge": [
+                        10
+                    ],
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "インベイドピラー生成",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "costHeal_down",
+                                    "skill_tage": "all",
+                                    "rate": 350
+                                }
+                            ]
+                        }
+                    }
+                },
+                "INSANE": {
+                    "HP": 900000,
+                    "def": 100,
+                    "avoid": 100,
+                    "cri_regist": 500,
+                    "cri_damage_regist": 50,
+                    "Lv": 80,
+                    "damage_regist": 80,
+                    "ccGauge": [
+                        15
+                    ],
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "インベイドピラー生成",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "costHeal_down",
+                                    "skill_tage": "all",
+                                    "rate": 350
+                                }
+                            ]
+                        }
+                    }
+                },
+                "TORMENT": {
+                    "HP": 1800000,
+                    "def": 100,
+                    "avoid": 100,
+                    "cri_regist": 500,
+                    "cri_damage_regist": 50,
+                    "Lv": 90,
+                    "damage_regist": 80,
+                    "ccGauge": [
+                        20
+                    ],
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "インベイドピラー生成",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "costHeal_down",
+                                    "skill_tage": "all",
+                                    "rate": 350
+                                },
+                                {
+                                    "skill_attribute": "cri_damage_debaff",
+                                    "skill_tage": "all",
+                                    "rate": 3000
+                                }
+                            ]
+                        }
+                    }
+                },
+                "LUNATIC": {
+                    "HP": 7200000,
+                    "def": 100,
+                    "avoid": 100,
+                    "cri_regist": 500,
+                    "cri_damage_regist": 50,
+                    "Lv": 90,
+                    "damage_regist": 80,
+                    "ccGauge": [
+                        20
+                    ],
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "インベイドピラー生成",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "costHeal_down",
+                                    "skill_tage": "all",
+                                    "rate": 350
+                                },
+                                {
+                                    "skill_attribute": "cri_damage_debaff",
+                                    "skill_tage": "all",
+                                    "rate": 3000
+                                }
+                            ]
+                        }
+                    }
                 }
             }
         },
