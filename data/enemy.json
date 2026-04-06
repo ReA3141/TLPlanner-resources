@@ -5297,6 +5297,11 @@
                                     "rate": 400
                                 }
                             ]
+                        },
+                        "skill_2": {
+                            "skillname": "インベイドピラー破壊",
+                            "hittime": 0,
+                            "effect": []
                         }
                     }
                 },
@@ -5334,6 +5339,11 @@
                                     "rate": 400
                                 }
                             ]
+                        },
+                        "skill_2": {
+                            "skillname": "インベイドピラー破壊",
+                            "hittime": 0,
+                            "effect": []
                         }
                     }
                 },
@@ -5371,6 +5381,11 @@
                                     "rate": 400
                                 }
                             ]
+                        },
+                        "skill_2": {
+                            "skillname": "インベイドピラー破壊",
+                            "hittime": 0,
+                            "effect": []
                         }
                     }
                 },
@@ -5408,6 +5423,11 @@
                                     "rate": 400
                                 }
                             ]
+                        },
+                        "skill_2": {
+                            "skillname": "インベイドピラー破壊",
+                            "hittime": 0,
+                            "effect": []
                         }
                     }
                 },
@@ -5445,6 +5465,11 @@
                                     "rate": 400
                                 }
                             ]
+                        },
+                        "skill_2": {
+                            "skillname": "インベイドピラー破壊",
+                            "hittime": 0,
+                            "effect": []
                         }
                     }
                 },
@@ -5482,6 +5507,11 @@
                                     "rate": 400
                                 }
                             ]
+                        },
+                        "skill_2": {
+                            "skillname": "インベイドピラー破壊",
+                            "hittime": 0,
+                            "effect": []
                         }
                     }
                 },
@@ -5524,6 +5554,11 @@
                                     "rate": 400
                                 }
                             ]
+                        },
+                        "skill_2": {
+                            "skillname": "インベイドピラー破壊",
+                            "hittime": 0,
+                            "effect": []
                         }
                     }
                 },
@@ -5566,6 +5601,11 @@
                                     "rate": 400
                                 }
                             ]
+                        },
+                        "skill_2": {
+                            "skillname": "インベイドピラー破壊",
+                            "hittime": 0,
+                            "effect": []
                         }
                     }
                 }
