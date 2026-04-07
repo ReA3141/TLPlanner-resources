@@ -2637,7 +2637,7 @@
                             "effect": [
                                 {
                                     "skill_attribute": "createInvadePillor",
-                                    "amount": 2
+                                    "rate": 2
                                 }
                             ]
                         },
@@ -2729,7 +2729,7 @@
                             "effect": [
                                 {
                                     "skill_attribute": "createInvadePillor",
-                                    "amount": 2
+                                    "rate": 2
                                 }
                             ]
                         },
@@ -2821,7 +2821,7 @@
                             "effect": [
                                 {
                                     "skill_attribute": "createInvadePillor",
-                                    "amount": 2
+                                    "rate": 2
                                 }
                             ]
                         },
