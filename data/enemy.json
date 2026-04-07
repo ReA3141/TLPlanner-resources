@@ -2875,6 +2875,815 @@
             }
         },
         {
+            "id": "e0008",
+            "name": "ゴズ",
+            "img": "enemy/Goz.png",
+            "icon": "enemy/Goz_icon.png",
+            "time": 240000,
+            "atk_attribute": "爆発",
+            "terr": [
+                "outdoor",
+                "indoor"
+            ],
+            "size": "big",
+            "class": "Goz",
+            "difficulty": {
+                "NORMAL": {
+                    "HP": 300000,
+                    "def": 100,
+                    "avoid": 100,
+                    "cri_regist": 300,
+                    "cri_damage_regist": 50,
+                    "Lv": 17,
+                    "damage_regist": 0,
+                    "GGauge": 240000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "Now You See Us",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "clear_debaff",
+                                    "skill_tage": "own"
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "スリーライトモンテ",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "all",
+                                    "rate": 1500
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "マジカルコインハット",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "all",
+                                    "rate": 800
+                                },
+                                {
+                                    "skill_attribute": "knockOut",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "all",
+                                    "rate": 5
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "サプライズプレゼント",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "one",
+                                    "skill_tage": "enemy",
+                                    "rate": 900
+                                }
+                            ]
+                        },
+                        "skill_4": {
+                            "skillname": "スクリームライダー",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "all",
+                                    "rate": 1200
+                                },
+                                {
+                                    "skill_attribute": "summonSranpia"
+                                }
+                            ]
+                        },
+                        "skill_5": {
+                            "skillname": "Prank or Protect",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "heal_downed",
+                                    "start": true,
+                                    "skill_tage": "all",
+                                    "rate": 50
+                                }
+                            ]
+                        }
+                    }
+                },
+                "HARD": {
+                    "HP": 945000,
+                    "def": 100,
+                    "avoid": 100,
+                    "cri_regist": 300,
+                    "cri_damage_regist": 50,
+                    "Lv": 25,
+                    "damage_regist": 0,
+                    "GGauge": 661500,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "Now You See Us",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "clear_debaff",
+                                    "skill_tage": "own"
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "スリーライトモンテ",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "all",
+                                    "rate": 1500
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "マジカルコインハット",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "all",
+                                    "rate": 800
+                                },
+                                {
+                                    "skill_attribute": "knockOut",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "all",
+                                    "rate": 5
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "サプライズプレゼント",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "one",
+                                    "skill_tage": "enemy",
+                                    "rate": 900
+                                }
+                            ]
+                        },
+                        "skill_4": {
+                            "skillname": "スクリームライダー",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "all",
+                                    "rate": 1200
+                                },
+                                {
+                                    "skill_attribute": "summonSranpia"
+                                }
+                            ]
+                        },
+                        "skill_5": {
+                            "skillname": "Prank or Protect",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "heal_downed",
+                                    "start": true,
+                                    "skill_tage": "all",
+                                    "rate": 50
+                                }
+                            ]
+                        }
+                    }
+                },
+                "VERYHARD": {
+                    "HP": 2100000,
+                    "def": 100,
+                    "avoid": 100,
+                    "cri_regist": 300,
+                    "cri_damage_regist": 50,
+                    "Lv": 35,
+                    "damage_regist": 0,
+                    "GGauge": 1470000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "Now You See Us",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "clear_debaff",
+                                    "skill_tage": "own"
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "スリーライトモンテ",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "all",
+                                    "rate": 1500
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "マジカルコインハット",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "all",
+                                    "rate": 800
+                                },
+                                {
+                                    "skill_attribute": "knockOut",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "all",
+                                    "rate": 5
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "サプライズプレゼント",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "one",
+                                    "skill_tage": "enemy",
+                                    "rate": 900
+                                }
+                            ]
+                        },
+                        "skill_4": {
+                            "skillname": "スクリームライダー",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "all",
+                                    "rate": 1200
+                                },
+                                {
+                                    "skill_attribute": "summonSranpia"
+                                }
+                            ]
+                        },
+                        "skill_5": {
+                            "skillname": "Prank or Protect",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "heal_downed",
+                                    "start": true,
+                                    "skill_tage": "all",
+                                    "rate": 50
+                                }
+                            ]
+                        }
+                    }
+                },
+                "HARDCORE": {
+                    "HP": 3150000,
+                    "def": 100,
+                    "avoid": 100,
+                    "cri_regist": 300,
+                    "cri_damage_regist": 50,
+                    "Lv": 50,
+                    "damage_regist": 0,
+                    "GGauge": 2205000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "Now You See Us",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "clear_debaff",
+                                    "skill_tage": "own"
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "スリーライトモンテ",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "all",
+                                    "rate": 1500
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "マジカルコインハット",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "all",
+                                    "rate": 800
+                                },
+                                {
+                                    "skill_attribute": "knockOut",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "all",
+                                    "rate": 5
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "サプライズプレゼント",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "one",
+                                    "skill_tage": "enemy",
+                                    "rate": 900
+                                }
+                            ]
+                        },
+                        "skill_4": {
+                            "skillname": "スクリームライダー",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "all",
+                                    "rate": 1200
+                                },
+                                {
+                                    "skill_attribute": "summonSranpia"
+                                }
+                            ]
+                        },
+                        "skill_5": {
+                            "skillname": "Prank or Protect",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "heal_downed",
+                                    "start": true,
+                                    "skill_tage": "all",
+                                    "rate": 50
+                                }
+                            ]
+                        }
+                    }
+                },
+                "EXTREAM": {
+                    "HP": 13000000,
+                    "def": 100,
+                    "avoid": 100,
+                    "cri_regist": 300,
+                    "cri_damage_regist": 50,
+                    "Lv": 70,
+                    "damage_regist": 0,
+                    "GGauge": 10400000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "Now You See Us",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "clear_debaff",
+                                    "skill_tage": "own"
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "スリーライトモンテ",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "all",
+                                    "rate": 1500
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "マジカルコインハット",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "all",
+                                    "rate": 800
+                                },
+                                {
+                                    "skill_attribute": "knockOut",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "all",
+                                    "rate": 5
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "サプライズプレゼント",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "one",
+                                    "skill_tage": "enemy",
+                                    "rate": 900
+                                }
+                            ]
+                        },
+                        "skill_4": {
+                            "skillname": "スクリームライダー",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "all",
+                                    "rate": 1200
+                                },
+                                {
+                                    "skill_attribute": "summonSranpia"
+                                }
+                            ]
+                        },
+                        "skill_5": {
+                            "skillname": "Prank or Protect",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "heal_downed",
+                                    "start": true,
+                                    "skill_tage": "all",
+                                    "rate": 50
+                                }
+                            ]
+                        }
+                    }
+                },
+                "INSANE": {
+                    "HP": 30000000,
+                    "def": 100,
+                    "avoid": 100,
+                    "cri_regist": 300,
+                    "cri_damage_regist": 50,
+                    "Lv": 80,
+                    "damage_regist": 0,
+                    "GGauge": 24000000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "Now You See Us",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "clear_debaff",
+                                    "skill_tage": "own"
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "スリーライトモンテ",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "all",
+                                    "rate": 1500
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "マジカルコインハット",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "all",
+                                    "rate": 800
+                                },
+                                {
+                                    "skill_attribute": "knockOut",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "all",
+                                    "rate": 5
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "サプライズプレゼント",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "one",
+                                    "skill_tage": "enemy",
+                                    "rate": 900
+                                }
+                            ]
+                        },
+                        "skill_4": {
+                            "skillname": "スクリームライダー",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "all",
+                                    "rate": 1200
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "all",
+                                    "rate": 600
+                                },
+                                {
+                                    "skill_attribute": "summonSranpia"
+                                }
+                            ]
+                        },
+                        "skill_5": {
+                            "skillname": "Prank or Protect",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "heal_downed",
+                                    "start": true,
+                                    "skill_tage": "all",
+                                    "rate": 90
+                                }
+                            ]
+                        }
+                    }
+                },
+                "TORMENT": {
+                    "HP": 50000000,
+                    "def": 100,
+                    "avoid": 100,
+                    "cri_regist": 300,
+                    "cri_damage_regist": 50,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "GGauge": 40000000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "Now You See Us",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "clear_debaff",
+                                    "skill_tage": "own"
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "スリーライトモンテ",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "all",
+                                    "rate": 1500
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "マジカルコインハット",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "all",
+                                    "rate": 800
+                                },
+                                {
+                                    "skill_attribute": "knockOut",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "all",
+                                    "rate": 5
+                                },
+                                {
+                                    "skill_attribute": "move_speed_debaff",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "all",
+                                    "rate": 50
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "サプライズプレゼント",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "one",
+                                    "skill_tage": "enemy",
+                                    "rate": 900
+                                }
+                            ]
+                        },
+                        "skill_4": {
+                            "skillname": "スクリームライダー",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "all",
+                                    "rate": 1200
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "all",
+                                    "rate": 600
+                                },
+                                {
+                                    "skill_attribute": "summonSranpia"
+                                }
+                            ]
+                        },
+                        "skill_5": {
+                            "skillname": "Prank or Protect",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "heal_downed",
+                                    "start": true,
+                                    "skill_tage": "all",
+                                    "rate": 90
+                                }
+                            ]
+                        }
+                    }
+                },
+                "LUNATIC": {
+                    "HP": 200000000,
+                    "def": 100,
+                    "avoid": 100,
+                    "cri_regist": 300,
+                    "cri_damage_regist": 50,
+                    "Lv": 17,
+                    "damage_regist": 0,
+                    "GGauge": 2000000000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "Now You See Us",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "clear_debaff",
+                                    "skill_tage": "own"
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "スリーライトモンテ",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "all",
+                                    "rate": 7500
+                                },
+                                {
+                                    "skill_attribute": "costHeal",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "all",
+                                    "skilltime": 5,
+                                    "rate": 750
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "マジカルコインハット",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "all",
+                                    "rate": 800
+                                },
+                                {
+                                    "skill_attribute": "knockOut",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "all",
+                                    "rate": 5
+                                },
+                                {
+                                    "skill_attribute": "move_speed_debaff",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "all",
+                                    "rate": 50
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "マジカルコインハット(黄)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "costHeal",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "coin",
+                                    "skilltime": 5,
+                                    "duplicate": 4,
+                                    "rate": 350
+                                }
+                            ]
+                        },
+                        "skill_4": {
+                            "skillname": "マジカルコインハット(青)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage_up_atk",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "coin",
+                                    "skilltime": 20,
+                                    "duplicate": 4,
+                                    "rate": 7.5
+                                }
+                            ]
+                        },
+                        "skill_5": {
+                            "skillname": "サプライズプレゼント",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "one",
+                                    "skill_tage": "enemy",
+                                    "rate": 900
+                                }
+                            ]
+                        },
+                        "skill_6": {
+                            "skillname": "スクリームライダー",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "all",
+                                    "rate": 1200
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "all",
+                                    "rate": 600
+                                },
+                                {
+                                    "skill_attribute": "summonSranpia"
+                                }
+                            ]
+                        },
+                        "skill_7": {
+                            "skillname": "Prank or Protect",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "heal_downed",
+                                    "start": true,
+                                    "skill_tage": "all",
+                                    "rate": 90
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        {
             "id": "e0009",
             "name": "グレゴリオ",
             "img": "enemy/Gregorius.png",
@@ -5636,6 +6445,346 @@
                             "effect": [
                                 {
                                     "skill_attribute": "breakInvaidePillor"
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": "e0117",
+            "name": "暴走するくまロボ",
+            "icon": "face/bear_icon.png",
+            "atk_attribute": "爆発",
+            "size": "middle",
+            "class": "Goz",
+            "difficulty": {
+                "NORMAL": {
+                    "HP": 5355,
+                    "def": 325,
+                    "avoid": 60,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 17,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "撤退",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "removeBear"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "HARD": {
+                    "HP": 7882,
+                    "def": 398,
+                    "avoid": 60,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 25,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "撤退",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "removeBear"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "VERYHARD": {
+                    "HP": 11042,
+                    "def": 489,
+                    "avoid": 60,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 35,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "撤退",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "removeBear"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "HARDCORE": {
+                    "HP": 31808,
+                    "def": 625,
+                    "avoid": 60,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 50,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "撤退",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "removeBear"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "EXTREAM": {
+                    "HP": 44357,
+                    "def": 807,
+                    "avoid": 60,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 70,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "撤退",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "removeBear"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "INSANE": {
+                    "HP": 101256,
+                    "def": 898,
+                    "avoid": 60,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 80,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "撤退",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "removeBear"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "TORMENT": {
+                    "HP": 113798,
+                    "def": 989,
+                    "avoid": 60,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "撤退",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "removeBear"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "LUNATIC": {
+                    "HP": 136557,
+                    "def": 989,
+                    "avoid": 60,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "撤退",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "removeBear"
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": "e0117",
+            "name": "暴走するうさロボ",
+            "icon": "face/rabbit_icon.png",
+            "atk_attribute": "爆発",
+            "size": "middle",
+            "class": "Goz",
+            "difficulty": {
+                "NORMAL": {
+                    "HP": 1900,
+                    "def": 36,
+                    "avoid": 100,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 17,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "撤退",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "removeRabbit"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "HARD": {
+                    "HP": 2771,
+                    "def": 44,
+                    "avoid": 100,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 25,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "撤退",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "removeRabbit"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "VERYHARD": {
+                    "HP": 3860,
+                    "def": 54,
+                    "avoid": 100,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 35,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "撤退",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "removeRabbit"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "HARDCORE": {
+                    "HP": 11106,
+                    "def": 69,
+                    "avoid": 100,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 50,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "撤退",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "removeRabbit"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "EXTREAM": {
+                    "HP": 15421,
+                    "def": 90,
+                    "avoid": 100,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 70,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "撤退",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "removeRabbit"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "INSANE": {
+                    "HP": 35155,
+                    "def": 100,
+                    "avoid": 100,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 80,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "撤退",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "removeRabbit"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "TORMENT": {
+                    "HP": 39467,
+                    "def": 110,
+                    "avoid": 100,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "撤退",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "removeRabbit"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "LUNATIC": {
+                    "HP": 47361,
+                    "def": 110,
+                    "avoid": 100,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "撤退",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "removeRabbit"
                                 }
                             ]
                         }
