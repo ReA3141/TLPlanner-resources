@@ -2177,6 +2177,7 @@
                             "effect": [
                                 {
                                     "skill_attribute": "createInvadePillor",
+                                    "skill_tage": "own",
                                     "rate": 1
                                 }
                             ]
@@ -2269,6 +2270,7 @@
                             "effect": [
                                 {
                                     "skill_attribute": "createInvadePillor",
+                                    "skill_tage": "own",
                                     "rate": 1
                                 }
                             ]
@@ -2361,6 +2363,7 @@
                             "effect": [
                                 {
                                     "skill_attribute": "createInvadePillor",
+                                    "skill_tage": "own",
                                     "rate": 1
                                 }
                             ]
@@ -2453,6 +2456,7 @@
                             "effect": [
                                 {
                                     "skill_attribute": "createInvadePillor",
+                                    "skill_tage": "own",
                                     "rate": 1
                                 }
                             ]
@@ -2545,6 +2549,7 @@
                             "effect": [
                                 {
                                     "skill_attribute": "createInvadePillor",
+                                    "skill_tage": "own",
                                     "rate": 1
                                 }
                             ]
@@ -2637,6 +2642,7 @@
                             "effect": [
                                 {
                                     "skill_attribute": "createInvadePillor",
+                                    "skill_tage": "own",
                                     "rate": 2
                                 }
                             ]
@@ -2729,6 +2735,7 @@
                             "effect": [
                                 {
                                     "skill_attribute": "createInvadePillor",
+                                    "skill_tage": "own",
                                     "rate": 2
                                 }
                             ]
@@ -2821,6 +2828,7 @@
                             "effect": [
                                 {
                                     "skill_attribute": "createInvadePillor",
+                                    "skill_tage": "own",
                                     "rate": 2
                                 }
                             ]
@@ -2961,7 +2969,8 @@
                                     "rate": 1200
                                 },
                                 {
-                                    "skill_attribute": "summonSranpia"
+                                    "skill_attribute": "summonSranpia",
+                                    "skill_tage": "own"
                                 }
                             ]
                         },
@@ -3052,7 +3061,8 @@
                                     "rate": 1200
                                 },
                                 {
-                                    "skill_attribute": "summonSranpia"
+                                    "skill_attribute": "summonSranpia",
+                                    "skill_tage": "own"
                                 }
                             ]
                         },
@@ -3143,7 +3153,8 @@
                                     "rate": 1200
                                 },
                                 {
-                                    "skill_attribute": "summonSranpia"
+                                    "skill_attribute": "summonSranpia",
+                                    "skill_tage": "own"
                                 }
                             ]
                         },
@@ -3234,7 +3245,8 @@
                                     "rate": 1200
                                 },
                                 {
-                                    "skill_attribute": "summonSranpia"
+                                    "skill_attribute": "summonSranpia",
+                                    "skill_tage": "own"
                                 }
                             ]
                         },
@@ -3325,7 +3337,8 @@
                                     "rate": 1200
                                 },
                                 {
-                                    "skill_attribute": "summonSranpia"
+                                    "skill_attribute": "summonSranpia",
+                                    "skill_tage": "own"
                                 }
                             ]
                         },
@@ -3422,7 +3435,8 @@
                                     "rate": 600
                                 },
                                 {
-                                    "skill_attribute": "summonSranpia"
+                                    "skill_attribute": "summonSranpia",
+                                    "skill_tage": "own"
                                 }
                             ]
                         },
@@ -3525,7 +3539,8 @@
                                     "rate": 600
                                 },
                                 {
-                                    "skill_attribute": "summonSranpia"
+                                    "skill_attribute": "summonSranpia",
+                                    "skill_tage": "own"
                                 }
                             ]
                         },
@@ -3663,7 +3678,8 @@
                                     "rate": 600
                                 },
                                 {
-                                    "skill_attribute": "summonSranpia"
+                                    "skill_attribute": "summonSranpia",
+                                    "skill_tage": "own"
                                 }
                             ]
                         },
@@ -6112,7 +6128,8 @@
                             "hittime": 0,
                             "effect": [
                                 {
-                                    "skill_attribute": "breakInvaidePillor"
+                                    "skill_attribute": "breakInvaidePillor",
+                                    "skill_tage": "own"
                                 }
                             ]
                         }
@@ -6158,7 +6175,8 @@
                             "hittime": 0,
                             "effect": [
                                 {
-                                    "skill_attribute": "breakInvaidePillor"
+                                    "skill_attribute": "breakInvaidePillor",
+                                    "skill_tage": "own"
                                 }
                             ]
                         }
@@ -6204,7 +6222,8 @@
                             "hittime": 0,
                             "effect": [
                                 {
-                                    "skill_attribute": "breakInvaidePillor"
+                                    "skill_attribute": "breakInvaidePillor",
+                                    "skill_tage": "own"
                                 }
                             ]
                         }
@@ -6250,7 +6269,8 @@
                             "hittime": 0,
                             "effect": [
                                 {
-                                    "skill_attribute": "breakInvaidePillor"
+                                    "skill_attribute": "breakInvaidePillor",
+                                    "skill_tage": "own"
                                 }
                             ]
                         }
@@ -6296,7 +6316,8 @@
                             "hittime": 0,
                             "effect": [
                                 {
-                                    "skill_attribute": "breakInvaidePillor"
+                                    "skill_attribute": "breakInvaidePillor",
+                                    "skill_tage": "own"
                                 }
                             ]
                         }
@@ -6342,7 +6363,8 @@
                             "hittime": 0,
                             "effect": [
                                 {
-                                    "skill_attribute": "breakInvaidePillor"
+                                    "skill_attribute": "breakInvaidePillor",
+                                    "skill_tage": "own"
                                 }
                             ]
                         }
@@ -6393,7 +6415,8 @@
                             "hittime": 0,
                             "effect": [
                                 {
-                                    "skill_attribute": "breakInvaidePillor"
+                                    "skill_attribute": "breakInvaidePillor",
+                                    "skill_tage": "own"
                                 }
                             ]
                         }
@@ -6444,7 +6467,8 @@
                             "hittime": 0,
                             "effect": [
                                 {
-                                    "skill_attribute": "breakInvaidePillor"
+                                    "skill_attribute": "breakInvaidePillor",
+                                    "skill_tage": "own"
                                 }
                             ]
                         }
@@ -6474,7 +6498,8 @@
                             "hittime": 0,
                             "effect": [
                                 {
-                                    "skill_attribute": "removeBear"
+                                    "skill_attribute": "removeBear",
+                                    "skill_tage": "own"
                                 }
                             ]
                         }
@@ -6494,7 +6519,8 @@
                             "hittime": 0,
                             "effect": [
                                 {
-                                    "skill_attribute": "removeBear"
+                                    "skill_attribute": "removeBear",
+                                    "skill_tage": "own"
                                 }
                             ]
                         }
@@ -6514,7 +6540,8 @@
                             "hittime": 0,
                             "effect": [
                                 {
-                                    "skill_attribute": "removeBear"
+                                    "skill_attribute": "removeBear",
+                                    "skill_tage": "own"
                                 }
                             ]
                         }
@@ -6534,7 +6561,8 @@
                             "hittime": 0,
                             "effect": [
                                 {
-                                    "skill_attribute": "removeBear"
+                                    "skill_attribute": "removeBear",
+                                    "skill_tage": "own"
                                 }
                             ]
                         }
@@ -6554,7 +6582,8 @@
                             "hittime": 0,
                             "effect": [
                                 {
-                                    "skill_attribute": "removeBear"
+                                    "skill_attribute": "removeBear",
+                                    "skill_tage": "own"
                                 }
                             ]
                         }
@@ -6574,7 +6603,8 @@
                             "hittime": 0,
                             "effect": [
                                 {
-                                    "skill_attribute": "removeBear"
+                                    "skill_attribute": "removeBear",
+                                    "skill_tage": "own"
                                 }
                             ]
                         }
@@ -6594,7 +6624,8 @@
                             "hittime": 0,
                             "effect": [
                                 {
-                                    "skill_attribute": "removeBear"
+                                    "skill_attribute": "removeBear",
+                                    "skill_tage": "own"
                                 }
                             ]
                         }
@@ -6614,7 +6645,8 @@
                             "hittime": 0,
                             "effect": [
                                 {
-                                    "skill_attribute": "removeBear"
+                                    "skill_attribute": "removeBear",
+                                    "skill_tage": "own"
                                 }
                             ]
                         }
@@ -6644,7 +6676,8 @@
                             "hittime": 0,
                             "effect": [
                                 {
-                                    "skill_attribute": "removeRabbit"
+                                    "skill_attribute": "removeRabbit",
+                                    "skill_tage": "own"
                                 }
                             ]
                         }
@@ -6664,7 +6697,8 @@
                             "hittime": 0,
                             "effect": [
                                 {
-                                    "skill_attribute": "removeRabbit"
+                                    "skill_attribute": "removeRabbit",
+                                    "skill_tage": "own"
                                 }
                             ]
                         }
@@ -6684,7 +6718,8 @@
                             "hittime": 0,
                             "effect": [
                                 {
-                                    "skill_attribute": "removeRabbit"
+                                    "skill_attribute": "removeRabbit",
+                                    "skill_tage": "own"
                                 }
                             ]
                         }
@@ -6704,7 +6739,8 @@
                             "hittime": 0,
                             "effect": [
                                 {
-                                    "skill_attribute": "removeRabbit"
+                                    "skill_attribute": "removeRabbit",
+                                    "skill_tage": "own"
                                 }
                             ]
                         }
@@ -6724,7 +6760,8 @@
                             "hittime": 0,
                             "effect": [
                                 {
-                                    "skill_attribute": "removeRabbit"
+                                    "skill_attribute": "removeRabbit",
+                                    "skill_tage": "own"
                                 }
                             ]
                         }
@@ -6744,7 +6781,8 @@
                             "hittime": 0,
                             "effect": [
                                 {
-                                    "skill_attribute": "removeRabbit"
+                                    "skill_attribute": "removeRabbit",
+                                    "skill_tage": "own"
                                 }
                             ]
                         }
@@ -6764,7 +6802,8 @@
                             "hittime": 0,
                             "effect": [
                                 {
-                                    "skill_attribute": "removeRabbit"
+                                    "skill_attribute": "removeRabbit",
+                                    "skill_tage": "own"
                                 }
                             ]
                         }
@@ -6784,7 +6823,8 @@
                             "hittime": 0,
                             "effect": [
                                 {
-                                    "skill_attribute": "removeRabbit"
+                                    "skill_attribute": "removeRabbit",
+                                    "skill_tage": "own"
                                 }
                             ]
                         }
