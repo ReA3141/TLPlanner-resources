@@ -6455,7 +6455,7 @@
         {
             "id": "e0117",
             "name": "暴走するくまロボ",
-            "icon": "face/bear_icon.png",
+            "icon": "enemy/bear_icon.png",
             "atk_attribute": "爆発",
             "size": "middle",
             "class": "Goz",
@@ -6623,9 +6623,9 @@
             }
         },
         {
-            "id": "e0117",
+            "id": "e0118",
             "name": "暴走するうさロボ",
-            "icon": "face/rabbit_icon.png",
+            "icon": "enemy/rabbit_icon.png",
             "atk_attribute": "爆発",
             "size": "middle",
             "class": "Goz",
