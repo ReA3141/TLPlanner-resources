@@ -2123,6 +2123,672 @@
             }
         },
         {
+            "id": "e0006",
+            "name": "ペロロジラ",
+            "img": "enemy/Perorozilla.png",
+            "icon": "enemy/Perorozilla_icon.png",
+            "time": 240000,
+            "atk_attribute": "神秘",
+            "terr": [
+                "indoor",
+                "outdoor"
+            ],
+            "size": "superBig",
+            "class": "PERO",
+            "difficulty": {
+                "NORMAL": {
+                    "HP": 380000,
+                    "def": 4000,
+                    "avoid": 100,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 17,
+                    "damage_regist": 0,
+                    "GGauge": 100000000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "白熱眼光",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "remain",
+                                    "skill_pattern": "one",
+                                    "skill_tage": "enemy",
+                                    "skilltime": 10,
+                                    "rate": 90
+                                },
+                                {
+                                    "skill_attribute": "def",
+                                    "skill_tage": "enemy",
+                                    "skilltime": 60,
+                                    "rate": 9999
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "泡沫",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "all",
+                                    "skill_tage": "enemy",
+                                    "rate": 400
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "ペロロミニオン召喚",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "summonMinion",
+                                    "skill_tage": "own",
+                                    "rate": 400
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "ペロロミニオン吸収",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "absorpMinion",
+                                    "skill_tage": "own",
+                                    "rate": "1/7"
+                                }
+                            ]
+                        },
+                        "skill_4": {
+                            "skillname": "ハイパースパイラル熱視線",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_tage": "all",
+                                    "rate": 300
+                                }
+                            ]
+                        }
+                    }
+                },
+                "HARD": {
+                    "HP": 1100000,
+                    "def": 4000,
+                    "avoid": 100,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 25,
+                    "damage_regist": 0,
+                    "GGauge": 100000000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "白熱眼光",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "remain",
+                                    "skill_pattern": "one",
+                                    "skill_tage": "enemy",
+                                    "skilltime": 10,
+                                    "rate": 90
+                                },
+                                {
+                                    "skill_attribute": "def",
+                                    "skill_tage": "enemy",
+                                    "skilltime": 60,
+                                    "rate": 9999
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "泡沫",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "all",
+                                    "skill_tage": "enemy",
+                                    "rate": 400
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "ペロロミニオン召喚",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "summonMinion",
+                                    "skill_tage": "own",
+                                    "rate": 400
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "ペロロミニオン吸収",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "absorpMinion",
+                                    "skill_tage": "own",
+                                    "rate": "1/7"
+                                }
+                            ]
+                        },
+                        "skill_4": {
+                            "skillname": "ハイパースパイラル熱視線",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_tage": "all",
+                                    "rate": 300
+                                }
+                            ]
+                        }
+                    }
+                },
+                "VERYHARD": {
+                    "HP": 1600000,
+                    "def": 4000,
+                    "avoid": 100,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 35,
+                    "damage_regist": 0,
+                    "GGauge": 100000000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "白熱眼光",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "remain",
+                                    "skill_pattern": "one",
+                                    "skill_tage": "enemy",
+                                    "skilltime": 10,
+                                    "rate": 90
+                                },
+                                {
+                                    "skill_attribute": "def",
+                                    "skill_tage": "enemy",
+                                    "skilltime": 60,
+                                    "rate": 9999
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "泡沫",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "all",
+                                    "skill_tage": "enemy",
+                                    "rate": 400
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "ペロロミニオン召喚",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "summonMinion",
+                                    "skill_tage": "own",
+                                    "rate": 400
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "ペロロミニオン吸収",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "absorpMinion",
+                                    "skill_tage": "own",
+                                    "rate": "1/7"
+                                }
+                            ]
+                        },
+                        "skill_4": {
+                            "skillname": "ハイパースパイラル熱視線",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_tage": "all",
+                                    "rate": 300
+                                }
+                            ]
+                        }
+                    }
+                },
+                "HARDCORE": {
+                    "HP": 2500000,
+                    "def": 4000,
+                    "avoid": 100,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 50,
+                    "damage_regist": 0,
+                    "GGauge": 100000000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "白熱眼光",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "remain",
+                                    "skill_pattern": "one",
+                                    "skill_tage": "enemy",
+                                    "skilltime": 10,
+                                    "rate": 90
+                                },
+                                {
+                                    "skill_attribute": "def",
+                                    "skill_tage": "enemy",
+                                    "skilltime": 60,
+                                    "rate": 9999
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "泡沫",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "all",
+                                    "skill_tage": "enemy",
+                                    "rate": 400
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "ペロロミニオン召喚",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "summonMinion",
+                                    "skill_tage": "own",
+                                    "rate": 400
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "ペロロミニオン吸収",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "absorpMinion",
+                                    "skill_tage": "own",
+                                    "rate": "1/7"
+                                }
+                            ]
+                        },
+                        "skill_4": {
+                            "skillname": "ハイパースパイラル熱視線",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_tage": "all",
+                                    "rate": 300
+                                }
+                            ]
+                        }
+                    }
+                },
+                "EXTREAM": {
+                    "HP": 8000000,
+                    "def": 4000,
+                    "avoid": 100,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 70,
+                    "damage_regist": 0,
+                    "GGauge": 100000000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "白熱眼光",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "remain",
+                                    "skill_pattern": "one",
+                                    "skill_tage": "enemy",
+                                    "skilltime": 10,
+                                    "rate": 90
+                                },
+                                {
+                                    "skill_attribute": "def",
+                                    "skill_tage": "enemy",
+                                    "skilltime": 60,
+                                    "rate": 9999
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "泡沫",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "all",
+                                    "skill_tage": "enemy",
+                                    "rate": 400
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "ペロロミニオン召喚",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "summonMinion",
+                                    "skill_tage": "own",
+                                    "rate": 400
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "ペロロミニオン吸収",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "absorpMinion",
+                                    "skill_tage": "own",
+                                    "rate": "1/7"
+                                }
+                            ]
+                        },
+                        "skill_4": {
+                            "skillname": "ハイパースパイラル熱視線",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_tage": "all",
+                                    "rate": 300
+                                }
+                            ]
+                        }
+                    }
+                },
+                "INSANE": {
+                    "HP": 22000000,
+                    "def": 6000,
+                    "avoid": 100,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 80,
+                    "Lv": 80,
+                    "damage_regist": 0,
+                    "GGauge": 100000000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "白熱眼光",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "remain",
+                                    "skill_pattern": "one",
+                                    "skill_tage": "enemy",
+                                    "skilltime": 10,
+                                    "rate": 90
+                                },
+                                {
+                                    "skill_attribute": "def",
+                                    "skill_tage": "enemy",
+                                    "skilltime": 60,
+                                    "rate": 9999
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "泡沫",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "all",
+                                    "skill_tage": "enemy",
+                                    "rate": 400
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "ペロロミニオン召喚",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "summonMinion",
+                                    "skill_tage": "own",
+                                    "rate": 400
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "ペロロミニオン吸収",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "absorpMinion",
+                                    "skill_tage": "own",
+                                    "rate": "1/10"
+                                }
+                            ]
+                        },
+                        "skill_4": {
+                            "skillname": "ハイパースパイラル熱視線",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_tage": "all",
+                                    "rate": 300
+                                }
+                            ]
+                        }
+                    }
+                },
+                "TORMENT": {
+                    "HP": 44000000,
+                    "def": 7000,
+                    "avoid": 100,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 80,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "GGauge": 100000000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "白熱眼光",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "remain",
+                                    "skill_pattern": "all",
+                                    "skill_tage": "enemy",
+                                    "skilltime": 10,
+                                    "rate": 90
+                                },
+                                {
+                                    "skill_attribute": "def",
+                                    "skill_tage": "all",
+                                    "skilltime": 60,
+                                    "rate": 9999
+                                },
+                                {
+                                    "skill_attribute": "atk_debaff",
+                                    "skill_tage": "all",
+                                    "skilltime": 40,
+                                    "rate": 50
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "泡沫",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "all",
+                                    "skill_tage": "enemy",
+                                    "rate": 400
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "ペロロミニオン召喚",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "summonMinion",
+                                    "skill_tage": "own",
+                                    "rate": 400
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "ペロロミニオン吸収",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "absorpMinion",
+                                    "skill_tage": "own",
+                                    "rate": "1/12"
+                                }
+                            ]
+                        },
+                        "skill_4": {
+                            "skillname": "ハイパースパイラル熱視線",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_tage": "all",
+                                    "rate": 300
+                                }
+                            ]
+                        },
+                        "skill_5": {
+                            "skillname": "バーニングペロロジラ",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "sp_atk",
+                                    "start": true,
+                                    "skill_tage": "own",
+                                    "rate": 50
+                                }
+                            ]
+                        }
+                    }
+                },
+                "LUNATIC": {
+                    "HP": 176000000,
+                    "def": 4000,
+                    "avoid": 100,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 80,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "GGauge": 2000000000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "白熱眼光",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "remain",
+                                    "skill_pattern": "all",
+                                    "skill_tage": "enemy",
+                                    "skilltime": 10,
+                                    "rate": 90
+                                },
+                                {
+                                    "skill_attribute": "def",
+                                    "skill_tage": "all",
+                                    "skilltime": 60,
+                                    "rate": 9999
+                                },
+                                {
+                                    "skill_attribute": "atk_debaff",
+                                    "skill_tage": "all",
+                                    "skilltime": 40,
+                                    "rate": 50
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "泡沫",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "all",
+                                    "skill_tage": "enemy",
+                                    "rate": 400
+                                },
+                                {
+                                    "skill_attribute": "def",
+                                    "skill_tage": "all",
+                                    "skilltime": 60,
+                                    "rate": 9999
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "ペロロミニオン召喚",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "summonMinion",
+                                    "skill_tage": "own",
+                                    "rate": 400
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "ペロロミニオン吸収",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "absorpMinion",
+                                    "skill_tage": "own",
+                                    "rate": "1/7"
+                                }
+                            ]
+                        },
+                        "skill_4": {
+                            "skillname": "ハイパースパイラル熱視線",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_tage": "all",
+                                    "rate": 300
+                                }
+                            ]
+                        },
+                        "skill_5": {
+                            "skillname": "バーニングペロロジラ",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "sp_atk",
+                                    "start": true,
+                                    "skill_tage": "own",
+                                    "rate": 200
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        {
             "id": "e0007",
             "name": "ホド",
             "img": "enemy/HOD.png",
@@ -5102,6 +5768,83 @@
             }
         },
         {
+            "id": "e0108",
+            "name": "紫色の聖遺物",
+            "icon": "enemy/holyrelic_purple.png",
+            "atk_attribute": "爆発",
+            "size": "middle",
+            "class": "Hieronymus",
+            "difficulty": {
+                "INSANE": {
+                    "HP": 40000,
+                    "def": 2000,
+                    "avoid": 1,
+                    "cri_regist": 999999,
+                    "cri_damage_regist": 50,
+                    "Lv": 80,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "不浄なる光(聖遺物)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "atk",
+                                    "skill_tage": "all",
+                                    "rate": 25
+                                },
+                                {
+                                    "skill_attribute": "def",
+                                    "rate": 1500
+                                }
+                            ]
+                        }
+                    }
+                },
+                "TORMENT": {
+                    "HP": 60000,
+                    "def": 2000,
+                    "avoid": 1,
+                    "cri_regist": 999999,
+                    "cri_damage_regist": 50,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "不浄なる光(聖遺物)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "atk",
+                                    "skill_tage": "all",
+                                    "rate": 25
+                                },
+                                {
+                                    "skill_attribute": "damage_up_atk",
+                                    "skill_tage": "all",
+                                    "rate": 25
+                                },
+                                {
+                                    "skill_attribute": "def",
+                                    "rate": 1500
+                                }
+                            ]
+                        }
+                    }
+                },
+                "LUNATIC": {
+                    "HP": 984849,
+                    "def": 1000,
+                    "avoid": 500,
+                    "cri_regist": 200,
+                    "cri_damage_regist": 80,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "skill": {}
+                }
+            }
+        },
+        {
             "id": "e0109",
             "name": "カイテンジャーレッド",
             "icon": "enemy/kaitenranger_red.png",
@@ -5991,88 +6734,331 @@
             }
         },
         {
-            "id": "e0119",
-            "name": "聖歌隊",
-            "icon": "enemy/gregorius_choir.png",
+            "id": "e0114",
+            "name": "大きなペロロミニオン",
+            "icon": "enemy/Perorozilla_middle_icon.png",
             "atk_attribute": "神秘",
             "size": "middle",
-            "class": "Gregorius",
+            "class": "PERO",
             "difficulty": {
                 "NORMAL": {
-                    "HP": 6667,
-                    "def": 1000,
-                    "avoid": 500,
-                    "cri_regist": 200,
+                    "HP": 29288,
+                    "def": 4000,
+                    "avoid": 100,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 17,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "転倒",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "fell_down",
+                                    "skill_tage": "own",
+                                    "rate": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "HARD": {
+                    "HP": 41307,
+                    "def": 4000,
+                    "avoid": 100,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 25,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "転倒",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "fell_down",
+                                    "skill_tage": "own",
+                                    "rate": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "VERYHARD": {
+                    "HP": 56331,
+                    "def": 4000,
+                    "avoid": 100,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 35,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "転倒",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "fell_down",
+                                    "skill_tage": "own",
+                                    "rate": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "HARDCORE": {
+                    "HP": 78866,
+                    "def": 4000,
+                    "avoid": 100,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 50,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "転倒",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "fell_down",
+                                    "skill_tage": "own",
+                                    "rate": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "EXTREAM": {
+                    "HP": 228751,
+                    "def": 4000,
+                    "avoid": 100,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 70,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "転倒",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "fell_down",
+                                    "skill_tage": "own",
+                                    "rate": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "INSANE": {
+                    "HP": 250000,
+                    "def": 6000,
+                    "avoid": 100,
+                    "cri_regist": 100,
                     "cri_damage_regist": 80,
+                    "Lv": 80,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "転倒",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "fell_down",
+                                    "skill_tage": "own",
+                                    "rate": 0
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "転倒(輝く)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "fell_down",
+                                    "skill_tage": "own",
+                                    "rate": 200000
+                                }
+                            ]
+                        }
+                    }
+                },
+                "TORMENT": {
+                    "HP": 310000,
+                    "def": 6000,
+                    "avoid": 100,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 80,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "転倒",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "fell_down",
+                                    "skill_tage": "own",
+                                    "rate": 0
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "転倒(輝く)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "fell_down",
+                                    "skill_tage": "own",
+                                    "rate": 200000
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "バーニングペロロジラ",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "sp_atk",
+                                    "start": true,
+                                    "skill_tage": "own",
+                                    "rate": 50
+                                }
+                            ]
+                        }
+                    }
+                },
+                "LUNATIC": {
+                    "HP": 350000,
+                    "def": 6000,
+                    "avoid": 100,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 80,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "転倒",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "fell_down",
+                                    "skill_tage": "own",
+                                    "rate": 0
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "転倒(輝く)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "fell_down",
+                                    "skill_tage": "own",
+                                    "rate": 200000
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "バーニングペロロジラ",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "sp_atk",
+                                    "start": true,
+                                    "skill_tage": "own",
+                                    "rate": 200
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": "e0115",
+            "name": "小さなペロロミニオン",
+            "icon": "enemy/Perorozilla_small_icon.png",
+            "atk_attribute": "神秘",
+            "size": "small",
+            "class": "PERO",
+            "difficulty": {
+                "NORMAL": {
+                    "HP": 29288,
+                    "def": 2000,
+                    "avoid": 100,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
                     "Lv": 17,
                     "damage_regist": 0,
                     "skill": {}
                 },
                 "HARD": {
-                    "HP": 15000,
-                    "def": 1000,
-                    "avoid": 500,
-                    "cri_regist": 200,
-                    "cri_damage_regist": 80,
+                    "HP": 41307,
+                    "def": 2000,
+                    "avoid": 100,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
                     "Lv": 25,
                     "damage_regist": 0,
                     "skill": {}
                 },
                 "VERYHARD": {
-                    "HP": 24000,
-                    "def": 1000,
-                    "avoid": 500,
-                    "cri_regist": 200,
-                    "cri_damage_regist": 80,
+                    "HP": 56331,
+                    "def": 2000,
+                    "avoid": 100,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
                     "Lv": 35,
                     "damage_regist": 0,
                     "skill": {}
                 },
                 "HARDCORE": {
-                    "HP": 40000,
-                    "def": 1000,
-                    "avoid": 500,
-                    "cri_regist": 200,
-                    "cri_damage_regist": 80,
+                    "HP": 78866,
+                    "def": 2000,
+                    "avoid": 100,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
                     "Lv": 50,
                     "damage_regist": 0,
                     "skill": {}
                 },
                 "EXTREAM": {
-                    "HP": 160000,
-                    "def": 1000,
-                    "avoid": 500,
-                    "cri_regist": 200,
-                    "cri_damage_regist": 80,
+                    "HP": 108929,
+                    "def": 2000,
+                    "avoid": 100,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
                     "Lv": 70,
                     "damage_regist": 0,
                     "skill": {}
                 },
                 "INSANE": {
-                    "HP": 636364,
-                    "def": 1000,
-                    "avoid": 500,
-                    "cri_regist": 200,
-                    "cri_damage_regist": 80,
+                    "HP": 123953,
+                    "def": 2000,
+                    "avoid": 100,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
                     "Lv": 80,
                     "damage_regist": 0,
                     "skill": {}
                 },
                 "TORMENT": {
-                    "HP": 757576,
-                    "def": 1000,
-                    "avoid": 500,
-                    "cri_regist": 200,
+                    "HP": 800000,
+                    "def": 2000,
+                    "avoid": 100,
+                    "cri_regist": 100,
                     "cri_damage_regist": 80,
                     "Lv": 90,
                     "damage_regist": 0,
                     "skill": {}
                 },
                 "LUNATIC": {
-                    "HP": 984849,
-                    "def": 1000,
-                    "avoid": 500,
-                    "cri_regist": 200,
+                    "HP": 1000000,
+                    "def": 2000,
+                    "avoid": 100,
+                    "cri_regist": 100,
                     "cri_damage_regist": 80,
                     "Lv": 90,
                     "damage_regist": 0,
@@ -6829,6 +7815,96 @@
                             ]
                         }
                     }
+                }
+            }
+        },
+        {
+            "id": "e0119",
+            "name": "聖歌隊",
+            "icon": "enemy/gregorius_choir.png",
+            "atk_attribute": "神秘",
+            "size": "middle",
+            "class": "Gregorius",
+            "difficulty": {
+                "NORMAL": {
+                    "HP": 6667,
+                    "def": 1000,
+                    "avoid": 500,
+                    "cri_regist": 200,
+                    "cri_damage_regist": 80,
+                    "Lv": 17,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "HARD": {
+                    "HP": 15000,
+                    "def": 1000,
+                    "avoid": 500,
+                    "cri_regist": 200,
+                    "cri_damage_regist": 80,
+                    "Lv": 25,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "VERYHARD": {
+                    "HP": 24000,
+                    "def": 1000,
+                    "avoid": 500,
+                    "cri_regist": 200,
+                    "cri_damage_regist": 80,
+                    "Lv": 35,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "HARDCORE": {
+                    "HP": 40000,
+                    "def": 1000,
+                    "avoid": 500,
+                    "cri_regist": 200,
+                    "cri_damage_regist": 80,
+                    "Lv": 50,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "EXTREAM": {
+                    "HP": 160000,
+                    "def": 1000,
+                    "avoid": 500,
+                    "cri_regist": 200,
+                    "cri_damage_regist": 80,
+                    "Lv": 70,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "INSANE": {
+                    "HP": 636364,
+                    "def": 1000,
+                    "avoid": 500,
+                    "cri_regist": 200,
+                    "cri_damage_regist": 80,
+                    "Lv": 80,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "TORMENT": {
+                    "HP": 757576,
+                    "def": 1000,
+                    "avoid": 500,
+                    "cri_regist": 200,
+                    "cri_damage_regist": 80,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "LUNATIC": {
+                    "HP": 984849,
+                    "def": 1000,
+                    "avoid": 500,
+                    "cri_regist": 200,
+                    "cri_damage_regist": 80,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "skill": {}
                 }
             }
         },
