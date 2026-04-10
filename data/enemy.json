@@ -5178,6 +5178,805 @@
                     }
                 }
             }
+        },
+        {
+            "id": "e0011",
+            "name": "クロカゲ",
+            "img": "enemy/Kurokage.png",
+            "icon": "enemy/kurokage_icon.png",
+            "time": 240000,
+            "atk_attribute": "神秘",
+            "terr": [
+                "urban"
+            ],
+            "size": "big",
+            "class": "Kurokage",
+            "difficulty": {
+                "NORMAL": {
+                    "HP": 1000000,
+                    "def": 1000,
+                    "avoid": 1,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 10,
+                    "Lv": 17,
+                    "damage_regist": 0,
+                    "GGauge": 200000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "猫鬼の地響き",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 200
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "猫鬼の咆哮",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "all",
+                                    "rate": 250
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "化身を呼ぶ鬼哭",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 200
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "疾走する猫鬼夜行",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 300
+                                }
+                            ]
+                        },
+                        "skill_4": {
+                            "skillname": "広がる街談巷説",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 250
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 250
+                                }
+                            ]
+                        },
+                        "skill_5": {
+                            "skillname": "領域(開始)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "region",
+                                    "skill_tage": "own"
+                                }
+                            ]
+                        },
+                        "skill_6": {
+                            "skillname": "領域(終了)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "region",
+                                    "skill_tage": "own"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "HARD": {
+                    "HP": 1500000,
+                    "def": 2000,
+                    "avoid": 1,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 10,
+                    "Lv": 25,
+                    "damage_regist": 0,
+                    "GGauge": 300000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "猫鬼の地響き",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 200
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "猫鬼の咆哮",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "all",
+                                    "rate": 250
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "化身を呼ぶ鬼哭",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 200
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "疾走する猫鬼夜行",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 300
+                                }
+                            ]
+                        },
+                        "skill_4": {
+                            "skillname": "広がる街談巷説",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 250
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 250
+                                }
+                            ]
+                        },
+                        "skill_5": {
+                            "skillname": "領域(開始)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "region",
+                                    "skill_tage": "own"
+                                }
+                            ]
+                        },
+                        "skill_6": {
+                            "skillname": "領域(終了)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "region",
+                                    "skill_tage": "own"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "VERYHARD": {
+                    "HP": 3000000,
+                    "def": 3000,
+                    "avoid": 1,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 10,
+                    "Lv": 35,
+                    "damage_regist": 0,
+                    "GGauge": 600000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "猫鬼の地響き",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 200
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "猫鬼の咆哮",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "all",
+                                    "rate": 250
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "化身を呼ぶ鬼哭",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 200
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "疾走する猫鬼夜行",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 300
+                                }
+                            ]
+                        },
+                        "skill_4": {
+                            "skillname": "広がる街談巷説",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 250
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 250
+                                }
+                            ]
+                        },
+                        "skill_5": {
+                            "skillname": "領域(開始)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "region",
+                                    "skill_tage": "own"
+                                }
+                            ]
+                        },
+                        "skill_6": {
+                            "skillname": "領域(終了)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "region",
+                                    "skill_tage": "own"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "HARDCORE": {
+                    "HP": 4500000,
+                    "def": 4000,
+                    "avoid": 1,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 10,
+                    "Lv": 50,
+                    "damage_regist": 0,
+                    "GGauge": 900000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "猫鬼の地響き",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 200
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "猫鬼の咆哮",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "all",
+                                    "rate": 250
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "化身を呼ぶ鬼哭",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 200
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "疾走する猫鬼夜行",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 300
+                                }
+                            ]
+                        },
+                        "skill_4": {
+                            "skillname": "広がる街談巷説",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 250
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 250
+                                }
+                            ]
+                        },
+                        "skill_5": {
+                            "skillname": "領域(開始)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "region",
+                                    "skill_tage": "own"
+                                }
+                            ]
+                        },
+                        "skill_6": {
+                            "skillname": "領域(終了)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "region",
+                                    "skill_tage": "own"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "EXTREAM": {
+                    "HP": 18000000,
+                    "def": 5000,
+                    "avoid": 1,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 10,
+                    "Lv": 70,
+                    "damage_regist": 0,
+                    "GGauge": 3600000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "猫鬼の地響き",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 200
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "猫鬼の咆哮",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "all",
+                                    "rate": 250
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "化身を呼ぶ鬼哭",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 200
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "疾走する猫鬼夜行",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 300
+                                }
+                            ]
+                        },
+                        "skill_4": {
+                            "skillname": "広がる街談巷説",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 250
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 250
+                                }
+                            ]
+                        },
+                        "skill_5": {
+                            "skillname": "領域(開始)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "region",
+                                    "skill_tage": "own"
+                                }
+                            ]
+                        },
+                        "skill_6": {
+                            "skillname": "領域(終了)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "region",
+                                    "skill_tage": "own"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "INSANE": {
+                    "HP": 46000000,
+                    "def": 6000,
+                    "avoid": 1,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 10,
+                    "Lv": 80,
+                    "damage_regist": 0,
+                    "GGauge": 9200000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "猫鬼の地響き",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 200
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "猫鬼の咆哮",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "all",
+                                    "rate": 250
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "化身を呼ぶ鬼哭",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 400
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "疾走する猫鬼夜行",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 300
+                                }
+                            ]
+                        },
+                        "skill_4": {
+                            "skillname": "広がる街談巷説",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 250
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 250
+                                }
+                            ]
+                        },
+                        "skill_5": {
+                            "skillname": "領域(開始)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "region",
+                                    "skill_tage": "own"
+                                }
+                            ]
+                        },
+                        "skill_6": {
+                            "skillname": "領域(終了)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "region",
+                                    "skill_tage": "own"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "TORMENT": {
+                    "HP": 70000000,
+                    "def": 7000,
+                    "avoid": 1,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 10,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "GGauge": 14000000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "猫鬼の地響き",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 200
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "猫鬼の咆哮",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "all",
+                                    "rate": 250
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "化身を呼ぶ鬼哭",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 400
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "疾走する猫鬼夜行",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 300
+                                }
+                            ]
+                        },
+                        "skill_4": {
+                            "skillname": "広がる街談巷説",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 250
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 250
+                                }
+                            ]
+                        },
+                        "skill_5": {
+                            "skillname": "領域(開始)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "region",
+                                    "skill_tage": "own"
+                                }
+                            ]
+                        },
+                        "skill_6": {
+                            "skillname": "領域(終了)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "region",
+                                    "skill_tage": "own"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "LUNATIC": {
+                    "HP": 159600000,
+                    "def": 8000,
+                    "avoid": 1,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 40,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "GGauge": 31920000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "猫鬼の地響き",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 200
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "猫鬼の咆哮",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "all",
+                                    "rate": 250
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "化身を呼ぶ鬼哭",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 400
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "疾走する猫鬼夜行",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 300
+                                }
+                            ]
+                        },
+                        "skill_4": {
+                            "skillname": "広がる街談巷説",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 250
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 250
+                                }
+                            ]
+                        },
+                        "skill_5": {
+                            "skillname": "領域(開始)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "region",
+                                    "skill_tage": "own"
+                                }
+                            ]
+                        },
+                        "skill_6": {
+                            "skillname": "領域(終了)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "region",
+                                    "skill_tage": "own"
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
         }
     ],
     "ENEMIES": [
@@ -8386,6 +9185,96 @@
                             ]
                         }
                     }
+                }
+            }
+        },
+        {
+            "id": "e0122",
+            "name": "クロカゲの片鱗",
+            "icon": "enemy/kurokage_spirit_icon.png",
+            "atk_attribute": "神秘",
+            "size": "middle",
+            "class": "Kurokage",
+            "difficulty": {
+                "NORMAL": {
+                    "HP": 1000000,
+                    "def": 1000,
+                    "avoid": 1,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 10,
+                    "Lv": 17,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "HARD": {
+                    "HP": 1500000,
+                    "def": 2000,
+                    "avoid": 1,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 10,
+                    "Lv": 25,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "VERYHARD": {
+                    "HP": 3000000,
+                    "def": 3000,
+                    "avoid": 1,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 10,
+                    "Lv": 35,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "HARDCORE": {
+                    "HP": 4500000,
+                    "def": 1000,
+                    "avoid": 1,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 10,
+                    "Lv": 50,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "EXTREAM": {
+                    "HP": 18000000,
+                    "def": 5000,
+                    "avoid": 1,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 10,
+                    "Lv": 70,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "INSANE": {
+                    "HP": 46000000,
+                    "def": 6000,
+                    "avoid": 1,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 10,
+                    "Lv": 80,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "TORMENT": {
+                    "HP": 70000000,
+                    "def": 7000,
+                    "avoid": 1,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 10,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "LUNATIC": {
+                    "HP": 159600000,
+                    "def": 8000,
+                    "avoid": 1,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 40,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "skill": {}
                 }
             }
         }
