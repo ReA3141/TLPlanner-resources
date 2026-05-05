@@ -2110,15 +2110,103 @@
                     }
                 },
                 "LUNATIC": {
-                    "HP": 0,
-                    "def": 0,
+                    "HP": 120000000,
+                    "def": 420,
                     "avoid": 100,
                     "cri_regist": 20,
                     "cri_damage_regist": 80,
                     "Lv": 90,
                     "damage_regist": 0,
-                    "GGauge": 0,
-                    "skill": {}
+                    "GGauge": 2000000000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "無限回転・SUPER海老マシンガン",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 2400
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "無限回転・HYPER鰯ミサイル",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 300
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "無限回転・ULTRAお皿シールド",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage_up_baff",
+                                    "skill_tage": "own",
+                                    "rate": 50
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "無限回転・FINAL鯖スラッシュ",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 400
+                                }
+                            ]
+                        },
+                        "skill_4": {
+                            "skillname": "無限回転・MEGA玉子オーバーチャージ",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "atk",
+                                    "skill_tage": "own",
+                                    "rate": 4000
+                                }
+                            ]
+                        },
+                        "skill_5": {
+                            "skillname": "心を燃やせ......まだまだ回れる！(ピンク)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "atk",
+                                    "skill_tage": "own",
+                                    "rate": 100
+                                }
+                            ]
+                        },
+                        "skill_6": {
+                            "skillname": "心を燃やせ......まだまだ回れる！(レッド)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "knockOut",
+                                    "skilltime": 5
+                                }
+                            ]
+                        },
+                        "skill_7": {
+                            "skillname": "心を燃やせ......まだまだ回れる！(グリーン)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "my_def",
+                                    "skill_tage": "own",
+                                    "rate": 1000
+                                }
+                            ]
+                        }
+                    }
                 }
             }
         },
@@ -6818,14 +6906,45 @@
                     }
                 },
                 "LUNATIC": {
-                    "HP": 984849,
-                    "def": 1000,
-                    "avoid": 500,
-                    "cri_regist": 200,
+                    "HP": 230000000,
+                    "def": 1332,
+                    "avoid": 300,
+                    "cri_regist": 100,
                     "cri_damage_regist": 80,
                     "Lv": 90,
                     "damage_regist": 0,
-                    "skill": {}
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "カイテンポーズ！熱血のレッド！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "provoke",
+                                    "skill_tage": "all",
+                                    "skilltime": 10
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "悪党め！卑怯なり！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage_up_debaff",
+                                    "skill_tage": "own",
+                                    "skilltime": 15,
+                                    "rate": 80
+                                },
+                                {
+                                    "skill_attribute": "cri",
+                                    "skill_tage": "all",
+                                    "skilltime": 15,
+                                    "duplicate": 5,
+                                    "rate": 10
+                                }
+                            ]
+                        }
+                    }
                 }
             }
         },
@@ -6852,8 +6971,8 @@
                             "effect": [
                                 {
                                     "skill_attribute": "damage_up_debaff",
-                                    "skill_tage": "all",
-                                    "skilltime": 10,
+                                    "skill_tage": "enemy",
+                                    "skilltime": 5,
                                     "rate": 50
                                 }
                             ]
@@ -6875,8 +6994,8 @@
                             "effect": [
                                 {
                                     "skill_attribute": "damage_up_debaff",
-                                    "skill_tage": "all",
-                                    "skilltime": 10,
+                                    "skill_tage": "enemy",
+                                    "skilltime": 5,
                                     "rate": 50
                                 }
                             ]
@@ -6898,8 +7017,8 @@
                             "effect": [
                                 {
                                     "skill_attribute": "damage_up_debaff",
-                                    "skill_tage": "all",
-                                    "skilltime": 10,
+                                    "skill_tage": "enemy",
+                                    "skilltime": 5,
                                     "rate": 50
                                 }
                             ]
@@ -6921,8 +7040,8 @@
                             "effect": [
                                 {
                                     "skill_attribute": "damage_up_debaff",
-                                    "skill_tage": "all",
-                                    "skilltime": 10,
+                                    "skill_tage": "enemy",
+                                    "skilltime": 5,
                                     "rate": 50
                                 }
                             ]
@@ -6944,8 +7063,8 @@
                             "effect": [
                                 {
                                     "skill_attribute": "damage_up_debaff",
-                                    "skill_tage": "all",
-                                    "skilltime": 10,
+                                    "skill_tage": "enemy",
+                                    "skilltime": 5,
                                     "rate": 50
                                 }
                             ]
@@ -6967,8 +7086,8 @@
                             "effect": [
                                 {
                                     "skill_attribute": "damage_up_debaff",
-                                    "skill_tage": "all",
-                                    "skilltime": 10,
+                                    "skill_tage": "enemy",
+                                    "skilltime": 5,
                                     "rate": 50
                                 }
                             ]
@@ -6990,8 +7109,8 @@
                             "effect": [
                                 {
                                     "skill_attribute": "damage_up_debaff",
-                                    "skill_tage": "all",
-                                    "skilltime": 10,
+                                    "skill_tage": "enemy",
+                                    "skilltime": 5,
                                     "rate": 50
                                 }
                             ]
@@ -6999,14 +7118,27 @@
                     }
                 },
                 "LUNATIC": {
-                    "HP": 984849,
-                    "def": 1000,
-                    "avoid": 500,
-                    "cri_regist": 200,
+                    "HP": 230000000,
+                    "def": 333,
+                    "avoid": 300,
+                    "cri_regist": 100,
                     "cri_damage_regist": 80,
                     "Lv": 90,
                     "damage_regist": 0,
-                    "skill": {}
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "カイテンポーズ！冷徹なブラック！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage_up_debaff",
+                                    "skill_tage": "all",
+                                    "skilltime": 5,
+                                    "rate": 50
+                                }
+                            ]
+                        }
+                    }
                 }
             }
         },
@@ -7173,14 +7305,26 @@
                     }
                 },
                 "LUNATIC": {
-                    "HP": 984849,
-                    "def": 1000,
-                    "avoid": 500,
-                    "cri_regist": 200,
+                    "HP": 230000000,
+                    "def": 333,
+                    "avoid": 300,
+                    "cri_regist": 100,
                     "cri_damage_regist": 80,
                     "Lv": 90,
                     "damage_regist": 0,
-                    "skill": {}
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "カイテンポーズ！休出のグリーン......",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 400
+                                }
+                            ]
+                        }
+                    }
                 }
             }
         },
@@ -7347,14 +7491,26 @@
                     }
                 },
                 "LUNATIC": {
-                    "HP": 984849,
-                    "def": 1000,
-                    "avoid": 500,
-                    "cri_regist": 200,
+                    "HP": 230000000,
+                    "def": 333,
+                    "avoid": 300,
+                    "cri_regist": 100,
                     "cri_damage_regist": 80,
                     "Lv": 90,
                     "damage_regist": 0,
-                    "skill": {}
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "カイテンポーズ！気合のイエロー！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "one",
+                                    "skilltime": 500
+                                }
+                            ]
+                        }
+                    }
                 }
             }
         },
@@ -7521,14 +7677,26 @@
                     }
                 },
                 "LUNATIC": {
-                    "HP": 984849,
-                    "def": 1000,
-                    "avoid": 500,
-                    "cri_regist": 200,
+                    "HP": 230000000,
+                    "def": 333,
+                    "avoid": 300,
+                    "cri_regist": 100,
                     "cri_damage_regist": 80,
                     "Lv": 90,
                     "damage_regist": 0,
-                    "skill": {}
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "カイテンポーズ！純情のピンク！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "atk",
+                                    "skill_tage": "all",
+                                    "rate": 6
+                                }
+                            ]
+                        }
+                    }
                 }
             }
         },
