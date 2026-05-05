@@ -6938,6 +6938,7 @@
                                 {
                                     "skill_attribute": "cri",
                                     "skill_tage": "all",
+                                    "amount": "target",
                                     "skilltime": 15,
                                     "duplicate": 5,
                                     "rate": 10
