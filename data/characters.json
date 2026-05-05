@@ -44160,7 +44160,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "tacticalShield",
-                                "skill_pattern": "own",
+                                "skill_tage": "own",
                                 "skilltime": 10,
                                 "rate": [
                                     226,
@@ -44184,6 +44184,7 @@
                             },
                             {
                                 "skill_attribute": "knockOut",
+                                "skilltime": 3.1,
                                 "deleyTime": 10.833,
                                 "skill_tage": "enemy",
                                 "rate": [
