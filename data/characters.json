@@ -43922,7 +43922,7 @@
                     "default": {
                         "skillname": "ここにいる私",
                         "cost": 2,
-                        "hittime": 0.0,
+                        "hittime": 2.6,
                         "cooltime": 4.167,
                         "effect": [
                             {
