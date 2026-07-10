@@ -16167,11 +16167,6 @@
                             {
                                 "skill_attribute": "weakpoint",
                                 "skilltime": 10,
-                                "skill_tage": "enemy"
-                            },
-                            {
-                                "skill_attribute": "weakpoint_damage",
-                                "skilltime": 10,
                                 "skill_tage": "enemy",
                                 "effectLimit": 120,
                                 "rate": [
@@ -16240,11 +16235,6 @@
                             },
                             {
                                 "skill_attribute": "weakpoint",
-                                "skilltime": 5,
-                                "skill_tage": "enemy"
-                            },
-                            {
-                                "skill_attribute": "weakpoint_damage",
                                 "skilltime": 5,
                                 "skill_tage": "enemy",
                                 "effectLimit": 50,
@@ -26804,11 +26794,6 @@
                             {
                                 "skill_attribute": "weakpoint",
                                 "skilltime": 30,
-                                "skill_tage": "enemy"
-                            },
-                            {
-                                "skill_attribute": "weakpoint_damage",
-                                "skilltime": 30,
                                 "skill_tage": "enemy",
                                 "effectLimit": 480,
                                 "rate": [
@@ -36371,11 +36356,6 @@
                             {
                                 "skill_attribute": "weakpoint",
                                 "skilltime": 20,
-                                "skill_tage": "enemy"
-                            },
-                            {
-                                "skill_attribute": "weakpoint_damage",
-                                "skilltime": 20,
                                 "skill_tage": "enemy",
                                 "effectLimit": 240,
                                 "rate": [
@@ -36410,11 +36390,6 @@
                             },
                             {
                                 "skill_attribute": "weakpoint",
-                                "skilltime": 20,
-                                "skill_tage": "enemy"
-                            },
-                            {
-                                "skill_attribute": "weakpoint_damage",
                                 "skilltime": 20,
                                 "skill_tage": "enemy",
                                 "effectLimit": 240,
@@ -59789,11 +59764,6 @@
                             },
                             {
                                 "skill_attribute": "weakpoint",
-                                "skill_tage": "enemy",
-                                "skilltime": 20
-                            },
-                            {
-                                "skill_attribute": "weakpoint_damage",
                                 "skill_tage": "enemy",
                                 "skilltime": 20,
                                 "effectLimit": 240,
