@@ -44149,6 +44149,13 @@
                                 "skill_attribute": "formChange",
                                 "skill_tage": "own",
                                 "skilltime": 10,
+                                "dps": {
+                                    "hit": 25,
+                                    "hits": 5,
+                                    "delay": 100,
+                                    "reload": 50,
+                                    "beforeTime": 150
+                                },
                                 "rate": [
                                     0,
                                     0,
