@@ -20570,6 +20570,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "add_damage",
+                                "allow": "big",
                                 "skill_tage": "enemy",
                                 "hitAmount": 1,
                                 "rate": [
