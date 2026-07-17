@@ -25021,7 +25021,8 @@
                                 ]
                             },
                             {
-                                "skill_attribute": "clear_debaff"
+                                "skill_attribute": "clear_debaff",
+                                "skill_tage": "ignoreAll"
                             }
                         ]
                     }
@@ -25331,16 +25332,52 @@
                                 "skill_tage": "enemy",
                                 "hitAmount": 1,
                                 "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
+                                    445,
+                                    467,
+                                    490,
+                                    579,
+                                    601,
+                                    623,
+                                    712,
+                                    735,
+                                    757,
+                                    846
+                                ]
+                            },
+                            {
+                                "skill_attribute": "add_damage",
+                                "skill_pattern": "one",
+                                "skill_tage": "enemy",
+                                "hitAmount": 1,
+                                "rate": [
+                                    668,
+                                    701,
+                                    735,
+                                    868,
+                                    902,
+                                    935,
+                                    1069,
+                                    1102,
+                                    1136,
+                                    1269
+                                ]
+                            },
+                            {
+                                "skill_attribute": "add_damage",
+                                "skill_pattern": "one",
+                                "skill_tage": "enemy",
+                                "hitAmount": 1,
+                                "rate": [
+                                    891,
+                                    935,
+                                    980,
+                                    1158,
+                                    1203,
+                                    1247,
+                                    1425,
+                                    1470,
+                                    1515,
+                                    1693
                                 ]
                             }
                         ]
@@ -41110,6 +41147,9 @@
                                     1152,
                                     1368
                                 ]
+                            },
+                            {
+                                "skill_attribute": "causeOfSS"
                             }
                         ]
                     }
