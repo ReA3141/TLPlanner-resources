@@ -44077,6 +44077,225 @@
             }
         },
         {
+            "id": "st0173",
+            "name": "エイミ（臨戦）",
+            "img": "standing/エイミ（臨戦）.png",
+            "icon": "face/エイミ（臨戦）.png",
+            "atk_attribute": "爆発",
+            "def_attribute": "軽装甲",
+            "status": {
+                "atk": 463.4,
+                "heal": 1728.4,
+                "hit": 605,
+                "avoid": 198,
+                "cri": 246,
+                "cri_damage": 200,
+                "penetrate": 0,
+                "balance": 1384,
+                "urban": "S",
+                "outdoor": "D",
+                "indoor": "A"
+            },
+            "dps": {
+                "hit": 5,
+                "hits": 1,
+                "delay": 108,
+                "reload": 54,
+                "beforeTime": 112
+            },
+            "limit": [
+                4,
+                4,
+                4,
+                4,
+                4,
+                3,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                3,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4
+            ],
+            "weapon": [
+                {
+                    "wep1": "グローブ",
+                    "wep2": "ヘアピン",
+                    "wep3": "腕時計",
+                    "unique_wep": [
+                        {
+                            "atk": 607,
+                            "heal": 0
+                        }
+                    ]
+                }
+            ],
+            "bond": [
+                {
+                    "atk": [
+                        4,
+                        6,
+                        8,
+                        9,
+                        2,
+                        4,
+                        6
+                    ],
+                    "heal": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "class": "エイミ",
+            "skill": {
+                "EX": {
+                    "default": {
+                        "skillname": "現場指定スナイパー",
+                        "cost": 5,
+                        "hittime": 0.766,
+                        "cooltime": 5.567,
+                        "effect": [
+                            {
+                                "skill_attribute": "formChange",
+                                "skill_tage": "own",
+                                "skilltime": 30,
+                                "dps": {
+                                    "hit": 5,
+                                    "hits": 1,
+                                    "delay": 108,
+                                    "reload": 54,
+                                    "beforeTime": 112
+                                },
+                                "rate": [
+                                    173,
+                                    199,
+                                    251,
+                                    277,
+                                    329
+                                ]
+                            },
+                            {
+                                "skill_attribute": "sign",
+                                "skill_tage": "enemy",
+                                "skilltime": 30
+                            },
+                            {
+                                "skill_attribute": "causeOfSS"
+                            }
+                        ]
+                    }
+                },
+                "NS": {
+                    "default": {
+                        "skillname": "シャープシューター",
+                        "hittime": 6.67,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "one",
+                                "hitAmount": 1,
+                                "rate": [
+                                    413,
+                                    434,
+                                    454,
+                                    537,
+                                    558,
+                                    579,
+                                    661,
+                                    682,
+                                    703,
+                                    785
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "NS+": {
+                    "default": {
+                        "skillname": ""
+                    }
+                },
+                "PS": [
+                    {
+                        "skill_attribute": "atk_speed",
+                        "rate": [
+                            14,
+                            14.7,
+                            15.4,
+                            18.2,
+                            18.9,
+                            19.6,
+                            22.4,
+                            23.1,
+                            23.8,
+                            26.6
+                        ]
+                    }
+                ],
+                "PS+": [
+                    {
+                        "skill_attribute": "atk",
+                        "rate": [
+                            455,
+                            478,
+                            501,
+                            592,
+                            614,
+                            637,
+                            728,
+                            751,
+                            774,
+                            865
+                        ]
+                    }
+                ],
+                "SS": {
+                    "default": {
+                        "skillname": "射線上のスペシャリスト",
+                        "hittime": 0.766,
+                        "effect": [
+                            {
+                                "skill_attribute": "sp_atk",
+                                "skill_tage": "own",
+                                "skilltime": 30,
+                                "rate": [
+                                    32.15,
+                                    33.75,
+                                    35.37,
+                                    41.8,
+                                    43.4,
+                                    45,
+                                    51.43,
+                                    53.05,
+                                    54.65,
+                                    61.08
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
             "id": "st0178",
             "name": "クルミ",
             "img": "standing/クルミ.png",
@@ -62379,6 +62598,229 @@
                                     17.6,
                                     18.1,
                                     20.2
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "id": "sp0081",
+            "name": "ユズ（臨戦）",
+            "img": "standing/ユズ（臨戦）.png",
+            "icon": "face/ユズ（臨戦）.png",
+            "atk_attribute": "神秘",
+            "def_attribute": "特殊装甲",
+            "status": {
+                "atk": 424.4,
+                "heal": 1984.4,
+                "hit": 786,
+                "avoid": 190,
+                "cri": 262,
+                "cri_damage": 200,
+                "penetrate": 0,
+                "balance": 1090,
+                "urban": "S",
+                "outdoor": "D",
+                "indoor": "A"
+            },
+            "limit": [
+                7,
+                8,
+                7,
+                7,
+                8,
+                7,
+                7,
+                8,
+                7,
+                7,
+                8,
+                7,
+                7,
+                8,
+                7,
+                7,
+                8,
+                7,
+                7,
+                8,
+                7,
+                7,
+                8,
+                7,
+                8
+            ],
+            "weapon": [
+                {
+                    "wep1": "シューズ",
+                    "wep2": "ヘアピン",
+                    "wep3": "腕時計",
+                    "unique_wep": [
+                        {
+                            "atk": 386,
+                            "heal": 722
+                        }
+                    ]
+                }
+            ],
+            "bond": [
+                {
+                    "atk": [
+                        3,
+                        4,
+                        5,
+                        6,
+                        2,
+                        2,
+                        4
+                    ],
+                    "heal": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "class": "ユズ",
+            "skill": {
+                "EX": {
+                    "default": {
+                        "skillname": "ゆ、ユズ、発進！",
+                        "cost": 4,
+                        "hittime": 2.13,
+                        "cooltime": 2.366,
+                        "effect": [
+                            {
+                                "skill_attribute": "cost",
+                                "skill_tage": "ally",
+                                "rate": [
+                                    0.5,
+                                    0.5,
+                                    0.5,
+                                    0.5,
+                                    0.5
+                                ]
+                            },
+                            {
+                                "skill_attribute": "atk",
+                                "skill_tage": "ally",
+                                "skilltime": 9,
+                                "rate": [
+                                    21.9,
+                                    25.2,
+                                    31.8,
+                                    35.1,
+                                    41.7
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "NS": {
+                    "default": {
+                        "skillname": "目標をセンターに入れてスイッチ",
+                        "hittime": 2.2,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "one",
+                                "hitAmount": [
+                                    2.2
+                                ],
+                                "rate": [
+                                    185,
+                                    195,
+                                    204,
+                                    241,
+                                    250,
+                                    260,
+                                    297,
+                                    306,
+                                    316,
+                                    353
+                                ]
+                            },
+                            {
+                                "skill_attribute": "cri_regist",
+                                "skilltime": 22,
+                                "rate": [
+                                    16.8,
+                                    17.6,
+                                    18.5,
+                                    21.8,
+                                    22.7,
+                                    23.5,
+                                    26.9,
+                                    27.7,
+                                    28.6,
+                                    31.9
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "NS+": {
+                    "default": {
+                        "skillname": ""
+                    }
+                },
+                "PS": [
+                    {
+                        "skill_attribute": "atk",
+                        "rate": [
+                            14,
+                            14.7,
+                            15.4,
+                            18.2,
+                            18.9,
+                            19.6,
+                            22.4,
+                            23.1,
+                            23.8,
+                            26.6
+                        ]
+                    }
+                ],
+                "PS+": [
+                    {
+                        "skill_attribute": "atk",
+                        "rate": [
+                            290,
+                            304,
+                            319,
+                            376,
+                            391,
+                            405,
+                            463,
+                            478,
+                            492,
+                            550
+                        ]
+                    }
+                ],
+                "SS": {
+                    "default": {
+                        "skillname": "この戦いが終わったら……！",
+                        "effect": [
+                            {
+                                "skill_attribute": "atk",
+                                "rate": [
+                                    9.1,
+                                    9.5,
+                                    10,
+                                    11.8,
+                                    12.3,
+                                    12.7,
+                                    14.5,
+                                    15,
+                                    15.5,
+                                    17.32
                                 ]
                             }
                         ]
