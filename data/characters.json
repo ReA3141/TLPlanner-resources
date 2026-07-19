@@ -44179,11 +44179,12 @@
                                 "skill_tage": "own",
                                 "skilltime": 30,
                                 "dps": {
-                                    "hit": 5,
+                                    "hit": 4,
                                     "hits": 1,
-                                    "delay": 108,
-                                    "reload": 54,
-                                    "beforeTime": 112
+                                    "delay": 105,
+                                    "reload": 53,
+                                    "beforeTime": 325,
+                                    "immediately": 206
                                 },
                                 "rate": [
                                     173,
