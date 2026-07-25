@@ -24,6 +24,19 @@
                 "reload": 60,
                 "beforeTime": 305
             },
+            "weapon": [
+                {
+                    "wep1": "",
+                    "wep2": "",
+                    "wep3": "",
+                    "unique_wep": [
+                        {
+                            "atk": 0,
+                            "heal": 0
+                        }
+                    ]
+                }
+            ],
             "connection": "sp0005",
             "class": "イロハ",
             "skill": {
