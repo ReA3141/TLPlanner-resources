@@ -45540,14 +45540,21 @@
                         "cooltime": 2.033,
                         "effect": [
                             {
-                                "skill_attribute": "T.S",
+                                "skill_attribute": "TSSummon",
                                 "skilltime": 55,
-                                "skill_tage": "own"
+                                "skill_tage": "ts0001",
+                                "rate": [
+                                    "虎丸",
+                                    "虎丸",
+                                    "虎丸",
+                                    "虎丸",
+                                    "虎丸"
+                                ]
                             },
                             {
                                 "skill_attribute": "atk",
                                 "skilltime": 55,
-                                "skill_tage": "own",
+                                "skill_tage": "ts0001",
                                 "rate": [
                                     11.2,
                                     15.5,
