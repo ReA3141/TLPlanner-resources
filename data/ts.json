@@ -24,6 +24,7 @@
                 "reload": 60,
                 "beforeTime": 305
             },
+            "limit": [],
             "weapon": [
                 {
                     "wep1": "",
