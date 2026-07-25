@@ -27,13 +27,13 @@
             "limit": [],
             "weapon": [
                 {
-                    "wep1": "",
-                    "wep2": "",
-                    "wep3": "",
+                    "wep1": "帽子",
+                    "wep2": "バッジ",
+                    "wep3": "腕時計",
                     "unique_wep": [
                         {
-                            "atk": 0,
-                            "heal": 0
+                            "atk": 440,
+                            "heal": 685
                         }
                     ]
                 }
