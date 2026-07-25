@@ -45552,7 +45552,7 @@
                                 ]
                             },
                             {
-                                "skill_attribute": "atk",
+                                "skill_attribute": "connectAtk",
                                 "skilltime": 55,
                                 "skill_tage": "ts0001",
                                 "rate": [
