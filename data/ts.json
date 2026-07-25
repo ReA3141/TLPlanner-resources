@@ -24,40 +24,6 @@
                 "reload": 60,
                 "beforeTime": 305
             },
-            "limit": [],
-            "weapon": [
-                {
-                    "wep1": "帽子",
-                    "wep2": "バッジ",
-                    "wep3": "腕時計",
-                    "unique_wep": [
-                        {
-                            "atk": 440,
-                            "heal": 685
-                        }
-                    ]
-                }
-            ],
-            "bond": [
-                {
-                    "atk": [
-                        0,
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "heal": [
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0
-                    ]
-                }
-            ],
             "connection": "sp0005",
             "class": "イロハ",
             "skill": {
