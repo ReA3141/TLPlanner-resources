@@ -3,6 +3,8 @@
         {
             "id": "ts0001",
             "name": "虎丸",
+            "img": "standing/イロハ_圧縮.png",
+            "icon": "face/イロハ.png",
             "atk_attribute": "神秘",
             "def_attribute": "重装甲",
             "status": {
