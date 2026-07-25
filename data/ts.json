@@ -1,52 +1,54 @@
 {
-    "TS": {
-        "id": "ts0001",
-        "name": "虎丸",
-        "atk_attribute": "神秘",
-        "def_attribute": "重装甲",
-        "status": {
-            "atk": 0,
-            "heal": 0,
-            "hit": 0,
-            "avoid": 0,
-            "cri": 0,
-            "cri_damage": 200,
-            "penetrate": 0,
-            "balance": 0
-        },
-        "dps": {
-            "hit": 6,
-            "hits": 1,
-            "delay": 100,
-            "reload": 60,
-            "beforeTime": 305
-        },
-        "class": "イロハ",
-        "skill": {
-            "EX": {},
-            "NS": {
-                "default": {
-                    "skillname": "主砲照準、発射",
-                    "hittime": 0.0,
-                    "effect": [
-                        {
-                            "skill_attribute": "damage",
-                            "skill_pattern": "one",
-                            "skill_tage": "enemy",
-                            "hitAmount": 1,
-                            "rate": [
-                                279,
-                                293,
-                                307,
-                                363,
-                                377
-                            ]
-                        }
-                    ]
-                }
+    "TS": [
+        {
+            "id": "ts0001",
+            "name": "虎丸",
+            "atk_attribute": "神秘",
+            "def_attribute": "重装甲",
+            "status": {
+                "atk": 0,
+                "heal": 0,
+                "hit": 0,
+                "avoid": 0,
+                "cri": 0,
+                "cri_damage": 200,
+                "penetrate": 0,
+                "balance": 0
             },
-            "PS": {},
-            "SS": {}
+            "dps": {
+                "hit": 6,
+                "hits": 1,
+                "delay": 100,
+                "reload": 60,
+                "beforeTime": 305
+            },
+            "class": "イロハ",
+            "skill": {
+                "EX": {},
+                "NS": {
+                    "default": {
+                        "skillname": "主砲照準、発射",
+                        "hittime": 0.0,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "one",
+                                "skill_tage": "enemy",
+                                "hitAmount": 1,
+                                "rate": [
+                                    279,
+                                    293,
+                                    307,
+                                    363,
+                                    377
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "PS": {},
+                "SS": {}
+            }
         }
-    }
+    ]
 }
