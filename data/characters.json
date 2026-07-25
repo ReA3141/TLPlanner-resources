@@ -11379,9 +11379,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 437,
@@ -11630,9 +11630,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 715,
@@ -11856,9 +11856,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "バッグ",
-                    "wep3": "お守り",
+                    "wep1": "shoes",
+                    "wep2": "bag",
+                    "wep3": "talisman",
                     "unique_wep": [
                         {
                             "atk": 215,
@@ -12066,9 +12066,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 599,
@@ -13108,9 +13108,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "ヘアピン",
-                    "wep3": "ネックレス",
+                    "wep1": "shoes",
+                    "wep2": "hairpin",
+                    "wep3": "neckless",
                     "unique_wep": [
                         {
                             "atk": 312,
@@ -13344,9 +13344,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "グローブ",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "glove",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 324,
@@ -13551,9 +13551,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 316,
@@ -13782,9 +13782,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "バッグ",
-                    "wep3": "お守り",
+                    "wep1": "shoes",
+                    "wep2": "bag",
+                    "wep3": "talisman",
                     "unique_wep": [
                         {
                             "atk": 279,
@@ -14297,9 +14297,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "グローブ",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "glove",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 362,
@@ -14525,9 +14525,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "バッジ",
-                    "wep3": "お守り",
+                    "wep1": "shoes",
+                    "wep2": "badge",
+                    "wep3": "talisman",
                     "unique_wep": [
                         {
                             "atk": 232,
@@ -14761,9 +14761,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "グローブ",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "glove",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 877,
@@ -15289,9 +15289,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "グローブ",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "glove",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 503,
@@ -15582,9 +15582,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "グローブ",
-                    "wep2": "バッグ",
-                    "wep3": "ネックレス",
+                    "wep1": "glove",
+                    "wep2": "bag",
+                    "wep3": "neckless",
                     "unique_wep": [
                         {
                             "atk": 215,
@@ -15844,9 +15844,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "バッジ",
-                    "wep3": "お守り",
+                    "wep1": "shoes",
+                    "wep2": "badge",
+                    "wep3": "talisman",
                     "unique_wep": [
                         {
                             "atk": 208,
@@ -16122,9 +16122,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "グローブ",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "glove",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 407,
@@ -16370,9 +16370,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 273,
@@ -16583,9 +16583,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "グローブ",
-                    "wep2": "バッジ",
-                    "wep3": "腕時計",
+                    "wep1": "glove",
+                    "wep2": "badge",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 595,
@@ -16832,9 +16832,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "shoes",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 305,
@@ -17141,9 +17141,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "バッジ",
-                    "wep3": "お守り",
+                    "wep1": "shoes",
+                    "wep2": "badge",
+                    "wep3": "talisman",
                     "unique_wep": [
                         {
                             "atk": 156,
@@ -17408,9 +17408,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 826,
@@ -17931,9 +17931,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 588,
@@ -18511,9 +18511,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 346,
@@ -18849,9 +18849,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "グローブ",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "glove",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 386,
@@ -19093,9 +19093,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "ヘアピン",
-                    "wep3": "ネックレス",
+                    "wep1": "shoes",
+                    "wep2": "hairpin",
+                    "wep3": "neckless",
                     "unique_wep": [
                         {
                             "atk": 329,
@@ -19299,9 +19299,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "グローブ",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "glove",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 843,
@@ -19563,9 +19563,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 555,
@@ -19777,9 +19777,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "ヘアピン",
-                    "wep3": "お守り",
+                    "wep1": "shoes",
+                    "wep2": "hairpin",
+                    "wep3": "talisman",
                     "unique_wep": [
                         {
                             "atk": 174,
@@ -20001,9 +20001,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "バッグ",
-                    "wep3": "ネックレス",
+                    "wep1": "shoes",
+                    "wep2": "bag",
+                    "wep3": "neckless",
                     "unique_wep": [
                         {
                             "atk": 228,
@@ -20222,9 +20222,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "ヘアピン",
-                    "wep3": "ネックレス",
+                    "wep1": "shoes",
+                    "wep2": "hairpin",
+                    "wep3": "neckless",
                     "unique_wep": [
                         {
                             "atk": 192,
@@ -20431,9 +20431,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 555,
@@ -20647,9 +20647,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "グローブ",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "glove",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 432,
@@ -20868,9 +20868,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "ヘアピン",
-                    "wep3": "お守り",
+                    "wep1": "shoes",
+                    "wep2": "hairpin",
+                    "wep3": "talisman",
                     "unique_wep": [
                         {
                             "atk": 332,
@@ -21125,9 +21125,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "グローブ",
-                    "wep2": "バッジ",
-                    "wep3": "腕時計",
+                    "wep1": "glove",
+                    "wep2": "badge",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 534,
@@ -21354,9 +21354,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 385,
@@ -21578,9 +21578,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "バッグ",
-                    "wep3": "お守り",
+                    "wep1": "shoes",
+                    "wep2": "bag",
+                    "wep3": "talisman",
                     "unique_wep": [
                         {
                             "atk": 266,
@@ -22168,9 +22168,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "グローブ",
-                    "wep2": "バッグ",
-                    "wep3": "腕時計",
+                    "wep1": "glove",
+                    "wep2": "bag",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 276,
@@ -22428,9 +22428,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 429,
@@ -23294,9 +23294,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "グローブ",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "glove",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 555,
@@ -23922,9 +23922,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 391,
@@ -24458,9 +24458,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 428,
@@ -24710,9 +24710,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "バッグ",
-                    "wep3": "お守り",
+                    "wep1": "shoes",
+                    "wep2": "bag",
+                    "wep3": "talisman",
                     "unique_wep": [
                         {
                             "atk": 273,
@@ -24961,9 +24961,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "グローブ",
-                    "wep2": "ヘアピン",
-                    "wep3": "ネックレス",
+                    "wep1": "glove",
+                    "wep2": "hairpin",
+                    "wep3": "neckless",
                     "unique_wep": [
                         {
                             "atk": 215,
@@ -25200,9 +25200,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "グローブ",
-                    "wep2": "ヘアピン",
-                    "wep3": "お守り",
+                    "wep1": "glove",
+                    "wep2": "hairpin",
+                    "wep3": "talisman",
                     "unique_wep": [
                         {
                             "atk": 251,
@@ -25538,9 +25538,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "グローブ",
-                    "wep2": "バッジ",
-                    "wep3": "お守り",
+                    "wep1": "glove",
+                    "wep2": "badge",
+                    "wep3": "talisman",
                     "unique_wep": [
                         {
                             "atk": 245,
@@ -25757,9 +25757,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "グローブ",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "glove",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 454,
@@ -26049,9 +26049,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "ヘアピン",
-                    "wep3": "お守り",
+                    "wep1": "shoes",
+                    "wep2": "hairpin",
+                    "wep3": "talisman",
                     "unique_wep": [
                         {
                             "atk": 411,
@@ -26744,9 +26744,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "shoes",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 672,
@@ -27027,9 +27027,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 1301,
@@ -27495,9 +27495,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 448,
@@ -27708,9 +27708,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "グローブ",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "glove",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 334,
@@ -27942,9 +27942,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "グローブ",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "glove",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 377,
@@ -28183,9 +28183,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "ヘアピン",
-                    "wep3": "ネックレス",
+                    "wep1": "shoes",
+                    "wep2": "hairpin",
+                    "wep3": "neckless",
                     "unique_wep": [
                         {
                             "atk": 342,
@@ -28431,9 +28431,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 524,
@@ -28688,9 +28688,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 498,
@@ -28951,9 +28951,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "グローブ",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "glove",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 397,
@@ -29246,9 +29246,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "グローブ",
-                    "wep2": "バッジ",
-                    "wep3": "ネックレス",
+                    "wep1": "glove",
+                    "wep2": "badge",
+                    "wep3": "neckless",
                     "unique_wep": [
                         {
                             "atk": 215,
@@ -29463,9 +29463,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "ヘアピン",
-                    "wep3": "お守り",
+                    "wep1": "hat",
+                    "wep2": "hairpin",
+                    "wep3": "talisman",
                     "unique_wep": [
                         {
                             "atk": 254,
@@ -29679,9 +29679,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "shoes",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 232,
@@ -29912,9 +29912,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "グローブ",
-                    "wep2": "ヘアピン",
-                    "wep3": "ネックレス",
+                    "wep1": "glove",
+                    "wep2": "hairpin",
+                    "wep3": "neckless",
                     "unique_wep": [
                         {
                             "atk": 302,
@@ -30947,9 +30947,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 434,
@@ -31175,9 +31175,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "グローブ",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "glove",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 437,
@@ -31392,9 +31392,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 421,
@@ -31635,9 +31635,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "ヘアピン",
-                    "wep3": "お守り",
+                    "wep1": "hat",
+                    "wep2": "hairpin",
+                    "wep3": "talisman",
                     "unique_wep": [
                         {
                             "atk": 366,
@@ -31872,9 +31872,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "グローブ",
-                    "wep2": "バッジ",
-                    "wep3": "腕時計",
+                    "wep1": "glove",
+                    "wep2": "badge",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 410,
@@ -32075,9 +32075,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 338,
@@ -32292,9 +32292,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 357,
@@ -32723,9 +32723,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "shoes",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 374,
@@ -32969,9 +32969,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 375,
@@ -33318,9 +33318,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "バッグ",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "bag",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 195,
@@ -33554,9 +33554,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "バッグ",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "bag",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 520,
@@ -33864,9 +33864,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "グローブ",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "glove",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 390,
@@ -34370,9 +34370,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "グローブ",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "glove",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 429,
@@ -34633,9 +34633,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "グローブ",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "glove",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 496,
@@ -34842,9 +34842,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "グローブ",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "glove",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 302,
@@ -35303,9 +35303,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "バッグ",
-                    "wep3": "お守り",
+                    "wep1": "shoes",
+                    "wep2": "bag",
+                    "wep3": "talisman",
                     "unique_wep": [
                         {
                             "atk": 298,
@@ -35897,9 +35897,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "ヘアピン",
-                    "wep3": "お守り",
+                    "wep1": "hat",
+                    "wep2": "hairpin",
+                    "wep3": "talisman",
                     "unique_wep": [
                         {
                             "atk": 472,
@@ -36114,9 +36114,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "バッグ",
-                    "wep3": "ネックレス",
+                    "wep1": "shoes",
+                    "wep2": "bag",
+                    "wep3": "neckless",
                     "unique_wep": [
                         {
                             "atk": 274,
@@ -36613,9 +36613,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "ヘアピン",
-                    "wep3": "ネックレス",
+                    "wep1": "shoes",
+                    "wep2": "hairpin",
+                    "wep3": "neckless",
                     "unique_wep": [
                         {
                             "atk": 289,
@@ -36826,9 +36826,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "グローブ",
-                    "wep2": "ヘアピン",
-                    "wep3": "ネックレス",
+                    "wep1": "glove",
+                    "wep2": "hairpin",
+                    "wep3": "neckless",
                     "unique_wep": [
                         {
                             "atk": 378,
@@ -37390,9 +37390,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "グローブ",
-                    "wep2": "ヘアピン",
-                    "wep3": "ネックレス",
+                    "wep1": "glove",
+                    "wep2": "hairpin",
+                    "wep3": "neckless",
                     "unique_wep": [
                         {
                             "atk": 607,
@@ -37599,9 +37599,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "バッグ",
-                    "wep3": "お守り",
+                    "wep1": "shoes",
+                    "wep2": "bag",
+                    "wep3": "talisman",
                     "unique_wep": [
                         {
                             "atk": 342,
@@ -37834,9 +37834,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 1000,
@@ -38069,9 +38069,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 393,
@@ -38966,9 +38966,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "バッグ",
-                    "wep3": "お守り",
+                    "wep1": "shoes",
+                    "wep2": "bag",
+                    "wep3": "talisman",
                     "unique_wep": [
                         {
                             "atk": 390,
@@ -39196,9 +39196,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 487,
@@ -39415,9 +39415,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 266,
@@ -39644,9 +39644,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 414,
@@ -39876,9 +39876,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 488,
@@ -40375,9 +40375,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 585,
@@ -41091,9 +41091,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 488,
@@ -41327,9 +41327,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "バッグ",
-                    "wep3": "お守り",
+                    "wep1": "shoes",
+                    "wep2": "bag",
+                    "wep3": "talisman",
                     "unique_wep": [
                         {
                             "atk": 908,
@@ -41579,9 +41579,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "グローブ",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "glove",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 625,
@@ -42044,9 +42044,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "グローブ",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "glove",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 448,
@@ -42282,9 +42282,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "グローブ",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "glove",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 315,
@@ -42531,9 +42531,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 393,
@@ -42741,9 +42741,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "ヘアピン",
-                    "wep3": "ネックレス",
+                    "wep1": "shoes",
+                    "wep2": "hairpin",
+                    "wep3": "neckless",
                     "unique_wep": [
                         {
                             "atk": 313,
@@ -42978,9 +42978,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "バッジ",
-                    "wep3": "ネックレス",
+                    "wep1": "shoes",
+                    "wep2": "badge",
+                    "wep3": "neckless",
                     "unique_wep": [
                         {
                             "atk": 337,
@@ -44132,9 +44132,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "グローブ",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "glove",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 607,
@@ -45072,9 +45072,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "ヘアピン",
-                    "wep3": "ネックレス",
+                    "wep1": "shoes",
+                    "wep2": "hairpin",
+                    "wep3": "neckless",
                     "unique_wep": [
                         {
                             "atk": 173,
@@ -45266,9 +45266,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "グローブ",
-                    "wep2": "バッグ",
-                    "wep3": "腕時計",
+                    "wep1": "glove",
+                    "wep2": "bag",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 370,
@@ -45497,9 +45497,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "バッジ",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "badge",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 440,
@@ -45715,9 +45715,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "グローブ",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "glove",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 334,
@@ -45950,9 +45950,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "バッグ",
-                    "wep3": "ネックレス",
+                    "wep1": "shoes",
+                    "wep2": "bag",
+                    "wep3": "neckless",
                     "unique_wep": [
                         {
                             "atk": 235,
@@ -46399,9 +46399,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "ヘアピン",
-                    "wep3": "ネックレス",
+                    "wep1": "shoes",
+                    "wep2": "hairpin",
+                    "wep3": "neckless",
                     "unique_wep": [
                         {
                             "atk": 179,
@@ -46619,9 +46619,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "バッグ",
-                    "wep3": "ネックレス",
+                    "wep1": "hat",
+                    "wep2": "bag",
+                    "wep3": "neckless",
                     "unique_wep": [
                         {
                             "atk": 461,
@@ -46927,9 +46927,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "グローブ",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "glove",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 310,
@@ -47163,9 +47163,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "グローブ",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "glove",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 331,
@@ -47437,9 +47437,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "ヘアピン",
-                    "wep3": "ネックレス",
+                    "wep1": "shoes",
+                    "wep2": "hairpin",
+                    "wep3": "neckless",
                     "unique_wep": [
                         {
                             "atk": 243,
@@ -47691,9 +47691,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "バッジ",
-                    "wep3": "ネックレス",
+                    "wep1": "shoes",
+                    "wep2": "badge",
+                    "wep3": "neckless",
                     "unique_wep": [
                         {
                             "atk": 234,
@@ -47885,9 +47885,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "ヘアピン",
-                    "wep3": "ネックレス",
+                    "wep1": "shoes",
+                    "wep2": "hairpin",
+                    "wep3": "neckless",
                     "unique_wep": [
                         {
                             "atk": 246,
@@ -48079,9 +48079,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "ヘアピン",
-                    "wep3": "ネックレス",
+                    "wep1": "shoes",
+                    "wep2": "hairpin",
+                    "wep3": "neckless",
                     "unique_wep": [
                         {
                             "atk": 218,
@@ -48280,9 +48280,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "ヘアピン",
-                    "wep3": "ネックレス",
+                    "wep1": "shoes",
+                    "wep2": "hairpin",
+                    "wep3": "neckless",
                     "unique_wep": [
                         {
                             "atk": 242,
@@ -48479,9 +48479,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "バッグ",
-                    "wep3": "腕時計",
+                    "wep1": "shoes",
+                    "wep2": "bag",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 330,
@@ -48698,9 +48698,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "ヘアピン",
-                    "wep3": "ネックレス",
+                    "wep1": "shoes",
+                    "wep2": "hairpin",
+                    "wep3": "neckless",
                     "unique_wep": [
                         {
                             "atk": 215,
@@ -48898,9 +48898,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 319,
@@ -49154,9 +49154,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "ヘアピン",
-                    "wep3": "ネックレス",
+                    "wep1": "shoes",
+                    "wep2": "hairpin",
+                    "wep3": "neckless",
                     "unique_wep": [
                         {
                             "atk": 157,
@@ -49396,9 +49396,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "バッジ",
-                    "wep3": "ネックレス",
+                    "wep1": "hat",
+                    "wep2": "badge",
+                    "wep3": "neckless",
                     "unique_wep": [
                         {
                             "atk": 432,
@@ -49604,9 +49604,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "グローブ",
-                    "wep2": "ヘアピン",
-                    "wep3": "ネックレス",
+                    "wep1": "glove",
+                    "wep2": "hairpin",
+                    "wep3": "neckless",
                     "unique_wep": [
                         {
                             "atk": 212,
@@ -49818,9 +49818,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "ヘアピン",
-                    "wep3": "ネックレス",
+                    "wep1": "shoes",
+                    "wep2": "hairpin",
+                    "wep3": "neckless",
                     "unique_wep": [
                         {
                             "atk": 257,
@@ -50005,9 +50005,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "ヘアピン",
-                    "wep3": "ネックレス",
+                    "wep1": "shoes",
+                    "wep2": "hairpin",
+                    "wep3": "neckless",
                     "unique_wep": [
                         {
                             "atk": 233,
@@ -50212,9 +50212,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "ヘアピン",
-                    "wep3": "ネックレス",
+                    "wep1": "shoes",
+                    "wep2": "hairpin",
+                    "wep3": "neckless",
                     "unique_wep": [
                         {
                             "atk": 237,
@@ -50456,9 +50456,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "ヘアピン",
-                    "wep3": "ネックレス",
+                    "wep1": "shoes",
+                    "wep2": "hairpin",
+                    "wep3": "neckless",
                     "unique_wep": [
                         {
                             "atk": 277,
@@ -50690,9 +50690,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 217,
@@ -51075,9 +51075,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 641,
@@ -51340,9 +51340,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "グローブ",
-                    "wep2": "バッグ",
-                    "wep3": "腕時計",
+                    "wep1": "glove",
+                    "wep2": "bag",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 339,
@@ -51583,9 +51583,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "ヘアピン",
-                    "wep3": "ネックレス",
+                    "wep1": "shoes",
+                    "wep2": "hairpin",
+                    "wep3": "neckless",
                     "unique_wep": [
                         {
                             "atk": 210,
@@ -51783,9 +51783,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "ヘアピン",
-                    "wep3": "ネックレス",
+                    "wep1": "hat",
+                    "wep2": "hairpin",
+                    "wep3": "neckless",
                     "unique_wep": [
                         {
                             "atk": 455,
@@ -52038,9 +52038,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 508,
@@ -52253,9 +52253,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "グローブ",
-                    "wep2": "バッグ",
-                    "wep3": "ネックレス",
+                    "wep1": "glove",
+                    "wep2": "bag",
+                    "wep3": "neckless",
                     "unique_wep": [
                         {
                             "atk": 211,
@@ -52494,9 +52494,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "バッジ",
-                    "wep3": "ネックレス",
+                    "wep1": "shoes",
+                    "wep2": "badge",
+                    "wep3": "neckless",
                     "unique_wep": [
                         {
                             "atk": 294,
@@ -52706,9 +52706,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 498,
@@ -52957,9 +52957,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "バッグ",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "bag",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 319,
@@ -53202,9 +53202,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 463,
@@ -53403,9 +53403,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "shoes",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 351,
@@ -53623,9 +53623,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "バッグ",
-                    "wep3": "ネックレス",
+                    "wep1": "shoes",
+                    "wep2": "bag",
+                    "wep3": "neckless",
                     "unique_wep": [
                         {
                             "atk": 301,
@@ -54305,9 +54305,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "バッグ",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "bag",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 448,
@@ -54535,9 +54535,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "バッグ",
-                    "wep3": "腕時計",
+                    "wep1": "shoes",
+                    "wep2": "bag",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 342,
@@ -54758,9 +54758,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "グローブ",
-                    "wep2": "バッジ",
-                    "wep3": "腕時計",
+                    "wep1": "glove",
+                    "wep2": "badge",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 308,
@@ -54973,9 +54973,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "バッグ",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "bag",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 484,
@@ -55183,9 +55183,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 298,
@@ -55620,9 +55620,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "バッグ",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "bag",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 479,
@@ -55863,9 +55863,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "バッジ",
-                    "wep3": "ネックレス",
+                    "wep1": "shoes",
+                    "wep2": "badge",
+                    "wep3": "neckless",
                     "unique_wep": [
                         {
                             "atk": 403,
@@ -56063,9 +56063,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "バッグ",
-                    "wep3": "ネックレス",
+                    "wep1": "shoes",
+                    "wep2": "bag",
+                    "wep3": "neckless",
                     "unique_wep": [
                         {
                             "atk": 399,
@@ -56319,9 +56319,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "バッジ",
-                    "wep3": "ネックレス",
+                    "wep1": "shoes",
+                    "wep2": "badge",
+                    "wep3": "neckless",
                     "unique_wep": [
                         {
                             "atk": 403,
@@ -56523,9 +56523,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "バッグ",
-                    "wep3": "ネックレス",
+                    "wep1": "hat",
+                    "wep2": "bag",
+                    "wep3": "neckless",
                     "unique_wep": [
                         {
                             "atk": 299,
@@ -56926,9 +56926,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "グローブ",
-                    "wep2": "バッグ",
-                    "wep3": "腕時計",
+                    "wep1": "glove",
+                    "wep2": "bag",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 506,
@@ -57213,9 +57213,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "バッグ",
-                    "wep3": "腕時計",
+                    "wep1": "shoes",
+                    "wep2": "bag",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 403,
@@ -57400,9 +57400,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "バッジ",
-                    "wep3": "ネックレス",
+                    "wep1": "shoes",
+                    "wep2": "badge",
+                    "wep3": "neckless",
                     "unique_wep": [
                         {
                             "atk": 403,
@@ -57611,9 +57611,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "グローブ",
-                    "wep2": "バッグ",
-                    "wep3": "腕時計",
+                    "wep1": "glove",
+                    "wep2": "bag",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 505,
@@ -57813,9 +57813,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "バッグ",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "bag",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 484,
@@ -58257,9 +58257,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "バッジ",
-                    "wep3": "ネックレス",
+                    "wep1": "shoes",
+                    "wep2": "badge",
+                    "wep3": "neckless",
                     "unique_wep": [
                         {
                             "atk": 319,
@@ -58451,9 +58451,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "バッジ",
-                    "wep3": "ネックレス",
+                    "wep1": "shoes",
+                    "wep2": "badge",
+                    "wep3": "neckless",
                     "unique_wep": [
                         {
                             "atk": 399,
@@ -59573,9 +59573,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 506,
@@ -59980,9 +59980,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "グローブ",
-                    "wep2": "バッグ",
-                    "wep3": "腕時計",
+                    "wep1": "glove",
+                    "wep2": "bag",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 396,
@@ -60191,9 +60191,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 508,
@@ -60410,9 +60410,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 497,
@@ -60680,9 +60680,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 389,
@@ -60866,9 +60866,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 302,
@@ -61379,9 +61379,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "ヘアピン",
-                    "wep3": "ネックレス",
+                    "wep1": "shoes",
+                    "wep2": "hairpin",
+                    "wep3": "neckless",
                     "unique_wep": [
                         {
                             "atk": 387,
@@ -61593,9 +61593,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "バッグ",
-                    "wep3": "ネックレス",
+                    "wep1": "shoes",
+                    "wep2": "bag",
+                    "wep3": "neckless",
                     "unique_wep": [
                         {
                             "atk": 392,
@@ -61779,9 +61779,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "バッジ",
-                    "wep3": "ネックレス",
+                    "wep1": "shoes",
+                    "wep2": "badge",
+                    "wep3": "neckless",
                     "unique_wep": [
                         {
                             "atk": 393,
@@ -61984,9 +61984,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "帽子",
-                    "wep2": "バッグ",
-                    "wep3": "腕時計",
+                    "wep1": "hat",
+                    "wep2": "bag",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 506,
@@ -62662,9 +62662,9 @@
             ],
             "weapon": [
                 {
-                    "wep1": "シューズ",
-                    "wep2": "ヘアピン",
-                    "wep3": "腕時計",
+                    "wep1": "shoes",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
                     "unique_wep": [
                         {
                             "atk": 386,
