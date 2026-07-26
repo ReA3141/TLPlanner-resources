@@ -29968,10 +29968,27 @@
                             },
                             {
                                 "skill_attribute": "causeOfSS"
-                            },
+                            }
+                        ]
+                    },
+                    "ride": {
+                        "skillname": "イロハ先輩とパトロール！",
+                        "cost": 5,
+                        "hittime": 2,
+                        "cooltime": 4.934,
+                        "effect": [
                             {
-                                "skill_attribute": "T.S",
-                                "skill_tage": "own"
+                                "skill_attribute": "damage",
+                                "skill_pattern": "many",
+                                "skill_tage": "all",
+                                "hitAmount": 1,
+                                "rate": [
+                                    246,
+                                    256,
+                                    274,
+                                    283,
+                                    302
+                                ]
                             }
                         ]
                     }
@@ -30019,12 +30036,14 @@
                                 ]
                             }
                         ]
-                    }
+                    },
+                    "ride": {}
                 },
                 "NS+": {
                     "default": {
                         "skillname": ""
-                    }
+                    },
+                    "ride": {}
                 },
                 "PS": [
                     {
@@ -30082,7 +30101,8 @@
                                 ]
                             }
                         ]
-                    }
+                    },
+                    "ride": {}
                 }
             }
         },
