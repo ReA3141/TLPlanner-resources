@@ -29974,6 +29974,7 @@
                     "ride": {
                         "skillname": "イロハ先輩とパトロール！",
                         "cost": 5,
+                        "img": "skillIcon/ibuki_ride.png",
                         "hittime": 2,
                         "cooltime": 4.934,
                         "effect": [
