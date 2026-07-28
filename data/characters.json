@@ -34712,6 +34712,30 @@
                                 ]
                             },
                             {
+                                "skill_attribute": "coldEffectUp",
+                                "skill_tage": "enemy",
+                                "skilltime": 15,
+                                "rate": [
+                                    19.9,
+                                    22.8,
+                                    25.8,
+                                    28.8,
+                                    31.8
+                                ]
+                            },
+                            {
+                                "skill_attribute": "poisonEffectUp",
+                                "skill_tage": "enemy",
+                                "skilltime": 15,
+                                "rate": [
+                                    33.1,
+                                    38.1,
+                                    43.1,
+                                    48.1,
+                                    53
+                                ]
+                            },
+                            {
                                 "skill_attribute": "causeOfSS"
                             }
                         ]
