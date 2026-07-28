@@ -781,13 +781,6 @@
                             {
                                 "skill_attribute": "cold",
                                 "skill_tage": "enemy",
-                                "hitAmount": [
-                                    2.467,
-                                    6.467,
-                                    10.467,
-                                    14.467,
-                                    18.467
-                                ],
                                 "skilltime": 20,
                                 "rate": [
                                     406,
@@ -2979,13 +2972,6 @@
                                 "skill_attribute": "cold",
                                 "skilltime": 20,
                                 "skill_tage": "enemy",
-                                "hitAmount": [
-                                    1.767,
-                                    5.767,
-                                    9.767,
-                                    13.767,
-                                    17.767
-                                ],
                                 "rate": [
                                     51,
                                     51,
@@ -3048,13 +3034,6 @@
                                 "skill_attribute": "cold",
                                 "skilltime": 20,
                                 "skill_tage": "enemy",
-                                "hitAmount": [
-                                    1.767,
-                                    5.767,
-                                    9.767,
-                                    13.767,
-                                    17.767
-                                ],
                                 "rate": [
                                     56.5,
                                     56.5,
@@ -3113,13 +3092,6 @@
                                 "skill_attribute": "cold",
                                 "skilltime": 20,
                                 "skill_tage": "enemy",
-                                "hitAmount": [
-                                    0,
-                                    4,
-                                    8,
-                                    12,
-                                    16
-                                ],
                                 "rate": [
                                     34.1,
                                     35.8,
@@ -8377,13 +8349,6 @@
                                 "skill_attribute": "burn",
                                 "skilltime": 20,
                                 "skill_tage": "enemy",
-                                "hitAmount": [
-                                    0,
-                                    4,
-                                    8,
-                                    12,
-                                    16
-                                ],
                                 "rate": [
                                     30,
                                     31.5,
@@ -8709,13 +8674,6 @@
                             {
                                 "skill_attribute": "cold",
                                 "skill_tage": "enemy",
-                                "hitAmount": [
-                                    0,
-                                    4,
-                                    8,
-                                    12,
-                                    16
-                                ],
                                 "skilltime": 20,
                                 "rate": [
                                     30,
@@ -15082,13 +15040,6 @@
                                 "skilltime": 20,
                                 "skill_pattern": "one",
                                 "skill_tage": "enemy",
-                                "hitAmount": [
-                                    1.433,
-                                    5.433,
-                                    9.433,
-                                    13.433,
-                                    17.433
-                                ],
                                 "rate": [
                                     149,
                                     149,
@@ -15355,14 +15306,6 @@
                                 "allow": "isMomoi",
                                 "skilltime": 20,
                                 "skill_tage": "all",
-                                "hitAmount": [
-                                    1,
-                                    5,
-                                    9,
-                                    13,
-                                    17,
-                                    21
-                                ],
                                 "rate": [
                                     39.8,
                                     39.8,
@@ -16896,13 +16839,6 @@
                                 "allow": "isMidori",
                                 "skill_tage": "all",
                                 "skilltime": 20,
-                                "hitAmount": [
-                                    0,
-                                    4,
-                                    8,
-                                    12,
-                                    16
-                                ],
                                 "rate": [
                                     72,
                                     72,
@@ -19359,38 +19295,7 @@
                             {
                                 "skill_attribute": "heat",
                                 "skill_tage": "all",
-                                "skilltime": [
-                                    3.467,
-                                    7.600,
-                                    11.733,
-                                    15.867,
-                                    20.000,
-                                    24.133,
-                                    28.267,
-                                    32.400,
-                                    36.533,
-                                    40.667,
-                                    44.800,
-                                    48.933,
-                                    53.067,
-                                    57.200,
-                                    61.333,
-                                    65.467,
-                                    69.600,
-                                    73.733,
-                                    77.867,
-                                    82.000,
-                                    86.133,
-                                    90.267,
-                                    94.400,
-                                    98.533,
-                                    102.667,
-                                    106.800,
-                                    110.933,
-                                    115.067,
-                                    119.200,
-                                    123.467
-                                ],
+                                "skilltime": 120,
                                 "rate": [
                                     29.9,
                                     34.4,
@@ -20707,13 +20612,6 @@
                             {
                                 "skill_attribute": "burn",
                                 "skill_tage": "all",
-                                "hitAmount": [
-                                    2.4,
-                                    6.4,
-                                    10.4,
-                                    14.4,
-                                    18.4
-                                ],
                                 "skilltime": 20,
                                 "rate": [
                                     64,
@@ -26811,16 +26709,6 @@
                                 "skill_attribute": "burn",
                                 "skilltime": 30,
                                 "skill_tage": "enemy",
-                                "hitAmount": [
-                                    5.2,
-                                    9.2,
-                                    13.2,
-                                    17.2,
-                                    21.2,
-                                    25.2,
-                                    29.2,
-                                    33.2
-                                ],
                                 "rate": [
                                     173,
                                     199,
@@ -26875,16 +26763,6 @@
                                 "skill_attribute": "burn",
                                 "skilltime": 30,
                                 "skill_tage": "enemy",
-                                "hitAmount": [
-                                    1.633,
-                                    5.633,
-                                    9.633,
-                                    13.633,
-                                    17.633,
-                                    21.633,
-                                    25.633,
-                                    29.633
-                                ],
                                 "rate": [
                                     47.9,
                                     50.3,
@@ -28030,19 +27908,7 @@
                             {
                                 "skill_attribute": "electric",
                                 "skill_tage": "all",
-                                "skilltime": [
-                                    1.500,
-                                    5.500,
-                                    9.500,
-                                    13.500,
-                                    17.500,
-                                    21.500,
-                                    25.500,
-                                    29.500,
-                                    33.500,
-                                    37.500,
-                                    41.500
-                                ],
+                                "skilltime": 40,
                                 "rate": [
                                     113,
                                     119,
@@ -28757,13 +28623,6 @@
                                 "skill_attribute": "burn",
                                 "skilltime": 20,
                                 "skill_tage": "enemy",
-                                "hitAmount": [
-                                    0,
-                                    4,
-                                    8,
-                                    12,
-                                    16
-                                ],
                                 "rate": [
                                     14.5,
                                     16.7,
@@ -33991,18 +33850,6 @@
                                 "skill_attribute": "cold",
                                 "skilltime": 40,
                                 "skill_tage": "all",
-                                "hitAmount": [
-                                    1.7,
-                                    5.7,
-                                    9.7,
-                                    13.7,
-                                    17.7,
-                                    21.7,
-                                    25.7,
-                                    29.7,
-                                    33.7,
-                                    37.7
-                                ],
                                 "rate": [
                                     123,
                                     123,
@@ -34452,16 +34299,6 @@
                                 "skill_attribute": "poison",
                                 "skilltime": 32,
                                 "skill_tage": "enemy",
-                                "hitAmount": [
-                                    1.8,
-                                    5.8,
-                                    9.8,
-                                    13.8,
-                                    17.8,
-                                    21.8,
-                                    25.8,
-                                    29.8
-                                ],
                                 "rate": [
                                     351,
                                     403,
@@ -37705,12 +37542,6 @@
                                 "skill_attribute": "cold",
                                 "skilltime": 16,
                                 "skill_tage": "enemy",
-                                "hitAmount": [
-                                    1.266,
-                                    5.266,
-                                    9.266,
-                                    13.266
-                                ],
                                 "rate": [
                                     62.2,
                                     71.5,
@@ -46773,13 +46604,6 @@
                                 "skill_attribute": "burn",
                                 "skilltime": 20,
                                 "skill_tage": "enemy",
-                                "hitAmount": [
-                                    0,
-                                    4,
-                                    8,
-                                    12,
-                                    16
-                                ],
                                 "rate": [
                                     53.4,
                                     53.4,
@@ -46825,13 +46649,6 @@
                                 "skill_attribute": "burn",
                                 "skilltime": 20,
                                 "skill_tage": "enemy",
-                                "hitAmount": [
-                                    0,
-                                    4,
-                                    8,
-                                    12,
-                                    16
-                                ],
                                 "rate": [
                                     54.6,
                                     54,
@@ -47066,14 +46883,6 @@
                                 "skill_pattern": "many",
                                 "skill_tage": "all",
                                 "skilltime": 20,
-                                "hitAmount": [
-                                    3.134,
-                                    7.134,
-                                    11.134,
-                                    15.134,
-                                    19.134,
-                                    23.134
-                                ],
                                 "rate": [
                                     36.5,
                                     38.3,
@@ -47346,13 +47155,6 @@
                                 "skill_pattern": "many",
                                 "skill_tage": "all",
                                 "skilltime": 20,
-                                "hitAmount": [
-                                    3,
-                                    7,
-                                    11,
-                                    15,
-                                    19
-                                ],
                                 "rate": [
                                     26.4,
                                     27.7,
@@ -48170,13 +47972,6 @@
                                 "skill_attribute": "poison",
                                 "skill_tage": "all",
                                 "skilltime": 20,
-                                "hitAmount": [
-                                    0,
-                                    4,
-                                    8,
-                                    12,
-                                    16
-                                ],
                                 "rate": [
                                     58.9,
                                     67.8,
@@ -53068,13 +52863,6 @@
                             {
                                 "skill_attribute": "burn",
                                 "skill_tage": "all",
-                                "hitAmount": [
-                                    4.167,
-                                    8.167,
-                                    12.167,
-                                    16.167,
-                                    20.167
-                                ],
                                 "skilltime": 20,
                                 "rate": [
                                     50.9,
