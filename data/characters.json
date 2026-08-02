@@ -66001,9 +66001,9 @@
         },
         {
             "id": "sp0083",
-            "name": "アカネ(制服)",
-            "img": "standing/アカネ(制服).png",
-            "icon": "face/アカネ(制服).png",
+            "name": "アカネ（制服）",
+            "img": "standing/アカネ（制服）.png",
+            "icon": "face/アカネ（制服）.png",
             "atk_attribute": "神秘",
             "def_attribute": "軽装甲",
             "status": {
@@ -66420,9 +66420,9 @@
         },
         {
             "id": "sp0085",
-            "name": "ムツキ(ドレス)",
-            "img": "standing/ムツキ(ドレス).png",
-            "icon": "face/ムツキ(ドレス).png",
+            "name": "ムツキ（ドレス）",
+            "img": "standing/ムツキ（ドレス）.png",
+            "icon": "face/ムツキ（ドレス）.png",
             "atk_attribute": "神秘",
             "def_attribute": "重装甲",
             "status": {
