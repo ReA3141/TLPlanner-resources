@@ -60,6 +60,8 @@
                 ]
             }
         ],
+        "school": "",
+        "battleClass": "",
         "class": "",
         "skill": {
             "EX": {

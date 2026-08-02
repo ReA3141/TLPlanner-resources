@@ -25,6 +25,8 @@
                 "beforeTime": 305
             },
             "connection": "sp0005",
+            "school": "GH",
+            "battleClass": "attacker",
             "class": "イロハ",
             "skill": {
                 "EX": {},
