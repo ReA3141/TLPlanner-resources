@@ -47033,6 +47033,18 @@
                                 "skill_attribute": "draw"
                             },
                             {
+                                "skill_attribute": "costChange",
+                                "skill_tage": "own",
+                                "skilltime": 9,
+                                "rate": [
+                                    3,
+                                    3,
+                                    3,
+                                    3,
+                                    3
+                                ]
+                            },
+                            {
                                 "skill_attribute": "causeOfSS"
                             }
                         ]
