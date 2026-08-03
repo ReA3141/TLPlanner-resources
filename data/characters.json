@@ -47173,7 +47173,7 @@
                         "hittime": 0,
                         "effect": [
                             {
-                                "skill_attribute": "ex_up",
+                                "skill_attribute": "damage_up_atk",
                                 "skill_tage": "own",
                                 "skilltime": 3,
                                 "rate": [
@@ -47196,7 +47196,7 @@
                         "hittime": 0,
                         "effect": [
                             {
-                                "skill_attribute": "ex_up",
+                                "skill_attribute": "damage_up_atk",
                                 "skill_tage": "own",
                                 "skilltime": 3,
                                 "rate": [
