@@ -46310,6 +46310,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "yurusanai",
+                                "skill_tage": "own",
                                 "skilltime": 30,
                                 "duplicate": 3,
                                 "rate": [
