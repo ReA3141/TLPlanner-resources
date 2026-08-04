@@ -47350,10 +47350,160 @@
                                 "skill_attribute": "causeOfSS"
                             }
                         ]
+                    },
+                    "1st": {
+                        "skillname": "抱っこしてください！",
+                        "cost": 5,
+                        "hittime": 1.767,
+                        "cooltime": 0,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "one",
+                                "skill_tage": "enemy",
+                                "hitAmount": [
+                                    1.767,
+                                    1.800
+                                ],
+                                "rate": [
+                                    616,
+                                    709,
+                                    894,
+                                    986,
+                                    1172
+                                ]
+                            },
+                            {
+                                "skill_attribute": "causeOfSS"
+                            }
+                        ]
+                    },
+                    "2nd": {
+                        "skillname": "抱っこしてください！",
+                        "cost": 5,
+                        "hittime": 1.767,
+                        "cooltime": 0,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "one",
+                                "skill_tage": "enemy",
+                                "hitAmount": [
+                                    1.767,
+                                    1.800
+                                ],
+                                "rate": [
+                                    463,
+                                    533,
+                                    672,
+                                    741,
+                                    882
+                                ]
+                            },
+                            {
+                                "skill_attribute": "causeOfSS"
+                            }
+                        ]
+                    },
+                    "3rd": {
+                        "skillname": "抱っこしてください！",
+                        "cost": 5,
+                        "hittime": 1.767,
+                        "cooltime": 0,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "one",
+                                "skill_tage": "enemy",
+                                "hitAmount": [
+                                    1.767,
+                                    1.800
+                                ],
+                                "rate": [
+                                    310,
+                                    357,
+                                    450,
+                                    496,
+                                    592
+                                ]
+                            },
+                            {
+                                "skill_attribute": "causeOfSS"
+                            }
+                        ]
                     }
                 },
                 "NS": {
                     "default": {
+                        "skillname": "集中しないと！",
+                        "hittime": 1.9,
+                        "effect": [
+                            {
+                                "skill_attribute": "costPlus",
+                                "start": true,
+                                "skill_tage": "own",
+                                "rate": [
+                                    0.37,
+                                    0.39,
+                                    0.41,
+                                    0.48,
+                                    0.5,
+                                    0.52,
+                                    0.6,
+                                    0.61,
+                                    0.63,
+                                    0.71
+                                ]
+                            }
+                        ]
+                    },
+                    "1st": {
+                        "skillname": "集中しないと！",
+                        "hittime": 1.9,
+                        "effect": [
+                            {
+                                "skill_attribute": "costPlus",
+                                "start": true,
+                                "skill_tage": "own",
+                                "rate": [
+                                    0.37,
+                                    0.39,
+                                    0.41,
+                                    0.48,
+                                    0.5,
+                                    0.52,
+                                    0.6,
+                                    0.61,
+                                    0.63,
+                                    0.71
+                                ]
+                            }
+                        ]
+                    },
+                    "2nd": {
+                        "skillname": "集中しないと！",
+                        "hittime": 1.9,
+                        "effect": [
+                            {
+                                "skill_attribute": "costPlus",
+                                "start": true,
+                                "skill_tage": "own",
+                                "rate": [
+                                    0.37,
+                                    0.39,
+                                    0.41,
+                                    0.48,
+                                    0.5,
+                                    0.52,
+                                    0.6,
+                                    0.61,
+                                    0.63,
+                                    0.71
+                                ]
+                            }
+                        ]
+                    },
+                    "3rd": {
                         "skillname": "集中しないと！",
                         "hittime": 1.9,
                         "effect": [
@@ -47418,6 +47568,72 @@
                 ],
                 "SS": {
                     "default": {
+                        "skillname": "リゾートのお楽しみ",
+                        "hittime": 0,
+                        "effect": [
+                            {
+                                "skill_attribute": "sp_atk",
+                                "skilltime": 1.9,
+                                "rate": [
+                                    41.4,
+                                    43.5,
+                                    45.6,
+                                    53.9,
+                                    56,
+                                    58,
+                                    66.3,
+                                    68.4,
+                                    70.5,
+                                    78.8
+                                ]
+                            }
+                        ]
+                    },
+                    "1st": {
+                        "skillname": "リゾートのお楽しみ",
+                        "hittime": 0,
+                        "effect": [
+                            {
+                                "skill_attribute": "sp_atk",
+                                "skilltime": 1.9,
+                                "rate": [
+                                    41.4,
+                                    43.5,
+                                    45.6,
+                                    53.9,
+                                    56,
+                                    58,
+                                    66.3,
+                                    68.4,
+                                    70.5,
+                                    78.8
+                                ]
+                            }
+                        ]
+                    },
+                    "2nd": {
+                        "skillname": "リゾートのお楽しみ",
+                        "hittime": 0,
+                        "effect": [
+                            {
+                                "skill_attribute": "sp_atk",
+                                "skilltime": 1.9,
+                                "rate": [
+                                    41.4,
+                                    43.5,
+                                    45.6,
+                                    53.9,
+                                    56,
+                                    58,
+                                    66.3,
+                                    68.4,
+                                    70.5,
+                                    78.8
+                                ]
+                            }
+                        ]
+                    },
+                    "3rd": {
                         "skillname": "リゾートのお楽しみ",
                         "hittime": 0,
                         "effect": [
