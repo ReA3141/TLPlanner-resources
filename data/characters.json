@@ -66583,6 +66583,7 @@
                                 "skill_attribute": "damage",
                                 "skill_tage": "enemy",
                                 "skill_pattern": "many",
+                                "hitAmount": 1,
                                 "rate": [
                                     29.7,
                                     31.2,
