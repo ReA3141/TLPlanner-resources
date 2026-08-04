@@ -46676,6 +46676,17 @@
                                     1369,
                                     1625
                                 ]
+                            },
+                            {
+                                "skill_attribute": "costChange",
+                                "skill_tage": "own",
+                                "rate": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ]
                             }
                         ]
                     },
