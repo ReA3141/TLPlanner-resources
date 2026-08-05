@@ -46695,6 +46695,7 @@
                     "handsUp": {
                         "skillname": "実行：ばんざい体操",
                         "cost": 0,
+                        "img": "skillIcon/kisaki_swim.png",
                         "hittime": 5.067,
                         "cooltime": 0,
                         "effect": [
@@ -47065,6 +47066,7 @@
                     "pleaseListen": {
                         "skillname": "ちゃんと聞いてくださいね？",
                         "cost": 3,
+                        "img": "skillIcon/syun_swim.png",
                         "hittime": 0.0,
                         "cooltime": 0,
                         "effect": [
