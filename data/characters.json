@@ -47085,6 +47085,18 @@
                                     1168,
                                     1387
                                 ]
+                            },
+                            {
+                                "skill_attribute": "costChange",
+                                "skill_tage": "own",
+                                "skilltime": 9,
+                                "rate": [
+                                    3,
+                                    3,
+                                    3,
+                                    3,
+                                    3
+                                ]
                             }
                         ]
                     }
