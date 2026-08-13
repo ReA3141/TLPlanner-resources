@@ -44285,7 +44285,7 @@
                             {
                                 "skill_attribute": "cri",
                                 "skilltime": 25,
-                                "skill_tage": "ignore",
+                                "skill_tage": "ignoreAll",
                                 "rate": [
                                     13.1,
                                     13.4,
