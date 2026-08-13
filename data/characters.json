@@ -44208,7 +44208,7 @@
                                 ]
                             },
                             {
-                                "skill_attribute": "damage",
+                                "skill_attribute": "not_ex_acc",
                                 "skill_pattern": "one",
                                 "skill_tage": "enemy",
                                 "hitAmount": 1,
