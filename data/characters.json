@@ -44184,6 +44184,9 @@
                             },
                             {
                                 "skill_attribute": "causeOfNS"
+                            },
+                            {
+                                "skill_attribute": "causeOfSS"
                             }
                         ]
                     }
