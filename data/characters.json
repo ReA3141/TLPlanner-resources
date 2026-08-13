@@ -44199,7 +44199,9 @@
                                 "skill_attribute": "damage",
                                 "skill_pattern": "one",
                                 "skill_tage": "enemy",
-                                "hitAmount": 1,
+                                "hitAmount": [
+                                    28.433
+                                ],
                                 "rate": [
                                     148,
                                     155,
@@ -44217,7 +44219,9 @@
                                 "skill_attribute": "not_ex_acc",
                                 "skill_pattern": "one",
                                 "skill_tage": "enemy",
-                                "hitAmount": 1,
+                                "hitAmount": [
+                                    28.433
+                                ],
                                 "rate": [
                                     40,
                                     44,
@@ -44276,6 +44280,7 @@
                 "SS": {
                     "default": {
                         "skillname": "共に歩む仲間",
+                        "hittime": 2.6,
                         "effect": [
                             {
                                 "skill_attribute": "cri",
