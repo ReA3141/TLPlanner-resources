@@ -48384,7 +48384,11 @@
                             },
                             {
                                 "skill_attribute": "suit_case",
+                                "skill_pattern": "one",
                                 "skill_tage": "enemy",
+                                "hitAmount": [
+                                    17.667
+                                ],
                                 "skilltime": 15
                             }
                         ]
