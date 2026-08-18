@@ -10066,7 +10066,7 @@
                 },
                 "PS": [
                     {
-                        "skill_attribute": "",
+                        "skill_attribute": "atk",
                         "rate": [
                             14,
                             14.7,
@@ -15526,7 +15526,7 @@
                 ],
                 "PS+": [
                     {
-                        "skill_attribute": "",
+                        "skill_attribute": "cri",
                         "rate": [
                             100,
                             105,
