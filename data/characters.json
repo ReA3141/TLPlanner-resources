@@ -15773,7 +15773,7 @@
                                 "skill_attribute": "atk_speed",
                                 "skilltime": 20,
                                 "skill_tage": "all",
-                                "rete": [
+                                "rate": [
                                     10.7,
                                     11.2,
                                     11.8,
@@ -32336,7 +32336,7 @@
                             {
                                 "skill_attribute": "amo",
                                 "skill_tage": "own",
-                                "rete": [
+                                "rate": [
                                     2.5,
                                     2.75,
                                     3,
