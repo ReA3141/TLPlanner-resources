@@ -68102,6 +68102,7 @@
                             {
                                 "skill_attribute": "my_def",
                                 "class_tage": "tank",
+                                "skill_tage": "friend",
                                 "skilltime": 20,
                                 "rate": [
                                     7.9,
@@ -68119,6 +68120,7 @@
                             {
                                 "skill_attribute": "cri_damage",
                                 "class_tage": "attacker",
+                                "skill_tage": "friend",
                                 "skilltime": 20,
                                 "rate": [
                                     7.9,
@@ -68136,6 +68138,7 @@
                             {
                                 "skill_attribute": "heal_continue",
                                 "class_tage": "supporter",
+                                "skill_tage": "friend",
                                 "skilltime": 20,
                                 "rate": [
                                     7.5,
@@ -68154,6 +68157,7 @@
                             {
                                 "skill_attribute": "healUp",
                                 "class_tage": "healer",
+                                "skill_tage": "friend",
                                 "skilltime": 20,
                                 "rate": [
                                     7.9,
@@ -68177,6 +68181,7 @@
                             {
                                 "skill_attribute": "my_def",
                                 "class_tage": "tank",
+                                "skill_tage": "friend",
                                 "skilltime": 25,
                                 "rate": [
                                     7.9,
@@ -68194,6 +68199,7 @@
                             {
                                 "skill_attribute": "cri_damage",
                                 "class_tage": "attacker",
+                                "skill_tage": "friend",
                                 "skilltime": 25,
                                 "rate": [
                                     7.9,
@@ -68211,6 +68217,7 @@
                             {
                                 "skill_attribute": "heal_continue",
                                 "class_tage": "supporter",
+                                "skill_tage": "friend",
                                 "skilltime": 25,
                                 "rate": [
                                     7.5,
@@ -68229,6 +68236,7 @@
                             {
                                 "skill_attribute": "healUp",
                                 "class_tage": "healer",
+                                "skill_tage": "friend",
                                 "skilltime": 25,
                                 "rate": [
                                     7.9,
