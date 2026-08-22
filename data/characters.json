@@ -20782,7 +20782,7 @@
                             {
                                 "skill_attribute": "atk",
                                 "skilltime": 30,
-                                "skill_tage": "ignore",
+                                "skill_tage": "highestAtkAlly",
                                 "rate": [
                                     26.4,
                                     27.7,
@@ -20799,7 +20799,7 @@
                             {
                                 "skill_attribute": "aim_debaff",
                                 "skilltime": 30,
-                                "skill_tage": "ignore",
+                                "skill_tage": "highestAtkAlly",
                                 "rate": [
                                     27.5,
                                     27.5,
@@ -51659,7 +51659,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "cri_damage",
-                                "skill_tage": "ally",
+                                "skill_tage": "highestCriDamageAlly",
                                 "skilltime": 36,
                                 "rate": [
                                     20.8,
@@ -52252,7 +52252,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "atk",
-                                "skill_tage": "ally",
+                                "skill_tage": "highestAtkAlly",
                                 "skilltime": 30,
                                 "rate": [
                                     16.8,
@@ -56052,7 +56052,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "cri_damage",
-                                "skill_tage": "ally",
+                                "skill_tage": "highestAtkAlly",
                                 "skilltime": 20,
                                 "rate": [
                                     18.9,
@@ -59183,6 +59183,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "damage",
+                                "skill_critical": true,
                                 "skill_pattern": "many",
                                 "skill_tage": "all",
                                 "hitAmount": [
@@ -59202,11 +59203,6 @@
                                     621,
                                     737
                                 ]
-                            },
-                            {
-                                "skill_attribute": "CRITICAL",
-                                "skill_tage": "own",
-                                "skilltime": 6.6
                             }
                         ]
                     }
@@ -62524,7 +62520,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "atk",
-                                "skill_tage": "ally",
+                                "skill_tage": "highestAtkAlly",
                                 "skilltime": 20,
                                 "rate": [
                                     15.1,
