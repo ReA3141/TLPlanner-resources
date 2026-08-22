@@ -5358,7 +5358,7 @@
                         "skillname": "休んでなんていられません！",
                         "effect": [
                             {
-                                "skill_attribute": "healUp_debaff",
+                                "skill_attribute": "heal_downed",
                                 "skilltime": 13,
                                 "skill_tage": "enemy",
                                 "rate": [
@@ -24107,16 +24107,16 @@
                                 "start": true,
                                 "skilltime": 40,
                                 "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
+                                    31.4,
+                                    32.7,
+                                    34.1,
+                                    36.7,
+                                    38.1,
+                                    39.5,
+                                    41.5,
+                                    43,
+                                    44.5,
+                                    45.5
                                 ]
                             },
                             {
@@ -49046,7 +49046,7 @@
                         "hittime": 1.067,
                         "effect": [
                             {
-                                "skill_attribute": "cri_damage_regist_baff",
+                                "skill_attribute": "cri_regist_baff",
                                 "skilltime": 20,
                                 "skill_tage": "ally",
                                 "rate": [
@@ -55640,7 +55640,7 @@
                         "skillname": "給食部としての誇り",
                         "effect": [
                             {
-                                "skill_attribute": "cri_damage_regist_baff",
+                                "skill_attribute": "cri_regist_baff",
                                 "rate": [
                                     9.1,
                                     9.5,
