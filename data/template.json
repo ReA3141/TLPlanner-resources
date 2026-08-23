@@ -205,6 +205,62 @@
             }
         }
     },
+    "TS": {
+        "id": "ts",
+        "name": "",
+        "img": "standing/.png",
+        "icon": "face/.png",
+        "atk_attribute": "",
+        "def_attribute": "",
+        "status": {
+            "atk": 0,
+            "heal": 0,
+            "hit": 0,
+            "avoid": 0,
+            "cri": 0,
+            "cri_damage": 200,
+            "penetrate": 0,
+            "balance": 0
+        },
+        "dps": {
+            "hit": 0,
+            "hits": 0,
+            "delay": 0,
+            "reload": 0,
+            "beforeTime": 0
+        },
+        "connection": "0",
+        "school": "",
+        "battleClass": "",
+        "class": "",
+        "skill": {
+            "EX": {},
+            "NS": {
+                "default": {
+                    "skillname": "",
+                    "hittime": 0.0,
+                    "effect": [
+                        {
+                            "skill_attribute": "",
+                            "skill_pattern": "",
+                            "skill_tage": "",
+                            "hitAmount": 0,
+                            "rate": [
+                                279,
+                                293,
+                                307,
+                                363,
+                                377
+                            ]
+                        }
+                    ]
+                }
+            },
+            "PS": {},
+            "PS+": {},
+            "SS": {}
+        }
+    },
     "BOSS": {
         "id": "e",
         "name": "",

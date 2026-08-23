@@ -19661,11 +19661,6 @@
                                     136,
                                     146
                                 ]
-                            },
-                            {
-                                "skill_attribute": "T.S",
-                                "skill_tage": "own",
-                                "skilltime": 2.134
                             }
                         ]
                     }
@@ -31098,8 +31093,28 @@
                         "cooltime": 4.066,
                         "effect": [
                             {
-                                "skill_attribute": "T.S",
-                                "skill_tage": "own"
+                                "skill_attribute": "TSSummon",
+                                "skilltime": 50,
+                                "skill_tage": "ts0011",
+                                "rate": [
+                                    "花火発射台",
+                                    "花火発射台",
+                                    "花火発射台",
+                                    "花火発射台",
+                                    "花火発射台"
+                                ]
+                            },
+                            {
+                                "skill_attribute": "connectAtk",
+                                "skilltime": 50,
+                                "skill_tage": "ts0011",
+                                "rate": [
+                                    11.2,
+                                    15.5,
+                                    22.9,
+                                    28.8,
+                                    38.5
+                                ]
                             }
                         ]
                     }
@@ -31107,7 +31122,7 @@
                 "NS": {
                     "default": {
                         "skillname": "た～まや～！です！",
-                        "hittime": 1.6,
+                        "hittime": 0.467,
                         "effect": [
                             {
                                 "skill_attribute": "atk",
@@ -31129,7 +31144,7 @@
                             {
                                 "skill_attribute": "atk",
                                 "skilltime": 7,
-                                "skill_tage": "own",
+                                "skill_tage": "ts0011",
                                 "rate": [
                                     64.3,
                                     67.6,
@@ -31142,6 +31157,9 @@
                                     109,
                                     122
                                 ]
+                            },
+                            {
+                                "skill_attribute": "causeOfTSNS"
                             }
                         ]
                     }
@@ -49222,14 +49240,21 @@
                         "cooltime": 2.033,
                         "effect": [
                             {
-                                "skill_attribute": "T.S",
+                                "skill_attribute": "TSSummon",
                                 "skilltime": 30,
-                                "skill_tage": "own"
+                                "skill_tage": "ts0002",
+                                "rate": [
+                                    "雨雲号",
+                                    "雨雲号",
+                                    "雨雲号",
+                                    "雨雲号",
+                                    "雨雲号"
+                                ]
                             },
                             {
-                                "skill_attribute": "atk",
+                                "skill_attribute": "connectAtk",
                                 "skilltime": 30,
-                                "skill_tage": "own",
+                                "skill_tage": "ts0002",
                                 "rate": [
                                     12.5,
                                     17.9,
@@ -49239,9 +49264,9 @@
                                 ]
                             },
                             {
-                                "skill_attribute": "cri",
+                                "skill_attribute": "connectCri",
                                 "skilltime": 30,
-                                "skill_tage": "own",
+                                "skill_tage": "ts0002",
                                 "rate": [
                                     12.5,
                                     16.1,
@@ -49675,14 +49700,21 @@
                         "cooltime": 4,
                         "effect": [
                             {
-                                "skill_attribute": "T.S",
+                                "skill_attribute": "TSSummon",
                                 "skilltime": 30,
-                                "skill_tage": "own"
+                                "skill_tage": "ts0003",
+                                "rate": [
+                                    "雷ちゃん",
+                                    "雷ちゃん",
+                                    "雷ちゃん",
+                                    "雷ちゃん",
+                                    "雷ちゃん"
+                                ]
                             },
                             {
-                                "skill_attribute": "atk",
+                                "skill_attribute": "connectAtk",
                                 "skilltime": 30,
-                                "skill_tage": "own",
+                                "skill_tage": "ts0003",
                                 "rate": [
                                     81.4,
                                     93.6,
@@ -49700,14 +49732,26 @@
                         "hittime": 1.1,
                         "effect": [
                             {
-                                "skill_attribute": "T.S",
+                                "skill_attribute": "TSSummon",
                                 "skilltime": 20,
-                                "skill_tage": "own"
+                                "skill_tage": "ts0004",
+                                "rate": [
+                                    "雷ちゃんMK-II",
+                                    "雷ちゃんMK-II",
+                                    "雷ちゃんMK-II",
+                                    "雷ちゃんMK-II",
+                                    "雷ちゃんMK-II",
+                                    "雷ちゃんMK-II",
+                                    "雷ちゃんMK-II",
+                                    "雷ちゃんMK-II",
+                                    "雷ちゃんMK-II",
+                                    "雷ちゃんMK-II"
+                                ]
                             },
                             {
-                                "skill_attribute": "atk",
+                                "skill_attribute": "connectAtk",
                                 "skilltime": 20,
-                                "skill_tage": "own",
+                                "skill_tage": "ts0004",
                                 "rate": [
                                     38.2,
                                     40.1,
@@ -49730,14 +49774,26 @@
                         "hittime": 1.1,
                         "effect": [
                             {
-                                "skill_attribute": "T.S",
+                                "skill_attribute": "TSSummon",
                                 "skilltime": 20,
-                                "skill_tage": "own"
+                                "skill_tage": "ts0004",
+                                "rate": [
+                                    "雷ちゃんMK-II",
+                                    "雷ちゃんMK-II",
+                                    "雷ちゃんMK-II",
+                                    "雷ちゃんMK-II",
+                                    "雷ちゃんMK-II",
+                                    "雷ちゃんMK-II",
+                                    "雷ちゃんMK-II",
+                                    "雷ちゃんMK-II",
+                                    "雷ちゃんMK-II",
+                                    "雷ちゃんMK-II"
+                                ]
                             },
                             {
-                                "skill_attribute": "atk",
+                                "skill_attribute": "connectAtk",
                                 "skilltime": 20,
-                                "skill_tage": "own",
+                                "skill_tage": "ts0004",
                                 "rate": [
                                     38.2,
                                     40.1,
@@ -52226,9 +52282,21 @@
                         "cooltime": 2.033,
                         "effect": [
                             {
-                                "skill_attribute": "healUp",
-                                "skill_tage": "own",
+                                "skill_attribute": "TSSummon",
                                 "skilltime": 50,
+                                "skill_tage": "ts0005",
+                                "rate": [
+                                    "緊急車両11号",
+                                    "緊急車両11号",
+                                    "緊急車両11号",
+                                    "緊急車両11号",
+                                    "緊急車両11号"
+                                ]
+                            },
+                            {
+                                "skill_attribute": "connectHealUp",
+                                "skilltime": 50,
+                                "skill_tage": "ts0005",
                                 "rate": [
                                     16.2,
                                     18.6,
@@ -52238,9 +52306,7 @@
                                 ]
                             },
                             {
-                                "skill_attribute": "T.S",
-                                "skill_tage": "own",
-                                "skilltime": 50
+                                "skill_attribute": "causeOfTSPS"
                             }
                         ]
                     }
@@ -52840,7 +52906,7 @@
             ],
             "school": "RW",
             "battleClass": "T.S",
-            "class": "チェリノ（温泉）",
+            "class": "チェリノ",
             "skill": {
                 "EX": {
                     "default": {
@@ -52850,9 +52916,21 @@
                         "cooltime": 2.034,
                         "effect": [
                             {
-                                "skill_attribute": "atk",
-                                "skill_tage": "own",
+                                "skill_attribute": "TSSummon",
                                 "skilltime": 50,
+                                "skill_tage": "ts0006",
+                                "rate": [
+                                    "粛清君1号",
+                                    "粛清君1号",
+                                    "粛清君1号",
+                                    "粛清君1号",
+                                    "粛清君1号"
+                                ]
+                            },
+                            {
+                                "skill_attribute": "connectAtk",
+                                "skilltime": 50,
+                                "skill_tage": "ts0006",
                                 "rate": [
                                     9,
                                     10.3,
@@ -52860,11 +52938,6 @@
                                     14.4,
                                     17.1
                                 ]
-                            },
-                            {
-                                "skill_attribute": "T.S",
-                                "skill_tage": "own",
-                                "skilltime": 50
                             }
                         ]
                     }
@@ -53778,9 +53851,16 @@
                         "cooltime": 2.034,
                         "effect": [
                             {
-                                "skill_attribute": "T.S",
-                                "skill_tage": "own",
-                                "skilltime": 32
+                                "skill_attribute": "TSSummon",
+                                "skilltime": 32,
+                                "skill_tage": "ts0007",
+                                "rate": [
+                                    "ノドカ（温泉）",
+                                    "ノドカ（温泉）",
+                                    "ノドカ（温泉）",
+                                    "ノドカ（温泉）",
+                                    "ノドカ（温泉）"
+                                ]
                             }
                         ]
                     }
@@ -55045,9 +55125,21 @@
                         "cooltime": 2,
                         "effect": [
                             {
-                                "skill_attribute": "atk",
-                                "skill_tage": "own",
+                                "skill_attribute": "TSSummon",
                                 "skilltime": 50,
+                                "skill_tage": "ts0008",
+                                "rate": [
+                                    "クルセイダーちゃん",
+                                    "クルセイダーちゃん",
+                                    "クルセイダーちゃん",
+                                    "クルセイダーちゃん",
+                                    "クルセイダーちゃん"
+                                ]
+                            },
+                            {
+                                "skill_attribute": "connectAtk",
+                                "skilltime": 50,
+                                "skill_tage": "ts0008",
                                 "rate": [
                                     19.4,
                                     22.3,
@@ -55055,11 +55147,6 @@
                                     31,
                                     36.8
                                 ]
-                            },
-                            {
-                                "skill_attribute": "T.S",
-                                "skill_tage": "own",
-                                "skilltime": 50
                             }
                         ]
                     }
@@ -56488,9 +56575,19 @@
                                 ]
                             },
                             {
-                                "skill_attribute": "T.S",
-                                "skill_tage": "own",
-                                "skilltime": 26
+                                "skill_attribute": "TSSummon",
+                                "skilltime": 26,
+                                "skill_tage": "ts0015",
+                                "rate": [
+                                    "初音ミク",
+                                    "初音ミク",
+                                    "初音ミク",
+                                    "初音ミク",
+                                    "初音ミク"
+                                ]
+                            },
+                            {
+                                "skill_attribute": "causeOfTSPS"
                             }
                         ]
                     }
@@ -61232,9 +61329,31 @@
                         "cooltime": 2.034,
                         "effect": [
                             {
-                                "skill_attribute": "T.S",
-                                "skill_tage": "own",
-                                "skilltime": 30
+                                "skill_attribute": "TSSummon",
+                                "skilltime": 30,
+                                "skill_tage": "ts0010",
+                                "rate": [
+                                    "給食推進車両",
+                                    "給食推進車両",
+                                    "給食推進車両",
+                                    "給食推進車両",
+                                    "給食推進車両"
+                                ]
+                            },
+                            {
+                                "skill_attribute": "connectHP",
+                                "skilltime": 30,
+                                "skill_tage": "ts0010",
+                                "rate": [
+                                    27.6,
+                                    31.8,
+                                    40,
+                                    44.2,
+                                    52.5
+                                ]
+                            },
+                            {
+                                "skill_attribute": "causeOfTSPS"
                             }
                         ]
                     }
@@ -64731,8 +64850,31 @@
                         "cooltime": 4.7,
                         "effect": [
                             {
-                                "skill_attribute": "T.S",
-                                "skill_tage": "own"
+                                "skill_attribute": "TSSummon",
+                                "skilltime": 30,
+                                "skill_tage": "ts0012",
+                                "rate": [
+                                    "キキョウ（水着）が寝そべっているハンモック",
+                                    "キキョウ（水着）が寝そべっているハンモック",
+                                    "キキョウ（水着）が寝そべっているハンモック",
+                                    "キキョウ（水着）が寝そべっているハンモック",
+                                    "キキョウ（水着）が寝そべっているハンモック"
+                                ]
+                            },
+                            {
+                                "skill_attribute": "connectHP",
+                                "skilltime": 30,
+                                "skill_tage": "ts0012",
+                                "rate": [
+                                    45.1,
+                                    45.1,
+                                    45.1,
+                                    45.1,
+                                    45.1
+                                ]
+                            },
+                            {
+                                "skill_attribute": "causeOfTSPS"
                             }
                         ]
                     }
@@ -65652,8 +65794,58 @@
                         "cooltime": 2.867,
                         "effect": [
                             {
-                                "skill_attribute": "T.S",
-                                "skill_tage": "own"
+                                "skill_attribute": "TSSummon",
+                                "skilltime": 22,
+                                "skill_tage": "ts0013",
+                                "rate": [
+                                    "テルミットピンク",
+                                    "テルミットピンク",
+                                    "テルミットピンク",
+                                    "テルミットピンク",
+                                    "テルミットピンク"
+                                ]
+                            },
+                            {
+                                "skill_attribute": "connectHP",
+                                "skilltime": 22,
+                                "skill_tage": "ts0013",
+                                "rate": [
+                                    29.3,
+                                    33.7,
+                                    42.5,
+                                    46.9,
+                                    55.7
+                                ]
+                            },
+                            {
+                                "skill_attribute": "connectAtk",
+                                "skilltime": 22,
+                                "skill_tage": "ts0013",
+                                "rate": [
+                                    22.4,
+                                    25.8,
+                                    32.5,
+                                    35.9,
+                                    42.6
+                                ]
+                            },
+                            {
+                                "skill_attribute": "connectHealUp",
+                                "skilltime": 22,
+                                "skill_tage": "ts0013",
+                                "rate": [
+                                    26.9,
+                                    30.9,
+                                    39,
+                                    43,
+                                    51.1
+                                ]
+                            },
+                            {
+                                "skill_attribute": "causeOfNS"
+                            },
+                            {
+                                "skill_attribute": "causeOfTSPS"
                             }
                         ]
                     }
@@ -65661,12 +65853,12 @@
                 "NS": {
                     "default": {
                         "skillname": "シュガーマジカルクラッシュ！",
-                        "hittime": 0.0,
+                        "hittime": 1.2,
                         "effect": [
                             {
                                 "skill_attribute": "cri_damage",
-                                "skill_tage": "all",
-                                "skilltime": 0,
+                                "skill_tage": "ST",
+                                "skilltime": 22,
                                 "rate": [
                                     8.6,
                                     9,
@@ -66420,7 +66612,7 @@
                 "cri": 273,
                 "cri_damage": 200,
                 "penetrate": 0,
-                "balance": 0,
+                "balance": 1040,
                 "urban": "B",
                 "outdoor": "D",
                 "indoor": "S"
@@ -66501,7 +66693,7 @@
                             {
                                 "skill_attribute": "TSSummon",
                                 "skilltime": 30,
-                                "skill_tage": "ts0011",
+                                "skill_tage": "ts0014",
                                 "rate": [
                                     "屋外用車椅子",
                                     "屋外用車椅子",
@@ -66513,7 +66705,7 @@
                             {
                                 "skill_attribute": "connectHP",
                                 "skilltime": 30,
-                                "skill_tage": "ts0011",
+                                "skill_tage": "ts0014",
                                 "rate": [
                                     10.7,
                                     12.3,
