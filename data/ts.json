@@ -912,6 +912,114 @@
                 "PS+": {},
                 "SS": {}
             }
+        },
+        {
+            "id": "ts0016",
+            "name": "ヘルメット団（SG）",
+            "img": "standing/ラブ.png",
+            "icon": "face/ラブ.png",
+            "atk_attribute": "振動",
+            "def_attribute": "特殊装甲",
+            "status": {
+                "atk": 16.25,
+                "heal": 1847.7,
+                "hit": 741,
+                "avoid": 157,
+                "cri": 280,
+                "cri_damage": 200,
+                "penetrate": 0,
+                "balance": 1752
+            },
+            "dps": {
+                "hit": 24,
+                "hits": 3,
+                "delay": 55,
+                "reload": 60,
+                "beforeTime": 605
+            },
+            "connection": "st0166",
+            "school": "TR",
+            "battleClass": "T.S",
+            "class": "ラブ",
+            "skill": {
+                "EX": {},
+                "NS": {},
+                "PS": {},
+                "PS+": {},
+                "SS": {}
+            }
+        },
+        {
+            "id": "ts0017",
+            "name": "ヘルメット団（AR）",
+            "img": "standing/ラブ.png",
+            "icon": "face/ラブ.png",
+            "atk_attribute": "振動",
+            "def_attribute": "特殊装甲",
+            "status": {
+                "atk": 36.43,
+                "heal": 1847.7,
+                "hit": 741,
+                "avoid": 157,
+                "cri": 280,
+                "cri_damage": 200,
+                "penetrate": 0,
+                "balance": 1752
+            },
+            "dps": {
+                "hit": 20,
+                "hits": 1,
+                "delay": 33.315789,
+                "reload": 60,
+                "beforeTime": 100
+            },
+            "connection": "st0166",
+            "school": "TR",
+            "battleClass": "T.S",
+            "class": "ラブ",
+            "skill": {
+                "EX": {},
+                "NS": {},
+                "PS": {},
+                "PS+": {},
+                "SS": {}
+            }
+        },
+        {
+            "id": "ts0018",
+            "name": "ヘルメット団（SR）",
+            "img": "standing/ラブ.png",
+            "icon": "face/ラブ.png",
+            "atk_attribute": "振動",
+            "def_attribute": "特殊装甲",
+            "status": {
+                "atk": 70,
+                "heal": 1847.7,
+                "hit": 741,
+                "avoid": 157,
+                "cri": 280,
+                "cri_damage": 200,
+                "penetrate": 0,
+                "balance": 1752
+            },
+            "dps": {
+                "hit": 5,
+                "hits": 1,
+                "delay": 91,
+                "reload": 70,
+                "beforeTime": 146
+            },
+            "connection": "st0166",
+            "school": "TR",
+            "battleClass": "T.S",
+            "class": "ラブ",
+            "skill": {
+                "EX": {},
+                "NS": {},
+                "PS": {},
+                "PS+": {},
+                "SS": {}
+            }
         }
     ]
 }
