@@ -46403,11 +46403,11 @@
                                 "skilltime": 35,
                                 "skill_tage": "own",
                                 "rate": [
-                                    47.7,
-                                    51.2,
-                                    65.5,
-                                    69.1,
-                                    83.3
+                                    32.6,
+                                    37.6,
+                                    47.4,
+                                    52.3,
+                                    62.1
                                 ]
                             },
                             {
@@ -46415,23 +46415,23 @@
                                 "skilltime": 35,
                                 "skill_tage": "own",
                                 "rate": [
-                                    47.7,
-                                    51.2,
-                                    65.5,
-                                    69.1,
-                                    83.3
+                                    47,
+                                    54,
+                                    68.1,
+                                    75.1,
+                                    89.2
                                 ]
                             },
                             {
-                                "skill_attribute": "aim",
+                                "skill_attribute": "range",
                                 "skilltime": 35,
                                 "skill_tage": "own",
                                 "rate": [
-                                    47.7,
-                                    51.2,
-                                    65.5,
-                                    69.1,
-                                    83.3
+                                    46,
+                                    46,
+                                    46,
+                                    46,
+                                    46
                                 ]
                             },
                             {
@@ -46534,7 +46534,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "atk",
-                                "skilltime": 13,
+                                "start": true,
                                 "rate": [
                                     16.8,
                                     17.6,
