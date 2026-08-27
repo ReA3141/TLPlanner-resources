@@ -7252,7 +7252,7 @@
                 "EX": {
                     "default": {
                         "skillname": "オーダーメイド閃光弾",
-                        "cost": 0,
+                        "cost": 4,
                         "hittime": 0.0,
                         "cooltime": 4.067,
                         "effect": [
@@ -9657,7 +9657,10 @@
                     }
                 ],
                 "SS": {
-                    "default": {}
+                    "default": {
+                        "skillname": "制御不能の力",
+                        "effect": []
+                    }
                 }
             }
         },
@@ -19311,7 +19314,10 @@
                     }
                 ],
                 "SS": {
-                    "default": {}
+                    "default": {
+                        "skillname": "梅花園の指導法",
+                        "effect": []
+                    }
                 }
             }
         },
@@ -20517,7 +20523,7 @@
                 "EX": {
                     "default": {
                         "skillname": "鋼の意志のピアッシング弾",
-                        "cost": 0,
+                        "cost": 3,
                         "hittime": 0.0,
                         "cooltime": 0,
                         "effect": [
@@ -20735,7 +20741,7 @@
                 "EX": {
                     "default": {
                         "skillname": "シグレ特製ボトルグレネード",
-                        "cost": 0,
+                        "cost": 5,
                         "hittime": 2.4,
                         "cooltime": 0,
                         "effect": [
@@ -20851,7 +20857,35 @@
                     }
                 ],
                 "SS": {
-                    "default": {}
+                    "default": {
+                        "skillname": "野生の勘",
+                        "effect": [
+                            {
+                                "skill_attribute": "formChange",
+                                "start": true,
+                                "skill_tage": "own",
+                                "dps": {
+                                    "hit": 6,
+                                    "hits": 1,
+                                    "delay": 72,
+                                    "reload": 92,
+                                    "beforeTime": 156
+                                },
+                                "rate": [
+                                    61.6,
+                                    62.9,
+                                    64.1,
+                                    69,
+                                    70.3,
+                                    71.5,
+                                    76.4,
+                                    77.6,
+                                    78.9,
+                                    83.8
+                                ]
+                            }
+                        ]
+                    }
                 }
             }
         },
@@ -23217,7 +23251,10 @@
                     }
                 ],
                 "SS": {
-                    "default": {},
+                    "default": {
+                        "skillname": "目には目を",
+                        "effect": []
+                    },
                     "アビ・エシュフモード": {
                         "skillname": "目には目を",
                         "effect": [
@@ -29924,7 +29961,10 @@
                     }
                 ],
                 "SS": {
-                    "default": {}
+                    "default": {
+                        "skillname": "作戦の成果",
+                        "effect": []
+                    }
                 }
             }
         },
@@ -36609,7 +36649,10 @@
                     }
                 },
                 "NS": {
-                    "default": {},
+                    "default": {
+                        "skillname": "お気に入りの枕",
+                        "effect": []
+                    },
                     "quiet": {
                         "skillname": "お気に入りの枕",
                         "hittime": 2.734,
@@ -68705,7 +68748,10 @@
                     }
                 },
                 "NS": {
-                    "default": {},
+                    "default": {
+                        "skillname": "イブキも手伝う！",
+                        "effect": []
+                    },
                     "selected": {
                         "skillname": "イブキも手伝う！",
                         "hittime": 0.0,
