@@ -40663,6 +40663,7 @@
                                 "skilltime": 0,
                                 "sub_attribute": "cri",
                                 "sub_skilltime": 30,
+                                "duplicate": 4,
                                 "rate": [
                                     4.7,
                                     4.9,
