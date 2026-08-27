@@ -46656,6 +46656,7 @@
                             {
                                 "skill_attribute": "damage",
                                 "skill_pattern": "one",
+                                "skill_tage": "enemy",
                                 "hitAmount": [
                                     2.500,
                                     2.533,
