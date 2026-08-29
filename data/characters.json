@@ -11493,7 +11493,7 @@
                             {
                                 "skill_attribute": "damage",
                                 "skill_pattern": "one",
-                                "skill_tage": "ally",
+                                "skill_tage": "enemy",
                                 "hitAmount": [
                                     2.133,
                                     2.167,
@@ -12813,6 +12813,7 @@
                             {
                                 "skill_attribute": "atk",
                                 "skill_tage": "own",
+                                "duplicate": 5,
                                 "rate": [
                                     8.7,
                                     9.1,
@@ -39180,6 +39181,9 @@
                                 "skill_attribute": "firing_signal",
                                 "skill_tage": "own",
                                 "duplicate": 3
+                            },
+                            {
+                                "skill_attribute": "causeOfNS"
                             },
                             {
                                 "skill_attribute": "otherUsed",
