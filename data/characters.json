@@ -65624,7 +65624,9 @@
                                 "skill_attribute": "damage",
                                 "skill_pattern": "one",
                                 "skill_tage": "enemy",
-                                "hitAmount": [],
+                                "hitAmount": [
+                                    1.567
+                                ],
                                 "rate": [
                                     54.7,
                                     57.4,
