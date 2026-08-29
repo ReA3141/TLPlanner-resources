@@ -39100,7 +39100,6 @@
                             {
                                 "skill_attribute": "sp_atk",
                                 "skill_tage": "ST",
-                                "skip": 2,
                                 "skilltime": 20,
                                 "rate": [
                                     13.9,
