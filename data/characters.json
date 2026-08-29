@@ -14963,7 +14963,7 @@
                             {
                                 "skill_attribute": "atk",
                                 "skill_tage": "own",
-                                "skilltime": 50,
+                                "skilltime": 40,
                                 "rate": [
                                     19.5,
                                     20.5,
@@ -14980,6 +14980,7 @@
                             {
                                 "skill_attribute": "penetrate",
                                 "skill_tage": "own",
+                                "skilltime": 40,
                                 "rate": [
                                     344,
                                     361,
@@ -20549,7 +20550,9 @@
                                 "skill_attribute": "damage",
                                 "skill_pattern": "one",
                                 "skill_tage": "enemy",
-                                "hitAmount": 0,
+                                "hitAmount": [
+                                    2.634
+                                ],
                                 "rate": [
                                     452,
                                     520,
@@ -20580,7 +20583,9 @@
                                 "skill_attribute": "damage",
                                 "skill_pattern": "one",
                                 "skill_tage": "enemy",
-                                "hitAmount": 0,
+                                "hitAmount": [
+                                    1.967
+                                ],
                                 "rate": [
                                     247,
                                     259,
@@ -27546,6 +27551,7 @@
                             {
                                 "skill_attribute": "atk",
                                 "skill_tage": "own",
+                                "duplicate": 5,
                                 "skilltime": 30,
                                 "rate": [
                                     6.6,
@@ -38201,6 +38207,11 @@
                                 "skill_tage": "own",
                                 "duplicate": 3,
                                 "rate": [
+                                    3,
+                                    3,
+                                    3,
+                                    3,
+                                    3,
                                     3,
                                     3,
                                     3,
