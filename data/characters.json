@@ -43984,7 +43984,7 @@
                             {
                                 "skill_attribute": "cri_damage",
                                 "skill_tage": "own",
-                                "skilltime": 35,
+                                "skilltime": 30,
                                 "rate": [
                                     21.9,
                                     23,
@@ -48137,6 +48137,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "sp_atk",
+                                "skill_tage": "own",
                                 "skilltime": 1.9,
                                 "rate": [
                                     41.4,
@@ -48159,6 +48160,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "sp_atk",
+                                "skill_tage": "own",
                                 "skilltime": 1.9,
                                 "rate": [
                                     41.4,
@@ -48181,6 +48183,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "sp_atk",
+                                "skill_tage": "own",
                                 "skilltime": 1.9,
                                 "rate": [
                                     41.4,
@@ -48203,6 +48206,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "sp_atk",
+                                "skill_tage": "own",
                                 "skilltime": 1.9,
                                 "rate": [
                                     41.4,
@@ -48379,6 +48383,9 @@
                                     642,
                                     762
                                 ]
+                            },
+                            {
+                                "skill_attribute": "causeOfSS"
                             }
                         ]
                     }
@@ -48413,9 +48420,6 @@
                             },
                             {
                                 "skill_attribute": "allowView"
-                            },
-                            {
-                                "skill_attribute": "causeOfSS"
                             }
                         ]
                     }
