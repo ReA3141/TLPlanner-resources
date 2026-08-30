@@ -10330,7 +10330,7 @@
                         "skillname": "お口いっぱいの幸せ",
                         "effect": [
                             {
-                                "skill_attribute": "healUped",
+                                "skill_attribute": "heal_uped",
                                 "skill_tage": "own",
                                 "duplicate": 3,
                                 "rate": [
@@ -37961,7 +37961,7 @@
                         "hittime": 0.666,
                         "effect": [
                             {
-                                "skill_attribute": "healUped",
+                                "skill_attribute": "heal_uped",
                                 "skilltime": 32,
                                 "skill_tage": "andMore",
                                 "rate": [
@@ -45478,7 +45478,7 @@
                 },
                 "PS": [
                     {
-                        "skill_attribute": "healUped",
+                        "skill_attribute": "heal_uped",
                         "rate": [
                             14,
                             14.7,
@@ -54372,7 +54372,7 @@
                         "hittime": 1.134,
                         "effect": [
                             {
-                                "skill_attribute": "healUped",
+                                "skill_attribute": "heal_uped",
                                 "skill_tage": "ally",
                                 "skilltime": 20,
                                 "rate": [
@@ -57162,7 +57162,7 @@
                         "skillname": "初音ミクの祝福",
                         "effect": [
                             {
-                                "skill_attribute": "healUped",
+                                "skill_attribute": "heal_uped",
                                 "rate": [
                                     9.1,
                                     9.5,
@@ -58238,7 +58238,7 @@
                         "hittime": 1.0,
                         "effect": [
                             {
-                                "skill_attribute": "healUped",
+                                "skill_attribute": "heal_uped",
                                 "skill_tage": "all",
                                 "skilltime": 15,
                                 "rate": [
@@ -58263,7 +58263,7 @@
                         "hittime": 1.0,
                         "effect": [
                             {
-                                "skill_attribute": "healUped",
+                                "skill_attribute": "heal_uped",
                                 "skill_tage": "all",
                                 "skilltime": 15,
                                 "rate": [
@@ -62926,7 +62926,7 @@
                         "hittime": 0.3,
                         "effect": [
                             {
-                                "skill_attribute": "healUped",
+                                "skill_attribute": "heal_uped",
                                 "skill_tage": "ally",
                                 "skilltime": 20,
                                 "rate": [
@@ -64897,7 +64897,7 @@
                         "hittime": 0.5,
                         "effect": [
                             {
-                                "skill_attribute": "healUped",
+                                "skill_attribute": "heal_uped",
                                 "skill_tage": "ally",
                                 "skilltime": 40,
                                 "rate": [
