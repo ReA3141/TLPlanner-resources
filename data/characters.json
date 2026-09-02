@@ -2623,24 +2623,22 @@
                         "skillname": "パーフェクトな社長の流儀",
                         "effect": [
                             {
-                                "skill_attribute": "def",
-                                "skill_tage": "own",
-                                "rate": [
-                                    5.3,
-                                    7.2,
-                                    8.3,
-                                    9.4,
-                                    13.4,
-                                    14.7,
-                                    16.1,
-                                    23.6,
-                                    25.2,
-                                    26.8
-                                ]
-                            },
-                            {
                                 "skill_attribute": "evil",
-                                "skill_tage": "own"
+                                "skill_tage": "own",
+                                "sub_attribute": "def",
+                                "duplicate": 6,
+                                "rate": [
+                                    26.8,
+                                    25.2,
+                                    23.6,
+                                    16.1,
+                                    14.7,
+                                    13.4,
+                                    9.4,
+                                    8.3,
+                                    7.2,
+                                    5.3
+                                ]
                             }
                         ]
                     }
@@ -16738,6 +16736,9 @@
                                     255,
                                     302
                                 ]
+                            },
+                            {
+                                "skill_attribute": "causeOfSS"
                             }
                         ]
                     }
@@ -16839,9 +16840,12 @@
                         "skillname": "小悪魔のキュートな企み",
                         "effect": [
                             {
-                                "skill_attribute": "cri_damage",
+                                "skill_attribute": "cuteDevil",
+                                "skill_tage": "enemy",
                                 "skilltime": 56,
-                                "skill_tage": "own",
+                                "sub_attribute": "cri_damage",
+                                "sub_skilltime": 56,
+                                "duplicate": 6,
                                 "rate": [
                                     2.1,
                                     2.2,
@@ -16854,11 +16858,6 @@
                                     3.6,
                                     4.1
                                 ]
-                            },
-                            {
-                                "skill_attribute": "cuteDevil",
-                                "duplicate": 6,
-                                "skill_tage": "own"
                             }
                         ]
                     }
@@ -40762,11 +40761,9 @@
                                 ]
                             },
                             {
-                                "skill_attribute": "waterMelon",
-                                "skill_tage": "own",
-                                "skilltime": 0,
-                                "sub_attribute": "cri",
+                                "skill_attribute": "cri",
                                 "sub_skilltime": 30,
+                                "skill_tage": "own",
                                 "duplicate": 4,
                                 "rate": [
                                     4.7,
@@ -40831,7 +40828,21 @@
                                 "skill_attribute": "waterMelon",
                                 "skill_tage": "own",
                                 "skilltime": 43,
-                                "duplicate": 4
+                                "sub_attribute": "cri_damage",
+                                "sub_skilltime": 43,
+                                "duplicate": 4,
+                                "rate": [
+                                    3.3,
+                                    3.4,
+                                    3.6,
+                                    4.2,
+                                    4.4,
+                                    4.6,
+                                    5.2,
+                                    5.4,
+                                    5.6,
+                                    6.2
+                                ]
                             }
                         ]
                     }
