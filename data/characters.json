@@ -43303,6 +43303,28 @@
                                 ]
                             },
                             {
+                                "skill_attribute": "formChange",
+                                "skill_tage": "own",
+                                "skilltime": 10,
+                                "dps": {
+                                    "hit": 15,
+                                    "hits": 4,
+                                    "delay": 1,
+                                    "reload": 0,
+                                    "beforeTime": 1
+                                },
+                                "rate": [
+                                    -47.2,
+                                    -39.2,
+                                    -23.2,
+                                    -15.2,
+                                    0.8
+                                ]
+                            },
+                            {
+                                "skill_attribute": "causeOfNS"
+                            },
+                            {
                                 "skill_attribute": "causeOfSS"
                             }
                         ]
@@ -43311,11 +43333,17 @@
                 "NS": {
                     "default": {
                         "skillname": "薬莢回収",
-                        "hittime": 3.267,
+                        "hittime": 11.4,
                         "effect": [
+                            {
+                                "skill_attribute": "amoClip",
+                                "skill_tage": "own",
+                                "duplicate": 3
+                            },
                             {
                                 "skill_attribute": "cri_damage",
                                 "skill_tage": "own",
+                                "skip": 2,
                                 "skilltime": 10,
                                 "rate": [
                                     12.5,
@@ -43329,11 +43357,6 @@
                                     21.3,
                                     23.9
                                 ]
-                            },
-                            {
-                                "skill_attribute": "amoClip",
-                                "skill_tage": "own",
-                                "duplicate": 3
                             }
                         ]
                     }
@@ -43380,10 +43403,12 @@
                 "SS": {
                     "default": {
                         "skillname": "ハーモニカ",
+                        "hittime": 1.4,
                         "effect": [
                             {
                                 "skill_attribute": "atk",
                                 "skill_tage": "own",
+                                "skilltime": 10,
                                 "rate": [
                                     16.8,
                                     17.6,
