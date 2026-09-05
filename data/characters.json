@@ -49161,7 +49161,8 @@
                         "effect": [
                             {
                                 "skill_attribute": "safetySign",
-                                "skill_tage": "ally"
+                                "skill_tage": "ally",
+                                "class_tage": "attacker"
                             },
                             {
                                 "skill_attribute": "ex_up",
@@ -49188,7 +49189,8 @@
                         "effect": [
                             {
                                 "skill_attribute": "safetySign",
-                                "skill_tage": "ally"
+                                "skill_tage": "ally",
+                                "class_tage": "attacker"
                             },
                             {
                                 "skill_attribute": "baseUp",
