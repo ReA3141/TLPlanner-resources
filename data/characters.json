@@ -23956,12 +23956,8 @@
                                 ]
                             },
                             {
-                                "skill_attribute": "talisman_clear"
-                            },
-                            {
                                 "skill_attribute": "sp_atk",
                                 "allow": "talisman",
-                                "skill_tage": "all",
                                 "skilltime": 50,
                                 "rate": [
                                     22,
