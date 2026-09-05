@@ -28620,6 +28620,7 @@
                                 "skill_attribute": "damage",
                                 "skill_pattern": "many",
                                 "skill_tage": "all",
+                                "skill_critical": true,
                                 "hitAmount": [
                                     3.734
                                 ],
