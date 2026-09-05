@@ -22,7 +22,7 @@
                 "hits": 1,
                 "delay": 100,
                 "reload": 60,
-                "beforeTime": 305
+                "beforeTime": 159
             },
             "connection": "sp0005",
             "school": "GH",
@@ -80,7 +80,7 @@
                 "hits": 8,
                 "delay": 77,
                 "reload": 0,
-                "beforeTime": 572
+                "beforeTime": 470
             },
             "connection": "sp0004",
             "school": "AB",
@@ -268,7 +268,7 @@
                 "hits": 1,
                 "delay": 96,
                 "reload": 80,
-                "beforeTime": 408
+                "beforeTime": 249
             },
             "connection": "sp0020",
             "school": "RW",

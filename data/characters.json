@@ -16777,8 +16777,18 @@
                                 ]
                             },
                             {
-                                "skill_attribute": "add_damage",
-                                "hitAmount": 1,
+                                "skill_attribute": "damage",
+                                "hitAmount": [
+                                    0.766,
+                                    0.933,
+                                    1.133,
+                                    1.300,
+                                    1.500,
+                                    1.666,
+                                    1.866,
+                                    2.033,
+                                    2.266
+                                ],
                                 "skill_tage": "enemy",
                                 "rate": [
                                     117,
@@ -44945,8 +44955,7 @@
                                     "hits": 1,
                                     "delay": 105,
                                     "reload": 53,
-                                    "beforeTime": 325,
-                                    "immediately": 206
+                                    "beforeTime": 122
                                 },
                                 "rate": [
                                     173,
@@ -48563,7 +48572,7 @@
                 "hits": 1,
                 "delay": 72,
                 "reload": 60,
-                "beforeTime": 323
+                "beforeTime": 129
             },
             "limit": [
                 4,
@@ -49044,6 +49053,623 @@
                                 "skill_attribute": "mate",
                                 "start": true,
                                 "skill_tage": "mate"
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "id": "st0188",
+            "name": "ココロ",
+            "img": "standing/ココロ.png",
+            "icon": "face/ココロ.png",
+            "atk_attribute": "神秘",
+            "def_attribute": "特殊装甲",
+            "status": {
+                "atk": 473.2,
+                "heal": 1366.8,
+                "hit": 726,
+                "avoid": 769,
+                "cri": 837,
+                "cri_damage": 200,
+                "penetrate": 0,
+                "balance": 1344,
+                "urban": "S",
+                "outdoor": "D",
+                "indoor": "B"
+            },
+            "dps": {
+                "hit": 15,
+                "hits": 3,
+                "delay": 72,
+                "reload": 83,
+                "beforeTime": 159
+            },
+            "limit": [
+                6,
+                5,
+                6,
+                5,
+                6,
+                5,
+                6,
+                6,
+                5,
+                6,
+                5,
+                6,
+                5,
+                6,
+                6,
+                5,
+                6,
+                5,
+                6,
+                5,
+                6,
+                6,
+                5,
+                6,
+                5
+            ],
+            "weapon": [
+                {
+                    "wep1": "シューズ",
+                    "wep2": "ヘアピン",
+                    "wep3": "腕時計",
+                    "unique_wep": [
+                        {
+                            "atk": 489,
+                            "heal": 0
+                        }
+                    ]
+                }
+            ],
+            "bond": [
+                {
+                    "atk": [
+                        4,
+                        5,
+                        6,
+                        8,
+                        2,
+                        3,
+                        5
+                    ],
+                    "heal": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "school": "AD",
+            "battleClass": "supporter",
+            "class": "ココロ",
+            "skill": {
+                "EX": {
+                    "default": {
+                        "skillname": "ダイビング、開始！",
+                        "cost": 2,
+                        "hittime": 1.534,
+                        "cooltime": 3.767,
+                        "effect": [
+                            {
+                                "skill_attribute": "safetySign",
+                                "skill_tage": "ally"
+                            },
+                            {
+                                "skill_attribute": "ex_up",
+                                "skill_tage": "ally",
+                                "skilltime": 15,
+                                "rate": [
+                                    36.4,
+                                    41.9,
+                                    52.8,
+                                    58.3,
+                                    69.2
+                                ]
+                            },
+                            {
+                                "skill_attribute": "causeOfSS"
+                            }
+                        ]
+                    },
+                    "dive": {
+                        "skillname": "上がります！",
+                        "cost": 2,
+                        "hittime": 1.967,
+                        "cooltime": 3.767,
+                        "effect": [
+                            {
+                                "skill_attribute": "safetySign",
+                                "skill_tage": "ally"
+                            },
+                            {
+                                "skill_attribute": "baseUp",
+                                "skill_tage": "ally",
+                                "skilltime": 15,
+                                "rate": [
+                                    36.4,
+                                    41.9,
+                                    52.8,
+                                    58.3,
+                                    69.2
+                                ]
+                            },
+                            {
+                                "skill_attribute": "causeOfSS"
+                            }
+                        ]
+                    }
+                },
+                "NS": {
+                    "default": {
+                        "skillname": "水中ブリーチング",
+                        "hittime": 3.966,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "one",
+                                "skill_tage": "enemy",
+                                "hitAmount": [
+                                    3.966
+                                ],
+                                "rate": [
+                                    138,
+                                    145,
+                                    152,
+                                    180,
+                                    187,
+                                    194,
+                                    222,
+                                    229,
+                                    236,
+                                    263
+                                ]
+                            },
+                            {
+                                "skill_attribute": "atk_debaff",
+                                "skill_tage": "enemy",
+                                "skilltime": 25,
+                                "rate": [
+                                    13,
+                                    13.6,
+                                    14.3,
+                                    16.9,
+                                    17.5,
+                                    18.2,
+                                    20.8,
+                                    21.4,
+                                    22.1,
+                                    24.7
+                                ]
+                            }
+                        ]
+                    },
+                    "dive": {
+                        "skillname": "水中ブリーチング",
+                        "hittime": 3.966,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "one",
+                                "skill_tage": "enemy",
+                                "hitAmount": [
+                                    3.966
+                                ],
+                                "rate": [
+                                    138,
+                                    145,
+                                    152,
+                                    180,
+                                    187,
+                                    194,
+                                    222,
+                                    229,
+                                    236,
+                                    263
+                                ]
+                            },
+                            {
+                                "skill_attribute": "atk_debaff",
+                                "skill_tage": "enemy",
+                                "skilltime": 25,
+                                "rate": [
+                                    13,
+                                    13.6,
+                                    14.3,
+                                    16.9,
+                                    17.5,
+                                    18.2,
+                                    20.8,
+                                    21.4,
+                                    22.1,
+                                    24.7
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "NS+": {
+                    "default": {
+                        "skillname": ""
+                    }
+                },
+                "PS": [
+                    {
+                        "skill_attribute": "atk",
+                        "rate": [
+                            14,
+                            14.7,
+                            15.4,
+                            18.2,
+                            18.9,
+                            19.6,
+                            22.4,
+                            23.1,
+                            23.8,
+                            26.6
+                        ]
+                    }
+                ],
+                "PS+": [
+                    {
+                        "skill_attribute": "baffUp",
+                        "rate": [
+                            1000,
+                            1050,
+                            1100,
+                            1300,
+                            1350,
+                            1400,
+                            1600,
+                            1650,
+                            1700,
+                            1900
+                        ]
+                    }
+                ],
+                "SS": {
+                    "default": {
+                        "skillname": "呼吸制御",
+                        "effect": [
+                            {
+                                "skill_attribute": "HP",
+                                "start": true,
+                                "skill_tage": "own",
+                                "rate": [
+                                    13.4,
+                                    14.1,
+                                    14.7,
+                                    17.4,
+                                    18.1,
+                                    18.8,
+                                    21.5,
+                                    22.1,
+                                    22.8,
+                                    25.5
+                                ]
+                            },
+                            {
+                                "skill_attribute": "baseUp",
+                                "start": true,
+                                "skill_tage": "own",
+                                "rate": [
+                                    16.8,
+                                    17.6,
+                                    18.4,
+                                    21.8,
+                                    22.6,
+                                    23.5,
+                                    26.8,
+                                    27.7,
+                                    28.5,
+                                    31.9
+                                ]
+                            },
+                            {
+                                "skill_attribute": "ex_up",
+                                "skill_tage": "own",
+                                "rate": [
+                                    16.8,
+                                    17.6,
+                                    18.4,
+                                    21.8,
+                                    22.6,
+                                    23.5,
+                                    26.8,
+                                    27.7,
+                                    28.5,
+                                    31.9
+                                ]
+                            },
+                            {
+                                "skill_attribute": "allEX",
+                                "skill_tage": "own"
+                            }
+                        ]
+                    },
+                    "dive": {
+                        "skillname": "呼吸制御",
+                        "effect": [
+                            {
+                                "skill_attribute": "HP",
+                                "start": true,
+                                "skill_tage": "own",
+                                "rate": [
+                                    13.4,
+                                    14.1,
+                                    14.7,
+                                    17.4,
+                                    18.1,
+                                    18.8,
+                                    21.5,
+                                    22.1,
+                                    22.8,
+                                    25.5
+                                ]
+                            },
+                            {
+                                "skill_attribute": "baseUp",
+                                "start": true,
+                                "skill_tage": "own",
+                                "rate": [
+                                    16.8,
+                                    17.6,
+                                    18.4,
+                                    21.8,
+                                    22.6,
+                                    23.5,
+                                    26.8,
+                                    27.7,
+                                    28.5,
+                                    31.9
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "id": "st0189",
+            "name": "コトネ",
+            "img": "standing/コトネ.png",
+            "icon": "face/コトネ.png",
+            "atk_attribute": "爆発",
+            "def_attribute": "特殊装甲",
+            "status": {
+                "atk": 382.2,
+                "heal": 1382,
+                "hit": 105,
+                "avoid": 227,
+                "cri": 210,
+                "cri_damage": 200,
+                "penetrate": 0,
+                "balance": 1328,
+                "urban": "B",
+                "outdoor": "D",
+                "indoor": "S"
+            },
+            "dps": {
+                "hit": 15,
+                "hits": 3,
+                "delay": 85,
+                "reload": 75,
+                "beforeTime": 159
+            },
+            "limit": [
+                6,
+                5,
+                6,
+                6,
+                5,
+                6,
+                6,
+                6,
+                5,
+                6,
+                6,
+                5,
+                6,
+                6,
+                5,
+                6,
+                6,
+                6,
+                5,
+                6,
+                6,
+                5,
+                6,
+                6,
+                5
+            ],
+            "weapon": [
+                {
+                    "wep1": "シューズ",
+                    "wep2": "バッグ",
+                    "wep3": "ネックレス",
+                    "unique_wep": [
+                        {
+                            "atk": 501,
+                            "heal": 502
+                        }
+                    ]
+                }
+            ],
+            "bond": [
+                {
+                    "atk": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "heal": [
+                        4,
+                        5,
+                        7,
+                        9,
+                        2,
+                        4,
+                        5
+                    ]
+                }
+            ],
+            "school": "AD",
+            "battleClass": "tank",
+            "class": "コトネ",
+            "skill": {
+                "EX": {
+                    "default": {
+                        "skillname": "水中用フレシュット弾装填",
+                        "cost": 2,
+                        "hittime": 1.4,
+                        "cooltime": 4.7,
+                        "effect": [
+                            {
+                                "skill_attribute": "heal",
+                                "skill_tage": "own",
+                                "rate": [
+                                    107,
+                                    123,
+                                    155,
+                                    163,
+                                    195
+                                ]
+                            },
+                            {
+                                "skill_attribute": "formChange",
+                                "skill_tage": "own",
+                                "skilltime": 17.4,
+                                "dps": {
+                                    "hit": 15,
+                                    "hits": 3,
+                                    "delay": 85,
+                                    "reload": 75,
+                                    "beforeTime": 181
+                                },
+                                "rate": [
+                                    20,
+                                    20,
+                                    20,
+                                    20,
+                                    20
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "NS": {
+                    "default": {
+                        "skillname": "深海の道しるべ",
+                        "hittime": 2.2,
+                        "effect": [
+                            {
+                                "skill_attribute": "ex_up",
+                                "skill_tage": "ignoreST",
+                                "skilltime": 28,
+                                "rate": [
+                                    8.3,
+                                    8.7,
+                                    9.1,
+                                    10.8,
+                                    11.2,
+                                    11.6,
+                                    13.3,
+                                    13.7,
+                                    14.1,
+                                    15.7
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "NS+": {
+                    "default": {
+                        "skillname": ""
+                    }
+                },
+                "PS": [
+                    {
+                        "skill_attribute": "HP",
+                        "rate": [
+                            14,
+                            14.7,
+                            15.4,
+                            18.2,
+                            18.9,
+                            19.6,
+                            22.4,
+                            23.1,
+                            23.8,
+                            26.6
+                        ]
+                    }
+                ],
+                "PS+": [
+                    {
+                        "skill_attribute": "healUp",
+                        "rate": [
+                            471,
+                            494,
+                            518,
+                            612,
+                            636,
+                            659,
+                            753,
+                            777,
+                            800,
+                            894
+                        ]
+                    }
+                ],
+                "SS": {
+                    "default": {
+                        "skillname": "リヴァイアサン",
+                        "effect": [
+                            {
+                                "skill_attribute": "heal",
+                                "skill_tage": "own",
+                                "rate": [
+                                    21.6,
+                                    22.7,
+                                    23.7,
+                                    25.9,
+                                    27,
+                                    28.1,
+                                    30.2,
+                                    31.3,
+                                    32.4,
+                                    34.5
+                                ]
+                            },
+                            {
+                                "skill_attribute": "def",
+                                "skill_tage": "enemy",
+                                "skilltime": 19,
+                                "rate": [
+                                    6.5,
+                                    6.8,
+                                    7.1,
+                                    8.4,
+                                    8.7,
+                                    9.1,
+                                    10.3,
+                                    10.7,
+                                    11,
+                                    12.3
+                                ]
                             }
                         ]
                     }
