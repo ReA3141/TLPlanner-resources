@@ -31463,6 +31463,12 @@
                 "outdoor": "S",
                 "indoor": "D"
             },
+            "goods": {
+                "img": "goods/kazusa_band.png",
+                "name": "シュガーラッシュカスタムLP盤",
+                "key": "atk",
+                "value": 400
+            },
             "dps": {
                 "hit": 40,
                 "hits": 5,
@@ -31599,7 +31605,62 @@
                 },
                 "NS+": {
                     "default": {
-                        "skillname": ""
+                        "skillname": "ベースチューニング+",
+                        "hittime": 2.8,
+                        "effect": [
+                            {
+                                "skill_attribute": "atk",
+                                "skilltime": 26,
+                                "skill_tage": "own",
+                                "rate": [
+                                    20.8,
+                                    21.9,
+                                    22.9,
+                                    27.1,
+                                    28.1,
+                                    29.2,
+                                    33.4,
+                                    34.4,
+                                    35.4,
+                                    39.6
+                                ]
+                            },
+                            {
+                                "skill_attribute": "sp_atk",
+                                "skilltime": 26,
+                                "skill_tage": "ST",
+                                "rate": [
+                                    10.1,
+                                    10.6,
+                                    11.1,
+                                    13.1,
+                                    13.6,
+                                    14.1,
+                                    16.2,
+                                    16.7,
+                                    17.2,
+                                    19.2
+                                ]
+                            },
+                            {
+                                "skill_attribute": "sp_atk",
+                                "skilltime": 26,
+                                "allow": "sugar_rush",
+                                "skill_tage": "ST",
+                                "rate": [
+                                    21.8,
+                                    22.9,
+                                    24,
+                                    28.4,
+                                    29.5,
+                                    30.6,
+                                    35,
+                                    36.1,
+                                    37.2,
+                                    41.5
+                                ]
+                            }
+                        ]
                     }
                 },
                 "PS": [
@@ -32166,6 +32227,12 @@
                 "outdoor": "B",
                 "indoor": "D"
             },
+            "goods": {
+                "img": "goods/kirara.png",
+                "name": "思い出が詰まったノート",
+                "key": "atk_speed",
+                "value": 1500
+            },
             "dps": {
                 "hit": 15,
                 "hits": 3,
@@ -32291,7 +32358,48 @@
                 },
                 "NS+": {
                     "default": {
-                        "skillname": ""
+                        "skillname": "いつもキラキラ！+",
+                        "hittime": 0.0,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "one",
+                                "skill_tage": "enemy",
+                                "hitAmount": [
+                                    1.6
+                                ],
+                                "rate": [
+                                    410,
+                                    431,
+                                    452,
+                                    534,
+                                    554,
+                                    575,
+                                    657,
+                                    677,
+                                    698,
+                                    780
+                                ]
+                            },
+                            {
+                                "skill_attribute": "weakpoint",
+                                "skilltime": 12,
+                                "skill_tage": "enemy",
+                                "effectLimit": 100,
+                                "rate": [
+                                    6.8,
+                                    7.1,
+                                    7.5,
+                                    8.8,
+                                    9.2,
+                                    9.5,
+                                    10.9,
+                                    11.2,
+                                    11.6,
+                                    12.9
+                                ]
+                            }
+                        ]
                     }
                 },
                 "PS": [
