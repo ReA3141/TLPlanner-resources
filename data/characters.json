@@ -911,6 +911,12 @@
                 "outdoor": "B",
                 "indoor": "B"
             },
+            "goods": {
+                "img": "goods/asuna.png",
+                "name": "アスナスタイルのリボン",
+                "key": "atk_speed",
+                "value": 1000
+            },
             "dps": {
                 "hit": 15,
                 "hits": 3,
@@ -1061,7 +1067,67 @@
                 },
                 "NS+": {
                     "default": {
-                        "skillname": "撃つよーっ！+"
+                        "skillname": "撃つよーっ！+",
+                        "hittime": 0.0,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "one",
+                                "skill_tage": "enemy",
+                                "hitAmount": [
+                                    0.833,
+                                    0.933,
+                                    1.033,
+                                    1.133,
+                                    1.233,
+                                    1.333,
+                                    1.433,
+                                    1.533,
+                                    1.633,
+                                    1.733,
+                                    1.800
+                                ],
+                                "rate": [
+                                    268,
+                                    282,
+                                    295,
+                                    349,
+                                    363,
+                                    376,
+                                    430,
+                                    443,
+                                    457,
+                                    511
+                                ]
+                            },
+                            {
+                                "skill_attribute": "atk_speed",
+                                "skill_tage": "own",
+                                "skilltime": 17,
+                                "rate": [
+                                    24.2,
+                                    25.4,
+                                    26.6,
+                                    31.4,
+                                    32.6,
+                                    33.8,
+                                    38.7,
+                                    39.9,
+                                    41.1,
+                                    45.9
+                                ]
+                            },
+                            {
+                                "skill_attribute": "HP_rate",
+                                "rate": [
+                                    1.5,
+                                    1.5,
+                                    1.5,
+                                    1.5,
+                                    1.5
+                                ]
+                            }
+                        ]
                     }
                 },
                 "PS": [
@@ -4931,6 +4997,12 @@
                 "outdoor": "B",
                 "indoor": "S"
             },
+            "goods": {
+                "img": "goods/karin_bunny.png",
+                "name": "黒い網タイツ",
+                "key": "cri_damage",
+                "value": 2000
+            },
             "dps": {
                 "hit": 5,
                 "hits": 1,
@@ -5091,7 +5163,64 @@
                 },
                 "NS+": {
                     "default": {
-                        "skillname": ""
+                        "skillname": "広域射撃、開始+",
+                        "hittime": 0.0,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "many",
+                                "skill_tage": "all",
+                                "hitAmount": [
+                                    3.2
+                                ],
+                                "rate": [
+                                    152,
+                                    159,
+                                    163,
+                                    194,
+                                    197,
+                                    205,
+                                    220,
+                                    228,
+                                    232,
+                                    262
+                                ]
+                            },
+                            {
+                                "skill_attribute": "sp_atk",
+                                "skilltime": 18,
+                                "skill_tage": "own",
+                                "rate": [
+                                    16.4,
+                                    17.3,
+                                    17.7,
+                                    20.9,
+                                    21.4,
+                                    22.2,
+                                    23.8,
+                                    24.7,
+                                    25.1,
+                                    28.4
+                                ]
+                            },
+                            {
+                                "skill_attribute": "penetrate_rate",
+                                "skilltime": 3.233,
+                                "skill_tage": "own",
+                                "rate": [
+                                    24,
+                                    24,
+                                    24,
+                                    28,
+                                    28,
+                                    28,
+                                    32,
+                                    32,
+                                    32,
+                                    44
+                                ]
+                            }
+                        ]
                     }
                 },
                 "PS": [
@@ -50133,6 +50262,12 @@
                 "outdoor": "A",
                 "indoor": "A"
             },
+            "goods": {
+                "img": "goods/ayane.png",
+                "name": "花型ヘアピン",
+                "key": "healUpper",
+                "value": 2000
+            },
             "limit": [
                 2,
                 2,
@@ -50248,7 +50383,31 @@
                 },
                 "NS+": {
                     "default": {
-                        "skillname": ""
+                        "skillname": "学習サポート+",
+                        "hittime": 1.067,
+                        "effect": [
+                            {
+                                "skill_attribute": "cri_regist_baff",
+                                "skilltime": 20,
+                                "skill_tage": "ally",
+                                "rate": [
+                                    17.5,
+                                    18.4,
+                                    19.3,
+                                    22.8,
+                                    23.7,
+                                    24.5,
+                                    28,
+                                    28.9,
+                                    29.8,
+                                    33.3
+                                ]
+                            },
+                            {
+                                "skill_attribute": "reliefSupplies",
+                                "skill_tage": "ally"
+                            }
+                        ]
                     }
                 },
                 "PS": [
@@ -50569,6 +50728,12 @@
                 "outdoor": "B",
                 "indoor": "S"
             },
+            "goods": {
+                "img": "goods/iroha.png",
+                "name": "普通の文庫本",
+                "key": "atk",
+                "value": 1150
+            },
             "limit": [
                 5,
                 5,
@@ -50702,7 +50867,38 @@
                 },
                 "NS+": {
                     "default": {
-                        "skillname": ""
+                        "skillname": "めんどくさいですね……+",
+                        "hittime": 0.0,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "many",
+                                "skill_tage": "enemy",
+                                "hitAmount": [
+                                    1.467,
+                                    1.8,
+                                    2.167,
+                                    2.467
+                                ],
+                                "rate": [
+                                    51.3,
+                                    53.8,
+                                    56.4,
+                                    66.7,
+                                    69.2,
+                                    71.8,
+                                    82,
+                                    84.6,
+                                    87.1,
+                                    97.4
+                                ]
+                            },
+                            {
+                                "skill_attribute": "grenade",
+                                "allow": "ts0001",
+                                "skill_tage": "own"
+                            }
+                        ]
                     }
                 },
                 "PS": [
@@ -58128,6 +58324,12 @@
                 "outdoor": "B",
                 "indoor": "S"
             },
+            "goods": {
+                "img": "goods/moe.png",
+                "name": "クレイモアハンドグリップ",
+                "key": "atk",
+                "value": 1100
+            },
             "limit": [
                 4,
                 3,
@@ -58287,7 +58489,67 @@
                 },
                 "NS+": {
                     "default": {
-                        "skillname": ""
+                        "skillname": "集中砲火+",
+                        "hittime": 3.367,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "many",
+                                "skill_tage": "all",
+                                "hitAmount": [
+                                    3.367,
+                                    3.367,
+                                    3.367,
+                                    3.367,
+                                    3.367
+                                ],
+                                "rate": [
+                                    100,
+                                    105,
+                                    110,
+                                    120,
+                                    125,
+                                    130,
+                                    140,
+                                    145,
+                                    150,
+                                    160
+                                ]
+                            },
+                            {
+                                "skill_attribute": "knockOut",
+                                "skill_tage": "all",
+                                "rate": [
+                                    1.7,
+                                    1.7,
+                                    1.7,
+                                    1.8,
+                                    1.8,
+                                    1.8,
+                                    2,
+                                    2,
+                                    2,
+                                    2.2
+                                ]
+                            },
+                            {
+                                "skill_attribute": "burn",
+                                "skilltime": 20,
+                                "skill_tage": "all",
+                                "rate": [
+                                    41.6,
+                                    41.6,
+                                    41.6,
+                                    45.7,
+                                    45.7,
+                                    45.7,
+                                    49.9,
+                                    49.9,
+                                    49.9,
+                                    54
+                                ]
+                            }
+                        ]
                     }
                 },
                 "PS": [
