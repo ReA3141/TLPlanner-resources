@@ -23,6 +23,7 @@
                     "Lv": 17,
                     "damage_regist": 0,
                     "GGauge": 150000,
+                    "GTime": 10,
                     "skill": {
                         "skill_0": {
                             "skillname": "アツィルトの光",
@@ -101,6 +102,7 @@
                     "Lv": 25,
                     "damage_regist": 0,
                     "GGauge": 300000,
+                    "GTime": 10,
                     "skill": {
                         "skill_0": {
                             "skillname": "アツィルトの光",
@@ -179,6 +181,7 @@
                     "Lv": 35,
                     "damage_regist": 0,
                     "GGauge": 450000,
+                    "GTime": 10,
                     "skill": {
                         "skill_0": {
                             "skillname": "アツィルトの光",
@@ -257,6 +260,7 @@
                     "Lv": 50,
                     "damage_regist": 0,
                     "GGauge": 800000,
+                    "GTime": 10,
                     "skill": {
                         "skill_0": {
                             "skillname": "アツィルトの光",
@@ -335,6 +339,7 @@
                     "Lv": 70,
                     "damage_regist": 0,
                     "GGauge": 2000000,
+                    "GTime": 10,
                     "skill": {
                         "skill_0": {
                             "skillname": "アツィルトの光",
@@ -413,6 +418,7 @@
                     "Lv": 80,
                     "damage_regist": 0,
                     "GGauge": 2100000,
+                    "GTime": 10,
                     "skill": {
                         "skill_0": {
                             "skillname": "アツィルトの光",
@@ -491,6 +497,7 @@
                     "Lv": 90,
                     "damage_regist": 0,
                     "GGauge": 6500000,
+                    "GTime": 10,
                     "skill": {
                         "skill_0": {
                             "skillname": "アツィルトの光",
@@ -574,6 +581,7 @@
                     "Lv": 90,
                     "damage_regist": 0,
                     "GGauge": 10000000,
+                    "GTime": 10,
                     "skill": {
                         "skill_0": {
                             "skillname": "アツィルトの光",
@@ -690,6 +698,7 @@
                     "Lv": 17,
                     "damage_regist": 0,
                     "GGauge": 148000,
+                    "GTime": 10,
                     "skill": {
                         "skill_0": {
                             "skillname": "ドッカァーン！！",
@@ -722,6 +731,7 @@
                     "Lv": 25,
                     "damage_regist": 0,
                     "GGauge": 296000,
+                    "GTime": 10,
                     "skill": {
                         "skill_0": {
                             "skillname": "ドッカァーン！！",
@@ -754,6 +764,7 @@
                     "Lv": 35,
                     "damage_regist": 0,
                     "GGauge": 400000,
+                    "GTime": 10,
                     "skill": {
                         "skill_0": {
                             "skillname": "ドッカァーン！！",
@@ -786,6 +797,7 @@
                     "Lv": 50,
                     "damage_regist": 0,
                     "GGauge": 720000,
+                    "GTime": 10,
                     "skill": {
                         "skill_0": {
                             "skillname": "ドッカァーン！！",
@@ -818,6 +830,7 @@
                     "Lv": 70,
                     "damage_regist": 0,
                     "GGauge": 5000000,
+                    "GTime": 10,
                     "skill": {
                         "skill_0": {
                             "skillname": "ドッカァーン！！",
@@ -850,6 +863,7 @@
                     "Lv": 80,
                     "damage_regist": 0,
                     "GGauge": 18000000,
+                    "GTime": 10,
                     "skill": {
                         "skill_0": {
                             "skillname": "ドッカァーン！！",
@@ -914,6 +928,7 @@
                     "Lv": 90,
                     "damage_regist": 0,
                     "GGauge": 22000000,
+                    "GTime": 10,
                     "skill": {
                         "skill_0": {
                             "skillname": "ドッカァーン！！",
@@ -1019,6 +1034,7 @@
                     "Lv": 17,
                     "damage_regist": 60,
                     "GGauge": 99999999,
+                    "GTime": 5,
                     "skill": {
                         "skill_0": {
                             "skillname": "ダマススの招請",
@@ -1075,6 +1091,7 @@
                     "Lv": 25,
                     "damage_regist": 60,
                     "GGauge": 99999999,
+                    "GTime": 5,
                     "skill": {
                         "skill_0": {
                             "skillname": "ダマススの招請",
@@ -1131,6 +1148,7 @@
                     "Lv": 35,
                     "damage_regist": 60,
                     "GGauge": 99999999,
+                    "GTime": 5,
                     "skill": {
                         "skill_0": {
                             "skillname": "ダマススの招請",
@@ -1187,6 +1205,7 @@
                     "Lv": 50,
                     "damage_regist": 60,
                     "GGauge": 99999999,
+                    "GTime": 5,
                     "skill": {
                         "skill_0": {
                             "skillname": "ダマススの招請",
@@ -1243,6 +1262,7 @@
                     "Lv": 70,
                     "damage_regist": 60,
                     "GGauge": 99999999,
+                    "GTime": 5,
                     "skill": {
                         "skill_0": {
                             "skillname": "ダマススの招請",
@@ -1299,6 +1319,7 @@
                     "Lv": 80,
                     "damage_regist": 60,
                     "GGauge": 5000000,
+                    "GTime": 5,
                     "skill": {
                         "skill_0": {
                             "skillname": "ダマススの招請",
@@ -1370,6 +1391,7 @@
                     "Lv": 90,
                     "damage_regist": 60,
                     "GGauge": 9000000,
+                    "GTime": 5,
                     "skill": {
                         "skill_0": {
                             "skillname": "ダマススの招請",
@@ -1480,6 +1502,7 @@
                     "Lv": 17,
                     "damage_regist": 0,
                     "GGauge": 200000,
+                    "GTime": 10,
                     "skill": {
                         "skill_0": {
                             "skillname": "無限回転・SUPER海老マシンガン",
@@ -1568,6 +1591,7 @@
                     "Lv": 25,
                     "damage_regist": 0,
                     "GGauge": 450000,
+                    "GTime": 10,
                     "skill": {
                         "skill_0": {
                             "skillname": "無限回転・SUPER海老マシンガン",
@@ -1656,6 +1680,7 @@
                     "Lv": 35,
                     "damage_regist": 0,
                     "GGauge": 1000000,
+                    "GTime": 10,
                     "skill": {
                         "skill_0": {
                             "skillname": "無限回転・SUPER海老マシンガン",
@@ -1744,6 +1769,7 @@
                     "Lv": 50,
                     "damage_regist": 0,
                     "GGauge": 1700000,
+                    "GTime": 10,
                     "skill": {
                         "skill_0": {
                             "skillname": "無限回転・SUPER海老マシンガン",
@@ -1832,6 +1858,7 @@
                     "Lv": 70,
                     "damage_regist": 0,
                     "GGauge": 7500000,
+                    "GTime": 10,
                     "skill": {
                         "skill_0": {
                             "skillname": "無限回転・SUPER海老マシンガン",
@@ -1920,6 +1947,7 @@
                     "Lv": 80,
                     "damage_regist": 0,
                     "GGauge": 10000000,
+                    "GTime": 10,
                     "skill": {
                         "skill_0": {
                             "skillname": "無限回転・SUPER海老マシンガン",
@@ -2019,6 +2047,7 @@
                     "Lv": 90,
                     "damage_regist": 0,
                     "GGauge": 30000000,
+                    "GTime": 10,
                     "skill": {
                         "skill_0": {
                             "skillname": "無限回転・SUPER海老マシンガン",
@@ -2118,6 +2147,7 @@
                     "Lv": 90,
                     "damage_regist": 0,
                     "GGauge": 2000000000,
+                    "GTime": 10,
                     "skill": {
                         "skill_0": {
                             "skillname": "無限回転・SUPER海老マシンガン",
@@ -2233,6 +2263,7 @@
                     "Lv": 17,
                     "damage_regist": 0,
                     "GGauge": 100000000,
+                    "GTime": 20,
                     "skill": {
                         "skill_0": {
                             "skillname": "白熱眼光",
@@ -2309,6 +2340,7 @@
                     "Lv": 25,
                     "damage_regist": 0,
                     "GGauge": 100000000,
+                    "GTime": 20,
                     "skill": {
                         "skill_0": {
                             "skillname": "白熱眼光",
@@ -2385,6 +2417,7 @@
                     "Lv": 35,
                     "damage_regist": 0,
                     "GGauge": 100000000,
+                    "GTime": 20,
                     "skill": {
                         "skill_0": {
                             "skillname": "白熱眼光",
@@ -2461,6 +2494,7 @@
                     "Lv": 50,
                     "damage_regist": 0,
                     "GGauge": 100000000,
+                    "GTime": 20,
                     "skill": {
                         "skill_0": {
                             "skillname": "白熱眼光",
@@ -2537,6 +2571,7 @@
                     "Lv": 70,
                     "damage_regist": 0,
                     "GGauge": 100000000,
+                    "GTime": 20,
                     "skill": {
                         "skill_0": {
                             "skillname": "白熱眼光",
@@ -2613,6 +2648,7 @@
                     "Lv": 80,
                     "damage_regist": 0,
                     "GGauge": 100000000,
+                    "GTime": 20,
                     "skill": {
                         "skill_0": {
                             "skillname": "白熱眼光",
@@ -2689,6 +2725,7 @@
                     "Lv": 90,
                     "damage_regist": 0,
                     "GGauge": 100000000,
+                    "GTime": 20,
                     "skill": {
                         "skill_0": {
                             "skillname": "白熱眼光",
@@ -2783,6 +2820,7 @@
                     "Lv": 90,
                     "damage_regist": 0,
                     "GGauge": 2000000000,
+                    "GTime": 20,
                     "skill": {
                         "skill_0": {
                             "skillname": "白熱眼光",
@@ -2899,6 +2937,7 @@
                     "Lv": 17,
                     "damage_regist": 90,
                     "GGauge": 100000000,
+                    "GTime": 20,
                     "ccGauge": [
                         6
                     ],
@@ -2992,6 +3031,7 @@
                     "Lv": 25,
                     "damage_regist": 90,
                     "GGauge": 100000000,
+                    "GTime": 20,
                     "ccGauge": [
                         7
                     ],
@@ -3085,6 +3125,7 @@
                     "Lv": 35,
                     "damage_regist": 90,
                     "GGauge": 100000000,
+                    "GTime": 20,
                     "ccGauge": [
                         8
                     ],
@@ -3178,6 +3219,7 @@
                     "Lv": 50,
                     "damage_regist": 90,
                     "GGauge": 100000000,
+                    "GTime": 20,
                     "ccGauge": [
                         9
                     ],
@@ -3271,6 +3313,7 @@
                     "Lv": 70,
                     "damage_regist": 90,
                     "GGauge": 100000000,
+                    "GTime": 20,
                     "ccGauge": [
                         10
                     ],
@@ -3364,6 +3407,7 @@
                     "Lv": 80,
                     "damage_regist": 90,
                     "GGauge": 100000000,
+                    "GTime": 20,
                     "ccGauge": [
                         15
                     ],
@@ -3457,6 +3501,7 @@
                     "Lv": 90,
                     "damage_regist": 90,
                     "GGauge": 100000000,
+                    "GTime": 20,
                     "ccGauge": [
                         20
                     ],
@@ -3550,6 +3595,7 @@
                     "Lv": 35,
                     "damage_regist": 90,
                     "GGauge": 1000000000,
+                    "GTime": 20,
                     "ccGauge": [
                         20
                     ],
@@ -3659,6 +3705,7 @@
                     "Lv": 17,
                     "damage_regist": 0,
                     "GGauge": 240000,
+                    "GTime": 10,
                     "skill": {
                         "skill_0": {
                             "skillname": "Now You See Us",
@@ -3751,6 +3798,7 @@
                     "Lv": 25,
                     "damage_regist": 0,
                     "GGauge": 661500,
+                    "GTime": 10,
                     "skill": {
                         "skill_0": {
                             "skillname": "Now You See Us",
@@ -3843,6 +3891,7 @@
                     "Lv": 35,
                     "damage_regist": 0,
                     "GGauge": 1470000,
+                    "GTime": 10,
                     "skill": {
                         "skill_0": {
                             "skillname": "Now You See Us",
@@ -3935,6 +3984,7 @@
                     "Lv": 50,
                     "damage_regist": 0,
                     "GGauge": 2205000,
+                    "GTime": 10,
                     "skill": {
                         "skill_0": {
                             "skillname": "Now You See Us",
@@ -4027,6 +4077,7 @@
                     "Lv": 70,
                     "damage_regist": 0,
                     "GGauge": 10400000,
+                    "GTime": 10,
                     "skill": {
                         "skill_0": {
                             "skillname": "Now You See Us",
@@ -4119,6 +4170,7 @@
                     "Lv": 80,
                     "damage_regist": 0,
                     "GGauge": 24000000,
+                    "GTime": 10,
                     "skill": {
                         "skill_0": {
                             "skillname": "Now You See Us",
@@ -4217,6 +4269,7 @@
                     "Lv": 90,
                     "damage_regist": 0,
                     "GGauge": 40000000,
+                    "GTime": 10,
                     "skill": {
                         "skill_0": {
                             "skillname": "Now You See Us",
@@ -4321,6 +4374,7 @@
                     "Lv": 17,
                     "damage_regist": 0,
                     "GGauge": 2000000000,
+                    "GTime": 10,
                     "skill": {
                         "skill_0": {
                             "skillname": "Now You See Us",
@@ -4475,6 +4529,7 @@
                     "Lv": 17,
                     "damage_regist": 0,
                     "GGauge": 400000,
+                    "GTime": 15,
                     "skill": {
                         "skill_0": {
                             "skillname": "聖者の囁き",
@@ -4550,6 +4605,7 @@
                     "Lv": 25,
                     "damage_regist": 0,
                     "GGauge": 1200000,
+                    "GTime": 15,
                     "skill": {
                         "skill_0": {
                             "skillname": "聖者の囁き",
@@ -4625,6 +4681,7 @@
                     "Lv": 35,
                     "damage_regist": 0,
                     "GGauge": 2400000,
+                    "GTime": 15,
                     "skill": {
                         "skill_0": {
                             "skillname": "聖者の囁き",
@@ -4700,6 +4757,7 @@
                     "Lv": 50,
                     "damage_regist": 0,
                     "GGauge": 4000000,
+                    "GTime": 15,
                     "skill": {
                         "skill_0": {
                             "skillname": "聖者の囁き",
@@ -4775,6 +4833,7 @@
                     "Lv": 70,
                     "damage_regist": 0,
                     "GGauge": 16000000,
+                    "GTime": 15,
                     "skill": {
                         "skill_0": {
                             "skillname": "聖者の囁き",
@@ -4850,6 +4909,7 @@
                     "Lv": 80,
                     "damage_regist": 0,
                     "GGauge": 42000000,
+                    "GTime": 15,
                     "skill": {
                         "skill_0": {
                             "skillname": "聖者の囁き",
@@ -4925,6 +4985,7 @@
                     "Lv": 90,
                     "damage_regist": 0,
                     "GGauge": 66000000,
+                    "GTime": 15,
                     "skill": {
                         "skill_0": {
                             "skillname": "聖者の囁き",
@@ -5000,6 +5061,7 @@
                     "Lv": 90,
                     "damage_regist": 0,
                     "GGauge": 375000000,
+                    "GTime": 15,
                     "skill": {
                         "skill_0": {
                             "skillname": "聖者の囁き",
@@ -5090,6 +5152,7 @@
                     "Lv": 17,
                     "damage_regist": 75,
                     "GGauge": 999999999,
+                    "GTime": 32,
                     "skill": {
                         "skill_0": {
                             "skillname": "こうなったら……！",
@@ -5113,6 +5176,7 @@
                     "Lv": 25,
                     "damage_regist": 75,
                     "GGauge": 999999999,
+                    "GTime": 32,
                     "skill": {
                         "skill_0": {
                             "skillname": "こうなったら……！",
@@ -5136,6 +5200,7 @@
                     "Lv": 35,
                     "damage_regist": 75,
                     "GGauge": 999999999,
+                    "GTime": 32,
                     "skill": {
                         "skill_0": {
                             "skillname": "こうなったら……！",
@@ -5159,6 +5224,7 @@
                     "Lv": 50,
                     "damage_regist": 75,
                     "GGauge": 999999999,
+                    "GTime": 32,
                     "skill": {
                         "skill_0": {
                             "skillname": "こうなったら……！",
@@ -5182,6 +5248,7 @@
                     "Lv": 70,
                     "damage_regist": 75,
                     "GGauge": 999999999,
+                    "GTime": 32,
                     "skill": {
                         "skill_0": {
                             "skillname": "こうなったら……！",
@@ -5205,6 +5272,7 @@
                     "Lv": 80,
                     "damage_regist": 75,
                     "GGauge": 999999999,
+                    "GTime": 32,
                     "skill": {
                         "skill_0": {
                             "skillname": "こうなったら……！",
@@ -5228,6 +5296,7 @@
                     "Lv": 90,
                     "damage_regist": 75,
                     "GGauge": 999999999,
+                    "GTime": 32,
                     "skill": {
                         "skill_0": {
                             "skillname": "こうなったら……！",
@@ -5251,6 +5320,7 @@
                     "Lv": 90,
                     "damage_regist": 75,
                     "GGauge": 999999999,
+                    "GTime": 32,
                     "skill": {
                         "skill_0": {
                             "skillname": "こうなったら……！",
@@ -6085,6 +6155,7 @@
                     "Lv": 17,
                     "damage_regist": 0,
                     "GGauge": 172000,
+                    "GTime": 10,
                     "skill": {
                         "skill_0": {
                             "skillname": "突進だぁ！！！",
@@ -6107,6 +6178,7 @@
                     "Lv": 25,
                     "damage_regist": 0,
                     "GGauge": 320000,
+                    "GTime": 10,
                     "skill": {
                         "skill_0": {
                             "skillname": "突進だぁ！！！",
@@ -6129,6 +6201,7 @@
                     "Lv": 35,
                     "damage_regist": 0,
                     "GGauge": 440000,
+                    "GTime": 10,
                     "skill": {
                         "skill_0": {
                             "skillname": "突進だぁ！！！",
@@ -6151,6 +6224,7 @@
                     "Lv": 50,
                     "damage_regist": 0,
                     "GGauge": 800000,
+                    "GTime": 10,
                     "skill": {
                         "skill_0": {
                             "skillname": "突進だぁ！！！",
@@ -6173,6 +6247,7 @@
                     "Lv": 70,
                     "damage_regist": 0,
                     "GGauge": 6000000,
+                    "GTime": 10,
                     "skill": {
                         "skill_0": {
                             "skillname": "突進だぁ！！！",
@@ -6195,6 +6270,7 @@
                     "Lv": 80,
                     "damage_regist": 0,
                     "GGauge": 17000000,
+                    "GTime": 10,
                     "skill": {
                         "skill_0": {
                             "skillname": "突進だぁ！！！",
@@ -6237,6 +6313,7 @@
                     "Lv": 90,
                     "damage_regist": 0,
                     "GGauge": 22000000,
+                    "GTime": 10,
                     "skill": {
                         "skill_0": {
                             "skillname": "突進だぁ！！！",
@@ -9078,6 +9155,8 @@
                     "cri_damage_regist": 10,
                     "Lv": 17,
                     "damage_regist": 75,
+                    "GGauge": 999999999,
+                    "GTime": 4,
                     "ccGauge": [
                         6,
                         7,
@@ -9104,6 +9183,8 @@
                     "cri_damage_regist": 10,
                     "Lv": 25,
                     "damage_regist": 75,
+                    "GGauge": 999999999,
+                    "GTime": 4,
                     "ccGauge": [
                         6,
                         7,
@@ -9130,6 +9211,8 @@
                     "cri_damage_regist": 10,
                     "Lv": 35,
                     "damage_regist": 75,
+                    "GGauge": 999999999,
+                    "GTime": 4,
                     "ccGauge": [
                         6,
                         7,
@@ -9156,6 +9239,8 @@
                     "cri_damage_regist": 10,
                     "Lv": 50,
                     "damage_regist": 75,
+                    "GGauge": 999999999,
+                    "GTime": 4,
                     "ccGauge": [
                         6,
                         7,
@@ -9182,6 +9267,8 @@
                     "cri_damage_regist": 10,
                     "Lv": 70,
                     "damage_regist": 75,
+                    "GGauge": 999999999,
+                    "GTime": 4,
                     "ccGauge": [
                         6,
                         7,
@@ -9208,6 +9295,8 @@
                     "cri_damage_regist": 10,
                     "Lv": 80,
                     "damage_regist": 75,
+                    "GGauge": 999999999,
+                    "GTime": 4,
                     "ccGauge": [
                         10,
                         14,
@@ -9234,6 +9323,8 @@
                     "cri_damage_regist": 10,
                     "Lv": 90,
                     "damage_regist": 75,
+                    "GGauge": 999999999,
+                    "GTime": 4,
                     "ccGauge": [
                         10,
                         14,
@@ -9260,6 +9351,8 @@
                     "cri_damage_regist": 10,
                     "Lv": 90,
                     "damage_regist": 75,
+                    "GGauge": 999999999,
+                    "GTime": 4,
                     "ccGauge": [
                         16,
                         18,
