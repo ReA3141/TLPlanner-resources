@@ -22,8 +22,12 @@
         "goods": {
             "img": "goods/.png",
             "name": "",
-            "key": "",
-            "value": 0
+            "status": [
+                {
+                    "key": "",
+                    "value": 0
+                }
+            ]
         },
         "dps": {
             "hit": 0,

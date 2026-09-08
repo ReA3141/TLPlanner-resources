@@ -914,8 +914,12 @@
             "goods": {
                 "img": "goods/asuna.png",
                 "name": "アスナスタイルのリボン",
-                "key": "atk_speed",
-                "value": 1000
+                "status": [
+                    {
+                        "key": "atk_speed",
+                        "value": 1000
+                    }
+                ]
             },
             "dps": {
                 "hit": 15,
@@ -1220,8 +1224,12 @@
             "goods": {
                 "img": "goods/asuna_banny.png",
                 "name": "ウサギ尻尾の手榴弾",
-                "key": "atk",
-                "value": 200
+                "status": [
+                    {
+                        "key": "atk",
+                        "value": 200
+                    }
+                ]
             },
             "dps": {
                 "hit": 15,
@@ -1682,8 +1690,12 @@
             "goods": {
                 "img": "goods/alice.png",
                 "name": "アリスの花丸シール",
-                "key": "atk",
-                "value": 1000
+                "status": [
+                    {
+                        "key": "atk",
+                        "value": 1000
+                    }
+                ]
             },
             "dps": {
                 "hit": 10,
@@ -2203,8 +2215,12 @@
             "goods": {
                 "img": "goods/aru.png",
                 "name": "アルのすごく貴重な財布",
-                "key": "aim",
-                "value": 150
+                "status": [
+                    {
+                        "key": "aim",
+                        "value": 150
+                    }
+                ]
             },
             "dps": {
                 "hit": 5,
@@ -2952,8 +2968,12 @@
             "goods": {
                 "img": "goods/iori_swim.png",
                 "name": "ふわふわ毛布",
-                "key": "atk",
-                "value": 1500
+                "status": [
+                    {
+                        "key": "atk",
+                        "value": 1500
+                    }
+                ]
             },
             "dps": {
                 "hit": 5,
@@ -3696,8 +3716,12 @@
             "goods": {
                 "img": "goods/izumi.png",
                 "name": "幸運のホットドッグ模型",
-                "key": "atk_speed",
-                "value": 3000
+                "status": [
+                    {
+                        "key": "atk_speed",
+                        "value": 3000
+                    }
+                ]
             },
             "dps": {
                 "hit": 45,
@@ -3987,8 +4011,12 @@
             "goods": {
                 "img": "goods/izumi_swim.png",
                 "name": "真夏のクーラーボックス",
-                "key": "atk_speed",
-                "value": 1500
+                "status": [
+                    {
+                        "key": "atk_speed",
+                        "value": 1500
+                    }
+                ]
             },
             "dps": {
                 "hit": 25,
@@ -4452,8 +4480,12 @@
             "goods": {
                 "img": "goods/eimi.png",
                 "name": "超冷却扇風機",
-                "key": "HP",
-                "value": 10000
+                "status": [
+                    {
+                        "key": "HP",
+                        "value": 10000
+                    }
+                ]
             },
             "dps": {
                 "hit": 8,
@@ -5006,8 +5038,12 @@
             "goods": {
                 "img": "goods/karin_banny.png",
                 "name": "黒い網タイツ",
-                "key": "cri_damage",
-                "value": 2000
+                "status": [
+                    {
+                        "key": "cri_damage",
+                        "value": 2000
+                    }
+                ]
             },
             "dps": {
                 "hit": 5,
@@ -6311,8 +6347,12 @@
             "goods": {
                 "img": "goods/shun_child.png",
                 "name": "シュンの子供時代の思い出",
-                "key": "cri_damage",
-                "value": 2000
+                "status": [
+                    {
+                        "key": "cri_damage",
+                        "value": 2000
+                    }
+                ]
             },
             "dps": {
                 "hit": 5,
@@ -6596,8 +6636,12 @@
             "goods": {
                 "img": "goods/zyunko.png",
                 "name": "グルメ手帳",
-                "key": "atk",
-                "value": 800
+                "status": [
+                    {
+                        "key": "atk",
+                        "value": 800
+                    }
+                ]
             },
             "dps": {
                 "hit": 15,
@@ -6848,8 +6892,12 @@
             "goods": {
                 "img": "goods/siroko.png",
                 "name": "シロコのドローン",
-                "key": "cri_damage",
-                "value": 2000
+                "status": [
+                    {
+                        "key": "cri_damage",
+                        "value": 2000
+                    }
+                ]
             },
             "dps": {
                 "hit": 15,
@@ -7606,8 +7654,12 @@
             "goods": {
                 "img": "goods/sumire.png",
                 "name": "トレーニング用砂袋",
-                "key": "atk",
-                "value": 1000
+                "status": [
+                    {
+                        "key": "atk",
+                        "value": 1000
+                    }
+                ]
             },
             "dps": {
                 "hit": 16,
@@ -7858,8 +7910,12 @@
             "goods": {
                 "img": "goods/serika.png",
                 "name": "セリカのスポーツバッグ",
-                "key": "atk",
-                "value": 500
+                "status": [
+                    {
+                        "key": "atk",
+                        "value": 500
+                    }
+                ]
             },
             "dps": {
                 "hit": 15,
@@ -8352,8 +8408,12 @@
             "goods": {
                 "img": "goods/chise.png",
                 "name": "風が来る音",
-                "key": "atk",
-                "value": 500
+                "status": [
+                    {
+                        "key": "atk",
+                        "value": 500
+                    }
+                ]
             },
             "dps": {
                 "hit": 6,
@@ -8602,8 +8662,12 @@
             "goods": {
                 "img": "goods/chise_swim.png",
                 "name": "宝物いっぱいポーチ",
-                "key": "ccUp",
-                "value": 55
+                "status": [
+                    {
+                        "key": "ccUp",
+                        "value": 55
+                    }
+                ]
             },
             "dps": {
                 "hit": 6,
@@ -9584,8 +9648,12 @@
             "goods": {
                 "img": "goods/turugi.png",
                 "name": "ツルギの特別ボックス",
-                "key": "atk_speed",
-                "value": 1500
+                "status": [
+                    {
+                        "key": "atk_speed",
+                        "value": 1500
+                    }
+                ]
             },
             "dps": {
                 "hit": 8,
@@ -10507,8 +10575,12 @@
             "goods": {
                 "img": "goods/neru.png",
                 "name": "ネルのスカジャン",
-                "key": "atk",
-                "value": 600
+                "status": [
+                    {
+                        "key": "atk",
+                        "value": 600
+                    }
+                ]
             },
             "dps": {
                 "hit": 24,
@@ -11289,8 +11361,12 @@
             "goods": {
                 "img": "goods/nonomi.png",
                 "name": "秘密のウィッシュリスト",
-                "key": "atk",
-                "value": 500
+                "status": [
+                    {
+                        "key": "atk",
+                        "value": 500
+                    }
+                ]
             },
             "dps": {
                 "hit": 50,
@@ -11788,8 +11864,12 @@
             "goods": {
                 "img": "goods/hasumi.png",
                 "name": "使い込まれた手帳",
-                "key": "cri",
-                "value": 260
+                "status": [
+                    {
+                        "key": "cri",
+                        "value": 260
+                    }
+                ]
             },
             "dps": {
                 "hit": 5,
@@ -12450,8 +12530,12 @@
             "goods": {
                 "img": "goods/hina.png",
                 "name": "ヒナの風紀委員会の腕章",
-                "key": "sp_atk",
-                "value": 2000
+                "status": [
+                    {
+                        "key": "sp_atk",
+                        "value": 2000
+                    }
+                ]
             },
             "dps": {
                 "hit": 49,
@@ -12692,8 +12776,12 @@
             "goods": {
                 "img": "goods/hina_swim.png",
                 "name": "風紀委員会の備品浮き輪",
-                "key": "atk",
-                "value": 1500
+                "status": [
+                    {
+                        "key": "atk",
+                        "value": 1500
+                    }
+                ]
             },
             "dps": {
                 "hit": 35,
@@ -12987,8 +13075,12 @@
             "goods": {
                 "img": "goods/hinata.png",
                 "name": "物品管理台帳",
-                "key": "atk",
-                "value": 1300
+                "status": [
+                    {
+                        "key": "atk",
+                        "value": 1300
+                    }
+                ]
             },
             "dps": {
                 "hit": 9,
@@ -13963,8 +14055,12 @@
             "goods": {
                 "img": "goods/hosino.png",
                 "name": "どこでも入場券",
-                "key": "cri_damage_regist_baff",
-                "value": 2000
+                "status": [
+                    {
+                        "key": "cri_damage_regist_baff",
+                        "value": 2000
+                    }
+                ]
             },
             "dps": {
                 "hit": 8,
@@ -14948,8 +15044,12 @@
             "goods": {
                 "img": "goods/misaki.png",
                 "name": "木の彫像",
-                "key": "atk",
-                "value": 2000
+                "status": [
+                    {
+                        "key": "atk",
+                        "value": 2000
+                    }
+                ]
             },
             "dps": {
                 "hit": 2,
@@ -15210,8 +15310,12 @@
             "goods": {
                 "img": "goods/michiru.png",
                 "name": "大事なビデオテープ",
-                "key": "sp_atk",
-                "value": 2000
+                "status": [
+                    {
+                        "key": "sp_atk",
+                        "value": 2000
+                    }
+                ]
             },
             "dps": {
                 "hit": 4,
@@ -15474,8 +15578,12 @@
             "goods": {
                 "img": "goods/midori.png",
                 "name": "携帯ゲーム機",
-                "key": "atk",
-                "value": 1000
+                "status": [
+                    {
+                        "key": "atk",
+                        "value": 1000
+                    }
+                ]
             },
             "dps": {
                 "hit": 5,
@@ -15761,8 +15869,12 @@
             "goods": {
                 "img": "goods/mimori.png",
                 "name": "夢が詰まった桜色エプロン",
-                "key": "healUp",
-                "value": 1000
+                "status": [
+                    {
+                        "key": "healUp",
+                        "value": 1000
+                    }
+                ]
             },
             "dps": {
                 "hit": 6,
@@ -16025,8 +16137,12 @@
             "goods": {
                 "img": "goods/miyako.png",
                 "name": "ぼろぼろの名札",
-                "key": "HP",
-                "value": 10000
+                "status": [
+                    {
+                        "key": "HP",
+                        "value": 10000
+                    }
+                ]
             },
             "dps": {
                 "hit": 40,
@@ -16305,8 +16421,12 @@
             "goods": {
                 "img": "goods/miyu.png",
                 "name": "サッドバニーポット",
-                "key": "atk",
-                "value": 1500
+                "status": [
+                    {
+                        "key": "atk",
+                        "value": 1500
+                    }
+                ]
             },
             "dps": {
                 "hit": 5,
@@ -17032,8 +17152,12 @@
             "goods": {
                 "img": "goods/momoi.png",
                 "name": "大切に保管されている古いゲーム機",
-                "key": "atk_speed",
-                "value": 1500
+                "status": [
+                    {
+                        "key": "atk_speed",
+                        "value": 1500
+                    }
+                ]
             },
             "dps": {
                 "hit": 15,
@@ -17336,8 +17460,12 @@
             "goods": {
                 "img": "goods/yuka.png",
                 "name": "ユウカの関数電卓",
-                "key": "def",
-                "value": 500
+                "status": [
+                    {
+                        "key": "def",
+                        "value": 500
+                    }
+                ]
             },
             "dps": {
                 "hit": 27,
@@ -17605,8 +17733,12 @@
             "goods": {
                 "img": "goods/yuzu.png",
                 "name": "色褪せたCD",
-                "key": "cri_damage",
-                "value": 2000
+                "status": [
+                    {
+                        "key": "cri_damage",
+                        "value": 2000
+                    }
+                ]
             },
             "dps": {
                 "hit": 1,
@@ -17872,8 +18004,12 @@
             "goods": {
                 "img": "goods/wakamo.png",
                 "name": "秘密を隠すキツネのお面",
-                "key": "atk",
-                "value": 2000
+                "status": [
+                    {
+                        "key": "atk",
+                        "value": 2000
+                    }
+                ]
             },
             "dps": {
                 "hit": 5,
@@ -18132,8 +18268,12 @@
             "goods": {
                 "img": "goods/wakamo_swim.png",
                 "name": "華やかな花柄の日傘",
-                "key": "cri_damage",
-                "value": 2000
+                "status": [
+                    {
+                        "key": "cri_damage",
+                        "value": 2000
+                    }
+                ]
             },
             "dps": {
                 "hit": 5,
@@ -18714,8 +18854,12 @@
             "goods": {
                 "img": "goods/saori.png",
                 "name": "サオリのマスク",
-                "key": "cri_damage",
-                "value": 1000
+                "status": [
+                    {
+                        "key": "cri_damage",
+                        "value": 1000
+                    }
+                ]
             },
             "dps": {
                 "hit": 15,
@@ -22887,8 +23031,12 @@
             "goods": {
                 "img": "goods/toki.png",
                 "name": "高性能ヘッドセット",
-                "key": "aim",
-                "value": 200
+                "status": [
+                    {
+                        "key": "aim",
+                        "value": 200
+                    }
+                ]
             },
             "dps": {
                 "hit": 15,
@@ -23517,8 +23665,12 @@
             "goods": {
                 "img": "goods/koyuki.png",
                 "name": "勝負メダル",
-                "key": "atk",
-                "value": 500
+                "status": [
+                    {
+                        "key": "atk",
+                        "value": 500
+                    }
+                ]
             },
             "dps": {
                 "hit": 25,
@@ -24145,8 +24297,12 @@
             "goods": {
                 "img": "goods/kaho.png",
                 "name": "生徒たちからの感謝状",
-                "key": "atk",
-                "value": 800
+                "status": [
+                    {
+                        "key": "atk",
+                        "value": 800
+                    }
+                ]
             },
             "dps": {
                 "hit": 15,
@@ -24407,8 +24563,12 @@
             "goods": {
                 "img": "goods/alice_maid.png",
                 "name": "メイドのカチューシャ",
-                "key": "cri",
-                "value": 260
+                "status": [
+                    {
+                        "key": "cri",
+                        "value": 260
+                    }
+                ]
             },
             "dps": {
                 "hit": 5,
@@ -27253,8 +27413,12 @@
             "goods": {
                 "img": "goods/momizi.png",
                 "name": "限定復刻版コレクション",
-                "key": "cri",
-                "value": 250
+                "status": [
+                    {
+                        "key": "cri",
+                        "value": 250
+                    }
+                ]
             },
             "dps": {
                 "hit": 1,
@@ -28919,8 +29083,12 @@
             "goods": {
                 "img": "goods/renge.png",
                 "name": "青春の白いリボン",
-                "key": "atk",
-                "value": 300
+                "status": [
+                    {
+                        "key": "atk",
+                        "value": 300
+                    }
+                ]
             },
             "dps": {
                 "hit": 5,
@@ -31213,8 +31381,12 @@
             "goods": {
                 "img": "goods/umika.png",
                 "name": "古いお祭り人形",
-                "key": "sp_atk",
-                "value": 2000
+                "status": [
+                    {
+                        "key": "sp_atk",
+                        "value": 2000
+                    }
+                ]
             },
             "dps": {
                 "hit": 15,
@@ -31529,8 +31701,12 @@
             "goods": {
                 "img": "goods/kazusa_band.png",
                 "name": "シュガーラッシュカスタムLP盤",
-                "key": "atk",
-                "value": 400
+                "status": [
+                    {
+                        "key": "atk",
+                        "value": 400
+                    }
+                ]
             },
             "dps": {
                 "hit": 40,
@@ -32294,8 +32470,12 @@
             "goods": {
                 "img": "goods/kirara.png",
                 "name": "思い出が詰まったノート",
-                "key": "atk_speed",
-                "value": 1500
+                "status": [
+                    {
+                        "key": "atk_speed",
+                        "value": 1500
+                    }
+                ]
             },
             "dps": {
                 "hit": 15,
@@ -50437,8 +50617,12 @@
             "goods": {
                 "img": "goods/ayane.png",
                 "name": "花型ヘアピン",
-                "key": "healUpper",
-                "value": 2000
+                "status": [
+                    {
+                        "key": "healUpper",
+                        "value": 2000
+                    }
+                ]
             },
             "limit": [
                 2,
@@ -50903,8 +51087,12 @@
             "goods": {
                 "img": "goods/iroha.png",
                 "name": "普通の文庫本",
-                "key": "atk",
-                "value": 1150
+                "status": [
+                    {
+                        "key": "atk",
+                        "value": 1150
+                    }
+                ]
             },
             "limit": [
                 5,
@@ -51154,8 +51342,12 @@
             "goods": {
                 "img": "goods/utaha.png",
                 "name": "マイスターの工具セット",
-                "key": "atk_speed",
-                "value": 2000
+                "status": [
+                    {
+                        "key": "atk_speed",
+                        "value": 2000
+                    }
+                ]
             },
             "limit": [
                 4,
@@ -51422,8 +51614,12 @@
             "goods": {
                 "img": "goods/kaede.png",
                 "name": "ムシクイーンカードスリーブ",
-                "key": "healUp",
-                "value": 500
+                "status": [
+                    {
+                        "key": "healUp",
+                        "value": 500
+                    }
+                ]
             },
             "limit": [
                 3,
@@ -52097,8 +52293,12 @@
             "goods": {
                 "img": "goods/saki.png",
                 "name": "SRT基礎教範",
-                "key": "ccUp",
-                "value": 35
+                "status": [
+                    {
+                        "key": "ccUp",
+                        "value": 35
+                    }
+                ]
             },
             "limit": [
                 5,
@@ -52622,8 +52822,12 @@
             "goods": {
                 "img": "goods/saya_private.png",
                 "name": "サヤのスケートボード",
-                "key": "atk",
-                "value": 1000
+                "status": [
+                    {
+                        "key": "atk",
+                        "value": 1000
+                    }
+                ]
             },
             "limit": [
                 4,
@@ -52891,8 +53095,12 @@
             "goods": {
                 "img": "goods/sizuko.png",
                 "name": "思い出の茶器セット",
-                "key": "HP",
-                "value": 5000
+                "status": [
+                    {
+                        "key": "HP",
+                        "value": 5000
+                    }
+                ]
             },
             "limit": [
                 3,
@@ -54368,8 +54576,12 @@
             "goods": {
                 "img": "goods/cherino_bath.png",
                 "name": "お風呂補佐官",
-                "key": "atk",
-                "value": 1000
+                "status": [
+                    {
+                        "key": "atk",
+                        "value": 1000
+                    }
+                ]
             },
             "limit": [
                 4,
@@ -54633,8 +54845,12 @@
             "goods": {
                 "img": "goods/tinatu.png",
                 "name": "チナツの医療バッグ",
-                "key": "healUp",
-                "value": 500
+                "status": [
+                    {
+                        "key": "healUp",
+                        "value": 500
+                    }
+                ]
             },
             "limit": [
                 2,
@@ -55708,8 +55924,12 @@
             "goods": {
                 "img": "goods/hanako.png",
                 "name": "怪しげな文学書",
-                "key": "healUp",
-                "value": 500
+                "status": [
+                    {
+                        "key": "healUp",
+                        "value": 500
+                    }
+                ]
             },
             "limit": [
                 3,
@@ -55954,8 +56174,12 @@
             "goods": {
                 "img": "goods/hare.png",
                 "name": "アテナ3号",
-                "key": "atk",
-                "value": 400
+                "status": [
+                    {
+                        "key": "atk",
+                        "value": 400
+                    }
+                ]
             },
             "limit": [
                 4,
@@ -56190,8 +56414,12 @@
             "goods": {
                 "img": "goods/hibiki.png",
                 "name": "マイスターのゴーグル",
-                "key": "atk",
-                "value": 200
+                "status": [
+                    {
+                        "key": "atk",
+                        "value": 200
+                    }
+                ]
             },
             "limit": [
                 4,
@@ -56578,8 +56806,12 @@
             "goods": {
                 "img": "goods/hihumi_swim.png",
                 "name": "モモフレンズスペシャルティーポット",
-                "key": "atk",
-                "value": 500
+                "status": [
+                    {
+                        "key": "atk",
+                        "value": 500
+                    }
+                ]
             },
             "limit": [
                 5,
@@ -57299,8 +57531,12 @@
             "goods": {
                 "img": "goods/masiro.png",
                 "name": "お話でわかる！ことわざと四字熟語講座",
-                "key": "atk",
-                "value": 200
+                "status": [
+                    {
+                        "key": "atk",
+                        "value": 200
+                    }
+                ]
             },
             "limit": [
                 5,
@@ -57773,8 +58009,12 @@
             "goods": {
                 "img": "goods/mary.png",
                 "name": "潔白なコサージュ",
-                "key": "healUp",
-                "value": 500
+                "status": [
+                    {
+                        "key": "healUp",
+                        "value": 500
+                    }
+                ]
             },
             "limit": [
                 3,
@@ -58233,8 +58473,12 @@
             "goods": {
                 "img": "goods/yosimi.png",
                 "name": "スイーツ・ハンター",
-                "key": "atk",
-                "value": 250
+                "status": [
+                    {
+                        "key": "atk",
+                        "value": 250
+                    }
+                ]
             },
             "dps": {
                 "hit": 0,
@@ -58499,8 +58743,12 @@
             "goods": {
                 "img": "goods/moe.png",
                 "name": "クレイモアハンドグリップ",
-                "key": "atk",
-                "value": 1100
+                "status": [
+                    {
+                        "key": "atk",
+                        "value": 1100
+                    }
+                ]
             },
             "limit": [
                 4,
@@ -59224,8 +59472,12 @@
             "goods": {
                 "img": "goods/hanae_christmas.png",
                 "name": "ハナエのプレゼント袋",
-                "key": "healUp",
-                "value": 500
+                "status": [
+                    {
+                        "key": "healUp",
+                        "value": 500
+                    }
+                ]
             },
             "limit": [
                 3,
@@ -61682,8 +61934,12 @@
             "goods": {
                 "img": "goods/haruna_uni.png",
                 "name": "蝶の形をした羽織り",
-                "key": "healUpper",
-                "value": 2000
+                "status": [
+                    {
+                        "key": "healUpper",
+                        "value": 2000
+                    }
+                ]
             },
             "limit": [
                 5,
