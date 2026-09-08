@@ -5359,6 +5359,7 @@
                     "Lv": 17,
                     "damage_regist": 0,
                     "GGauge": 200000,
+                    "GTime": 20,
                     "skill": {
                         "skill_0": {
                             "skillname": "猫鬼の地響き",
@@ -5457,6 +5458,7 @@
                     "Lv": 25,
                     "damage_regist": 0,
                     "GGauge": 300000,
+                    "GTime": 20,
                     "skill": {
                         "skill_0": {
                             "skillname": "猫鬼の地響き",
@@ -5555,6 +5557,7 @@
                     "Lv": 35,
                     "damage_regist": 0,
                     "GGauge": 600000,
+                    "GTime": 20,
                     "skill": {
                         "skill_0": {
                             "skillname": "猫鬼の地響き",
@@ -5653,6 +5656,7 @@
                     "Lv": 50,
                     "damage_regist": 0,
                     "GGauge": 900000,
+                    "GTime": 20,
                     "skill": {
                         "skill_0": {
                             "skillname": "猫鬼の地響き",
@@ -5751,6 +5755,7 @@
                     "Lv": 70,
                     "damage_regist": 0,
                     "GGauge": 3600000,
+                    "GTime": 20,
                     "skill": {
                         "skill_0": {
                             "skillname": "猫鬼の地響き",
@@ -5849,6 +5854,7 @@
                     "Lv": 80,
                     "damage_regist": 0,
                     "GGauge": 9200000,
+                    "GTime": 20,
                     "skill": {
                         "skill_0": {
                             "skillname": "猫鬼の地響き",
@@ -5947,6 +5953,7 @@
                     "Lv": 90,
                     "damage_regist": 0,
                     "GGauge": 14000000,
+                    "GTime": 20,
                     "skill": {
                         "skill_0": {
                             "skillname": "猫鬼の地響き",
@@ -6045,6 +6052,7 @@
                     "Lv": 90,
                     "damage_regist": 0,
                     "GGauge": 31920000,
+                    "GTime": 20,
                     "skill": {
                         "skill_0": {
                             "skillname": "猫鬼の地響き",
