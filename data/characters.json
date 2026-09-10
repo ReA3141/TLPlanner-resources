@@ -17478,7 +17478,7 @@
                 "name": "ユウカの関数電卓",
                 "status": [
                     {
-                        "key": "def",
+                        "key": "my_def",
                         "value": 500
                     }
                 ]
@@ -40839,6 +40839,11 @@
                                     2,
                                     2,
                                     2,
+                                    2,
+                                    2,
+                                    2,
+                                    2,
+                                    2,
                                     2
                                 ]
                             },
@@ -54761,7 +54766,7 @@
                             {
                                 "skill_attribute": "damage",
                                 "skill_pattern": "many",
-                                "skill_tage": "own",
+                                "skill_tage": "all",
                                 "hitAmount": [
                                     2.2
                                 ],
@@ -65243,6 +65248,11 @@
                                 "skill_attribute": "HP_rate_reverse",
                                 "skill_tage": "own",
                                 "rate": [
+                                    3,
+                                    3,
+                                    3,
+                                    3,
+                                    3,
                                     3,
                                     3,
                                     3,
