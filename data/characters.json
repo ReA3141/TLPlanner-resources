@@ -70493,6 +70493,253 @@
                     }
                 }
             }
+        },
+        {
+            "id": "sp0088",
+            "name": "カスミ（水着）",
+            "img": "standing/カスミ（水着）.png",
+            "icon": "face/カスミ（水着）.png",
+            "atk_attribute": "貫通",
+            "def_attribute": "特殊装甲",
+            "status": {
+                "atk": 298.5,
+                "heal": 2007.9,
+                "hit": 796,
+                "avoid": 1032,
+                "cri": 265,
+                "cri_damage": 200,
+                "penetrate": 0,
+                "balance": 1076,
+                "urban": "D",
+                "outdoor": "B",
+                "indoor": "S"
+            },
+            "limit": [
+                4,
+                5,
+                4,
+                5,
+                4,
+                5,
+                4,
+                5,
+                5,
+                4,
+                4,
+                5,
+                4,
+                5,
+                4,
+                4,
+                5,
+                4,
+                5,
+                4,
+                4,
+                5,
+                4,
+                5,
+                5
+            ],
+            "weapon": [
+                {
+                    "wep1": "グローブ",
+                    "wep2": "バッグ",
+                    "wep3": "腕時計",
+                    "unique_wep": [
+                        {
+                            "atk": 391,
+                            "heal": 730
+                        }
+                    ]
+                }
+            ],
+            "bond": [
+                {
+                    "atk": [
+                        2,
+                        4,
+                        5,
+                        7,
+                        2,
+                        2,
+                        4
+                    ],
+                    "heal": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "school": "GH",
+            "battleClass": "supporter",
+            "class": "カスミ",
+            "skill": {
+                "EX": {
+                    "default": {
+                        "skillname": "ビート・ザ・ドリルビート",
+                        "cost": 3,
+                        "hittime": 0.767,
+                        "cooltime": 9.567,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "one",
+                                "skill_tage": "enemy",
+                                "hitAmount": [
+                                    0.8
+                                ],
+                                "rate": [
+                                    331,
+                                    380,
+                                    480,
+                                    530,
+                                    629
+                                ]
+                            },
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "many",
+                                "skill_tage": "enemy",
+                                "hitAmount": [
+                                    3.767
+                                ],
+                                "rate": [
+                                    86.7,
+                                    99.7,
+                                    125,
+                                    138,
+                                    164
+                                ]
+                            },
+                            {
+                                "skill_attribute": "sp_weak",
+                                "skilltime": 28,
+                                "skill_tage": "enemy",
+                                "allow": "重装甲",
+                                "rate": [
+                                    21.6,
+                                    24.8,
+                                    31.3,
+                                    34.5,
+                                    41
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "NS": {
+                    "default": {
+                        "skillname": "「特別」なプレゼント",
+                        "hittime": 3.034,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "one",
+                                "skill_tage": "enemy",
+                                "hitAmount": [
+                                    3.067
+                                ],
+                                "rate": [
+                                    126,
+                                    133,
+                                    139,
+                                    164,
+                                    171,
+                                    177,
+                                    202,
+                                    209,
+                                    215,
+                                    240
+                                ]
+                            },
+                            {
+                                "skill_attribute": "sp_weak",
+                                "skill_tage": "enemy",
+                                "skilltime": 27,
+                                "rate": [
+                                    10,
+                                    10.5,
+                                    11,
+                                    13.1,
+                                    13.6,
+                                    14.1,
+                                    16.1,
+                                    16.6,
+                                    17.1,
+                                    19.1
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "NS+": {
+                    "default": {
+                        "skillname": ""
+                    }
+                },
+                "PS": [
+                    {
+                        "skill_attribute": "atk",
+                        "rate": [
+                            14,
+                            14.7,
+                            15.4,
+                            18.2,
+                            18.9,
+                            19.6,
+                            22.4,
+                            23.1,
+                            23.8,
+                            26.6
+                        ]
+                    }
+                ],
+                "PS+": [
+                    {
+                        "skill_attribute": "debaffUp",
+                        "rate": [
+                            1000,
+                            1050,
+                            1100,
+                            1300,
+                            1350,
+                            1400,
+                            1600,
+                            1650,
+                            1700,
+                            1900
+                        ]
+                    }
+                ],
+                "SS": {
+                    "default": {
+                        "skillname": "真面目だねぇ？",
+                        "effect": [
+                            {
+                                "skill_attribute": "sp_atk",
+                                "rate": [
+                                    15.9,
+                                    16.7,
+                                    17.5,
+                                    20.7,
+                                    21.5,
+                                    22.3,
+                                    25.5,
+                                    26.3,
+                                    27,
+                                    30.2
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }
         }
     ]
 }
