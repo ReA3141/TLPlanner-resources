@@ -881,21 +881,6 @@
                             ]
                         },
                         "skill_1": {
-                            "skillname": "ドッカァーン！！(氷)",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "damage",
-                                    "rate": 1100
-                                },
-                                {
-                                    "skill_attribute": "move_speed_debaff",
-                                    "skilltime": 40,
-                                    "rate": 80
-                                }
-                            ]
-                        },
-                        "skill_2": {
                             "skillname": "転がれ転がれー！",
                             "hittime": 0,
                             "gGauge": 4000000,
@@ -908,6 +893,21 @@
                                     "skill_attribute": "damage_up_debaff",
                                     "skilltime": 40,
                                     "rate": 50
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "ドッカァーン！！(氷)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "rate": 1100
+                                },
+                                {
+                                    "skill_attribute": "move_speed_debaff",
+                                    "skilltime": 40,
+                                    "rate": 80
                                 }
                             ]
                         },
@@ -947,6 +947,22 @@
                             ]
                         },
                         "skill_1": {
+                            "skillname": "転がれ転がれー！",
+                            "hittime": 0,
+                            "gGauge": 4000000,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "rate": 5000
+                                },
+                                {
+                                    "skill_attribute": "damage_up_debaff",
+                                    "skilltime": 40,
+                                    "rate": 50
+                                }
+                            ]
+                        },
+                        "skill_2": {
                             "skillname": "ドッカァーン！！(氷)",
                             "hittime": 0,
                             "effect": [
@@ -961,7 +977,7 @@
                                 }
                             ]
                         },
-                        "skill_2": {
+                        "skill_3": {
                             "skillname": "ドッカァーン！！(氷)",
                             "hittime": 0,
                             "effect": [
@@ -972,22 +988,6 @@
                                 {
                                     "skill_attribute": "knockOut",
                                     "skilltime": 4
-                                }
-                            ]
-                        },
-                        "skill_3": {
-                            "skillname": "転がれ転がれー！",
-                            "hittime": 0,
-                            "gGauge": 4000000,
-                            "effect": [
-                                {
-                                    "skill_attribute": "damage",
-                                    "rate": 5000
-                                },
-                                {
-                                    "skill_attribute": "damage_up_debaff",
-                                    "skilltime": 40,
-                                    "rate": 50
                                 }
                             ]
                         },
