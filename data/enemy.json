@@ -713,11 +713,14 @@
                         "skill_1": {
                             "skillname": "転がれ転がれー！",
                             "hittime": 0,
-                            "gGauge": 43000,
                             "effect": [
                                 {
                                     "skill_attribute": "damage",
                                     "rate": 600
+                                },
+                                {
+                                    "skill_attribute": "gGauge",
+                                    "rate": 43000
                                 }
                             ]
                         }
@@ -747,11 +750,14 @@
                         "skill_1": {
                             "skillname": "転がれ転がれー！",
                             "hittime": 0,
-                            "gGauge": 80000,
                             "effect": [
                                 {
                                     "skill_attribute": "damage",
                                     "rate": 600
+                                },
+                                {
+                                    "skill_attribute": "gGauge",
+                                    "rate": 80000
                                 }
                             ]
                         }
@@ -781,11 +787,14 @@
                         "skill_1": {
                             "skillname": "転がれ転がれー！",
                             "hittime": 0,
-                            "gGauge": 110000,
                             "effect": [
                                 {
                                     "skill_attribute": "damage",
                                     "rate": 600
+                                },
+                                {
+                                    "skill_attribute": "gGauge",
+                                    "rate": 110000
                                 }
                             ]
                         }
@@ -815,11 +824,14 @@
                         "skill_1": {
                             "skillname": "転がれ転がれー！",
                             "hittime": 0,
-                            "gGauge": 200000,
                             "effect": [
                                 {
                                     "skill_attribute": "damage",
                                     "rate": 600
+                                },
+                                {
+                                    "skill_attribute": "gGauge",
+                                    "rate": 200000
                                 }
                             ]
                         }
@@ -849,11 +861,14 @@
                         "skill_1": {
                             "skillname": "転がれ転がれー！",
                             "hittime": 0,
-                            "gGauge": 1500000,
                             "effect": [
                                 {
                                     "skill_attribute": "damage",
                                     "rate": 600
+                                },
+                                {
+                                    "skill_attribute": "gGauge",
+                                    "rate": 1500000
                                 }
                             ]
                         }
@@ -883,7 +898,6 @@
                         "skill_1": {
                             "skillname": "転がれ転がれー！",
                             "hittime": 0,
-                            "gGauge": 4000000,
                             "effect": [
                                 {
                                     "skill_attribute": "damage",
@@ -893,6 +907,10 @@
                                     "skill_attribute": "damage_up_debaff",
                                     "skilltime": 40,
                                     "rate": 50
+                                },
+                                {
+                                    "skill_attribute": "gGauge",
+                                    "rate": 4000000
                                 }
                             ]
                         },
@@ -949,7 +967,6 @@
                         "skill_1": {
                             "skillname": "転がれ転がれー！",
                             "hittime": 0,
-                            "gGauge": 4000000,
                             "effect": [
                                 {
                                     "skill_attribute": "damage",
@@ -959,6 +976,10 @@
                                     "skill_attribute": "damage_up_debaff",
                                     "skilltime": 40,
                                     "rate": 50
+                                },
+                                {
+                                    "skill_attribute": "gGauge",
+                                    "rate": 4000000
                                 }
                             ]
                         },
@@ -6175,11 +6196,14 @@
                         "skill_0": {
                             "skillname": "突進だぁ！！！",
                             "hittime": 0,
-                            "gGauge": 43000,
                             "effect": [
                                 {
                                     "skill_attribute": "damage",
                                     "rate": 400
+                                },
+                                {
+                                    "skill_attribute": "gGauge",
+                                    "rate": 43000
                                 }
                             ]
                         }
@@ -6199,11 +6223,14 @@
                         "skill_0": {
                             "skillname": "突進だぁ！！！",
                             "hittime": 0,
-                            "gGauge": 80000,
                             "effect": [
                                 {
                                     "skill_attribute": "damage",
                                     "rate": 400
+                                },
+                                {
+                                    "skill_attribute": "gGauge",
+                                    "rate": 80000
                                 }
                             ]
                         }
@@ -6223,11 +6250,14 @@
                         "skill_0": {
                             "skillname": "突進だぁ！！！",
                             "hittime": 0,
-                            "gGauge": 110000,
                             "effect": [
                                 {
                                     "skill_attribute": "damage",
                                     "rate": 400
+                                },
+                                {
+                                    "skill_attribute": "gGauge",
+                                    "rate": 110000
                                 }
                             ]
                         }
@@ -6247,11 +6277,14 @@
                         "skill_0": {
                             "skillname": "突進だぁ！！！",
                             "hittime": 0,
-                            "gGauge": 200000,
                             "effect": [
                                 {
                                     "skill_attribute": "damage",
                                     "rate": 400
+                                },
+                                {
+                                    "skill_attribute": "gGauge",
+                                    "rate": 200000
                                 }
                             ]
                         }
@@ -6271,11 +6304,14 @@
                         "skill_0": {
                             "skillname": "突進だぁ！！！",
                             "hittime": 0,
-                            "gGauge": 1500000,
                             "effect": [
                                 {
                                     "skill_attribute": "damage",
                                     "rate": 400
+                                },
+                                {
+                                    "skill_attribute": "gGauge",
+                                    "rate": 1500000
                                 }
                             ]
                         }
@@ -6295,7 +6331,6 @@
                         "skill_0": {
                             "skillname": "突進だぁ！！！",
                             "hittime": 0,
-                            "gGauge": 4000000,
                             "effect": [
                                 {
                                     "skill_attribute": "damage",
@@ -6305,6 +6340,10 @@
                                     "skill_attribute": "damage_up_debaff",
                                     "skilltime": 40,
                                     "rate": 50
+                                },
+                                {
+                                    "skill_attribute": "gGauge",
+                                    "rate": 4000000
                                 }
                             ]
                         },
@@ -6339,7 +6378,6 @@
                         "skill_0": {
                             "skillname": "突進だぁ！！！",
                             "hittime": 0,
-                            "gGauge": 4000000,
                             "effect": [
                                 {
                                     "skill_attribute": "damage",
@@ -6349,6 +6387,10 @@
                                     "skill_attribute": "damage_up_debaff",
                                     "skilltime": 40,
                                     "rate": 50
+                                },
+                                {
+                                    "skill_attribute": "gGauge",
+                                    "rate": 4000000
                                 }
                             ]
                         },
