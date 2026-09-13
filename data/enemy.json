@@ -5192,6 +5192,16 @@
                                     "skilltime": 32
                                 }
                             ]
+                        },
+                        "skill_1": {
+                            "skillname": "ミサイル誘導装置召喚",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "summonGuideDevice",
+                                    "skill_tage": "own"
+                                }
+                            ]
                         }
                     }
                 },
@@ -5214,6 +5224,16 @@
                                     "skill_attribute": "cri_regist",
                                     "skill_tage": "own",
                                     "skilltime": 32
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "ミサイル誘導装置召喚",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "summonGuideDevice",
+                                    "skill_tage": "own"
                                 }
                             ]
                         }
@@ -5240,6 +5260,16 @@
                                     "skilltime": 32
                                 }
                             ]
+                        },
+                        "skill_1": {
+                            "skillname": "ミサイル誘導装置召喚",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "summonGuideDevice",
+                                    "skill_tage": "own"
+                                }
+                            ]
                         }
                     }
                 },
@@ -5262,6 +5292,16 @@
                                     "skill_attribute": "cri_regist",
                                     "skill_tage": "own",
                                     "skilltime": 32
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "ミサイル誘導装置召喚",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "summonGuideDevice",
+                                    "skill_tage": "own"
                                 }
                             ]
                         }
@@ -5288,6 +5328,16 @@
                                     "skilltime": 32
                                 }
                             ]
+                        },
+                        "skill_1": {
+                            "skillname": "ミサイル誘導装置召喚",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "summonGuideDevice",
+                                    "skill_tage": "own"
+                                }
+                            ]
                         }
                     }
                 },
@@ -5310,6 +5360,16 @@
                                     "skill_attribute": "cri_regist",
                                     "skill_tage": "own",
                                     "skilltime": 32
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "ミサイル誘導装置召喚",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "summonGuideDevice",
+                                    "skill_tage": "own"
                                 }
                             ]
                         }
@@ -5336,6 +5396,16 @@
                                     "skilltime": 32
                                 }
                             ]
+                        },
+                        "skill_1": {
+                            "skillname": "ミサイル誘導装置召喚",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "summonGuideDevice",
+                                    "skill_tage": "own"
+                                }
+                            ]
                         }
                     }
                 },
@@ -5358,6 +5428,16 @@
                                     "skill_attribute": "cri_regist",
                                     "skill_tage": "own",
                                     "skilltime": 32
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "ミサイル誘導装置召喚",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "summonGuideDevice",
+                                    "skill_tage": "own"
                                 }
                             ]
                         }
