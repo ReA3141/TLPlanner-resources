@@ -9439,6 +9439,96 @@
         },
         {
             "id": "e0122",
+            "name": "ミサイル誘導装置",
+            "icon": "enemy/guiddevice_icon.png",
+            "atk_attribute": "貫通",
+            "size": "big",
+            "class": "HoverCraft",
+            "difficulty": {
+                "NORMAL": {
+                    "HP": 20000,
+                    "def": 420,
+                    "avoid": 1,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 10,
+                    "Lv": 17,
+                    "damage_regist": 75,
+                    "skill": {}
+                },
+                "HARD": {
+                    "HP": 55000,
+                    "def": 420,
+                    "avoid": 1,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 10,
+                    "Lv": 25,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "VERYHARD": {
+                    "HP": 180000,
+                    "def": 420,
+                    "avoid": 1,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 10,
+                    "Lv": 35,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "HARDCORE": {
+                    "HP": 350000,
+                    "def": 420,
+                    "avoid": 1,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 10,
+                    "Lv": 50,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "EXTREAM": {
+                    "HP": 1500000,
+                    "def": 420,
+                    "avoid": 1,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 10,
+                    "Lv": 70,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "INSANE": {
+                    "HP": 3350000,
+                    "def": 420,
+                    "avoid": 1,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 10,
+                    "Lv": 80,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "TORMENT": {
+                    "HP": 5900000,
+                    "def": 420,
+                    "avoid": 1,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 10,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "LUNATIC": {
+                    "HP": 9000000,
+                    "def": 420,
+                    "avoid": 1,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 10,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "skill": {}
+                }
+            }
+        },
+        {
+            "id": "e0123",
             "name": "クロカゲの片鱗",
             "icon": "enemy/kurokage_spirit_icon.png",
             "atk_attribute": "神秘",
