@@ -2351,7 +2351,7 @@
                                 {
                                     "skill_attribute": "summonMinion",
                                     "skill_tage": "own",
-                                    "rate": 400
+                                    "rate": 4
                                 }
                             ]
                         },
@@ -2428,7 +2428,7 @@
                                 {
                                     "skill_attribute": "summonMinion",
                                     "skill_tage": "own",
-                                    "rate": 400
+                                    "rate": 4
                                 }
                             ]
                         },
@@ -2505,7 +2505,7 @@
                                 {
                                     "skill_attribute": "summonMinion",
                                     "skill_tage": "own",
-                                    "rate": 400
+                                    "rate": 4
                                 }
                             ]
                         },
@@ -2582,7 +2582,7 @@
                                 {
                                     "skill_attribute": "summonMinion",
                                     "skill_tage": "own",
-                                    "rate": 400
+                                    "rate": 4
                                 }
                             ]
                         },
@@ -2659,7 +2659,7 @@
                                 {
                                     "skill_attribute": "summonMinion",
                                     "skill_tage": "own",
-                                    "rate": 400
+                                    "rate": 4
                                 }
                             ]
                         },
@@ -2736,7 +2736,7 @@
                                 {
                                     "skill_attribute": "summonMinion",
                                     "skill_tage": "own",
-                                    "rate": 400
+                                    "rate": 5
                                 }
                             ]
                         },
@@ -2819,7 +2819,7 @@
                                 {
                                     "skill_attribute": "summonMinion",
                                     "skill_tage": "own",
-                                    "rate": 400
+                                    "rate": 6
                                 }
                             ]
                         },
@@ -2920,7 +2920,7 @@
                                 {
                                     "skill_attribute": "summonMinion",
                                     "skill_tage": "own",
-                                    "rate": 400
+                                    "rate": 6
                                 }
                             ]
                         },
@@ -3827,7 +3827,8 @@
                                 },
                                 {
                                     "skill_attribute": "summonSranpia",
-                                    "skill_tage": "own"
+                                    "skill_tage": "own",
+                                    "rate": 2
                                 }
                             ]
                         },
@@ -3920,7 +3921,8 @@
                                 },
                                 {
                                     "skill_attribute": "summonSranpia",
-                                    "skill_tage": "own"
+                                    "skill_tage": "own",
+                                    "rate": 2
                                 }
                             ]
                         },
@@ -4013,7 +4015,8 @@
                                 },
                                 {
                                     "skill_attribute": "summonSranpia",
-                                    "skill_tage": "own"
+                                    "skill_tage": "own",
+                                    "rate": 2
                                 }
                             ]
                         },
@@ -4106,7 +4109,8 @@
                                 },
                                 {
                                     "skill_attribute": "summonSranpia",
-                                    "skill_tage": "own"
+                                    "skill_tage": "own",
+                                    "rate": 2
                                 }
                             ]
                         },
@@ -4199,7 +4203,8 @@
                                 },
                                 {
                                     "skill_attribute": "summonSranpia",
-                                    "skill_tage": "own"
+                                    "skill_tage": "own",
+                                    "rate": 2
                                 }
                             ]
                         },
@@ -4298,7 +4303,8 @@
                                 },
                                 {
                                     "skill_attribute": "summonSranpia",
-                                    "skill_tage": "own"
+                                    "skill_tage": "own",
+                                    "rate": 2
                                 }
                             ]
                         },
@@ -4403,7 +4409,8 @@
                                 },
                                 {
                                     "skill_attribute": "summonSranpia",
-                                    "skill_tage": "own"
+                                    "skill_tage": "own",
+                                    "rate": 2
                                 }
                             ]
                         },
@@ -4543,7 +4550,8 @@
                                 },
                                 {
                                     "skill_attribute": "summonSranpia",
-                                    "skill_tage": "own"
+                                    "skill_tage": "own",
+                                    "rate": 2
                                 }
                             ]
                         },
@@ -5236,7 +5244,8 @@
                             "effect": [
                                 {
                                     "skill_attribute": "summonGuideDevice",
-                                    "skill_tage": "own"
+                                    "skill_tage": "own",
+                                    "rate": 1
                                 }
                             ]
                         }
@@ -5271,7 +5280,8 @@
                             "effect": [
                                 {
                                     "skill_attribute": "summonGuideDevice",
-                                    "skill_tage": "own"
+                                    "skill_tage": "own",
+                                    "rate": 1
                                 }
                             ]
                         }
@@ -5306,7 +5316,8 @@
                             "effect": [
                                 {
                                     "skill_attribute": "summonGuideDevice",
-                                    "skill_tage": "own"
+                                    "skill_tage": "own",
+                                    "rate": 1
                                 }
                             ]
                         }
@@ -5342,7 +5353,7 @@
                                 {
                                     "skill_attribute": "summonGuideDevice",
                                     "skill_tage": "own",
-                                    "rate": 50
+                                    "rate": 1
                                 }
                             ]
                         }
@@ -5377,7 +5388,8 @@
                             "effect": [
                                 {
                                     "skill_attribute": "summonGuideDevice",
-                                    "skill_tage": "own"
+                                    "skill_tage": "own",
+                                    "rate": 1
                                 }
                             ]
                         }
@@ -5412,7 +5424,8 @@
                             "effect": [
                                 {
                                     "skill_attribute": "summonGuideDevice",
-                                    "skill_tage": "own"
+                                    "skill_tage": "own",
+                                    "rate": 1
                                 }
                             ]
                         }
@@ -5447,7 +5460,8 @@
                             "effect": [
                                 {
                                     "skill_attribute": "summonGuideDevice",
-                                    "skill_tage": "own"
+                                    "skill_tage": "own",
+                                    "rate": 1
                                 }
                             ]
                         }
@@ -5482,7 +5496,8 @@
                             "effect": [
                                 {
                                     "skill_attribute": "summonGuideDevice",
-                                    "skill_tage": "own"
+                                    "skill_tage": "own",
+                                    "rate": 1
                                 }
                             ]
                         }
