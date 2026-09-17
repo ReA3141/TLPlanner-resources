@@ -9072,6 +9072,7 @@
             "hpControl": {
                 "isShared": false,
                 "reflectToRepresentative": true,
+                "startsOnField": false,
                 "remainsOnFieldAtZeroHp": true
             },
             "difficulty": {
@@ -9166,7 +9167,8 @@
             "class": "Gregorius",
             "hpControl": {
                 "isShared": false,
-                "reflectToRepresentative": true
+                "reflectToRepresentative": true,
+                "remainsOnFieldAtZeroHp": true
             },
             "difficulty": {
                 "NORMAL": {
