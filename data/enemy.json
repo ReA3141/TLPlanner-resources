@@ -2993,6 +2993,7 @@
                     "ccGauge": [
                         6
                     ],
+                    "ccGaugeLoop": true,
                     "skill": {
                         "skill_0": {
                             "skillname": "デストラクションType I",
@@ -3023,7 +3024,7 @@
                                 {
                                     "skill_attribute": "createInvadePillor",
                                     "skill_tage": "own",
-                                    "rate": 1
+                                    "rate": 2
                                 }
                             ]
                         },
@@ -3087,6 +3088,7 @@
                     "ccGauge": [
                         7
                     ],
+                    "ccGaugeLoop": true,
                     "skill": {
                         "skill_0": {
                             "skillname": "デストラクションType I",
@@ -3117,7 +3119,7 @@
                                 {
                                     "skill_attribute": "createInvadePillor",
                                     "skill_tage": "own",
-                                    "rate": 1
+                                    "rate": 2
                                 }
                             ]
                         },
@@ -3181,6 +3183,7 @@
                     "ccGauge": [
                         8
                     ],
+                    "ccGaugeLoop": true,
                     "skill": {
                         "skill_0": {
                             "skillname": "デストラクションType I",
@@ -3211,7 +3214,7 @@
                                 {
                                     "skill_attribute": "createInvadePillor",
                                     "skill_tage": "own",
-                                    "rate": 1
+                                    "rate": 2
                                 }
                             ]
                         },
@@ -3275,6 +3278,7 @@
                     "ccGauge": [
                         9
                     ],
+                    "ccGaugeLoop": true,
                     "skill": {
                         "skill_0": {
                             "skillname": "デストラクションType I",
@@ -3305,7 +3309,7 @@
                                 {
                                     "skill_attribute": "createInvadePillor",
                                     "skill_tage": "own",
-                                    "rate": 1
+                                    "rate": 2
                                 }
                             ]
                         },
@@ -3369,6 +3373,7 @@
                     "ccGauge": [
                         10
                     ],
+                    "ccGaugeLoop": true,
                     "skill": {
                         "skill_0": {
                             "skillname": "デストラクションType I",
@@ -3399,7 +3404,7 @@
                                 {
                                     "skill_attribute": "createInvadePillor",
                                     "skill_tage": "own",
-                                    "rate": 1
+                                    "rate": 2
                                 }
                             ]
                         },
@@ -3463,6 +3468,7 @@
                     "ccGauge": [
                         15
                     ],
+                    "ccGaugeLoop": true,
                     "skill": {
                         "skill_0": {
                             "skillname": "デストラクションType I",
@@ -3557,6 +3563,7 @@
                     "ccGauge": [
                         20
                     ],
+                    "ccGaugeLoop": true,
                     "skill": {
                         "skill_0": {
                             "skillname": "デストラクションType I",
@@ -3651,6 +3658,7 @@
                     "ccGauge": [
                         20
                     ],
+                    "ccGaugeLoop": true,
                     "skill": {
                         "skill_0": {
                             "skillname": "デストラクションType I",
@@ -8319,6 +8327,7 @@
                     "ccGauge": [
                         6
                     ],
+                    "ccGaugeLoop": true,
                     "skill": {
                         "skill_0": {
                             "skillname": "インベイドピラー生成",
@@ -8366,6 +8375,7 @@
                     "ccGauge": [
                         7
                     ],
+                    "ccGaugeLoop": true,
                     "skill": {
                         "skill_0": {
                             "skillname": "インベイドピラー生成",
@@ -8413,6 +8423,7 @@
                     "ccGauge": [
                         8
                     ],
+                    "ccGaugeLoop": true,
                     "skill": {
                         "skill_0": {
                             "skillname": "インベイドピラー生成",
@@ -8460,6 +8471,7 @@
                     "ccGauge": [
                         9
                     ],
+                    "ccGaugeLoop": true,
                     "skill": {
                         "skill_0": {
                             "skillname": "インベイドピラー生成",
@@ -8507,6 +8519,7 @@
                     "ccGauge": [
                         10
                     ],
+                    "ccGaugeLoop": true,
                     "skill": {
                         "skill_0": {
                             "skillname": "インベイドピラー生成",
@@ -8554,6 +8567,7 @@
                     "ccGauge": [
                         15
                     ],
+                    "ccGaugeLoop": true,
                     "skill": {
                         "skill_0": {
                             "skillname": "インベイドピラー生成",
@@ -8601,6 +8615,7 @@
                     "ccGauge": [
                         20
                     ],
+                    "ccGaugeLoop": true,
                     "skill": {
                         "skill_0": {
                             "skillname": "インベイドピラー生成",
@@ -8653,6 +8668,7 @@
                     "ccGauge": [
                         20
                     ],
+                    "ccGaugeLoop": true,
                     "skill": {
                         "skill_0": {
                             "skillname": "インベイドピラー生成",
