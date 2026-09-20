@@ -1764,6 +1764,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "heal_continue",
+                                "occur": 5,
                                 "skill_tage": "all",
                                 "hitAmount": [
                                     1.2,
@@ -5099,6 +5100,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "heal_continue",
+                                "occur": 1,
                                 "skill_tage": "own",
                                 "hitAmount": [
                                     1.967,
@@ -5187,7 +5189,7 @@
                                 ]
                             },
                             {
-                                "skill_attribute": "heal_continue",
+                                "skill_attribute": "heal",
                                 "skill_tage": "own",
                                 "hitAmount": [
                                     1.333
@@ -15797,6 +15799,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "heal_continue",
+                                "occur": 4,
                                 "skilltime": 20,
                                 "skill_tage": "own",
                                 "rate": [
@@ -15822,6 +15825,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "heal_continue",
+                                "occur": 4,
                                 "skilltime": 20,
                                 "skill_tage": "own",
                                 "rate": [
@@ -17792,6 +17796,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "heal_continue",
+                                "occur": 4,
                                 "skilltime": 20,
                                 "skill_tage": "ally",
                                 "hitAmount": [
@@ -17825,6 +17830,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "heal_continue",
+                                "occur": 4,
                                 "skilltime": 20,
                                 "skill_tage": "ally",
                                 "hitAmount": [
@@ -24682,6 +24688,7 @@
                             },
                             {
                                 "skill_attribute": "heal_continue",
+                                "occur": 4,
                                 "skilltime": 10,
                                 "skill_tage": "own",
                                 "rate": [
@@ -28009,6 +28016,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "heal_continue",
+                                "occur": 4,
                                 "skill_tage": "own",
                                 "hitAmount": 1,
                                 "rate": [
@@ -28377,6 +28385,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "heal_continue",
+                                "occur": 4,
                                 "skilltime": 60,
                                 "skill_tage": "ally",
                                 "rate": [
@@ -42411,6 +42420,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "heal_continue",
+                                "occur": 4,
                                 "skilltime": 32,
                                 "skill_tage": "all",
                                 "hitAmount": [
@@ -44714,6 +44724,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "heal_continue",
+                                "occur": 2,
                                 "skill_tage": "own",
                                 "hitAmount": [
                                     2.234,
@@ -46861,6 +46872,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "heal_continue",
+                                "occur": 4,
                                 "skilltime": 20,
                                 "skill_tage": "own",
                                 "hitAmount": [
@@ -49233,6 +49245,7 @@
                             },
                             {
                                 "skill_attribute": "heal_continue",
+                                "occur": 4,
                                 "skill_tage": "own",
                                 "rate": [
                                     19.3,
@@ -61070,6 +61083,7 @@
                             },
                             {
                                 "skill_attribute": "heal_continue",
+                                "occur": 4,
                                 "skilltime": 30,
                                 "hitAmount": [
                                     0.1,
@@ -61988,6 +62002,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "heal_continue",
+                                "occur": 4,
                                 "skill_tage": "ally",
                                 "hitAmount": [
                                     1.167,
@@ -62230,6 +62245,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "heal_continue",
+                                "occur": 1.8,
                                 "skill_tage": "all",
                                 "hitAmount": [
                                     1.7,
@@ -66196,6 +66212,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "heal_continue",
+                                "occur": 4,
                                 "skill_tage": "all",
                                 "skilltime": 60,
                                 "rate": [
@@ -66270,6 +66287,7 @@
                             },
                             {
                                 "skill_attribute": "heal_continue",
+                                "occur": 4,
                                 "skill_tage": "all",
                                 "skilltime": 20,
                                 "rate": [
@@ -69264,6 +69282,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "heal_continue",
+                                "occur": 4,
                                 "skill_tage": "all",
                                 "skilltime": 30,
                                 "hitAmount": [
@@ -76394,6 +76413,7 @@
                             },
                             {
                                 "skill_attribute": "heal_continue",
+                                "occur": 0.6,
                                 "skill_tage": "all",
                                 "skilltime": 30,
                                 "rate": [
@@ -78220,6 +78240,7 @@
                             },
                             {
                                 "skill_attribute": "heal_continue",
+                                "occur": 4,
                                 "class_tage": "supporter",
                                 "skill_tage": "friend",
                                 "skilltime": 20,
@@ -78299,6 +78320,7 @@
                             },
                             {
                                 "skill_attribute": "heal_continue",
+                                "occur": 4,
                                 "class_tage": "supporter",
                                 "skill_tage": "friend",
                                 "skilltime": 25,
