@@ -5540,6 +5540,7 @@
                     "damage_regist": 0,
                     "GGauge": 200000,
                     "GTime": 20,
+                    "phaseHpThresholds": [750000, 100000],
                     "skill": {
                         "skill_0": {
                             "skillname": "猫鬼の地響き",
@@ -5604,26 +5605,6 @@
                                     "skill_pattern": "many",
                                     "skill_tage": "enemy",
                                     "rate": 250
-                                }
-                            ]
-                        },
-                        "skill_5": {
-                            "skillname": "領域(開始)",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "region",
-                                    "skill_tage": "own"
-                                }
-                            ]
-                        },
-                        "skill_6": {
-                            "skillname": "領域(終了)",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "region",
-                                    "skill_tage": "own"
                                 }
                             ]
                         }
@@ -5639,6 +5620,7 @@
                     "damage_regist": 0,
                     "GGauge": 300000,
                     "GTime": 20,
+                    "phaseHpThresholds": [1125000, 150000],
                     "skill": {
                         "skill_0": {
                             "skillname": "猫鬼の地響き",
@@ -5703,26 +5685,6 @@
                                     "skill_pattern": "many",
                                     "skill_tage": "enemy",
                                     "rate": 250
-                                }
-                            ]
-                        },
-                        "skill_5": {
-                            "skillname": "領域(開始)",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "region",
-                                    "skill_tage": "own"
-                                }
-                            ]
-                        },
-                        "skill_6": {
-                            "skillname": "領域(終了)",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "region",
-                                    "skill_tage": "own"
                                 }
                             ]
                         }
@@ -5738,6 +5700,7 @@
                     "damage_regist": 0,
                     "GGauge": 600000,
                     "GTime": 20,
+                    "phaseHpThresholds": [2250000, 300000],
                     "skill": {
                         "skill_0": {
                             "skillname": "猫鬼の地響き",
@@ -5802,26 +5765,6 @@
                                     "skill_pattern": "many",
                                     "skill_tage": "enemy",
                                     "rate": 250
-                                }
-                            ]
-                        },
-                        "skill_5": {
-                            "skillname": "領域(開始)",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "region",
-                                    "skill_tage": "own"
-                                }
-                            ]
-                        },
-                        "skill_6": {
-                            "skillname": "領域(終了)",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "region",
-                                    "skill_tage": "own"
                                 }
                             ]
                         }
@@ -5837,6 +5780,7 @@
                     "damage_regist": 0,
                     "GGauge": 900000,
                     "GTime": 20,
+                    "phaseHpThresholds": [3375000, 450000],
                     "skill": {
                         "skill_0": {
                             "skillname": "猫鬼の地響き",
@@ -5901,26 +5845,6 @@
                                     "skill_pattern": "many",
                                     "skill_tage": "enemy",
                                     "rate": 250
-                                }
-                            ]
-                        },
-                        "skill_5": {
-                            "skillname": "領域(開始)",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "region",
-                                    "skill_tage": "own"
-                                }
-                            ]
-                        },
-                        "skill_6": {
-                            "skillname": "領域(終了)",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "region",
-                                    "skill_tage": "own"
                                 }
                             ]
                         }
@@ -5936,6 +5860,7 @@
                     "damage_regist": 0,
                     "GGauge": 3600000,
                     "GTime": 20,
+                    "phaseHpThresholds": [13500000, 1800000],
                     "skill": {
                         "skill_0": {
                             "skillname": "猫鬼の地響き",
@@ -6000,26 +5925,6 @@
                                     "skill_pattern": "many",
                                     "skill_tage": "enemy",
                                     "rate": 250
-                                }
-                            ]
-                        },
-                        "skill_5": {
-                            "skillname": "領域(開始)",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "region",
-                                    "skill_tage": "own"
-                                }
-                            ]
-                        },
-                        "skill_6": {
-                            "skillname": "領域(終了)",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "region",
-                                    "skill_tage": "own"
                                 }
                             ]
                         }
@@ -6035,6 +5940,7 @@
                     "damage_regist": 0,
                     "GGauge": 9200000,
                     "GTime": 20,
+                    "phaseHpThresholds": [34500000, 4600000],
                     "skill": {
                         "skill_0": {
                             "skillname": "猫鬼の地響き",
@@ -6099,26 +6005,6 @@
                                     "skill_pattern": "many",
                                     "skill_tage": "enemy",
                                     "rate": 250
-                                }
-                            ]
-                        },
-                        "skill_5": {
-                            "skillname": "領域(開始)",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "region",
-                                    "skill_tage": "own"
-                                }
-                            ]
-                        },
-                        "skill_6": {
-                            "skillname": "領域(終了)",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "region",
-                                    "skill_tage": "own"
                                 }
                             ]
                         }
@@ -6134,6 +6020,7 @@
                     "damage_regist": 0,
                     "GGauge": 14000000,
                     "GTime": 20,
+                    "phaseHpThresholds": [52500000, 7000000],
                     "skill": {
                         "skill_0": {
                             "skillname": "猫鬼の地響き",
@@ -6198,26 +6085,6 @@
                                     "skill_pattern": "many",
                                     "skill_tage": "enemy",
                                     "rate": 250
-                                }
-                            ]
-                        },
-                        "skill_5": {
-                            "skillname": "領域(開始)",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "region",
-                                    "skill_tage": "own"
-                                }
-                            ]
-                        },
-                        "skill_6": {
-                            "skillname": "領域(終了)",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "region",
-                                    "skill_tage": "own"
                                 }
                             ]
                         }
@@ -6233,6 +6100,7 @@
                     "damage_regist": 0,
                     "GGauge": 31920000,
                     "GTime": 20,
+                    "phaseHpThresholds": [119700000, 15960000],
                     "skill": {
                         "skill_0": {
                             "skillname": "猫鬼の地響き",
@@ -6297,26 +6165,6 @@
                                     "skill_pattern": "many",
                                     "skill_tage": "enemy",
                                     "rate": 250
-                                }
-                            ]
-                        },
-                        "skill_5": {
-                            "skillname": "領域(開始)",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "region",
-                                    "skill_tage": "own"
-                                }
-                            ]
-                        },
-                        "skill_6": {
-                            "skillname": "領域(終了)",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "region",
-                                    "skill_tage": "own"
                                 }
                             ]
                         }
