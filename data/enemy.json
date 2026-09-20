@@ -6696,7 +6696,9 @@
             "class": "Hieronymus",
             "hpControl": {
                 "isShared": false,
-                "reflectToRepresentative": false
+                "reflectToRepresentative": false,
+                "startsAtZeroHp": true,
+                "remainsOnFieldAtZeroHp": true
             },
             "difficulty": {
                 "NORMAL": {
@@ -6714,13 +6716,7 @@
                         "skill_0": {
                             "skillname": "聖なる光(聖遺物)",
                             "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "damage_up_debaff",
-                                    "duplicate": 5,
-                                    "rate": 55
-                                }
-                            ]
+                            "effect": []
                         }
                     }
                 },
@@ -6739,13 +6735,7 @@
                         "skill_0": {
                             "skillname": "聖なる光(聖遺物)",
                             "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "damage_up_debaff",
-                                    "duplicate": 5,
-                                    "rate": 55
-                                }
-                            ]
+                            "effect": []
                         }
                     }
                 },
@@ -6764,13 +6754,7 @@
                         "skill_0": {
                             "skillname": "聖なる光(聖遺物)",
                             "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "damage_up_debaff",
-                                    "duplicate": 5,
-                                    "rate": 55
-                                }
-                            ]
+                            "effect": []
                         }
                     }
                 },
@@ -6789,13 +6773,7 @@
                         "skill_0": {
                             "skillname": "聖なる光(聖遺物)",
                             "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "damage_up_debaff",
-                                    "duplicate": 5,
-                                    "rate": 55
-                                }
-                            ]
+                            "effect": []
                         }
                     }
                 },
@@ -6814,13 +6792,7 @@
                         "skill_0": {
                             "skillname": "聖なる光(聖遺物)",
                             "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "damage_up_debaff",
-                                    "duplicate": 5,
-                                    "rate": 55
-                                }
-                            ]
+                            "effect": []
                         }
                     }
                 },
@@ -6839,13 +6811,7 @@
                         "skill_0": {
                             "skillname": "聖なる光(聖遺物)",
                             "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "damage_up_debaff",
-                                    "duplicate": 5,
-                                    "rate": 55
-                                }
-                            ]
+                            "effect": []
                         }
                     }
                 },
@@ -6864,13 +6830,7 @@
                         "skill_0": {
                             "skillname": "聖なる光(聖遺物)",
                             "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "damage_up_debaff",
-                                    "duplicate": 5,
-                                    "rate": 55
-                                }
-                            ]
+                            "effect": []
                         }
                     }
                 },
@@ -6899,7 +6859,9 @@
             "class": "Hieronymus",
             "hpControl": {
                 "isShared": false,
-                "reflectToRepresentative": false
+                "reflectToRepresentative": false,
+                "startsAtZeroHp": true,
+                "remainsOnFieldAtZeroHp": true
             },
             "difficulty": {
                 "NORMAL": {
