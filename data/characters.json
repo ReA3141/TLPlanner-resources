@@ -1766,14 +1766,6 @@
                                 "skill_attribute": "heal_continue",
                                 "occur": 5,
                                 "skill_tage": "all",
-                                "hitAmount": [
-                                    1.2,
-                                    6.2,
-                                    11.2,
-                                    16.2,
-                                    21.2,
-                                    26.2
-                                ],
                                 "skilltime": 30,
                                 "rate": [
                                     28.4,
@@ -5101,29 +5093,8 @@
                             {
                                 "skill_attribute": "heal_continue",
                                 "occur": 1,
+                                "skilltime": 20,
                                 "skill_tage": "own",
-                                "hitAmount": [
-                                    1.967,
-                                    2.967,
-                                    3.967,
-                                    4.967,
-                                    5.967,
-                                    6.967,
-                                    7.967,
-                                    8.967,
-                                    9.967,
-                                    10.967,
-                                    11.967,
-                                    12.967,
-                                    13.967,
-                                    14.967,
-                                    15.967,
-                                    16.967,
-                                    17.967,
-                                    18.967,
-                                    19.967,
-                                    20.967
-                                ],
                                 "rate": [
                                     8.6,
                                     9.9,
@@ -17799,14 +17770,6 @@
                                 "occur": 4,
                                 "skilltime": 20,
                                 "skill_tage": "ally",
-                                "hitAmount": [
-                                    1.3,
-                                    5.3,
-                                    9.3,
-                                    13.3,
-                                    17.3,
-                                    21.3
-                                ],
                                 "rate": [
                                     22.8,
                                     24,
@@ -17833,14 +17796,6 @@
                                 "occur": 4,
                                 "skilltime": 20,
                                 "skill_tage": "ally",
-                                "hitAmount": [
-                                    1.3,
-                                    5.3,
-                                    9.3,
-                                    13.3,
-                                    17.3,
-                                    21.3
-                                ],
                                 "rate": [
                                     26.4,
                                     27.8,
@@ -28017,8 +27972,8 @@
                             {
                                 "skill_attribute": "heal_continue",
                                 "occur": 4,
+                                "skilltime": 30,
                                 "skill_tage": "own",
-                                "hitAmount": 1,
                                 "rate": [
                                     22.7,
                                     23.8,
@@ -42423,16 +42378,6 @@
                                 "occur": 4,
                                 "skilltime": 32,
                                 "skill_tage": "all",
-                                "hitAmount": [
-                                    1.966,
-                                    5.966,
-                                    9.966,
-                                    13.966,
-                                    17.966,
-                                    21.966,
-                                    25.966,
-                                    29.966
-                                ],
                                 "rate": [
                                     27.9,
                                     32,
@@ -44725,20 +44670,8 @@
                             {
                                 "skill_attribute": "heal_continue",
                                 "occur": 2,
+                                "skilltime": 24,
                                 "skill_tage": "own",
-                                "hitAmount": [
-                                    2.234,
-                                    4.234,
-                                    6.234,
-                                    8.234,
-                                    10.234,
-                                    12.234,
-                                    14.234,
-                                    16.234,
-                                    18.234,
-                                    20.234,
-                                    22.234
-                                ],
                                 "rate": [
                                     13.2,
                                     15.2,
@@ -46875,13 +46808,6 @@
                                 "occur": 4,
                                 "skilltime": 20,
                                 "skill_tage": "own",
-                                "hitAmount": [
-                                    2.334,
-                                    6.334,
-                                    10.334,
-                                    14.334,
-                                    18.334
-                                ],
                                 "rate": [
                                     50.5,
                                     58.8,
@@ -61085,16 +61011,6 @@
                                 "skill_attribute": "heal_continue",
                                 "occur": 4,
                                 "skilltime": 30,
-                                "hitAmount": [
-                                    0.1,
-                                    4.1,
-                                    8.1,
-                                    12.1,
-                                    16.1,
-                                    20.1,
-                                    24.1,
-                                    28.1
-                                ],
                                 "rate": [
                                     9.5,
                                     10,
@@ -62004,13 +61920,6 @@
                                 "skill_attribute": "heal_continue",
                                 "occur": 4,
                                 "skill_tage": "ally",
-                                "hitAmount": [
-                                    1.167,
-                                    5.167,
-                                    9.167,
-                                    13.167,
-                                    17.167
-                                ],
                                 "skilltime": 20,
                                 "rate": [
                                     54.1,
@@ -62247,13 +62156,6 @@
                                 "skill_attribute": "heal_continue",
                                 "occur": 1.8,
                                 "skill_tage": "all",
-                                "hitAmount": [
-                                    1.7,
-                                    3.5,
-                                    5.334,
-                                    7.167,
-                                    9
-                                ],
                                 "skilltime": 8,
                                 "rate": [
                                     26.9,
@@ -69285,16 +69187,6 @@
                                 "occur": 4,
                                 "skill_tage": "all",
                                 "skilltime": 30,
-                                "hitAmount": [
-                                    1.767,
-                                    5.767,
-                                    9.767,
-                                    13.767,
-                                    17.767,
-                                    21.767,
-                                    25.767,
-                                    29.767
-                                ],
                                 "rate": [
                                     21.3,
                                     24.5,
@@ -76413,9 +76305,9 @@
                             },
                             {
                                 "skill_attribute": "heal_continue",
-                                "occur": 0.6,
+                                "occur": 0.5,
                                 "skill_tage": "all",
-                                "skilltime": 30,
+                                "skilltime": 3,
                                 "rate": [
                                     4.6,
                                     5.3,
