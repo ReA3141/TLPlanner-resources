@@ -36,7 +36,10 @@
             "reload": 0,
             "beforeTime": 0
         },
-        "limit": [],
+        "limit": {
+            "atk": [],
+            "heal": []
+        },
         "weapon": [
             {
                 "wep1": "",
