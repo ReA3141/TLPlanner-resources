@@ -9783,8 +9783,10 @@
             "size": "middle",
             "class": "Kurokage",
             "hpControl": {
-                "isShared": false,
-                "reflectToRepresentative": true
+                "isShared": true,
+                "poolOwnerId": "e0011",
+                "reflectToRepresentative": true,
+                "initialCount": 6
             },
             "difficulty": {
                 "NORMAL": {
