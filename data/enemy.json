@@ -11349,7 +11349,7 @@
                 "isShared": false,
                 "poolOwnerId": "e0013",
                 "reflectToRepresentative": false,
-                "initialCount": 0
+                "initialCount": 1
             },
             "difficulty": {
                 "NORMAL": {
@@ -11485,7 +11485,10 @@
                 "isShared": false,
                 "poolOwnerId": "e0013",
                 "reflectToRepresentative": false,
-                "initialCount": 2
+                "initialCount": 2,
+                "startsOnField": false,
+                "startsAtZeroHp": true,
+                "remainsOnFieldAtZeroHp": true
             },
             "difficulty": {
                 "NORMAL": {
@@ -11637,7 +11640,8 @@
                 "isShared": false,
                 "poolOwnerId": "e0013",
                 "reflectToRepresentative": false,
-                "initialCount": 2
+                "initialCount": 2,
+                "startsOnField": false
             },
             "difficulty": {
                 "NORMAL": {
@@ -11754,10 +11758,18 @@
             "size": "superBig",
             "class": "Yesod",
             "isAlly": true,
+            "dps": {
+                "hit": 1,
+                "hits": 1,
+                "delay": 0,
+                "reload": 0,
+                "beforeTime": 120
+            },
             "hpControl": {
                 "isShared": false,
                 "reflectToRepresentative": false,
-                "initialCount": 4
+                "initialCount": 4,
+                "startsOnField": false
             },
             "difficulty": {
                 "NORMAL": {
