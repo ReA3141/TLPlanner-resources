@@ -6684,7 +6684,7 @@
                     "e0126",
                     "e0127",
                     "e0128",
-                    "0e129"
+                    "e0129"
                 ]
             ],
             "difficulty": {
@@ -11103,7 +11103,6 @@
             "class": "Yesod",
             "hpControl": {
                 "isShared": false,
-                "poolOwnerId": "e0013",
                 "reflectToRepresentative": false,
                 "initialCount": 0
             },
@@ -11223,7 +11222,6 @@
             "class": "Yesod",
             "hpControl": {
                 "isShared": false,
-                "poolOwnerId": "e0013",
                 "reflectToRepresentative": false,
                 "initialCount": 0
             },
