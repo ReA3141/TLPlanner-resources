@@ -11478,6 +11478,9 @@
             "atk_attribute": "爆発",
             "size": "superBig",
             "class": "Yesod",
+            "targetSkillTypes": [
+                "EX"
+            ],
             "hpControl": {
                 "isShared": false,
                 "poolOwnerId": "e0013",
