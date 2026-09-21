@@ -782,6 +782,14 @@
             ],
             "size": "big",
             "class": "ShiroKuro",
+            "bossGroup": [
+                [
+                    "e0003"
+                ],
+                [
+                    "e0105"
+                ]
+            ],
             "hpControl": {
                 "isShared": false,
                 "reflectToRepresentative": false
@@ -1723,6 +1731,18 @@
             ],
             "size": "big",
             "class": "KAITEN",
+            "bossGroup": [
+                [
+                    "e0109",
+                    "e0110",
+                    "e0111",
+                    "e0112",
+                    "e0113"
+                ],
+                [
+                    "e0005"
+                ]
+            ],
             "hpControl": {
                 "isShared": false,
                 "reflectToRepresentative": false
@@ -5601,6 +5621,15 @@
             ],
             "size": "big",
             "class": "HoverCraft",
+            "bossGroup": [
+                [
+                    "e0121"
+                ],
+                [
+                    "e0010",
+                    "e0122"
+                ]
+            ],
             "hpControl": {
                 "isShared": false,
                 "reflectToRepresentative": false
@@ -6620,6 +6649,448 @@
                                     "skill_pattern": "many",
                                     "skill_tage": "enemy",
                                     "rate": 250
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": "e0013",
+            "name": "イェソド",
+            "img": "enemy/Yesod.png",
+            "icon": "enemy/Yesod_icon.png",
+            "time": 270000,
+            "atk_attribute": "爆発",
+            "terr": [
+                "urban"
+            ],
+            "size": "superBig",
+            "class": "Yesod",
+            "bossGroup": [
+                [
+                    "e0013",
+                    "e0124",
+                    "e0125"
+                ],
+                [
+                    "e0126",
+                    "e0127",
+                    "e0128",
+                    "e0129"
+                ],
+                [
+                    "e0126",
+                    "e0127",
+                    "e0128",
+                    "0e129"
+                ]
+            ],
+            "difficulty": {
+                "NORMAL": {
+                    "HP": 60000,
+                    "atk": 1250,
+                    "def": 100,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 17,
+                    "damage_regist": 95,
+                    "GGauge": 55000000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "浄化の手（赤）",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 1500
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "浄化の手（青）",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 1500
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "新たなる礎",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 1500
+                                }
+                            ]
+                        }
+                    }
+                },
+                "HARD": {
+                    "HP": 100000,
+                    "atk": 2000,
+                    "def": 100,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 25,
+                    "damage_regist": 95,
+                    "GGauge": 55000000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "浄化の手（赤）",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 1500
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "浄化の手（青）",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 1500
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "新たなる礎",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 1500
+                                }
+                            ]
+                        }
+                    }
+                },
+                "VERYHARD": {
+                    "HP": 210000,
+                    "atk": 2500,
+                    "def": 100,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 35,
+                    "damage_regist": 95,
+                    "GGauge": 55000000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "浄化の手（赤）",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 1500
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "浄化の手（青）",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 1500
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "新たなる礎",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 1500
+                                }
+                            ]
+                        }
+                    }
+                },
+                "HARDCORE": {
+                    "HP": 650000,
+                    "atk": 5000,
+                    "def": 100,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 50,
+                    "damage_regist": 95,
+                    "GGauge": 55000000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "浄化の手（赤）",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 1500
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "浄化の手（青）",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 1500
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "新たなる礎",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 1500
+                                }
+                            ]
+                        }
+                    }
+                },
+                "EXTREAM": {
+                    "HP": 3000000,
+                    "atk": 9000,
+                    "def": 100,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 70,
+                    "damage_regist": 95,
+                    "GGauge": 55000000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "浄化の手（赤）",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 1500
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "浄化の手（青）",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 1500
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "新たなる礎",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 1500
+                                }
+                            ]
+                        }
+                    }
+                },
+                "INSANE": {
+                    "HP": 7500000,
+                    "atk": 16000,
+                    "def": 100,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 80,
+                    "damage_regist": 95,
+                    "GGauge": 55000000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "浄化の手（赤）",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 3000
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "浄化の手（青）",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 3000
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "新たなる礎",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 3000
+                                }
+                            ]
+                        }
+                    }
+                },
+                "TORMENT": {
+                    "HP": 36000000,
+                    "atk": 24000,
+                    "def": 100,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 90,
+                    "damage_regist": 95,
+                    "GGauge": 55000000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "浄化の手（赤）",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 3000
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "浄化の手（青）",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 3000
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "新たなる礎",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 3000
+                                }
+                            ]
+                        }
+                    }
+                },
+                "LUNATIC": {
+                    "HP": 60000000,
+                    "atk": 37500,
+                    "def": 100,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 90,
+                    "damage_regist": 95,
+                    "GGauge": 55000000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "浄化の手（赤）",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 3000
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "浄化の手（青）",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 3000
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "新たなる礎",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 3000
                                 }
                             ]
                         }
@@ -10617,6 +11088,771 @@
                     "cri_damage": 150,
                     "cri_regist": 100,
                     "cri_damage_regist": 40,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "skill": {}
+                }
+            }
+        },
+        {
+            "id": "e0124",
+            "name": "青の灯火",
+            "icon": "enemy/blue_lamplight.png",
+            "atk_attribute": "爆発",
+            "size": "superBig",
+            "class": "Yesod",
+            "hpControl": {
+                "isShared": false,
+                "poolOwnerId": "e0013",
+                "reflectToRepresentative": false,
+                "initialCount": 0
+            },
+            "difficulty": {
+                "NORMAL": {
+                    "HP": 4500,
+                    "atk": 1250,
+                    "def": 100,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 99999,
+                    "cri_damage_regist": 1,
+                    "Lv": 17,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "HARD": {
+                    "HP": 6500,
+                    "atk": 2000,
+                    "def": 100,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 99999,
+                    "cri_damage_regist": 1,
+                    "Lv": 25,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "VERYHARD": {
+                    "HP": 9000,
+                    "atk": 2500,
+                    "def": 100,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 99999,
+                    "cri_damage_regist": 1,
+                    "Lv": 35,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "HARDCORE": {
+                    "HP": 20000,
+                    "atk": 5000,
+                    "def": 100,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 99999,
+                    "cri_damage_regist": 1,
+                    "Lv": 50,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "EXTREAM": {
+                    "HP": 95000,
+                    "atk": 9000,
+                    "def": 100,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 99999,
+                    "cri_damage_regist": 1,
+                    "Lv": 70,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "INSANE": {
+                    "HP": 240000,
+                    "atk": 16000,
+                    "def": 100,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 99999,
+                    "cri_damage_regist": 1,
+                    "Lv": 80,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "TORMENT": {
+                    "HP": 300000,
+                    "atk": 24000,
+                    "def": 100,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 99999,
+                    "cri_damage_regist": 1,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "LUNATIC": {
+                    "HP": 385000,
+                    "atk": 37500,
+                    "def": 100,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 99999,
+                    "cri_damage_regist": 1,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "skill": {}
+                }
+            }
+        },
+        {
+            "id": "e0125",
+            "name": "赤の灯火",
+            "icon": "enemy/red_lamplight.png",
+            "atk_attribute": "爆発",
+            "size": "superBig",
+            "class": "Yesod",
+            "hpControl": {
+                "isShared": false,
+                "poolOwnerId": "e0013",
+                "reflectToRepresentative": false,
+                "initialCount": 0
+            },
+            "difficulty": {
+                "NORMAL": {
+                    "HP": 4500,
+                    "atk": 1250,
+                    "def": 100,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 99999,
+                    "cri_damage_regist": 1,
+                    "Lv": 17,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "HARD": {
+                    "HP": 6500,
+                    "atk": 2000,
+                    "def": 100,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 99999,
+                    "cri_damage_regist": 1,
+                    "Lv": 25,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "VERYHARD": {
+                    "HP": 9000,
+                    "atk": 2500,
+                    "def": 100,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 99999,
+                    "cri_damage_regist": 1,
+                    "Lv": 35,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "HARDCORE": {
+                    "HP": 20000,
+                    "atk": 5000,
+                    "def": 100,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 99999,
+                    "cri_damage_regist": 1,
+                    "Lv": 50,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "EXTREAM": {
+                    "HP": 95000,
+                    "atk": 9000,
+                    "def": 100,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 99999,
+                    "cri_damage_regist": 1,
+                    "Lv": 70,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "INSANE": {
+                    "HP": 240000,
+                    "atk": 16000,
+                    "def": 100,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 99999,
+                    "cri_damage_regist": 1,
+                    "Lv": 80,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "TORMENT": {
+                    "HP": 300000,
+                    "atk": 24000,
+                    "def": 100,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 99999,
+                    "cri_damage_regist": 1,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "LUNATIC": {
+                    "HP": 385000,
+                    "atk": 37500,
+                    "def": 100,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 99999,
+                    "cri_damage_regist": 1,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "skill": {}
+                }
+            }
+        },
+        {
+            "id": "e0126",
+            "name": "イェソドの右手",
+            "icon": "enemy/Yesod_icon.png",
+            "atk_attribute": "爆発",
+            "size": "superBig",
+            "class": "Yesod",
+            "hpControl": {
+                "isShared": false,
+                "poolOwnerId": "e0013",
+                "reflectToRepresentative": false,
+                "initialCount": 0
+            },
+            "difficulty": {
+                "NORMAL": {
+                    "HP": 35000,
+                    "atk": 1000,
+                    "def": 5000,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 17,
+                    "damage_regist": 99,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "大いなる意志の裁き",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "skill_tage": "enemy",
+                                    "rate": 200
+                                }
+                            ]
+                        }
+                    }
+                },
+                "HARD": {
+                    "HP": 55000,
+                    "atk": 1500,
+                    "def": 5000,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 25,
+                    "damage_regist": 99,
+                    "skill": {}
+                },
+                "VERYHARD": {
+                    "HP": 140000,
+                    "atk": 2000,
+                    "def": 5000,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 35,
+                    "damage_regist": 99,
+                    "skill": {}
+                },
+                "HARDCORE": {
+                    "HP": 35000,
+                    "atk": 3500,
+                    "def": 5000,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 50,
+                    "damage_regist": 99,
+                    "skill": {}
+                },
+                "EXTREAM": {
+                    "HP": 900000,
+                    "atk": 9000,
+                    "def": 5000,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 70,
+                    "damage_regist": 99,
+                    "skill": {}
+                },
+                "INSANE": {
+                    "HP": 3600000,
+                    "atk": 16000,
+                    "def": 5000,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 80,
+                    "damage_regist": 99,
+                    "skill": {}
+                },
+                "TORMENT": {
+                    "HP": 9000000,
+                    "atk": 24000,
+                    "def": 5000,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 300,
+                    "Lv": 90,
+                    "damage_regist": 99,
+                    "skill": {}
+                },
+                "LUNATIC": {
+                    "HP": 20000000,
+                    "atk": 37500,
+                    "def": 5000,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 300,
+                    "Lv": 90,
+                    "damage_regist": 99,
+                    "skill": {}
+                }
+            }
+        },
+        {
+            "id": "e0127",
+            "name": "力の柱",
+            "icon": "enemy/YesodPillor.png",
+            "atk_attribute": "爆発",
+            "size": "superBig",
+            "class": "Yesod",
+            "hpControl": {
+                "isShared": false,
+                "poolOwnerId": "e0013",
+                "reflectToRepresentative": false,
+                "initialCount": 2
+            },
+            "difficulty": {
+                "NORMAL": {
+                    "HP": 5000,
+                    "atk": 1000,
+                    "def": 100,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 17,
+                    "damage_regist": 0,
+                    "ccGauge": [
+                        3
+                    ],
+                    "ccGaugeLoop": true,
+                    "skill": {}
+                },
+                "HARD": {
+                    "HP": 5000,
+                    "atk": 1500,
+                    "def": 100,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 25,
+                    "damage_regist": 0,
+                    "ccGauge": [
+                        3
+                    ],
+                    "ccGaugeLoop": true,
+                    "skill": {}
+                },
+                "VERYHARD": {
+                    "HP": 5000,
+                    "atk": 2000,
+                    "def": 100,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 35,
+                    "damage_regist": 0,
+                    "ccGauge": [
+                        3
+                    ],
+                    "ccGaugeLoop": true,
+                    "skill": {}
+                },
+                "HARDCORE": {
+                    "HP": 5000,
+                    "atk": 3500,
+                    "def": 100,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 50,
+                    "damage_regist": 0,
+                    "ccGauge": [
+                        3
+                    ],
+                    "ccGaugeLoop": true,
+                    "skill": {}
+                },
+                "EXTREAM": {
+                    "HP": 5000,
+                    "atk": 9000,
+                    "def": 100,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 70,
+                    "damage_regist": 0,
+                    "ccGauge": [
+                        3
+                    ],
+                    "ccGaugeLoop": true,
+                    "skill": {}
+                },
+                "INSANE": {
+                    "HP": 5000,
+                    "atk": 16000,
+                    "def": 100,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 80,
+                    "damage_regist": 0,
+                    "ccGauge": [
+                        5
+                    ],
+                    "ccGaugeLoop": true,
+                    "skill": {}
+                },
+                "TORMENT": {
+                    "HP": 5000,
+                    "atk": 24000,
+                    "def": 100,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 300,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "ccGauge": [
+                        5
+                    ],
+                    "ccGaugeLoop": true,
+                    "skill": {}
+                },
+                "LUNATIC": {
+                    "HP": 5000,
+                    "atk": 37500,
+                    "def": 100,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 300,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "ccGauge": [
+                        5
+                    ],
+                    "ccGaugeLoop": true,
+                    "skill": {}
+                }
+            }
+        },
+        {
+            "id": "e0128",
+            "name": "礎の柱",
+            "icon": "enemy/YesodPillor.png",
+            "atk_attribute": "爆発",
+            "size": "superBig",
+            "class": "Yesod",
+            "hpControl": {
+                "isShared": false,
+                "poolOwnerId": "e0013",
+                "reflectToRepresentative": false,
+                "initialCount": 2
+            },
+            "difficulty": {
+                "NORMAL": {
+                    "HP": 5000,
+                    "atk": 1000,
+                    "def": 5000,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 17,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "HARD": {
+                    "HP": 5000,
+                    "atk": 1500,
+                    "def": 5000,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 25,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "VERYHARD": {
+                    "HP": 5000,
+                    "atk": 2000,
+                    "def": 5000,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 35,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "HARDCORE": {
+                    "HP": 5000,
+                    "atk": 3500,
+                    "def": 5000,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 50,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "EXTREAM": {
+                    "HP": 5000,
+                    "atk": 9000,
+                    "def": 5000,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 70,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "INSANE": {
+                    "HP": 5000,
+                    "atk": 16000,
+                    "def": 5000,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 80,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "TORMENT": {
+                    "HP": 5000,
+                    "atk": 24000,
+                    "def": 5000,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 300,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "LUNATIC": {
+                    "HP": 5000,
+                    "atk": 37500,
+                    "def": 5000,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 300,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "skill": {}
+                }
+            }
+        },
+        {
+            "id": "e0129",
+            "name": "支援ドローン",
+            "icon": "enemy/supportDrone.png",
+            "atk_attribute": "爆発",
+            "size": "superBig",
+            "class": "Yesod",
+            "isAlly": true,
+            "hpControl": {
+                "isShared": false,
+                "reflectToRepresentative": false,
+                "initialCount": 4
+            },
+            "difficulty": {
+                "NORMAL": {
+                    "HP": 314159,
+                    "atk": 2000,
+                    "def": 100,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 1,
+                    "Lv": 17,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "HARD": {
+                    "HP": 314159,
+                    "atk": 3500,
+                    "def": 100,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 1,
+                    "Lv": 25,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "VERYHARD": {
+                    "HP": 314159,
+                    "atk": 5000,
+                    "def": 100,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 1,
+                    "Lv": 35,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "HARDCORE": {
+                    "HP": 314159,
+                    "atk": 8000,
+                    "def": 100,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 1,
+                    "Lv": 50,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "EXTREAM": {
+                    "HP": 314159,
+                    "atk": 11500,
+                    "def": 100,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 1,
+                    "Lv": 70,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "INSANE": {
+                    "HP": 314159,
+                    "atk": 20000,
+                    "def": 100,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 1,
+                    "Lv": 80,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "TORMENT": {
+                    "HP": 314159,
+                    "atk": 50000,
+                    "def": 100,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 1,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "LUNATIC": {
+                    "HP": 314159,
+                    "atk": 100000,
+                    "def": 100,
+                    "avoid": 1,
+                    "cri": 0,
+                    "cri_damage": 150,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 1,
                     "Lv": 90,
                     "damage_regist": 0,
                     "skill": {}
