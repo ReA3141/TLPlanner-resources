@@ -11754,7 +11754,7 @@
             "id": "e0129",
             "name": "支援ドローン",
             "icon": "enemy/supportDrone.png",
-            "atk_attribute": "爆発",
+            "atk_attribute": "振動",
             "size": "superBig",
             "class": "Yesod",
             "isAlly": true,
