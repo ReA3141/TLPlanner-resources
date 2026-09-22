@@ -14807,6 +14807,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "add_damage",
+                                "allow": "middle",
                                 "skill_tage": "enemy",
                                 "rate": [
                                     21.8,
@@ -16366,6 +16367,11 @@
                                     31.2,
                                     34.8
                                 ]
+                            },
+                            {
+                                "skill_attribute": "mark",
+                                "skilltime": 15,
+                                "skill_tage": "enemy"
                             }
                         ]
                     }
@@ -20237,6 +20243,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "add_damage",
+                                "allow": "BOSS",
                                 "skill_tage": "enemy",
                                 "rate": [
                                     15.6,
@@ -25536,6 +25543,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "add_damage",
+                                "allow": "特殊装甲",
                                 "skill_tage": "enemy",
                                 "hitAmount": 1,
                                 "rate": [
@@ -37306,6 +37314,7 @@
                             {
                                 "skill_attribute": "add_damage",
                                 "skilltime": 13,
+                                "allow": "big",
                                 "skill_tage": "enemy",
                                 "rate": [
                                     9.3,
