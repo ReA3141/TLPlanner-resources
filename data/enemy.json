@@ -11764,7 +11764,7 @@
                 "hits": 1,
                 "delay": 0,
                 "reload": 0,
-                "beforeTime": 120
+                "beforeTime": 82
             },
             "hpControl": {
                 "isShared": false,
