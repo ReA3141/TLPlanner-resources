@@ -19602,7 +19602,7 @@
                 },
                 "PS": [
                     {
-                        "skill_attribute": "def",
+                        "skill_attribute": "my_def",
                         "rate": [
                             14,
                             14.7,
