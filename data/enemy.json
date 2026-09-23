@@ -7588,6 +7588,7 @@
                             "effect": [
                                 {
                                     "skill_attribute": "costHeal",
+                                    "skill_tage": "ST",
                                     "skilltime": 1,
                                     "rate": 2500
                                 }
@@ -7613,6 +7614,7 @@
                             "effect": [
                                 {
                                     "skill_attribute": "costHeal",
+                                    "skill_tage": "ST",
                                     "skilltime": 1,
                                     "rate": 2500
                                 }
@@ -7638,6 +7640,7 @@
                             "effect": [
                                 {
                                     "skill_attribute": "costHeal",
+                                    "skill_tage": "ST",
                                     "skilltime": 1,
                                     "rate": 2500
                                 }
@@ -7663,6 +7666,7 @@
                             "effect": [
                                 {
                                     "skill_attribute": "costHeal",
+                                    "skill_tage": "ST",
                                     "skilltime": 1,
                                     "rate": 2500
                                 }
@@ -7688,6 +7692,7 @@
                             "effect": [
                                 {
                                     "skill_attribute": "costHeal",
+                                    "skill_tage": "ST",
                                     "skilltime": 1,
                                     "rate": 2500
                                 }
@@ -7713,6 +7718,7 @@
                             "effect": [
                                 {
                                     "skill_attribute": "costHeal",
+                                    "skill_tage": "ST",
                                     "skilltime": 5,
                                     "rate": 2500
                                 }
