@@ -1894,39 +1894,6 @@
                                     "skill_tage": "all"
                                 }
                             ]
-                        },
-                        "skill_4": {
-                            "skillname": "心を燃やせ......まだまだ回れる！(ピンク)",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "atk",
-                                    "skill_tage": "own",
-                                    "rate": 50
-                                }
-                            ]
-                        },
-                        "skill_5": {
-                            "skillname": "心を燃やせ......まだまだ回れる！(レッド)",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "knockOut",
-                                    "skilltime": 5,
-                                    "skill_tage": "own"
-                                }
-                            ]
-                        },
-                        "skill_6": {
-                            "skillname": "心を燃やせ......まだまだ回れる！(グリーン)",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "my_def",
-                                    "skill_tage": "own",
-                                    "rate": 1000
-                                }
-                            ]
                         }
                     }
                 },
@@ -1988,39 +1955,6 @@
                                     "skill_pattern": "many",
                                     "rate": 400,
                                     "skill_tage": "all"
-                                }
-                            ]
-                        },
-                        "skill_4": {
-                            "skillname": "心を燃やせ......まだまだ回れる！(ピンク)",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "atk",
-                                    "skill_tage": "own",
-                                    "rate": 50
-                                }
-                            ]
-                        },
-                        "skill_5": {
-                            "skillname": "心を燃やせ......まだまだ回れる！(レッド)",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "knockOut",
-                                    "skilltime": 5,
-                                    "skill_tage": "own"
-                                }
-                            ]
-                        },
-                        "skill_6": {
-                            "skillname": "心を燃やせ......まだまだ回れる！(グリーン)",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "my_def",
-                                    "skill_tage": "own",
-                                    "rate": 1000
                                 }
                             ]
                         }
@@ -2086,39 +2020,6 @@
                                     "skill_tage": "all"
                                 }
                             ]
-                        },
-                        "skill_4": {
-                            "skillname": "心を燃やせ......まだまだ回れる！(ピンク)",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "atk",
-                                    "skill_tage": "own",
-                                    "rate": 50
-                                }
-                            ]
-                        },
-                        "skill_5": {
-                            "skillname": "心を燃やせ......まだまだ回れる！(レッド)",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "knockOut",
-                                    "skilltime": 5,
-                                    "skill_tage": "own"
-                                }
-                            ]
-                        },
-                        "skill_6": {
-                            "skillname": "心を燃やせ......まだまだ回れる！(グリーン)",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "my_def",
-                                    "skill_tage": "own",
-                                    "rate": 1000
-                                }
-                            ]
                         }
                     }
                 },
@@ -2182,39 +2083,6 @@
                                     "skill_tage": "all"
                                 }
                             ]
-                        },
-                        "skill_4": {
-                            "skillname": "心を燃やせ......まだまだ回れる！(ピンク)",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "atk",
-                                    "skill_tage": "own",
-                                    "rate": 50
-                                }
-                            ]
-                        },
-                        "skill_5": {
-                            "skillname": "心を燃やせ......まだまだ回れる！(レッド)",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "knockOut",
-                                    "skilltime": 5,
-                                    "skill_tage": "own"
-                                }
-                            ]
-                        },
-                        "skill_6": {
-                            "skillname": "心を燃やせ......まだまだ回れる！(グリーン)",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "my_def",
-                                    "skill_tage": "own",
-                                    "rate": 1000
-                                }
-                            ]
                         }
                     }
                 },
@@ -2276,39 +2144,6 @@
                                     "skill_pattern": "many",
                                     "rate": 400,
                                     "skill_tage": "all"
-                                }
-                            ]
-                        },
-                        "skill_4": {
-                            "skillname": "心を燃やせ......まだまだ回れる！(ピンク)",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "atk",
-                                    "skill_tage": "own",
-                                    "rate": 50
-                                }
-                            ]
-                        },
-                        "skill_5": {
-                            "skillname": "心を燃やせ......まだまだ回れる！(レッド)",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "knockOut",
-                                    "skilltime": 5,
-                                    "skill_tage": "own"
-                                }
-                            ]
-                        },
-                        "skill_6": {
-                            "skillname": "心を燃やせ......まだまだ回れる！(グリーン)",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "my_def",
-                                    "skill_tage": "own",
-                                    "rate": 1000
                                 }
                             ]
                         }
@@ -2385,39 +2220,6 @@
                                     "rate": 4000
                                 }
                             ]
-                        },
-                        "skill_5": {
-                            "skillname": "心を燃やせ......まだまだ回れる！(ピンク)",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "atk",
-                                    "skill_tage": "own",
-                                    "rate": 50
-                                }
-                            ]
-                        },
-                        "skill_6": {
-                            "skillname": "心を燃やせ......まだまだ回れる！(レッド)",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "knockOut",
-                                    "skilltime": 5,
-                                    "skill_tage": "own"
-                                }
-                            ]
-                        },
-                        "skill_7": {
-                            "skillname": "心を燃やせ......まだまだ回れる！(グリーン)",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "my_def",
-                                    "skill_tage": "own",
-                                    "rate": 1000
-                                }
-                            ]
                         }
                     }
                 },
@@ -2492,39 +2294,6 @@
                                     "rate": 4000
                                 }
                             ]
-                        },
-                        "skill_5": {
-                            "skillname": "心を燃やせ......まだまだ回れる！(ピンク)",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "atk",
-                                    "skill_tage": "own",
-                                    "rate": 50
-                                }
-                            ]
-                        },
-                        "skill_6": {
-                            "skillname": "心を燃やせ......まだまだ回れる！(レッド)",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "knockOut",
-                                    "skilltime": 5,
-                                    "skill_tage": "own"
-                                }
-                            ]
-                        },
-                        "skill_7": {
-                            "skillname": "心を燃やせ......まだまだ回れる！(グリーン)",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "my_def",
-                                    "skill_tage": "own",
-                                    "rate": 1000
-                                }
-                            ]
                         }
                     }
                 },
@@ -2597,39 +2366,6 @@
                                     "skill_attribute": "atk",
                                     "skill_tage": "own",
                                     "rate": 4000
-                                }
-                            ]
-                        },
-                        "skill_5": {
-                            "skillname": "心を燃やせ......まだまだ回れる！(ピンク)",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "atk",
-                                    "skill_tage": "own",
-                                    "rate": 100
-                                }
-                            ]
-                        },
-                        "skill_6": {
-                            "skillname": "心を燃やせ......まだまだ回れる！(レッド)",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "knockOut",
-                                    "skilltime": 5,
-                                    "skill_tage": "own"
-                                }
-                            ]
-                        },
-                        "skill_7": {
-                            "skillname": "心を燃やせ......まだまだ回れる！(グリーン)",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "my_def",
-                                    "skill_tage": "own",
-                                    "rate": 1000
                                 }
                             ]
                         }
