@@ -10589,7 +10589,14 @@
                             {
                                 "skill_attribute": "provoke",
                                 "skill_tage": "enemy",
-                                "skilltime": 6.2
+                                "skilltime": 6.2,
+                                "rate": [
+                                    4.7,
+                                    4.7,
+                                    5.4,
+                                    5.4,
+                                    6.2
+                                ]
                             }
                         ]
                     }
