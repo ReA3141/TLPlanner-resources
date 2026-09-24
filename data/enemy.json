@@ -10057,7 +10057,7 @@
             "class": "Gregorius",
             "hpControl": {
                 "isShared": false,
-                "reflectToRepresentative": true,
+                "reflectToRepresentative": false,
                 "remainsOnFieldAtZeroHp": true
             },
             "difficulty": {
