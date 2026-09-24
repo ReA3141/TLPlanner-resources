@@ -8030,18 +8030,6 @@
                                     "skilltime": 10
                                 }
                             ]
-                        },
-                        "skill_1": {
-                            "skillname": "悪党め！卑怯なり！",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "damage_up_debaff",
-                                    "skill_tage": "own",
-                                    "skilltime": 15,
-                                    "rate": 40
-                                }
-                            ]
                         }
                     }
                 },
@@ -8065,26 +8053,6 @@
                                     "skill_attribute": "provoke",
                                     "skill_tage": "all",
                                     "skilltime": 10
-                                }
-                            ]
-                        },
-                        "skill_1": {
-                            "skillname": "悪党め！卑怯なり！",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "damage_up_debaff",
-                                    "skill_tage": "own",
-                                    "skilltime": 15,
-                                    "rate": 80
-                                },
-                                {
-                                    "skill_attribute": "cri",
-                                    "skill_tage": "all",
-                                    "amount": "target",
-                                    "skilltime": 15,
-                                    "duplicate": 5,
-                                    "rate": 10
                                 }
                             ]
                         }
