@@ -4779,7 +4779,8 @@
                                     "skill_attribute": "atk_debaff",
                                     "skilltime": 120,
                                     "rate": 40,
-                                    "skill_tage": "all"
+                                    "skill_tage": "all",
+                                    "duplicate": true
                                 }
                             ]
                         },
@@ -4863,7 +4864,8 @@
                                     "skill_attribute": "atk_debaff",
                                     "skilltime": 120,
                                     "rate": 40,
-                                    "skill_tage": "all"
+                                    "skill_tage": "all",
+                                    "duplicate": true
                                 }
                             ]
                         },
@@ -4947,7 +4949,8 @@
                                     "skill_attribute": "atk_debaff",
                                     "skilltime": 120,
                                     "rate": 40,
-                                    "skill_tage": "all"
+                                    "skill_tage": "all",
+                                    "duplicate": true
                                 }
                             ]
                         },
@@ -5031,7 +5034,8 @@
                                     "skill_attribute": "atk_debaff",
                                     "skilltime": 120,
                                     "rate": 40,
-                                    "skill_tage": "all"
+                                    "skill_tage": "all",
+                                    "duplicate": true
                                 }
                             ]
                         },
@@ -5115,7 +5119,8 @@
                                     "skill_attribute": "atk_debaff",
                                     "skilltime": 120,
                                     "rate": 40,
-                                    "skill_tage": "all"
+                                    "skill_tage": "all",
+                                    "duplicate": true
                                 }
                             ]
                         },
@@ -5199,7 +5204,8 @@
                                     "skill_attribute": "atk_debaff",
                                     "skilltime": 120,
                                     "rate": 40,
-                                    "skill_tage": "all"
+                                    "skill_tage": "all",
+                                    "duplicate": true
                                 }
                             ]
                         },
@@ -5283,7 +5289,8 @@
                                     "skill_attribute": "atk_debaff",
                                     "skilltime": 120,
                                     "rate": 40,
-                                    "skill_tage": "all"
+                                    "skill_tage": "all",
+                                    "duplicate": true
                                 }
                             ]
                         },
@@ -5367,7 +5374,8 @@
                                     "skill_attribute": "atk_debaff",
                                     "skilltime": 120,
                                     "rate": 70,
-                                    "skill_tage": "all"
+                                    "skill_tage": "all",
+                                    "duplicate": true
                                 }
                             ]
                         },
