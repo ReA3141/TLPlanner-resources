@@ -12891,6 +12891,7 @@
                 "hit": 50,
                 "hits": 5,
                 "delay": 62,
+                "ignoreTime": 40,
                 "reload": 76,
                 "beforeTime": 169
             },
@@ -13048,6 +13049,37 @@
                                     90.4,
                                     1009,
                                     1113
+                                ]
+                            },
+                            {
+                                "skill_attribute": "ignoreDelay",
+                                "skill_tage": "own",
+                                "effectLimit": 100,
+                                "rate": [
+                                    2,
+                                    2,
+                                    3,
+                                    3,
+                                    4
+                                ]
+                            },
+                            {
+                                "skill_attribute": "formChange",
+                                "skill_tage": "own",
+                                "dps": {
+                                    "hit": 50,
+                                    "hits": 5,
+                                    "delay": 62,
+                                    "ignoreTime": 40,
+                                    "reload": 76,
+                                    "beforeTime": 169
+                                },
+                                "rate": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0
                                 ]
                             }
                         ]
@@ -15125,6 +15157,7 @@
                 "hit": 50,
                 "hits": 5,
                 "delay": 44,
+                "ignoreTime": 42,
                 "reload": 38,
                 "beforeTime": 89
             },
@@ -15240,6 +15273,38 @@
                                     37.8,
                                     42.2,
                                     46.6
+                                ]
+                            },
+                            {
+                                "skill_attribute": "ignoreDelay",
+                                "skill_tage": "own",
+                                "skilltime": 30,
+                                "rate": [
+                                    3,
+                                    3,
+                                    4,
+                                    4,
+                                    5
+                                ]
+                            },
+                            {
+                                "skill_attribute": "formChange",
+                                "skill_tage": "own",
+                                "skilltime": 30,
+                                "dps": {
+                                    "hit": 50,
+                                    "hits": 5,
+                                    "delay": 44,
+                                    "ignoreTime": 42,
+                                    "reload": 38,
+                                    "beforeTime": 89
+                                },
+                                "rate": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0
                                 ]
                             }
                         ]
@@ -36069,6 +36134,7 @@
                 "hit": 15,
                 "hits": 3,
                 "delay": 60,
+                "ignoreTime": 30,
                 "reload": 59,
                 "beforeTime": 116
             },
@@ -36185,6 +36251,29 @@
                                     45.5,
                                     51.4
                                 ]
+                            },
+                            {
+                                "skill_attribute": "formChange",
+                                "skill_tage": "own",
+                                "skilltime": 40,
+                                "dps": {
+                                    "hit": 15,
+                                    "hits": 3,
+                                    "delay": 60,
+                                    "ignoreTime": 30,
+                                    "reload": 59,
+                                    "beforeTime": 116
+                                },
+                                "rate": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            {
+                                "skill_attribute": "causeOfSS"
                             }
                         ]
                     }
@@ -36315,6 +36404,23 @@
                                     26.6,
                                     27.4,
                                     30.6
+                                ]
+                            },
+                            {
+                                "skill_attribute": "ignoreDelay",
+                                "skill_tage": "own",
+                                "skilltime": 40,
+                                "rate": [
+                                    2,
+                                    2,
+                                    2,
+                                    2,
+                                    2,
+                                    2,
+                                    2,
+                                    2,
+                                    2,
+                                    4
                                 ]
                             }
                         ]
