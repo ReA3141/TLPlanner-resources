@@ -55689,6 +55689,330 @@
                     }
                 }
             }
+        },
+        {
+            "id": "st0190",
+            "name": "アンナ",
+            "img": "standing/アンナ.png",
+            "icon": "face/アンナ.png",
+            "atk_attribute": "貫通",
+            "def_attribute": "軽装甲",
+            "status": {
+                "atk": 388.3,
+                "heal": 1665,
+                "hit": 404,
+                "avoid": 790,
+                "cri": 202,
+                "cri_damage": 200,
+                "penetrate": 0,
+                "balance": 984,
+                "urban": "B",
+                "outdoor": "D",
+                "indoor": "S"
+            },
+            "dps": {
+                "hit": 5,
+                "hits": 1,
+                "delay": 60,
+                "reload": 56,
+                "beforeTime": 127
+            },
+            "limit": {
+                "atk": [
+                    6,
+                    5,
+                    6,
+                    6,
+                    5,
+                    6,
+                    6,
+                    6,
+                    5,
+                    6,
+                    6,
+                    5,
+                    6,
+                    6,
+                    5,
+                    6,
+                    6,
+                    6,
+                    5,
+                    6,
+                    6,
+                    5,
+                    6,
+                    6,
+                    5
+                ],
+                "heal": [
+                    8,
+                    8,
+                    8,
+                    8,
+                    8,
+                    8,
+                    7,
+                    8,
+                    8,
+                    8,
+                    8,
+                    8,
+                    8,
+                    8,
+                    8,
+                    8,
+                    8,
+                    8,
+                    8,
+                    8,
+                    7,
+                    8,
+                    8,
+                    8,
+                    8
+                ]
+            },
+            "weapon": [
+                {
+                    "wep1": "hat",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
+                    "unique_wep": [
+                        {
+                            "atk": 627,
+                            "heal": 0
+                        }
+                    ]
+                }
+            ],
+            "bond": [
+                {
+                    "atk": [
+                        3,
+                        4,
+                        5,
+                        6,
+                        2,
+                        2,
+                        4
+                    ],
+                    "heal": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "school": "RW",
+            "battleClass": "attacker",
+            "class": "アンナ",
+            "skill": {
+                "EX": {
+                    "default": {
+                        "skillname": "見てください！",
+                        "cost": 6,
+                        "hittime": 2.5,
+                        "cooltime": 6,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "one",
+                                "skill_tage": "enemy",
+                                "hitAmount": [
+                                    2.5,
+                                    2.5,
+                                    2.5,
+                                    2.5,
+                                    2.5,
+                                    2.5
+                                ],
+                                "skill_critical": false,
+                                "rate": [
+                                    1176,
+                                    1352,
+                                    1705,
+                                    1882,
+                                    2235
+                                ]
+                            }
+                        ]
+                    },
+                    "medal": {
+                        "skillname": "見てください！",
+                        "cost": 6,
+                        "hittime": 2.5,
+                        "cooltime": 6,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "one",
+                                "skill_tage": "enemy",
+                                "hitAmount": [
+                                    2.5,
+                                    2.5,
+                                    2.5,
+                                    2.5,
+                                    2.5,
+                                    2.5
+                                ],
+                                "skill_critical": true,
+                                "rate": [
+                                    1176,
+                                    1352,
+                                    1705,
+                                    1882,
+                                    2235
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "NS": {
+                    "default": {
+                        "skillname": "これは勲章ものですね！",
+                        "hittime": 0,
+                        "effect": [
+                            {
+                                "skill_attribute": "medal",
+                                "skill_tage": "own",
+                                "amount": "target",
+                                "sub_attribute": "damage_up_baff",
+                                "duplicate": 4,
+                                "rate": [
+                                    10,
+                                    10.5,
+                                    11,
+                                    13,
+                                    13.5,
+                                    14,
+                                    16.1,
+                                    16.6,
+                                    17.1,
+                                    19.1
+                                ]
+                            }
+                        ]
+                    },
+                    "medal": {
+                        "skillname": "これは勲章ものですね！",
+                        "hittime": 0,
+                        "effect": [
+                            {
+                                "skill_attribute": "medal",
+                                "skill_tage": "own",
+                                "amount": "target",
+                                "sub_attribute": "damage_up_baff",
+                                "duplicate": 4,
+                                "rate": [
+                                    10,
+                                    10.5,
+                                    11,
+                                    13,
+                                    13.5,
+                                    14,
+                                    16.1,
+                                    16.6,
+                                    17.1,
+                                    19.1
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "NS+": {
+                    "default": {
+                        "skillname": ""
+                    },
+                    "medal": {
+                        "skillname": ""
+                    }
+                },
+                "PS": [
+                    {
+                        "skill_attribute": "cri",
+                        "rate": [
+                            14,
+                            14.7,
+                            15.4,
+                            18.2,
+                            18.9,
+                            19.6,
+                            22.4,
+                            23.1,
+                            23.8,
+                            26.6
+                        ]
+                    }
+                ],
+                "PS+": [
+                    {
+                        "skill_attribute": "atk",
+                        "rate": [
+                            314,
+                            329,
+                            345,
+                            408,
+                            423,
+                            439,
+                            502,
+                            517,
+                            533,
+                            596
+                        ]
+                    }
+                ],
+                "SS": {
+                    "default": {
+                        "skillname": "いい感じです！",
+                        "effect": [
+                            {
+                                "skill_attribute": "sp_atk",
+                                "skill_tage": "own",
+                                "duplicate": 3,
+                                "rate": [
+                                    12.5,
+                                    13.1,
+                                    13.8,
+                                    16.3,
+                                    16.9,
+                                    17.5,
+                                    20,
+                                    20.7,
+                                    21.3,
+                                    23.8
+                                ]
+                            }
+                        ]
+                    },
+                    "medal": {
+                        "skillname": "いい感じです！",
+                        "effect": [
+                            {
+                                "skill_attribute": "sp_atk",
+                                "skill_tage": "own",
+                                "duplicate": 3,
+                                "rate": [
+                                    12.5,
+                                    13.1,
+                                    13.8,
+                                    16.3,
+                                    16.9,
+                                    17.5,
+                                    20,
+                                    20.7,
+                                    21.3,
+                                    23.8
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }
         }
     ],
     "specials": [
