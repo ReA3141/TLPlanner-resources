@@ -56,7 +56,13 @@
                 },
                 "PS": {},
                 "PS+": {},
-                "SS": {}
+                "SS": {
+                    "default": {
+                        "skillname": "",
+                        "hittime": 0,
+                        "effect": []
+                    }
+                }
             }
         },
         {
@@ -118,7 +124,13 @@
                 },
                 "PS": {},
                 "PS+": {},
-                "SS": {}
+                "SS": {
+                    "default": {
+                        "skillname": "",
+                        "hittime": 0,
+                        "effect": []
+                    }
+                }
             }
         },
         {
@@ -154,7 +166,13 @@
                 "NS": {},
                 "PS": {},
                 "PS+": {},
-                "SS": {}
+                "SS": {
+                    "default": {
+                        "skillname": "",
+                        "hittime": 0,
+                        "effect": []
+                    }
+                }
             }
         },
         {
@@ -190,7 +208,13 @@
                 "NS": {},
                 "PS": {},
                 "PS+": {},
-                "SS": {}
+                "SS": {
+                    "default": {
+                        "skillname": "",
+                        "hittime": 0,
+                        "effect": []
+                    }
+                }
             }
         },
         {
@@ -245,7 +269,13 @@
                     }
                 },
                 "PS+": {},
-                "SS": {}
+                "SS": {
+                    "default": {
+                        "skillname": "",
+                        "hittime": 0,
+                        "effect": []
+                    }
+                }
             }
         },
         {
@@ -321,7 +351,13 @@
                 },
                 "PS": {},
                 "PS+": {},
-                "SS": {}
+                "SS": {
+                    "default": {
+                        "skillname": "",
+                        "hittime": 0,
+                        "effect": []
+                    }
+                }
             }
         },
         {
@@ -377,7 +413,13 @@
                 },
                 "PS": {},
                 "PS+": {},
-                "SS": {}
+                "SS": {
+                    "default": {
+                        "skillname": "",
+                        "hittime": 0,
+                        "effect": []
+                    }
+                }
             }
         },
         {
@@ -436,7 +478,13 @@
                 },
                 "PS": {},
                 "PS+": {},
-                "SS": {}
+                "SS": {
+                    "default": {
+                        "skillname": "",
+                        "hittime": 0,
+                        "effect": []
+                    }
+                }
             }
         },
         {
@@ -526,7 +574,13 @@
                     }
                 },
                 "PS+": {},
-                "SS": {}
+                "SS": {
+                    "default": {
+                        "skillname": "",
+                        "hittime": 0,
+                        "effect": []
+                    }
+                }
             }
         },
         {
@@ -591,7 +645,13 @@
                 },
                 "PS": {},
                 "PS+": {},
-                "SS": {}
+                "SS": {
+                    "default": {
+                        "skillname": "",
+                        "hittime": 0,
+                        "effect": []
+                    }
+                }
             }
         },
         {
@@ -658,7 +718,13 @@
                     }
                 },
                 "PS+": {},
-                "SS": {}
+                "SS": {
+                    "default": {
+                        "skillname": "",
+                        "hittime": 0,
+                        "effect": []
+                    }
+                }
             }
         },
         {
@@ -862,7 +928,13 @@
                     }
                 },
                 "PS+": {},
-                "SS": {}
+                "SS": {
+                    "default": {
+                        "skillname": "",
+                        "hittime": 0,
+                        "effect": []
+                    }
+                }
             }
         },
         {
@@ -917,7 +989,13 @@
                     }
                 },
                 "PS+": {},
-                "SS": {}
+                "SS": {
+                    "default": {
+                        "skillname": "",
+                        "hittime": 0,
+                        "effect": []
+                    }
+                }
             }
         },
         {
@@ -953,7 +1031,13 @@
                 "NS": {},
                 "PS": {},
                 "PS+": {},
-                "SS": {}
+                "SS": {
+                    "default": {
+                        "skillname": "",
+                        "hittime": 0,
+                        "effect": []
+                    }
+                }
             }
         },
         {
@@ -989,7 +1073,13 @@
                 "NS": {},
                 "PS": {},
                 "PS+": {},
-                "SS": {}
+                "SS": {
+                    "default": {
+                        "skillname": "",
+                        "hittime": 0,
+                        "effect": []
+                    }
+                }
             }
         },
         {
@@ -1025,7 +1115,13 @@
                 "NS": {},
                 "PS": {},
                 "PS+": {},
-                "SS": {}
+                "SS": {
+                    "default": {
+                        "skillname": "",
+                        "hittime": 0,
+                        "effect": []
+                    }
+                }
             }
         }
     ]

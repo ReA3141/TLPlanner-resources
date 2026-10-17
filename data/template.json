@@ -265,7 +265,13 @@
             },
             "PS": {},
             "PS+": {},
-            "SS": {}
+            "SS": {
+                "default": {
+                    "skillname": "",
+                    "hittime": 0,
+                    "effect": []
+                }
+            }
         }
     },
     "BOSS": {
