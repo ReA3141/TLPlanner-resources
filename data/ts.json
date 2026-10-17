@@ -33,6 +33,7 @@
                 "NS": {
                     "default": {
                         "skillname": "主砲照準、発射",
+                        "cycleForSec": 15,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -91,6 +92,7 @@
                 "NS": {
                     "default": {
                         "skillname": "豪雨ミサイル",
+                        "cycleForSec": 12,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -279,6 +281,7 @@
                 "NS": {
                     "default": {
                         "skillname": "全て蹴散らしてしまえ！",
+                        "cycleForAA": 3,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -354,6 +357,7 @@
                 "NS": {
                     "default": {
                         "skillname": "お料理をお持ちしました！ ",
+                        "cycleForSec": 3,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -409,6 +413,7 @@
                 "NS": {
                     "default": {
                         "skillname": "2ポンド砲に榴弾、装填しました！",
+                        "cycleForSec": 20,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -467,6 +472,7 @@
                 "NS": {
                     "default": {
                         "skillname": "特別な榴弾、心を込めて！",
+                        "cycleForSec": 13,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -688,6 +694,7 @@
                 "NS": {
                     "default": {
                         "skillname": "テルミットパンチ！",
+                        "cycleForSec": 8,
                         "hittime": 0.0,
                         "effect": [
                             {

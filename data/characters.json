@@ -162,6 +162,7 @@
                 "NS": {
                     "default": {
                         "skillname": "上品に貫きます",
+                        "cycleForSec": 40,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -651,6 +652,7 @@
                 "NS": {
                     "default": {
                         "skillname": "sagitta mortis",
+                        "cycleForSec": 30,
                         "hittime": 1.633,
                         "effect": [
                             {
@@ -920,6 +922,7 @@
                 "NS": {
                     "default": {
                         "skillname": "ira litore",
+                        "cycleForSec": 35,
                         "hittime": 2.266,
                         "effect": [
                             {
@@ -1183,6 +1186,7 @@
                 "NS": {
                     "default": {
                         "skillname": "撃つよーっ！",
+                        "cycleForSec": 20,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -1525,6 +1529,7 @@
                 "NS": {
                     "default": {
                         "skillname": "楽しくやろう！",
+                        "cycleForSec": 35,
                         "hittime": 0.5,
                         "effect": [
                             {
@@ -1781,6 +1786,7 @@
                 "NS": {
                     "default": {
                         "skillname": "隠れるよ",
+                        "cycleForSec": 30,
                         "hittime": 1.234,
                         "effect": [
                             {
@@ -2082,6 +2088,7 @@
                 "NS": {
                     "default": {
                         "skillname": "光よ！",
+                        "cycleForSec": 25,
                         "hittime": 0.5,
                         "effect": [
                             {
@@ -2110,6 +2117,7 @@
                     },
                     "charge-1": {
                         "skillname": "光よ！",
+                        "cycleForSec": 25,
                         "hittime": 0.667,
                         "effect": [
                             {
@@ -2138,6 +2146,7 @@
                     },
                     "charge-2": {
                         "skillname": "光よ！",
+                        "cycleForSec": 25,
                         "hittime": 0.667,
                         "effect": [
                             {
@@ -2599,6 +2608,7 @@
                 "NS": {
                     "default": {
                         "skillname": "ノワールシュート",
+                        "cycleForSec": 25,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -2929,6 +2939,7 @@
                 "NS": {
                     "default": {
                         "skillname": "ノワール・羽根つきシュート",
+                        "cycleForSec": 30,
                         "hittime": 0,
                         "effect": [
                             {
@@ -3172,6 +3183,7 @@
                 "NS": {
                     "default": {
                         "skillname": "指名手配",
+                        "cycleForSec": 25,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
@@ -3423,6 +3435,7 @@
                 "NS": {
                     "default": {
                         "skillname": "快刀乱麻",
+                        "cycleForSec": 25,
                         "hittime": 1.4,
                         "effect": [
                             {
@@ -3737,6 +3750,7 @@
                 "NS": {
                     "default": {
                         "skillname": "秘技！爆裂手裏剣！",
+                        "cycleForAA": 6,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -3983,6 +3997,7 @@
                 "NS": {
                     "default": {
                         "skillname": "イズナ流忍法！ぷくぷくの術！",
+                        "cycleForAA": 6,
                         "hittime": 2.267,
                         "effect": [
                             {
@@ -4595,6 +4610,7 @@
                 "NS": {
                     "default": {
                         "skillname": "甘酸っぱくて美味しい！",
+                        "cycleForSec": 35,
                         "hittime": 1.5,
                         "effect": [
                             {
@@ -4862,6 +4878,7 @@
                 "NS": {
                     "default": {
                         "skillname": "伝授されていく知識",
+                        "cycleForSec": 40,
                         "hittime": 1.033,
                         "effect": [
                             {
@@ -5109,6 +5126,7 @@
                 "NS": {
                     "default": {
                         "skillname": "執念の猛撃",
+                        "cycleForSec": 15,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -5402,6 +5420,7 @@
                 "NS": {
                     "default": {
                         "skillname": "パニックショット",
+                        "cycleForSec": 20,
                         "hittime": 1.166,
                         "effect": [
                             {
@@ -5722,6 +5741,7 @@
                 "NS": {
                     "default": {
                         "skillname": "広域射撃、開始",
+                        "cycleForSec": 25,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -6049,6 +6069,7 @@
                 "NS": {
                     "default": {
                         "skillname": "制圧します！",
+                        "cycleForSec": 20,
                         "hittime": 1.133,
                         "effect": [
                             {
@@ -6303,6 +6324,7 @@
                 "NS": {
                     "default": {
                         "skillname": "ごめんなさい！",
+                        "cycleForSec": 35,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -6702,6 +6724,7 @@
                 "SS": {
                     "default": {
                         "skillname": "エリートだから！",
+                        "cycleForSec": 30,
                         "effect": [
                             {
                                 "skill_attribute": "healUp",
@@ -7188,6 +7211,7 @@
                 "NS": {
                     "default": {
                         "skillname": "危ないのはめっ、です！",
+                        "cycleForSec": 25,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -7773,6 +7797,7 @@
                 "NS": {
                     "default": {
                         "skillname": "手榴弾投擲",
+                        "cycleForSec": 25,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -8048,6 +8073,7 @@
                 "NS": {
                     "default": {
                         "skillname": "一点突破",
+                        "cycleForSec": 40,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -8306,6 +8332,7 @@
                 "NS": {
                     "default": {
                         "skillname": "自警団の底力",
+                        "cycleForSec": 25,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -8615,6 +8642,7 @@
                 "NS": {
                     "default": {
                         "skillname": "ウォーミングアップ",
+                        "cycleForSec": 40,
                         "hittime": 1.4,
                         "effect": [
                             {
@@ -8902,6 +8930,7 @@
                 "NS": {
                     "default": {
                         "skillname": "狙い撃ち",
+                        "cycleForSec": 25,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -9189,6 +9218,7 @@
                 "NS": {
                     "default": {
                         "skillname": "あいつを粛清しろ！",
+                        "cycleForSec": 40,
                         "hittime": 1.0,
                         "effect": [
                             {
@@ -9468,6 +9498,7 @@
                 "NS": {
                     "default": {
                         "skillname": "撃つよ～",
+                        "cycleForSec": 25,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -9774,6 +9805,9 @@
                                     4.7,
                                     5.3
                                 ]
+                            },
+                            {
+                                "skill_attribute": "causeOfSS"
                             }
                         ]
                     }
@@ -9781,6 +9815,7 @@
                 "NS": {
                     "default": {
                         "skillname": "びーちぼーる、しゅ～と～",
+                        "cycleForSec": 50,
                         "hittime": 2.067,
                         "effect": [
                             {
@@ -10092,6 +10127,7 @@
                 "NS": {
                     "default": {
                         "skillname": "戦闘支援を強化",
+                        "cycleForSec": 25,
                         "hittime": 2.467,
                         "effect": [
                             {
@@ -10338,6 +10374,7 @@
                 "NS": {
                     "default": {
                         "skillname": "たくさん、練習しましたので……！",
+                        "cycleForAA": 7,
                         "hittime": 1.367,
                         "effect": [
                             {
@@ -11126,6 +11163,7 @@
                 "NS": {
                     "default": {
                         "skillname": "燃え盛る一撃",
+                        "cycleForSec": 35,
                         "hittime": 2.0,
                         "effect": [
                             {
@@ -11403,6 +11441,7 @@
                 "NS": {
                     "default": {
                         "skillname": "巧妙なアジテーション",
+                        "cycleForSec": 30,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -11646,6 +11685,7 @@
                 "NS": {
                     "default": {
                         "skillname": "これ食べて元気出してー",
+                        "cycleForSec": 30,
                         "hittime": 1.567,
                         "effect": [
                             {
@@ -12034,6 +12074,7 @@
                 "NS": {
                     "default": {
                         "skillname": "あぁ？ふざけんな！",
+                        "cycleForSec": 30,
                         "hittime": 0.7,
                         "effect": [
                             {
@@ -12077,6 +12118,7 @@
                     },
                     "angry": {
                         "skillname": "あぁ？ふざけんな！",
+                        "cycleForSec": 30,
                         "hittime": 0.7,
                         "effect": [
                             {
@@ -12490,6 +12532,7 @@
                 "NS": {
                     "default": {
                         "skillname": "見せもんじゃねぇっての！",
+                        "cycleForSec": 30,
                         "hittime": 0.7,
                         "effect": [
                             {
@@ -12742,6 +12785,7 @@
                 "NS": {
                     "default": {
                         "skillname": "じゃ～ん☆",
+                        "cycleForSec": 30,
                         "hittime": 1.134,
                         "effect": [
                             {
@@ -13088,6 +13132,7 @@
                 "NS": {
                     "default": {
                         "skillname": "みんなで楽しく！",
+                        "cycleForSec": 40,
                         "hittime": 0.834,
                         "effect": [
                             {
@@ -13418,6 +13463,7 @@
                 "SS": {
                     "default": {
                         "skillname": "目標探索",
+                        "justAfterReload": true,
                         "effect": [
                             {
                                 "skill_attribute": "cri",
@@ -13599,6 +13645,7 @@
                 "NS": {
                     "default": {
                         "skillname": "トリガーオーバー",
+                        "cycleForSec": 20,
                         "hittime": 0.9,
                         "effect": [
                             {
@@ -13837,6 +13884,7 @@
                 "NS": {
                     "default": {
                         "skillname": "爆発するエキゾチック",
+                        "cycleForSec": 30,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -14096,6 +14144,7 @@
                 "NS": {
                     "default": {
                         "skillname": "リロードアンドデストロイ",
+                        "justAfterReload": true,
                         "hittime": 2.333,
                         "effect": [
                             {
@@ -14384,6 +14433,7 @@
                 "NS": {
                     "default": {
                         "skillname": "スローアンドノックアウト",
+                        "cycleForSec": 20,
                         "hittime": 1.567,
                         "effect": [
                             {
@@ -14750,6 +14800,7 @@
                 "NS": {
                     "default": {
                         "skillname": "まずはお話を……！",
+                        "cycleForSec": 20,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -15025,6 +15076,7 @@
                 "NS": {
                     "default": {
                         "skillname": "ペロロ様の応援",
+                        "cycleForSec": 35,
                         "hittime": 1.933,
                         "effect": [
                             {
@@ -15654,6 +15706,10 @@
                                     29.9,
                                     33.5
                                 ]
+                            },
+                            {
+                                "skill_attribute": "otherUsed",
+                                "value": 1
                             }
                         ]
                     }
@@ -16109,6 +16165,7 @@
                 "NS": {
                     "default": {
                         "skillname": "水上襲撃",
+                        "cycleForSec": 40,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -16421,6 +16478,7 @@
                 "NS": {
                     "default": {
                         "skillname": "くらえ、ペイントボール！",
+                        "cycleForSec": 25,
                         "hittime": 2.0,
                         "effect": [
                             {
@@ -16944,6 +17002,7 @@
                 "NS": {
                     "default": {
                         "skillname": "早く終わらせたい",
+                        "cycleForSec": 50,
                         "hittime": 2.5,
                         "effect": [
                             {
@@ -17240,6 +17299,7 @@
                 "NS": {
                     "default": {
                         "skillname": "捌け、地獄忍魔刀！",
+                        "cycleForSec": 30,
                         "hittime": 1.5,
                         "effect": [
                             {
@@ -17541,6 +17601,7 @@
                 "NS": {
                     "default": {
                         "skillname": "磨き上げるセンス",
+                        "cycleForSec": 25,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -17841,6 +17902,7 @@
                 "NS": {
                     "default": {
                         "skillname": "お弁当を作ってきたんです",
+                        "cycleForSec": 45,
                         "hittime": 1.3,
                         "effect": [
                             {
@@ -17944,6 +18006,7 @@
                 "SS": {
                     "default": {
                         "skillname": "味見してみませんか？",
+                        "cycleForSec": 35,
                         "effect": [
                             {
                                 "skill_attribute": "my_def",
@@ -18141,6 +18204,7 @@
                 "NS": {
                     "default": {
                         "skillname": "クレイモア",
+                        "cycleForSec": 40,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -18438,6 +18502,7 @@
                 "NS": {
                     "default": {
                         "skillname": "予期せぬ角度からの一撃",
+                        "cycleForAA": 5,
                         "hittime": 1.267,
                         "effect": [
                             {
@@ -18546,6 +18611,7 @@
                 "SS": {
                     "default": {
                         "skillname": "狙撃用の特殊弾",
+                        "justAfterReload": true,
                         "effect": [
                             {
                                 "skill_attribute": "cri_damage",
@@ -18970,6 +19036,7 @@
                 "NS": {
                     "default": {
                         "skillname": "小悪魔のコーラス",
+                        "cycleForSec": 50,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -19273,6 +19340,7 @@
                 "NS": {
                     "default": {
                         "skillname": "締切厳守",
+                        "cycleForSec": 30,
                         "hittime": 1.234,
                         "effect": [
                             {
@@ -19592,6 +19660,7 @@
                 "NS": {
                     "default": {
                         "skillname": "I.F.F",
+                        "cycleForSec": 15,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -19904,6 +19973,7 @@
                 "NS": {
                     "default": {
                         "skillname": "連続コンボ！",
+                        "cycleForSec": 25,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -20222,6 +20292,7 @@
                 "NS": {
                     "default": {
                         "skillname": "乱れ散る花吹雪",
+                        "cycleForSec": 25,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -20589,6 +20660,7 @@
                 "NS": {
                     "default": {
                         "skillname": "ただ、あなた様のため",
+                        "cycleForSec": 60,
                         "hittime": 0.267,
                         "effect": [
                             {
@@ -20629,6 +20701,7 @@
                     },
                     "second": {
                         "skillname": "ただ、あなた様のため",
+                        "cycleForSec": 60,
                         "hittime": 0.267,
                         "effect": [
                             {
@@ -20669,6 +20742,7 @@
                     },
                     "third": {
                         "skillname": "ただ、あなた様のため",
+                        "cycleForSec": 60,
                         "hittime": 0.267,
                         "effect": [
                             {
@@ -21115,6 +21189,7 @@
                 "NS": {
                     "default": {
                         "skillname": "即時射撃",
+                        "cycleForSec": 25,
                         "hittime": 0.2,
                         "effect": [
                             {
@@ -21482,6 +21557,7 @@
                 "NS": {
                     "default": {
                         "skillname": "しみついたクセ",
+                        "cycleForSec": 30,
                         "hittime": 1.533,
                         "effect": [
                             {
@@ -21994,6 +22070,7 @@
                 "NS": {
                     "default": {
                         "skillname": "この声が届いたなら",
+                        "cycleForSec": 40,
                         "hittime": 3.733,
                         "effect": [
                             {
@@ -22243,6 +22320,7 @@
                 "NS": {
                     "default": {
                         "skillname": "情熱砲",
+                        "cycleForSec": 30,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -22488,6 +22566,7 @@
                 "NS": {
                     "default": {
                         "skillname": "隙だらけですよ！",
+                        "cycleForSec": 30,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -22738,6 +22817,7 @@
                 "NS": {
                     "default": {
                         "skillname": "水分補給",
+                        "cycleForSec": 30,
                         "hittime": 1.2,
                         "effect": [
                             {
@@ -22993,6 +23073,7 @@
                 "NS": {
                     "default": {
                         "skillname": "シスターの応援",
+                        "cycleForSec": 45,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -23243,6 +23324,7 @@
                 "NS": {
                     "default": {
                         "skillname": "スポーツ射撃",
+                        "cycleForSec": 25,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -23497,6 +23579,7 @@
                 "NS": {
                     "default": {
                         "skillname": "一杯、どう？",
+                        "cycleForSec": 60,
                         "hittime": 1.8,
                         "effect": [
                             {
@@ -23769,6 +23852,7 @@
                 "NS": {
                     "default": {
                         "skillname": "プレゼントセットC",
+                        "cycleForAA": 21,
                         "hittime": 1.867,
                         "effect": [
                             {
@@ -23870,6 +23954,7 @@
                 "SS": {
                     "default": {
                         "skillname": "聖なる加護",
+                        "justAfterReload": true,
                         "effect": [
                             {
                                 "skill_attribute": "my_avoid",
@@ -24069,6 +24154,7 @@
                 "NS": {
                     "default": {
                         "skillname": "美食家の信念",
+                        "cycleForSec": 40,
                         "hittime": 1.833,
                         "effect": [
                             {
@@ -24309,6 +24395,7 @@
                 "NS": {
                     "default": {
                         "skillname": "食べたかったのに……",
+                        "cycleForAA": 21,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -24944,6 +25031,7 @@
                 "NS": {
                     "default": {
                         "skillname": "星の呼び声",
+                        "cycleForAA": 5,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -25240,6 +25328,7 @@
                 "NS": {
                     "default": {
                         "skillname": "あっためてあげる！",
+                        "cycleForSec": 40,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -25549,6 +25638,7 @@
                 "NS": {
                     "default": {
                         "skillname": "シスターの身支度",
+                        "cycleForSec": 40,
                         "hittime": 0.833,
                         "effect": [
                             {
@@ -25959,6 +26049,7 @@
                 "NS": {
                     "default": {
                         "skillname": "戦術的判断",
+                        "cycleForSec": 35,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -26002,6 +26093,7 @@
                     },
                     "アビ・エシュフモード": {
                         "skillname": "戦術的判断",
+                        "cycleForSec": 35,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -26506,6 +26598,7 @@
                 "NS": {
                     "default": {
                         "skillname": "1人だと思いましたか！？",
+                        "cycleForSec": 30,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -26885,6 +26978,7 @@
                 "NS": {
                     "default": {
                         "skillname": "猫の加護",
+                        "cycleForSec": 40,
                         "hittime": 3,
                         "effect": [
                             {
@@ -27168,6 +27262,7 @@
                 "NS": {
                     "default": {
                         "skillname": "精神統一",
+                        "cycleForSec": 50,
                         "hittime": 1.034,
                         "effect": [
                             {
@@ -27448,6 +27543,7 @@
                 "NS": {
                     "default": {
                         "skillname": "丁寧なお手入れ",
+                        "cycleForAA": 15,
                         "hittime": 2.2,
                         "effect": [
                             {
@@ -27781,6 +27877,7 @@
                 "NS": {
                     "default": {
                         "skillname": "エージェントの秘密道具",
+                        "cycleForSec": 40,
                         "hittime": 1.533,
                         "effect": [
                             {
@@ -28047,6 +28144,7 @@
                 "NS": {
                     "default": {
                         "skillname": "勝利のポーズ！",
+                        "cycleForSec": 50,
                         "hittime": 0.866,
                         "effect": [
                             {
@@ -28319,6 +28417,9 @@
                             {
                                 "skill_attribute": "clear_debaff",
                                 "skill_tage": "ignoreAll"
+                            },
+                            {
+                                "skill_attribute": "causeOfSS"
                             }
                         ]
                     }
@@ -28326,6 +28427,7 @@
                 "NS": {
                     "default": {
                         "skillname": "クレーマーお断り！",
+                        "cycleForSec": 30,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -28632,6 +28734,7 @@
                 "NS": {
                     "default": {
                         "skillname": "破竹之勢",
+                        "cycleForAA": 8,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -28973,6 +29076,7 @@
                 "NS": {
                     "default": {
                         "skillname": "紫外線対策",
+                        "cycleForSec": 30,
                         "hittime": 2.4,
                         "effect": [
                             {
@@ -29246,6 +29350,7 @@
                 "NS": {
                     "default": {
                         "skillname": "援護射撃",
+                        "cycleForAA": 15,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -29781,6 +29886,7 @@
                 "NS": {
                     "default": {
                         "skillname": "見ちゃダメなんだから！",
+                        "cycleForSec": 30,
                         "hittime": 1.766,
                         "effect": [
                             {
@@ -30030,6 +30136,7 @@
                 "NS": {
                     "default": {
                         "skillname": "上手に受け取ってください♡",
+                        "cycleForSec": 30,
                         "hittime": 2.534,
                         "effect": [
                             {
@@ -30352,6 +30459,7 @@
                 "NS": {
                     "default": {
                         "skillname": "妄想は無限大",
+                        "cycleForSec": 50,
                         "hittime": 1.633,
                         "effect": [
                             {
@@ -30619,6 +30727,7 @@
                 "NS": {
                     "default": {
                         "skillname": "知識の力",
+                        "cycleForSec": 30,
                         "hittime": 1.2,
                         "effect": [
                             {
@@ -31157,6 +31266,7 @@
                 "NS": {
                     "default": {
                         "skillname": "正義実現委員会の連絡網",
+                        "cycleForSec": 30,
                         "hittime": 3.134,
                         "effect": [
                             {
@@ -31415,6 +31525,7 @@
                 "NS": {
                     "default": {
                         "skillname": "大切なメッセージだよ",
+                        "cycleForSec": 35,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -31659,6 +31770,7 @@
                 "NS": {
                     "default": {
                         "skillname": "ちょっと痺れるわよ！",
+                        "cycleForSec": 50,
                         "hittime": 1.5,
                         "effect": [
                             {
@@ -31933,6 +32045,7 @@
                 "NS": {
                     "default": {
                         "skillname": "少し手伝ってくれるかしら？",
+                        "cycleForSec": 30,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -32215,6 +32328,7 @@
                 "NS": {
                     "default": {
                         "skillname": "待ち侘びた再会",
+                        "cycleForSec": 40,
                         "hittime": 1.733,
                         "effect": [
                             {
@@ -32512,6 +32626,7 @@
                 "NS": {
                     "default": {
                         "skillname": "燃え上がる情熱",
+                        "cycleForSec": 30,
                         "hittime": 0.633,
                         "effect": [
                             {
@@ -32820,6 +32935,7 @@
                 "NS": {
                     "default": {
                         "skillname": "敵を知り己を知れば百戦殆からず",
+                        "cycleForSec": 35,
                         "hittime": 2.267,
                         "effect": [
                             {
@@ -32920,6 +33036,7 @@
                 "SS": {
                     "default": {
                         "skillname": "風林火山の計略",
+                        "cycleForSec": 30,
                         "effect": [
                             {
                                 "skill_attribute": "atk",
@@ -33116,6 +33233,7 @@
                 "NS": {
                     "default": {
                         "skillname": "共鳴効果",
+                        "cycleForSec": 45,
                         "hittime": 1.9,
                         "effect": [
                             {
@@ -33363,6 +33481,7 @@
                 "NS": {
                     "default": {
                         "skillname": "広がる温もり",
+                        "cycleForSec": 50,
                         "hittime": 1.7,
                         "effect": [
                             {
@@ -33628,6 +33747,7 @@
                 "NS": {
                     "default": {
                         "skillname": "ターゲットは逃しません！",
+                        "cycleForSec": 35,
                         "hittime": 3.033,
                         "effect": [
                             {
@@ -33889,6 +34009,7 @@
                 "NS": {
                     "default": {
                         "skillname": "悪い子はメッだよ！",
+                        "cycleForSec": 30,
                         "hittime": 0.3,
                         "effect": [
                             {
@@ -34551,6 +34672,7 @@
                 "NS": {
                     "default": {
                         "skillname": "有意義な取引",
+                        "cycleForSec": 50,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -34804,6 +34926,7 @@
                 "NS": {
                     "default": {
                         "skillname": "取り戻した感覚",
+                        "cycleForSec": 25,
                         "hittime": 1.9,
                         "effect": [
                             {
@@ -35060,6 +35183,7 @@
                 "NS": {
                     "default": {
                         "skillname": "た～まや～！です！",
+                        "cycleForAA": 10,
                         "hittime": 0.467,
                         "effect": [
                             {
@@ -35201,6 +35325,7 @@
                 "SS": {
                     "default": {
                         "skillname": "お祭りのときめき",
+                        "cycleForAA": 55,
                         "effect": [
                             {
                                 "skill_attribute": "atk",
@@ -35415,6 +35540,7 @@
                 "NS": {
                     "default": {
                         "skillname": "ベースチューニング",
+                        "cycleForSec": 35,
                         "hittime": 2.8,
                         "effect": [
                             {
@@ -35731,6 +35857,7 @@
                 "NS": {
                     "default": {
                         "skillname": "ビジュアルメーカー",
+                        "cycleForAA": 10,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -35984,6 +36111,7 @@
                 "NS": {
                     "default": {
                         "skillname": "チョコミントな音の階段",
+                        "cycleForAA": 12,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -36281,6 +36409,7 @@
                 "NS": {
                     "default": {
                         "skillname": "いつもキラキラ！",
+                        "cycleForSec": 30,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -36580,6 +36709,9 @@
                                     47.2,
                                     56
                                 ]
+                            },
+                            {
+                                "skill_attribute": "causeOfSS"
                             }
                         ]
                     }
@@ -36587,6 +36719,7 @@
                 "NS": {
                     "default": {
                         "skillname": "結果よければ全てよし！",
+                        "cycleForSec": 50,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -36834,6 +36967,7 @@
                 "NS": {
                     "default": {
                         "skillname": "完璧なお掃除",
+                        "cycleForSec": 30,
                         "hittime": 3.0,
                         "effect": [
                             {
@@ -37083,6 +37217,7 @@
                 "NS": {
                     "default": {
                         "skillname": "入念な準備運動",
+                        "cycleForSec": 40,
                         "hittime": 3.0,
                         "effect": [
                             {
@@ -37151,6 +37286,7 @@
                             {
                                 "skill_attribute": "atk",
                                 "skill_tage": "SP",
+                                "start": true,
                                 "rate": [
                                     16.1,
                                     16.9,
@@ -37356,6 +37492,7 @@
                 "NS": {
                     "default": {
                         "skillname": "ハイドロストライク",
+                        "cycleForSec": 35,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -37974,6 +38111,7 @@
                 "NS": {
                     "default": {
                         "skillname": "プレート交換",
+                        "cycleForSec": 40,
                         "hittime": 2.766,
                         "effect": [
                             {
@@ -38642,6 +38780,7 @@
                 "NS": {
                     "default": {
                         "skillname": "束の間の休息",
+                        "cycleForSec": 30,
                         "hittime": 2.1,
                         "effect": [
                             {
@@ -38904,6 +39043,7 @@
                 "NS": {
                     "default": {
                         "skillname": "特製ハンディファン",
+                        "cycleForAA": 12,
                         "skilltime": 2.867,
                         "effect": [
                             {
@@ -39153,6 +39293,7 @@
                 "NS": {
                     "default": {
                         "skillname": "戦術的保温対策！",
+                        "cycleForSec": 35,
                         "hittime": 1.267,
                         "effect": [
                             {
@@ -39452,6 +39593,7 @@
                 "NS": {
                     "default": {
                         "skillname": "招式：昇龍之形",
+                        "cycleForSec": 30,
                         "hittime": 1.633,
                         "effect": [
                             {
@@ -39698,6 +39840,7 @@
                 "NS": {
                     "default": {
                         "skillname": "あなたが一番",
+                        "cycleForSec": 35,
                         "hittime": 1.167,
                         "effect": [
                             {
@@ -39973,6 +40116,7 @@
                 "NS": {
                     "default": {
                         "skillname": "慈愛の投げキッス",
+                        "cycleForSec": 30,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -40321,6 +40465,7 @@
                 "NS": {
                     "default": {
                         "skillname": "あなたに決めました",
+                        "cycleForSec": 30,
                         "hittime": 1.667,
                         "effect": [
                             {
@@ -40368,6 +40513,7 @@
                     },
                     "_10": {
                         "skillname": "あなたに決めました",
+                        "cycleForSec": 30,
                         "hittime": 1.667,
                         "effect": [
                             {
@@ -40415,6 +40561,7 @@
                     },
                     "_20": {
                         "skillname": "あなたに決めました",
+                        "cycleForSec": 30,
                         "hittime": 1.667,
                         "effect": [
                             {
@@ -40462,6 +40609,7 @@
                     },
                     "_30": {
                         "skillname": "あなたに決めました",
+                        "cycleForSec": 30,
                         "hittime": 1.667,
                         "effect": [
                             {
@@ -40844,6 +40992,7 @@
                 "NS": {
                     "default": {
                         "skillname": "はい、チーズ！",
+                        "cycleForSec": 30,
                         "hittime": 2.6,
                         "effect": [
                             {
@@ -41094,6 +41243,7 @@
                 "NS": {
                     "default": {
                         "skillname": "ナイトケア",
+                        "cycleForSec": 30,
                         "hittime": 1.0,
                         "effect": [
                             {
@@ -41338,6 +41488,11 @@
                                     28.1,
                                     33.4
                                 ]
+                            },
+                            {
+                                "skill_attribute": "causeOfNS",
+                                "skip": 1,
+                                "targetState": "default"
                             }
                         ]
                     },
@@ -41380,10 +41535,6 @@
                 "NS": {
                     "default": {
                         "skillname": "お気に入りの枕",
-                        "effect": []
-                    },
-                    "quiet": {
-                        "skillname": "お気に入りの枕",
                         "hittime": 2.734,
                         "effect": [
                             {
@@ -41404,6 +41555,10 @@
                                 ]
                             }
                         ]
+                    },
+                    "quiet": {
+                        "skillname": "お気に入りの枕",
+                        "effect": []
                     }
                 },
                 "NS+": {
@@ -41448,6 +41603,7 @@
                 "SS": {
                     "default": {
                         "skillname": "書記の勘",
+                        "cycleForAA": 10,
                         "hittime": 0,
                         "effect": [
                             {
@@ -41471,6 +41627,7 @@
                     },
                     "quiet": {
                         "skillname": "書記の勘",
+                        "cycleForAA": 10,
                         "hittime": 0,
                         "effect": [
                             {
@@ -41646,6 +41803,11 @@
                                     604,
                                     718
                                 ]
+                            },
+                            {
+                                "skill_attribute": "causeOfSS",
+                                "skip": 2,
+                                "targetState": "default"
                             }
                         ]
                     }
@@ -41653,6 +41815,7 @@
                 "NS": {
                     "default": {
                         "skillname": "智者の助言",
+                        "cycleForSec": 35,
                         "hittime": 1.433,
                         "effect": [
                             {
@@ -41887,6 +42050,7 @@
                 "NS": {
                     "default": {
                         "skillname": "はい、チーズ！",
+                        "cycleForSec": 40,
                         "hittime": 1.0,
                         "effect": [
                             {
@@ -42219,6 +42383,7 @@
                 "NS": {
                     "default": {
                         "skillname": "ちょっと遊んでみるか",
+                        "cycleForSec": 35,
                         "hittime": 1.366,
                         "effect": [
                             {
@@ -42242,6 +42407,7 @@
                     },
                     "対戦状態": {
                         "skillname": "ちょっと遊んでみるか",
+                        "cycleForSec": 35,
                         "hittime": 1.366,
                         "effect": [
                             {
@@ -42514,6 +42680,7 @@
                 "NS": {
                     "default": {
                         "skillname": "救急医学部長の務め",
+                        "cycleForSec": 40,
                         "hittime": 1.366,
                         "effect": [
                             {
@@ -42798,6 +42965,7 @@
                 "NS": {
                     "default": {
                         "skillname": "アルバイトの本気",
+                        "cycleForSec": 45,
                         "hittime": 0.666,
                         "effect": [
                             {
@@ -43783,6 +43951,7 @@
                 "NS": {
                     "default": {
                         "skillname": "こっちこっち～！",
+                        "cycleForAA": 12,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -44323,6 +44492,7 @@
                 "NS": {
                     "default": {
                         "skillname": "じゅ、準備完了……",
+                        "cycleForSec": 40,
                         "hittime": 1.966,
                         "effect": [
                             {
@@ -44387,6 +44557,7 @@
                 "SS": {
                     "default": {
                         "skillname": "期待なんて、してません",
+                        "cycleForAA": 12,
                         "effect": [
                             {
                                 "skill_attribute": "my_def",
@@ -44566,6 +44737,9 @@
                                     3,
                                     3
                                 ]
+                            },
+                            {
+                                "skill_attribute": "causeOfSS"
                             }
                         ]
                     }
@@ -44573,6 +44747,7 @@
                 "NS": {
                     "default": {
                         "skillname": "錦上添花",
+                        "cycleForAA": 12,
                         "hittime": 2.166,
                         "effect": [
                             {
@@ -44822,6 +44997,7 @@
                 "NS": {
                     "default": {
                         "skillname": "プランニング＆マネジメント",
+                        "cycleForAA": 15,
                         "hittime": 3.367,
                         "effect": [
                             {
@@ -45067,6 +45243,7 @@
                 "NS": {
                     "default": {
                         "skillname": "これが夏のすいーつ！ですの！",
+                        "cycleForSec": 35,
                         "hittime": 2.6,
                         "effect": [
                             {
@@ -45629,6 +45806,7 @@
                 "NS": {
                     "default": {
                         "skillname": "刹那の記録",
+                        "cycleForAA": 12,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -45895,6 +46073,7 @@
                 "NS": {
                     "default": {
                         "skillname": "これは、ゼロカロリー",
+                        "cycleForSec": 35,
                         "hittime": 4.0,
                         "effect": [
                             {
@@ -46350,6 +46529,7 @@
                 "NS": {
                     "default": {
                         "skillname": "かわいい子発見☆",
+                        "cycleForSec": 40,
                         "hittime": 1.634,
                         "effect": [
                             {
@@ -46373,6 +46553,7 @@
                     },
                     "星の軌跡-4": {
                         "skillname": "かわいい子発見☆",
+                        "cycleForSec": 40,
                         "hittime": 1.634,
                         "effect": [
                             {
@@ -46396,6 +46577,7 @@
                     },
                     "星の軌跡-6": {
                         "skillname": "かわいい子発見☆",
+                        "cycleForSec": 40,
                         "hittime": 1.634,
                         "effect": [
                             {
@@ -46419,6 +46601,7 @@
                     },
                     "星の軌跡-10": {
                         "skillname": "かわいい子発見☆",
+                        "cycleForSec": 40,
                         "hittime": 1.634,
                         "effect": [
                             {
@@ -46682,6 +46865,7 @@
                 "NS": {
                     "default": {
                         "skillname": "魔導書の導き",
+                        "cycleForSec": 35,
                         "hittime": 1.9,
                         "effect": [
                             {
@@ -46948,6 +47132,7 @@
                 "NS": {
                     "default": {
                         "skillname": "想いを込めた……",
+                        "cycleForSec": 30,
                         "hittime": 2.1,
                         "effect": [
                             {
@@ -47235,6 +47420,7 @@
                 "NS": {
                     "default": {
                         "skillname": "読んだこと、ありますか……？",
+                        "cycleForSec": 30,
                         "hittime": 0.67,
                         "effect": [
                             {
@@ -47512,6 +47698,7 @@
                 "NS": {
                     "default": {
                         "skillname": "お届け完了です！",
+                        "cycleForSec": 40,
                         "hittime": 0.867,
                         "effect": [
                             {
@@ -47761,6 +47948,7 @@
                 "NS": {
                     "default": {
                         "skillname": "マジカル閃光弾",
+                        "cycleForSec": 35,
                         "hittime": 1.767,
                         "effect": [
                             {
@@ -48310,6 +48498,7 @@
                 "NS": {
                     "default": {
                         "skillname": "みんな、いくわよ！！",
+                        "cycleForSec": 40,
                         "hittime": 1.633,
                         "effect": [
                             {
@@ -48351,6 +48540,7 @@
                     },
                     "AR": {
                         "skillname": "みんな、いくわよ！！",
+                        "cycleForSec": 40,
                         "hittime": 1.633,
                         "effect": [
                             {
@@ -48392,6 +48582,7 @@
                     },
                     "SR": {
                         "skillname": "みんな、いくわよ！！",
+                        "cycleForSec": 40,
                         "hittime": 1.633,
                         "effect": [
                             {
@@ -49240,6 +49431,9 @@
                                     464,
                                     519
                                 ]
+                            },
+                            {
+                                "skill_attribute": "causeOfSS"
                             }
                         ]
                     }
@@ -49481,6 +49675,7 @@
                 "NS": {
                     "default": {
                         "skillname": "パラメータ調整",
+                        "cycleForSec": 35,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -49933,6 +50128,7 @@
                 "NS": {
                     "default": {
                         "skillname": "勇気の魔法",
+                        "justAfterReload": true,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
@@ -49956,6 +50152,7 @@
                     },
                     "光の剣-1": {
                         "skillname": "勇気の魔法",
+                        "justAfterReload": true,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
@@ -49979,6 +50176,7 @@
                     },
                     "光の剣-2": {
                         "skillname": "勇気の魔法",
+                        "justAfterReload": true,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
@@ -50527,6 +50725,8 @@
                 "NS": {
                     "default": {
                         "skillname": "シャープシューター",
+                        "cycleForAA": 4,
+                        "requiredBaff": "formChange",
                         "hittime": 6.67,
                         "effect": [
                             {
@@ -50800,6 +51000,7 @@
                 "NS": {
                     "default": {
                         "skillname": "パーフェクトメイド、パーフェクトリコン",
+                        "cycleForSec": 40,
                         "hittime": 3.7,
                         "effect": [
                             {
@@ -51075,6 +51276,7 @@
                 "NS": {
                     "default": {
                         "skillname": "やりがいがあるじゃん？",
+                        "cycleForSec": 30,
                         "hittime": 1.667,
                         "effect": [
                             {
@@ -51375,7 +51577,7 @@
                 },
                 "NS": {
                     "default": {
-                        "skillname": "",
+                        "skillname": "仕立ててあげる！",
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -51649,6 +51851,7 @@
                 "NS": {
                     "default": {
                         "skillname": "ブロークンアロー",
+                        "cycleForSec": 35,
                         "hittime": 1.933,
                         "effect": [
                             {
@@ -52333,6 +52536,7 @@
                 "NS": {
                     "default": {
                         "skillname": "HEIAP弾切替",
+                        "justAfterReload": true,
                         "hittime": 3.667,
                         "effect": [
                             {
@@ -52585,6 +52789,7 @@
                 "NS": {
                     "default": {
                         "skillname": "花が咲くように",
+                        "cycleForSec": 35,
                         "hittime": 4.8,
                         "effect": [
                             {
@@ -52819,6 +53024,7 @@
                 "NS": {
                     "default": {
                         "skillname": "封印解除剛速球",
+                        "cycleForSec": 25,
                         "hittime": 1.3,
                         "effect": [
                             {
@@ -53116,6 +53322,7 @@
                 "NS": {
                     "default": {
                         "skillname": "決定：強制執行",
+                        "cycleForSec": 45,
                         "hittime": 1.233,
                         "effect": [
                             {
@@ -53168,6 +53375,7 @@
                     },
                     "handsUp": {
                         "skillname": "決定：強制執行",
+                        "cycleForSec": 45,
                         "hittime": 1.233,
                         "effect": [
                             {
@@ -53525,6 +53733,9 @@
                                     3,
                                     3
                                 ]
+                            },
+                            {
+                                "skill_attribute": "causeOfSS"
                             }
                         ]
                     }
@@ -53532,6 +53743,7 @@
                 "NS": {
                     "default": {
                         "skillname": "ダメですよ？",
+                        "cycleForSec": 40,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -53558,6 +53770,7 @@
                     },
                     "pleaseListen": {
                         "skillname": "ダメですよ？",
+                        "cycleForSec": 40,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -54614,6 +54827,7 @@
                 "NS": {
                     "default": {
                         "skillname": "きゃっ！？なに！？",
+                        "cycleForSec": 30,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -54921,6 +55135,7 @@
                 "NS": {
                     "default": {
                         "skillname": "お互い苦労しますね",
+                        "cycleForSec": 35,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -55196,6 +55411,7 @@
                 "NS": {
                     "default": {
                         "skillname": "水中ブリーチング",
+                        "cycleForAA": 10,
                         "hittime": 3.966,
                         "effect": [
                             {
@@ -55239,6 +55455,7 @@
                     },
                     "dive": {
                         "skillname": "水中ブリーチング",
+                        "cycleForAA": 10,
                         "hittime": 3.966,
                         "effect": [
                             {
@@ -55587,6 +55804,7 @@
                 "NS": {
                     "default": {
                         "skillname": "深海の道しるべ",
+                        "cycleForSec": 35,
                         "hittime": 2.2,
                         "effect": [
                             {
@@ -55969,6 +56187,7 @@
                 "SS": {
                     "default": {
                         "skillname": "いい感じです！",
+                        "cycleForSec": 50,
                         "effect": [
                             {
                                 "skill_attribute": "sp_atk",
@@ -55991,6 +56210,7 @@
                     },
                     "medal": {
                         "skillname": "いい感じです！",
+                        "cycleForSec": 50,
                         "effect": [
                             {
                                 "skill_attribute": "sp_atk",
@@ -56007,6 +56227,313 @@
                                     20.7,
                                     21.3,
                                     23.8
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "id": "st0191",
+            "name": "ツムギ",
+            "img": "standing/ツムギ.png",
+            "icon": "face/ツムギ.png",
+            "atk_attribute": "貫通",
+            "def_attribute": "特殊装甲",
+            "status": {
+                "atk": 292.8,
+                "heal": 1356,
+                "hit": 103,
+                "avoid": 232,
+                "cri": 206,
+                "cri_damage": 200,
+                "penetrate": 0,
+                "balance": 1356,
+                "urban": "S",
+                "outdoor": "D",
+                "indoor": "B"
+            },
+            "dps": {
+                "hit": 24,
+                "hits": 4,
+                "delay": 78,
+                "reload": 60,
+                "beforeTime": 137
+            },
+            "limit": {
+                "atk": [
+                    4,
+                    5,
+                    4,
+                    4,
+                    5,
+                    4,
+                    5,
+                    4,
+                    4,
+                    5,
+                    4,
+                    4,
+                    5,
+                    4,
+                    5,
+                    4,
+                    4,
+                    5,
+                    4,
+                    4,
+                    5,
+                    4,
+                    4,
+                    5,
+                    4
+                ],
+                "heal": [
+                    6,
+                    7,
+                    6,
+                    7,
+                    6,
+                    7,
+                    6,
+                    7,
+                    6,
+                    7,
+                    6,
+                    6,
+                    7,
+                    6,
+                    7,
+                    6,
+                    7,
+                    6,
+                    7,
+                    6,
+                    7,
+                    6,
+                    7,
+                    6,
+                    6
+                ]
+            },
+            "weapon": [
+                {
+                    "wep1": "shoes",
+                    "wep2": "bag",
+                    "wep3": "neckless",
+                    "unique_wep": [
+                        {
+                            "atk": 384,
+                            "heal": 494
+                        }
+                    ]
+                }
+            ],
+            "bond": [
+                {
+                    "atk": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "heal": [
+                        0,
+                        0,
+                        8,
+                        10,
+                        2,
+                        2,
+                        4
+                    ]
+                }
+            ],
+            "school": "WH",
+            "battleClass": "tank",
+            "class": "ツムギ",
+            "skill": {
+                "EX": {
+                    "default": {
+                        "skillname": "ラブ・アンド・ピース！",
+                        "cost": 3,
+                        "hittime": 0.533,
+                        "cooltime": 9.467,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "many",
+                                "skill_tage": "all",
+                                "hitAmount": [
+                                    0.533,
+                                    0.533,
+                                    0.533,
+                                    0.533,
+                                    0.533,
+                                    0.533,
+                                    0.533,
+                                    0.533,
+                                    0.533,
+                                    0.533
+                                ],
+                                "skill_critical": false,
+                                "rate": [
+                                    337,
+                                    387,
+                                    489,
+                                    539,
+                                    640
+                                ]
+                            },
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "many",
+                                "skill_tage": "all",
+                                "allow": "middle",
+                                "hitAmount": [
+                                    0.533,
+                                    0.533,
+                                    0.533,
+                                    0.533,
+                                    0.533,
+                                    0.533,
+                                    0.533,
+                                    0.533,
+                                    0.533,
+                                    0.533
+                                ],
+                                "skill_critical": false,
+                                "rate": [
+                                    317,
+                                    365,
+                                    460,
+                                    508,
+                                    603
+                                ]
+                            },
+                            {
+                                "skill_attribute": "confusion",
+                                "skill_tage": "all",
+                                "rate": [
+                                    2.9,
+                                    3.1,
+                                    3.9,
+                                    4.1,
+                                    5
+                                ]
+                            },
+                            {
+                                "skill_attribute": "causeOfSS"
+                            }
+                        ]
+                    }
+                },
+                "NS": {
+                    "default": {
+                        "skillname": "インスピレーション",
+                        "cycleForSec": 40,
+                        "hittime": 3.4,
+                        "effect": [
+                            {
+                                "skill_attribute": "heal",
+                                "skill_tage": "own",
+                                "hitAmount": [
+                                    3.4
+                                ],
+                                "rate": [
+                                    99,
+                                    104,
+                                    108,
+                                    118,
+                                    123,
+                                    128,
+                                    138,
+                                    143,
+                                    148,
+                                    158
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "NS+": {
+                    "default": {
+                        "skillname": ""
+                    }
+                },
+                "PS": [
+                    {
+                        "skill_attribute": "HP",
+                        "rate": [
+                            14,
+                            14.7,
+                            15.4,
+                            18.2,
+                            18.9,
+                            19.6,
+                            22.4,
+                            23.1,
+                            23.8,
+                            26.6
+                        ]
+                    }
+                ],
+                "PS+": [
+                    {
+                        "skill_attribute": "HP",
+                        "rate": [
+                            4652,
+                            4884,
+                            5117,
+                            6047,
+                            6280,
+                            6512,
+                            7442,
+                            7675,
+                            7908,
+                            8838
+                        ]
+                    }
+                ],
+                "SS": {
+                    "default": {
+                        "skillname": "平和！平和！平和！",
+                        "effect": [
+                            {
+                                "skill_attribute": "aim",
+                                "start": true,
+                                "skill_tage": "own",
+                                "rate": [
+                                    173,
+                                    182,
+                                    191,
+                                    225,
+                                    234,
+                                    242,
+                                    277,
+                                    286,
+                                    294,
+                                    329
+                                ]
+                            },
+                            {
+                                "skill_attribute": "damage_up_baff",
+                                "skill_tage": "own",
+                                "skilltime": 19,
+                                "rate": [
+                                    17.7,
+                                    18.6,
+                                    19.5,
+                                    23,
+                                    23.9,
+                                    24.8,
+                                    28.3,
+                                    29.2,
+                                    30.1,
+                                    33.6
                                 ]
                             }
                         ]
@@ -56183,6 +56710,7 @@
                 "NS": {
                     "default": {
                         "skillname": "頭がキーンってするかも……",
+                        "cycleForSec": 25,
                         "skilltime": 2.7,
                         "effect": [
                             {
@@ -56420,6 +56948,7 @@
                 "NS": {
                     "default": {
                         "skillname": "補給プランB",
+                        "cycleForSec": 45,
                         "skilltime": 0.0,
                         "effect": [
                             {
@@ -56657,6 +57186,7 @@
                 "NS": {
                     "default": {
                         "skillname": "学習サポート",
+                        "cycleForSec": 30,
                         "hittime": 1.067,
                         "effect": [
                             {
@@ -56930,6 +57460,7 @@
                 "NS": {
                     "default": {
                         "skillname": "空からの支援",
+                        "cycleForSec": 30,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -57197,6 +57728,7 @@
                 "NS": {
                     "default": {
                         "skillname": "めんどくさいですね……",
+                        "cycleForSec": 40,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -57481,6 +58013,7 @@
                 "NS": {
                     "default": {
                         "skillname": "雷ちゃんMK-II、駆動",
+                        "cycleForSec": 30,
                         "hittime": 1.1,
                         "effect": [
                             {
@@ -57770,6 +58303,7 @@
                 "NS": {
                     "default": {
                         "skillname": "カブトムシシールド！",
+                        "cycleForSec": 40,
                         "hittime": 1.033,
                         "effect": [
                             {
@@ -58036,6 +58570,7 @@
                 "NS": {
                     "default": {
                         "skillname": "火力支援、開始",
+                        "cycleForSec": 40,
                         "hittime": 2.5,
                         "effect": [
                             {
@@ -58281,6 +58816,7 @@
                 "NS": {
                     "default": {
                         "skillname": "弱点を盗聴",
+                        "cycleForSec": 30,
                         "hittime": 1.034,
                         "effect": [
                             {
@@ -58559,6 +59095,7 @@
                 "NS": {
                     "default": {
                         "skillname": "制圧射撃",
+                        "cycleForSec": 35,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -58870,6 +59407,7 @@
                 "NS": {
                     "default": {
                         "skillname": "新しい実験なのだ！",
+                        "cycleForSec": 20,
                         "hittime": 3.134,
                         "effect": [
                             {
@@ -59146,6 +59684,7 @@
                 "NS": {
                     "default": {
                         "skillname": "探究に終わりはない！",
+                        "cycleForSec": 30,
                         "hittime": 3,
                         "effect": [
                             {
@@ -59425,6 +59964,7 @@
                 "NS": {
                     "default": {
                         "skillname": "営業妨害しないで！",
+                        "cycleForSec": 25,
                         "hittime": 1.867,
                         "effect": [
                             {
@@ -59710,6 +60250,7 @@
                 "NS": {
                     "default": {
                         "skillname": "暑いですか？",
+                        "cycleForSec": 45,
                         "hittime": 1.4,
                         "effect": [
                             {
@@ -59935,6 +60476,7 @@
                 "NS": {
                     "default": {
                         "skillname": "心の栄養剤",
+                        "cycleForSec": 35,
                         "hittime": 0.367,
                         "effect": [
                             {
@@ -60160,6 +60702,7 @@
                 "NS": {
                     "default": {
                         "skillname": "最高のお料理",
+                        "cycleForSec": 20,
                         "hittime": 0.667,
                         "effect": [
                             {
@@ -60400,6 +60943,7 @@
                 "NS": {
                     "default": {
                         "skillname": "エネルギー剤注入",
+                        "cycleForSec": 40,
                         "hittime": 2.267,
                         "effect": [
                             {
@@ -60649,6 +61193,7 @@
                 "NS": {
                     "default": {
                         "skillname": "巫女さんとして、祈ってあげる！",
+                        "cycleForSec": 40,
                         "hittime": 1.167,
                         "effect": [
                             {
@@ -60874,6 +61419,7 @@
                 "NS": {
                     "default": {
                         "skillname": "緊急治療セットB",
+                        "cycleForSec": 35,
                         "hittime": 0.367,
                         "effect": [
                             {
@@ -61121,6 +61667,7 @@
                 "NS": {
                     "default": {
                         "skillname": "照準よし、粛清だぁ！",
+                        "cycleForSec": 15,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -61411,6 +61958,7 @@
                 "NS": {
                     "default": {
                         "skillname": "戦況の立て直し",
+                        "cycleForSec": 40,
                         "hittime": 0.1,
                         "effect": [
                             {
@@ -61685,6 +62233,7 @@
                 "NS": {
                     "default": {
                         "skillname": "イントゥ・ザ・バックドア",
+                        "cycleForSec": 30,
                         "hittime": 1.0,
                         "effect": [
                             {
@@ -61910,6 +62459,7 @@
                 "NS": {
                     "default": {
                         "skillname": "頑なな視線",
+                        "cycleForSec": 25,
                         "hittime": 1.0,
                         "effect": [
                             {
@@ -62155,6 +62705,7 @@
                 "NS": {
                     "default": {
                         "skillname": "女将のおもてなし",
+                        "cycleForSec": 25,
                         "hittime": 1.134,
                         "effect": [
                             {
@@ -62381,6 +62932,7 @@
                 "NS": {
                     "default": {
                         "skillname": "倒れちゃダメです！",
+                        "cycleForSec": 25,
                         "hittime": 0.8,
                         "effect": [
                             {
@@ -62617,6 +63169,7 @@
                 "NS": {
                     "default": {
                         "skillname": "固くなあれ♪",
+                        "cycleForSec": 20,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -62903,6 +63456,7 @@
                 "NS": {
                     "default": {
                         "skillname": "破壊工作：プランA",
+                        "cycleForSec": 30,
                         "hittime": 0.067,
                         "effect": [
                             {
@@ -63225,6 +63779,7 @@
                 "NS": {
                     "default": {
                         "skillname": "火力は十分",
+                        "cycleForSec": 20,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -63595,6 +64150,7 @@
                 "NS": {
                     "default": {
                         "skillname": "ペロロ様の一撃",
+                        "cycleForSec": 25,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -63915,6 +64471,7 @@
                 "NS": {
                     "default": {
                         "skillname": "い、痛くなりますよ！",
+                        "cycleForSec": 40,
                         "hittime": 1.0,
                         "effect": [
                             {
@@ -64160,6 +64717,7 @@
                 "NS": {
                     "default": {
                         "skillname": "給食部の優しさ",
+                        "cycleForSec": 20,
                         "hittime": 0.7,
                         "effect": [
                             {
@@ -64417,6 +64975,7 @@
                 "NS": {
                     "default": {
                         "skillname": "正義の決断",
+                        "cycleForSec": 20,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -64700,6 +65259,7 @@
                 "NS": {
                     "default": {
                         "skillname": "正義の連携",
+                        "cycleForSec": 30,
                         "hittime": 1.0,
                         "effect": [
                             {
@@ -64939,6 +65499,7 @@
                 "NS": {
                     "default": {
                         "skillname": "浄化の洗礼",
+                        "cycleForSec": 25,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -65222,6 +65783,7 @@
                 "NS": {
                     "default": {
                         "skillname": "初音ミクの情熱",
+                        "cycleForSec": 30,
                         "hittime": 1.034,
                         "effect": [
                             {
@@ -65482,6 +66044,7 @@
                 "NS": {
                     "default": {
                         "skillname": "痛い目に遭ってみる？！",
+                        "cycleForSec": 25,
                         "hittime": 2.867,
                         "effect": [
                             {
@@ -65781,6 +66344,7 @@
                 "NS": {
                     "default": {
                         "skillname": "集中砲火",
+                        "cycleForSec": 40,
                         "hittime": 3.367,
                         "effect": [
                             {
@@ -66092,6 +66656,7 @@
                 "NS": {
                     "default": {
                         "skillname": "優雅に掃除します",
+                        "cycleForSec": 30,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -66321,6 +66886,7 @@
                 "NS": {
                     "default": {
                         "skillname": "少し驚くかもしれませんね",
+                        "cycleForSec": 30,
                         "hittime": 1.034,
                         "effect": [
                             {
@@ -66589,6 +67155,7 @@
                 "NS": {
                     "default": {
                         "skillname": "元気出してください！",
+                        "cycleForSec": 35,
                         "hittime": 1.0,
                         "effect": [
                             {
@@ -66863,6 +67430,7 @@
                 "NS": {
                     "default": {
                         "skillname": "試食タイム！",
+                        "cycleForSec": 60,
                         "hittime": 1.067,
                         "effect": [
                             {
@@ -67107,6 +67675,7 @@
                 "NS": {
                     "default": {
                         "skillname": "苛烈な尋問",
+                        "cycleForSec": 30,
                         "hittime": 2.033,
                         "effect": [
                             {
@@ -67388,6 +67957,7 @@
                 "NS": {
                     "default": {
                         "skillname": "Afternoon Tea",
+                        "cycleForSec": 50,
                         "hittime": 1.033,
                         "effect": [
                             {
@@ -67643,6 +68213,7 @@
                 "NS": {
                     "default": {
                         "skillname": "ちゃんとした挨拶",
+                        "cycleForSec": 30,
                         "hittime": 4.034,
                         "effect": [
                             {
@@ -67886,6 +68457,7 @@
                 "NS": {
                     "default": {
                         "skillname": "ハイスコアアタック",
+                        "cycleForSec": 30,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -68127,6 +68699,7 @@
                 "NS": {
                     "default": {
                         "skillname": "一つになった意志",
+                        "cycleForSec": 25,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -68366,6 +68939,7 @@
                 "NS": {
                     "default": {
                         "skillname": "密やかな一撃",
+                        "cycleForSec": 70,
                         "hittime": 1.5,
                         "effect": [
                             {
@@ -68879,6 +69453,7 @@
                 "NS": {
                     "default": {
                         "skillname": "涼しい水浴び",
+                        "cycleForSec": 40,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -69124,6 +69699,7 @@
                 "NS": {
                     "default": {
                         "skillname": "これが必要ですか？",
+                        "cycleForSec": 50,
                         "hittime": 0.9,
                         "effect": [
                             {
@@ -69361,6 +69937,7 @@
                 "NS": {
                     "default": {
                         "skillname": "美食家のアプローチ",
+                        "cycleForSec": 40,
                         "hittime": 1.9,
                         "effect": [
                             {
@@ -69647,6 +70224,7 @@
                 "NS": {
                     "default": {
                         "skillname": "一口、どう？",
+                        "cycleForSec": 50,
                         "hittime": 0.9,
                         "effect": [
                             {
@@ -69875,6 +70453,7 @@
                 "NS": {
                     "default": {
                         "skillname": "秘伝のサバカレー",
+                        "cycleForSec": 45,
                         "hittime": 1.0,
                         "effect": [
                             {
@@ -70111,6 +70690,7 @@
                 "NS": {
                     "default": {
                         "skillname": "エイミの自信作",
+                        "cycleForSec": 45,
                         "hittime": 1.2,
                         "effect": [
                             {
@@ -70436,6 +71016,7 @@
                 "NS": {
                     "default": {
                         "skillname": "聞くが良い！",
+                        "cycleForSec": 55,
                         "hittime": 2.0,
                         "effect": [
                             {
@@ -70676,6 +71257,7 @@
                 "NS": {
                     "default": {
                         "skillname": "こんなのはどうですか？",
+                        "cycleForSec": 40,
                         "hittime": 1.8,
                         "effect": [
                             {
@@ -70901,6 +71483,7 @@
                 "NS": {
                     "default": {
                         "skillname": "安眠のご案内",
+                        "cycleForSec": 45,
                         "hittime": 1.2,
                         "effect": [
                             {
@@ -71146,6 +71729,7 @@
                 "NS": {
                     "default": {
                         "skillname": "ちゃぽん、ちゃぽん！",
+                        "cycleForSec": 35,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -71409,6 +71993,7 @@
                 "NS": {
                     "default": {
                         "skillname": "やんなきゃダメ～？",
+                        "cycleForSec": 45,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -71657,6 +72242,7 @@
                 "NS": {
                     "default": {
                         "skillname": "非常事態です！",
+                        "cycleForSec": 50,
                         "hittime": 0.9,
                         "effect": [
                             {
@@ -71882,6 +72468,7 @@
                 "NS": {
                     "default": {
                         "skillname": "この花をあなたに",
+                        "cycleForSec": 30,
                         "hittime": 0.3,
                         "effect": [
                             {
@@ -72124,6 +72711,7 @@
                 "NS": {
                     "default": {
                         "skillname": "カチューシャ",
+                        "cycleForSec": 30,
                         "hittime": 0.6,
                         "effect": [
                             {
@@ -72350,6 +72938,7 @@
                 "NS": {
                     "default": {
                         "skillname": "勅令：修身斉家",
+                        "cycleForSec": 35,
                         "hittime": 1.8,
                         "effect": [
                             {
@@ -72610,6 +73199,7 @@
                 "NS": {
                     "default": {
                         "skillname": "情報収集",
+                        "cycleForSec": 35,
                         "hittime": 1.9,
                         "effect": [
                             {
@@ -72887,6 +73477,7 @@
                 "NS": {
                     "default": {
                         "skillname": "後方支援",
+                        "cycleForSec": 40,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -73146,6 +73737,7 @@
                 "NS": {
                     "default": {
                         "skillname": "ただ一つの解",
+                        "cycleForSec": 30,
                         "hittime": 1,
                         "effect": [
                             {
@@ -73398,6 +73990,7 @@
                 "NS": {
                     "default": {
                         "skillname": "芸術のきらめき",
+                        "cycleForSec": 45,
                         "hittime": 1.0,
                         "effect": [
                             {
@@ -73635,6 +74228,7 @@
                 "NS": {
                     "default": {
                         "skillname": "鏡餅だよ！",
+                        "cycleForSec": 30,
                         "hittime": 2.3,
                         "effect": [
                             {
@@ -74145,6 +74739,10 @@
                                 "skip": 6,
                                 "skill_tage": "own",
                                 "skilltime": 40
+                            },
+                            {
+                                "skill_attribute": "otherUsed",
+                                "value": 7
                             }
                         ]
                     }
@@ -74406,6 +75004,7 @@
                 "NS": {
                     "default": {
                         "skillname": "悪霊退散",
+                        "cycleForSec": 30,
                         "hittime": 2.634,
                         "effect": [
                             {
@@ -74932,6 +75531,7 @@
                 "NS": {
                     "default": {
                         "skillname": "支援射撃",
+                        "cycleForSec": 35,
                         "hittime": 1.567,
                         "effect": [
                             {
@@ -75206,6 +75806,7 @@
                 "NS": {
                     "default": {
                         "skillname": "Crush, Tear, Curl",
+                        "cycleForSec": 35,
                         "hittime": 1.367,
                         "effect": [
                             {
@@ -76272,6 +76873,7 @@
                 "NS": {
                     "default": {
                         "skillname": "見ててあげる、少しだけ",
+                        "cycleForSec": 35,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -76767,6 +77369,9 @@
                             },
                             {
                                 "skill_attribute": "causeOfTSPS"
+                            },
+                            {
+                                "skill_attribute": "causeOfNS"
                             }
                         ]
                     }
@@ -77010,6 +77615,7 @@
                 "NS": {
                     "default": {
                         "skillname": "目標をセンターに入れてスイッチ",
+                        "cycleForSec": 30,
                         "hittime": 2.2,
                         "effect": [
                             {
@@ -77258,6 +77864,7 @@
                 "NS": {
                     "default": {
                         "skillname": "ドッカーン",
+                        "cycleForSec": 40,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -78001,6 +78608,7 @@
                 "NS": {
                     "default": {
                         "skillname": "足元気をつけて！",
+                        "cycleForSec": 30,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -78263,6 +78871,7 @@
                 "NS": {
                     "default": {
                         "skillname": "すごいですね！",
+                        "cycleForSec": 35,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -78990,6 +79599,7 @@
                 "NS": {
                     "default": {
                         "skillname": "「特別」なプレゼント",
+                        "cycleForSec": 35,
                         "hittime": 3.034,
                         "effect": [
                             {
@@ -79247,6 +79857,7 @@
                 "NS": {
                     "default": {
                         "skillname": "てきとーでいいですってば～",
+                        "cycleForSec": 40,
                         "hittime": 0.0,
                         "effect": [
                             {
