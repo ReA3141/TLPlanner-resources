@@ -230,6 +230,14 @@
                 "SS": {
                     "default": {
                         "skillname": "的確に制圧します",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "any",
+                                "probability": 0.1,
+                                "coolTime": 5
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "avoid",
@@ -403,6 +411,14 @@
                 "NS": {
                     "default": {
                         "skillname": "おかわり、ちょっと辛めで！",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "AA",
+                                "probability": 0.1,
+                                "coolTime": 15
+                            }
+                        ],
                         "hittime": 1.2,
                         "effect": [
                             {
@@ -467,6 +483,14 @@
                 "SS": {
                     "default": {
                         "skillname": "まだまだ食べられますよ！",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "AA",
+                                "probability": 0.1,
+                                "coolTime": 18
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "atk",
@@ -737,6 +761,13 @@
                 "SS": {
                     "default": {
                         "skillname": "弱点を狙う",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "any",
+                                "condition": "weakpoint"
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "add_damage",
@@ -987,6 +1018,14 @@
                 "SS": {
                     "default": {
                         "skillname": "傷口に塩水を",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "any",
+                                "probability": 0.3,
+                                "coolTime": 5
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "def",
@@ -3008,6 +3047,12 @@
                 "SS": {
                     "default": {
                         "skillname": "パーフェクトな社長の流儀",
+                        "autoTrigger": [
+                            {
+                                "on": "kill",
+                                "count": 6
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "evil",
@@ -3251,6 +3296,11 @@
                 "SS": {
                     "default": {
                         "skillname": "風紀委員の度胸",
+                        "autoTrigger": [
+                            {
+                                "on": "permanent"
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "add_damage",
@@ -3578,6 +3628,14 @@
                 "SS": {
                     "default": {
                         "skillname": "スペシャリストの威圧",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "any",
+                                "probability": 0.25,
+                                "coolTime": 10
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "cold",
@@ -4089,6 +4147,12 @@
                 "SS": {
                     "default": {
                         "skillname": "イズナ流忍法・夏バージョン奥義発動！",
+                        "autoTrigger": [
+                            {
+                                "on": "allyCritical",
+                                "count": 25
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "atk_speed",
@@ -4283,6 +4347,14 @@
                 "NS": {
                     "default": {
                         "skillname": "よーーい、BANG！",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "AA",
+                                "probability": 0.2,
+                                "coolTime": 10
+                            }
+                        ],
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -4413,6 +4485,12 @@
                 "SS": {
                     "default": {
                         "skillname": "美味しいのが一番だよね～",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "any"
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "add_damage",
@@ -4696,6 +4774,14 @@
                 "SS": {
                     "default": {
                         "skillname": "美味しいけどキーンってなるね～",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "any",
+                                "probability": 0.1,
+                                "coolTime": 20
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "knockOut",
@@ -5237,6 +5323,11 @@
                 "SS": {
                     "default": {
                         "skillname": "強靱な精神力",
+                        "autoTrigger": [
+                            {
+                                "on": "permanent"
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "cc_regist",
@@ -5544,6 +5635,13 @@
                 "SS": {
                     "default": {
                         "skillname": "仕方ない",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "any",
+                                "condition": "cc"
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "add_damage",
@@ -6155,6 +6253,14 @@
                 "SS": {
                     "default": {
                         "skillname": "休んでなんていられません！",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "AA",
+                                "probability": 0.3,
+                                "coolTime": 5
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "heal_downed",
@@ -6473,6 +6579,12 @@
                 "SS": {
                     "default": {
                         "skillname": "理解しました！",
+                        "autoTrigger": [
+                            {
+                                "on": "kill",
+                                "count": 1
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "cri_damage",
@@ -7003,6 +7115,13 @@
                 "SS": {
                     "default": {
                         "skillname": "梅花園の教育",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "any",
+                                "condition": "middle"
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "add_damage",
@@ -7607,6 +7726,11 @@
                 "SS": {
                     "default": {
                         "skillname": "空腹の美食家",
+                        "autoTrigger": [
+                            {
+                                "on": "permanent"
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "add_damage",
@@ -7889,6 +8013,14 @@
                 "SS": {
                     "default": {
                         "skillname": "高速連射",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "AA",
+                                "probability": 0.2,
+                                "coolTime": 25
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "atk_speed",
@@ -8150,6 +8282,13 @@
                 "SS": {
                     "default": {
                         "skillname": "炯眼",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "any",
+                                "condition": "weakpoint"
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "add_damage",
@@ -8459,6 +8598,13 @@
                 "SS": {
                     "default": {
                         "skillname": "自警団の猛襲",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "any",
+                                "condition": "cc"
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "add_damage",
@@ -8745,6 +8891,12 @@
                 "SS": {
                     "default": {
                         "skillname": "テンションアップ",
+                        "autoTrigger": [
+                            {
+                                "on": "permanent",
+                                "reapplyAfterCc": true
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "my_def",
@@ -9592,6 +9744,14 @@
                 "SS": {
                     "default": {
                         "skillname": "ちょっと痛むよ～",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "any",
+                                "probability": 0.1,
+                                "coolTime": 20
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "burn",
@@ -10463,6 +10623,18 @@
                 "SS": {
                     "default": {
                         "skillname": "まだ、倒れる、わけには……！",
+                        "autoTrigger": [
+                            {
+                                "on": "effect",
+                                "effectTypes": [
+                                    "provoke",
+                                    "knockOut",
+                                    "terror",
+                                    "confusion"
+                                ],
+                                "target": "self"
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "heal",
@@ -12602,6 +12774,13 @@
                 "SS": {
                     "default": {
                         "skillname": "もっと痛いのが好きか？",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "any",
+                                "condition": "middle"
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "add_damage",
@@ -12892,6 +13071,13 @@
                 "SS": {
                     "default": {
                         "skillname": "綺麗にお掃除します～♧",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "any",
+                                "condition": "big"
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "add_damage",
@@ -13202,6 +13388,13 @@
                 "SS": {
                     "default": {
                         "skillname": "冷たいですよ～！",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "any",
+                                "condition": "nonDefaultMode"
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "add_damage",
@@ -13384,6 +13577,12 @@
                 "NS": {
                     "default": {
                         "skillname": "冷徹な心",
+                        "autoTrigger": [
+                            {
+                                "on": "kill",
+                                "count": 1
+                            }
+                        ],
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -13715,6 +13914,11 @@
                 "SS": {
                     "default": {
                         "skillname": "うわああああっ！？",
+                        "autoTrigger": [
+                            {
+                                "on": "permanent"
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "my_def",
@@ -13957,6 +14161,11 @@
                 "SS": {
                     "default": {
                         "skillname": "美食家の冷静さ",
+                        "autoTrigger": [
+                            {
+                                "on": "permanent"
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "atk",
@@ -14234,6 +14443,12 @@
                 "SS": {
                     "default": {
                         "skillname": "徹頭徹尾",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "any"
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "add_damage",
@@ -14899,6 +15114,13 @@
                 "SS": {
                     "default": {
                         "skillname": "力仕事はお任せを！",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "any",
+                                "condition": "middle"
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "add_damage",
@@ -15438,6 +15660,12 @@
                 "SS": {
                     "default": {
                         "skillname": "射撃準備、OK！",
+                        "autoTrigger": [
+                            {
+                                "on": "battleTime",
+                                "frame": 450
+                            }
+                        ],
                         "hittime": 10,
                         "effect": [
                             {
@@ -16556,6 +16784,13 @@
                 "SS": {
                     "default": {
                         "skillname": "芸術の苦しみ",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "any",
+                                "condition": "mark"
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "add_damage",
@@ -17112,6 +17347,13 @@
                 "SS": {
                     "default": {
                         "skillname": "等価交換",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "any",
+                                "condition": "weakpoint"
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "add_damage",
@@ -18864,6 +19106,14 @@
                 "SS": {
                     "default": {
                         "skillname": "楽しくいこっか？",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "AA",
+                                "probability": 0.25,
+                                "coolTime": 25
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "aim",
@@ -19147,6 +19397,13 @@
                 "SS": {
                     "default": {
                         "skillname": "小悪魔のキュートな企み",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "EX",
+                                "everyHits": 3
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "cuteDevil",
@@ -20391,6 +20648,12 @@
                 "SS": {
                     "default": {
                         "skillname": "狂い咲く闘争本能",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "any"
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "add_damage",
@@ -21792,6 +22055,12 @@
                 "NS": {
                     "default": {
                         "skillname": "次も楽しみにしてますよ！",
+                        "autoTrigger": [
+                            {
+                                "on": "allyCritical",
+                                "count": 100
+                            }
+                        ],
                         "hittime": 2.367,
                         "effect": [
                             {
@@ -22115,6 +22384,12 @@
                 "SS": {
                     "default": {
                         "skillname": "何だか少し恥ずかしい…",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "any"
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "add_damage",
@@ -22356,6 +22631,13 @@
                 "SS": {
                     "default": {
                         "skillname": "応援団長の闘志",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "any",
+                                "condition": "weakpoint"
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "add_damage",
@@ -22865,6 +23147,11 @@
                 "SS": {
                     "default": {
                         "skillname": "最適動線算出",
+                        "autoTrigger": [
+                            {
+                                "on": "permanent"
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "sp_atk",
@@ -23281,7 +23568,8 @@
                                     30,
                                     30,
                                     30
-                                ]
+                                ],
+                                "max": 2
                             }
                         ]
                     }
@@ -23357,6 +23645,13 @@
                 "SS": {
                     "default": {
                         "skillname": "大会の高揚感",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "any",
+                                "condition": "big"
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "add_damage",
@@ -24184,6 +24479,14 @@
                 "SS": {
                     "default": {
                         "skillname": "送別のデセール",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "any",
+                                "probability": 0.2,
+                                "coolTime": 5
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "def",
@@ -25401,6 +25704,12 @@
                 "SS": {
                     "default": {
                         "skillname": "あ～すっきりした！",
+                        "autoTrigger": [
+                            {
+                                "on": "kill",
+                                "count": 50
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "heal",
@@ -25668,6 +25977,17 @@
                 "SS": {
                     "default": {
                         "skillname": "光と共にあらんことを",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "any",
+                                "requires": {
+                                    "selfEffects": [
+                                        "silverBallet"
+                                    ]
+                                }
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "add_damage",
@@ -27010,6 +27330,12 @@
                 "SS": {
                     "default": {
                         "skillname": "お守りの絆",
+                        "autoTrigger": [
+                            {
+                                "on": "allyCritical",
+                                "count": 200
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "atk",
@@ -27329,6 +27655,17 @@
                 "SS": {
                     "default": {
                         "skillname": "静かなる余裕",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "any",
+                                "requires": {
+                                    "selfEffects": [
+                                        "mei-kyou-si-sui"
+                                    ]
+                                }
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "add_damage",
@@ -27648,6 +27985,12 @@
                 "SS": {
                     "default": {
                         "skillname": "ジョブ特性：メイド勇者！",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "AA"
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "add_damage",
@@ -29922,6 +30265,13 @@
                 "SS": {
                     "default": {
                         "skillname": "エッチなのはダメ！死刑！",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "any",
+                                "condition": "middle"
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "add_damage",
@@ -29951,6 +30301,9 @@
             "name": "ハナコ(水着)",
             "img": "standing/ハナコ（水着）.png",
             "icon": "face/ハナコ（水着）.png",
+            "card": {
+                "redrawWhileGauge": true
+            },
             "atk_attribute": "振動",
             "def_attribute": "重装甲",
             "status": {
@@ -30222,6 +30575,11 @@
                 "SS": {
                     "default": {
                         "skillname": "準備は万端です♡",
+                        "autoTrigger": [
+                            {
+                                "on": "action"
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "atk",
@@ -30516,6 +30874,7 @@
                 "SS": {
                     "default": {
                         "skillname": "設定崩壊！",
+                        "manual": false,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
@@ -31055,6 +31414,14 @@
                 "SS": {
                     "default": {
                         "skillname": "お役に立てて嬉しいです！",
+                        "autoTrigger": [
+                            {
+                                "on": "effect",
+                                "by": "self",
+                                "sourceSkill": "NS",
+                                "target": "others"
+                            }
+                        ],
                         "hittime": 3.2,
                         "effect": [
                             {
@@ -31302,6 +31669,12 @@
                 "SS": {
                     "default": {
                         "skillname": "そういう時もあるっすよね",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "any"
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "add_damage",
@@ -32693,6 +33066,18 @@
                 "SS": {
                     "default": {
                         "skillname": "切り込み隊長としての本分",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "any",
+                                "requires": {
+                                    "selfEffects": [
+                                        "passion",
+                                        "情熱"
+                                    ]
+                                }
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "add_damage",
@@ -33270,6 +33655,12 @@
                 "SS": {
                     "default": {
                         "skillname": "電波干渉",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "any"
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "add_damage",
@@ -33518,6 +33909,21 @@
                 "SS": {
                     "default": {
                         "skillname": "キャンプの醍醐味",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "any",
+                                "requires": {
+                                    "resources": [
+                                        "sweetPotato"
+                                    ]
+                                },
+                                "consume": {
+                                    "resource": "sweetPotato",
+                                    "amount": 1
+                                }
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "add_damage",
@@ -33834,7 +34240,10 @@
                 "hits": 3,
                 "delay": 85,
                 "reload": 67,
-                "beforeTime": 134
+                "beforeTime": 134,
+                "pauseWhileSummoned": [
+                    "ts0001"
+                ]
             },
             "limit": {
                 "atk": [
@@ -34097,6 +34506,9 @@
             "name": "ヒナ(ドレス)",
             "img": "standing/ヒナ（ドレス）.png",
             "icon": "face/ヒナ（ドレス）.png",
+            "card": {
+                "rotateOnModeExpire": true
+            },
             "atk_attribute": "爆発",
             "def_attribute": "弾力装甲",
             "status": {
@@ -34713,6 +35125,14 @@
                 "SS": {
                     "default": {
                         "skillname": "有利な取引",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "any",
+                                "probability": 0.3,
+                                "coolTime": 5
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "cri_regist",
@@ -35635,6 +36055,25 @@
                 "SS": {
                     "default": {
                         "skillname": "スイーツボーカル",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "any",
+                                "requires": {
+                                    "resources": [
+                                        "sugarRush"
+                                    ],
+                                    "selfEffects": [
+                                        "sugar_rush",
+                                        "sugar_magicalPower"
+                                    ]
+                                },
+                                "repeatBy": {
+                                    "resource": "sugarRush",
+                                    "effect": "sugar_magicalPower"
+                                }
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "add_damage",
@@ -36179,6 +36618,23 @@
                 "SS": {
                     "default": {
                         "skillname": "染み込む感情",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "any",
+                                "probability": 0.1,
+                                "coolTime": 5,
+                                "requires": {
+                                    "resources": [
+                                        "sugarRush"
+                                    ],
+                                    "selfEffects": [
+                                        "sugar_rush",
+                                        "sugar_magicalPower"
+                                    ]
+                                }
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "cri_damage_regist",
@@ -37569,6 +38025,13 @@
                 "SS": {
                     "default": {
                         "skillname": "爆破のスペシャリスト",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "any",
+                                "condition": "bigOrLarger"
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "add_damage",
@@ -38218,6 +38681,14 @@
                 "SS": {
                     "default": {
                         "skillname": "有効戦術",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "any",
+                                "probability": 0.2,
+                                "coolTime": 5
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "def",
@@ -38246,6 +38717,7 @@
             "name": "ホシノ(臨戦):攻撃型",
             "img": "standing/ホシノ（臨戦）_攻撃型.png",
             "icon": "face/ホシノ(臨戦)_攻撃型.png",
+            "battleForm": true,
             "atk_attribute": "神秘",
             "def_attribute": "重装甲",
             "status": {
@@ -38855,6 +39327,14 @@
                 "SS": {
                     "default": {
                         "skillname": "誠実な学生バイト",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "AA",
+                                "probability": 0.3,
+                                "coolTime": 5
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "coldUP",
@@ -39403,6 +39883,13 @@
                 "SS": {
                     "default": {
                         "skillname": "縦深突破！",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "any",
+                                "condition": "poison"
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "add_damage",
@@ -41319,6 +41806,11 @@
                 "SS": {
                     "default": {
                         "skillname": "気だるい目覚め",
+                        "autoTrigger": [
+                            {
+                                "on": "healed"
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "my_def",
@@ -43020,6 +43512,18 @@
                 "SS": {
                     "default": {
                         "skillname": "ジュリの心得！",
+                        "autoTrigger": [
+                            {
+                                "on": "effect",
+                                "effectTypes": [
+                                    "provoke",
+                                    "knockOut",
+                                    "terror",
+                                    "confusion"
+                                ],
+                                "target": "self"
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "heal",
@@ -43561,6 +44065,12 @@
                 "NS": {
                     "default": {
                         "skillname": "美しさの裏側",
+                        "autoTrigger": [
+                            {
+                                "on": "kill",
+                                "count": 8
+                            }
+                        ],
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -43933,7 +44443,8 @@
                                     25,
                                     25,
                                     25
-                                ]
+                                ],
+                                "max": 2
                             }
                         ]
                     }
@@ -44209,6 +44720,16 @@
                 "NS": {
                     "default": {
                         "skillname": "れっつどっきんぐ～",
+                        "autoTrigger": [
+                            {
+                                "on": "effect",
+                                "effectTypes": [
+                                    "firing_signal"
+                                ],
+                                "target": "self",
+                                "count": 3
+                            }
+                        ],
                         "hittime": 1.833,
                         "effect": [
                             {
@@ -46147,6 +46668,14 @@
                 "SS": {
                     "default": {
                         "skillname": "自分へのご褒美",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "EX",
+                                "everyHits": 4,
+                                "replacesCause": true
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "waterMelon",
@@ -46178,6 +46707,9 @@
             "name": "ミカ(水着)",
             "img": "standing/ミカ(水着).png",
             "icon": "face/ミカ（水着）.png",
+            "card": {
+                "rotateOnModeExpire": true
+            },
             "atk_attribute": "振動",
             "def_attribute": "弾力装甲",
             "status": {
@@ -47756,6 +48288,13 @@
                 "SS": {
                     "default": {
                         "skillname": "交渉決裂",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "any",
+                                "condition": "weakpoint"
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "add_damage",
@@ -48970,6 +49509,16 @@
                 "SS": {
                     "default": {
                         "skillname": "ハーモニカ",
+                        "autoTrigger": [
+                            {
+                                "on": "effect",
+                                "effectTypes": [
+                                    "fullAuto",
+                                    "full_auto"
+                                ],
+                                "target": "self"
+                            }
+                        ],
                         "hittime": 1.4,
                         "effect": [
                             {
@@ -49222,6 +49771,20 @@
                 "SS": {
                     "default": {
                         "skillname": "舞台上の銃",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "any",
+                                "requires": {
+                                    "flags": [
+                                        "calmReview"
+                                    ],
+                                    "selfEffects": [
+                                        "calmReview"
+                                    ]
+                                }
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "cri_regist",
@@ -49736,6 +50299,15 @@
                 "SS": {
                     "default": {
                         "skillname": "メタヒューリスティクス",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "any",
+                                "condition": "lightArmor",
+                                "probability": 0.2,
+                                "coolTime": 5
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "sp_weak",
@@ -50697,7 +51269,8 @@
                                     "hits": 1,
                                     "delay": 105,
                                     "reload": 53,
-                                    "beforeTime": 122
+                                    "beforeTime": 122,
+                                    "fixedAtkSpeed": true
                                 },
                                 "rate": [
                                     173,
@@ -51096,6 +51669,13 @@
                 "SS": {
                     "default": {
                         "skillname": "迅速行動、報告は後ほど",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "any",
+                                "condition": "heavyArmor"
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "add_damage",
@@ -53473,6 +54053,12 @@
                 "SS": {
                     "default": {
                         "skillname": "療養：英気回復",
+                        "autoTrigger": [
+                            {
+                                "on": "allyCritical",
+                                "count": 200
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "heal",
@@ -53525,6 +54111,9 @@
             "name": "シュン（水着）",
             "img": "standing/シュン（水着）.png",
             "icon": "face/シュン（水着）.png",
+            "card": {
+                "rotateOnModeExpire": true
+            },
             "atk_attribute": "振動",
             "def_attribute": "軽装甲",
             "status": {
@@ -53894,6 +54483,7 @@
             "name": "シュエリン（水着）",
             "img": "standing/シュン（水着_幼女）.png",
             "icon": "face/シュン（水着_幼女）.png",
+            "battleForm": true,
             "atk_attribute": "振動",
             "def_attribute": "軽装甲",
             "status": {
@@ -55873,6 +56463,14 @@
                 "SS": {
                     "default": {
                         "skillname": "リヴァイアサン",
+                        "autoTrigger": [
+                            {
+                                "on": "hit",
+                                "source": "any",
+                                "probability": 0.3,
+                                "coolTime": 6
+                            }
+                        ],
                         "effect": [
                             {
                                 "skill_attribute": "heal",
@@ -56097,6 +56695,12 @@
                 "NS": {
                     "default": {
                         "skillname": "これは勲章ものですね！",
+                        "autoTrigger": [
+                            {
+                                "on": "kill",
+                                "count": 8
+                            }
+                        ],
                         "hittime": 0,
                         "effect": [
                             {
@@ -68695,7 +69299,8 @@
                                     35,
                                     35,
                                     35
-                                ]
+                                ],
+                                "max": 3
                             }
                         ]
                     }
@@ -73195,7 +73800,8 @@
                                     35,
                                     35,
                                     35
-                                ]
+                                ],
+                                "max": 3
                             }
                         ]
                     }
@@ -73591,6 +74197,9 @@
             "name": "リオ",
             "img": "standing/リオ.png",
             "icon": "face/リオ.png",
+            "card": {
+                "copier": true
+            },
             "atk_attribute": "神秘",
             "def_attribute": "弾力装甲",
             "status": {

@@ -2438,6 +2438,7 @@
                             ]
                         },
                         "skill_2": {
+                            "manual": false,
                             "skillname": "ペロロミニオン召喚",
                             "hittime": 0,
                             "effect": [
@@ -2449,6 +2450,7 @@
                             ]
                         },
                         "skill_3": {
+                            "manual": false,
                             "skillname": "ペロロミニオン吸収",
                             "hittime": 0,
                             "effect": [
@@ -2518,6 +2520,7 @@
                             ]
                         },
                         "skill_2": {
+                            "manual": false,
                             "skillname": "ペロロミニオン召喚",
                             "hittime": 0,
                             "effect": [
@@ -2529,6 +2532,7 @@
                             ]
                         },
                         "skill_3": {
+                            "manual": false,
                             "skillname": "ペロロミニオン吸収",
                             "hittime": 0,
                             "effect": [
@@ -2598,6 +2602,7 @@
                             ]
                         },
                         "skill_2": {
+                            "manual": false,
                             "skillname": "ペロロミニオン召喚",
                             "hittime": 0,
                             "effect": [
@@ -2609,6 +2614,7 @@
                             ]
                         },
                         "skill_3": {
+                            "manual": false,
                             "skillname": "ペロロミニオン吸収",
                             "hittime": 0,
                             "effect": [
@@ -2678,6 +2684,7 @@
                             ]
                         },
                         "skill_2": {
+                            "manual": false,
                             "skillname": "ペロロミニオン召喚",
                             "hittime": 0,
                             "effect": [
@@ -2689,6 +2696,7 @@
                             ]
                         },
                         "skill_3": {
+                            "manual": false,
                             "skillname": "ペロロミニオン吸収",
                             "hittime": 0,
                             "effect": [
@@ -2758,6 +2766,7 @@
                             ]
                         },
                         "skill_2": {
+                            "manual": false,
                             "skillname": "ペロロミニオン召喚",
                             "hittime": 0,
                             "effect": [
@@ -2769,6 +2778,7 @@
                             ]
                         },
                         "skill_3": {
+                            "manual": false,
                             "skillname": "ペロロミニオン吸収",
                             "hittime": 0,
                             "effect": [
@@ -2838,6 +2848,7 @@
                             ]
                         },
                         "skill_2": {
+                            "manual": false,
                             "skillname": "ペロロミニオン召喚",
                             "hittime": 0,
                             "effect": [
@@ -2849,6 +2860,7 @@
                             ]
                         },
                         "skill_3": {
+                            "manual": false,
                             "skillname": "ペロロミニオン吸収",
                             "hittime": 0,
                             "effect": [
@@ -2924,6 +2936,7 @@
                             ]
                         },
                         "skill_2": {
+                            "manual": false,
                             "skillname": "ペロロミニオン召喚",
                             "hittime": 0,
                             "effect": [
@@ -2935,6 +2948,7 @@
                             ]
                         },
                         "skill_3": {
+                            "manual": false,
                             "skillname": "ペロロミニオン吸収",
                             "hittime": 0,
                             "effect": [
@@ -3028,6 +3042,7 @@
                             ]
                         },
                         "skill_2": {
+                            "manual": false,
                             "skillname": "ペロロミニオン召喚",
                             "hittime": 0,
                             "effect": [
@@ -3039,6 +3054,7 @@
                             ]
                         },
                         "skill_3": {
+                            "manual": false,
                             "skillname": "ペロロミニオン吸収",
                             "hittime": 0,
                             "effect": [
@@ -3135,6 +3151,7 @@
                             ]
                         },
                         "skill_2": {
+                            "manualHiddenWhileActive": "e0116",
                             "skillname": "インベイドピラー生成",
                             "hittime": 0,
                             "effect": [
@@ -3233,6 +3250,7 @@
                             ]
                         },
                         "skill_2": {
+                            "manualHiddenWhileActive": "e0116",
                             "skillname": "インベイドピラー生成",
                             "hittime": 0,
                             "effect": [
@@ -3331,6 +3349,7 @@
                             ]
                         },
                         "skill_2": {
+                            "manualHiddenWhileActive": "e0116",
                             "skillname": "インベイドピラー生成",
                             "hittime": 0,
                             "effect": [
@@ -3429,6 +3448,7 @@
                             ]
                         },
                         "skill_2": {
+                            "manualHiddenWhileActive": "e0116",
                             "skillname": "インベイドピラー生成",
                             "hittime": 0,
                             "effect": [
@@ -3527,6 +3547,7 @@
                             ]
                         },
                         "skill_2": {
+                            "manualHiddenWhileActive": "e0116",
                             "skillname": "インベイドピラー生成",
                             "hittime": 0,
                             "effect": [
@@ -3625,6 +3646,7 @@
                             ]
                         },
                         "skill_2": {
+                            "manualHiddenWhileActive": "e0116",
                             "skillname": "インベイドピラー生成",
                             "hittime": 0,
                             "effect": [
@@ -3723,6 +3745,7 @@
                             ]
                         },
                         "skill_2": {
+                            "manualHiddenWhileActive": "e0116",
                             "skillname": "インベイドピラー生成",
                             "hittime": 0,
                             "effect": [
@@ -3821,6 +3844,7 @@
                             ]
                         },
                         "skill_2": {
+                            "manualHiddenWhileActive": "e0116",
                             "skillname": "インベイドピラー生成",
                             "hittime": 0,
                             "effect": [
@@ -7152,6 +7176,7 @@
             "hpControl": {
                 "isShared": false,
                 "reflectToRepresentative": false,
+                "healOnly": true,
                 "startsAtZeroHp": true,
                 "remainsOnFieldAtZeroHp": true
             },
@@ -7318,9 +7343,11 @@
             "isAlly": true,
             "size": "middle",
             "class": "Hieronymus",
+            "manualSkills": false,
             "hpControl": {
                 "isShared": false,
                 "reflectToRepresentative": false,
+                "healOnly": true,
                 "startsAtZeroHp": true,
                 "remainsOnFieldAtZeroHp": true
             },
@@ -7496,6 +7523,7 @@
             "atk_attribute": "爆発",
             "size": "middle",
             "class": "Hieronymus",
+            "manualSkills": false,
             "targetSkillTypes": [
                 "EX"
             ],
@@ -8718,6 +8746,8 @@
             "hpControl": {
                 "isShared": false,
                 "reflectToRepresentative": true,
+                "untargetableAtHalfHp": true,
+                "immortal": true,
                 "startsOnField": false,
                 "remainsOnFieldAtZeroHp": true
             },
@@ -8735,6 +8765,7 @@
                     "damage_regist": 0,
                     "skill": {
                         "skill_0": {
+                            "manual": false,
                             "skillname": "転倒",
                             "hittime": 0,
                             "effect": [
@@ -8760,6 +8791,7 @@
                     "damage_regist": 0,
                     "skill": {
                         "skill_0": {
+                            "manual": false,
                             "skillname": "転倒",
                             "hittime": 0,
                             "effect": [
@@ -8785,6 +8817,7 @@
                     "damage_regist": 0,
                     "skill": {
                         "skill_0": {
+                            "manual": false,
                             "skillname": "転倒",
                             "hittime": 0,
                             "effect": [
@@ -8810,6 +8843,7 @@
                     "damage_regist": 0,
                     "skill": {
                         "skill_0": {
+                            "manual": false,
                             "skillname": "転倒",
                             "hittime": 0,
                             "effect": [
@@ -8835,6 +8869,7 @@
                     "damage_regist": 0,
                     "skill": {
                         "skill_0": {
+                            "manual": false,
                             "skillname": "転倒",
                             "hittime": 0,
                             "effect": [
@@ -8860,6 +8895,7 @@
                     "damage_regist": 0,
                     "skill": {
                         "skill_0": {
+                            "manual": false,
                             "skillname": "転倒",
                             "hittime": 0,
                             "effect": [
@@ -8871,6 +8907,7 @@
                             ]
                         },
                         "skill_1": {
+                            "manualOncePerSummon": "pero:shiningUsed",
                             "skillname": "転倒(輝く)",
                             "hittime": 0,
                             "effect": [
@@ -8896,6 +8933,7 @@
                     "damage_regist": 0,
                     "skill": {
                         "skill_0": {
+                            "manual": false,
                             "skillname": "転倒",
                             "hittime": 0,
                             "effect": [
@@ -8907,6 +8945,7 @@
                             ]
                         },
                         "skill_1": {
+                            "manualOncePerSummon": "pero:shiningUsed",
                             "skillname": "転倒(輝く)",
                             "hittime": 0,
                             "effect": [
@@ -8944,6 +8983,7 @@
                     "damage_regist": 0,
                     "skill": {
                         "skill_0": {
+                            "manual": false,
                             "skillname": "転倒",
                             "hittime": 0,
                             "effect": [
@@ -8955,6 +8995,7 @@
                             ]
                         },
                         "skill_1": {
+                            "manualOncePerSummon": "pero:shiningUsed",
                             "skillname": "転倒(輝く)",
                             "hittime": 0,
                             "effect": [
@@ -8991,6 +9032,8 @@
             "hpControl": {
                 "isShared": false,
                 "reflectToRepresentative": true,
+                "untargetableAtHalfHp": true,
+                "immortal": true,
                 "startsOnField": false,
                 "remainsOnFieldAtZeroHp": true
             },
@@ -9966,6 +10009,9 @@
             "hpControl": {
                 "isShared": false,
                 "reflectToRepresentative": true,
+                "sharesEffectsWithParent": true,
+                "defeatedKeepsReflecting": true,
+                "individualRespawn": true,
                 "startsOnField": false,
                 "remainsOnFieldAtZeroHp": true
             },
@@ -10086,6 +10132,8 @@
             "hpControl": {
                 "isShared": false,
                 "reflectToRepresentative": false,
+                "targetableAtZeroHp": true,
+                "spawnWithParent": true,
                 "remainsOnFieldAtZeroHp": true
             },
             "difficulty": {
@@ -11436,6 +11484,7 @@
             "atk_attribute": "爆発",
             "size": "superBig",
             "class": "Yesod",
+            "exReceivedDamageUp": 900,
             "hpControl": {
                 "isShared": false,
                 "poolOwnerId": "e0013",

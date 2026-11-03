@@ -25,6 +25,7 @@
                 "beforeTime": 159
             },
             "connection": "sp0005",
+            "boarding": true,
             "school": "GH",
             "battleClass": "T.S",
             "class": "イロハ",
@@ -33,6 +34,10 @@
                 "NS": {
                     "default": {
                         "skillname": "主砲照準、発射",
+                        "effectBonus": {
+                            "type": "grenade",
+                            "rate": 50
+                        },
                         "cycleForSec": 15,
                         "hittime": 0.0,
                         "effect": [
@@ -1031,6 +1036,7 @@
                 "beforeTime": 605
             },
             "connection": "st0166",
+            "group": "helmet",
             "school": "TR",
             "battleClass": "T.S",
             "class": "ラブ",
@@ -1073,6 +1079,7 @@
                 "beforeTime": 100
             },
             "connection": "st0166",
+            "group": "helmet",
             "school": "TR",
             "battleClass": "T.S",
             "class": "ラブ",
@@ -1115,6 +1122,7 @@
                 "beforeTime": 146
             },
             "connection": "st0166",
+            "group": "helmet",
             "school": "TR",
             "battleClass": "T.S",
             "class": "ラブ",
