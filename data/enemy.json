@@ -10132,6 +10132,7 @@
             "hpControl": {
                 "isShared": false,
                 "reflectToRepresentative": false,
+                "explicitTargetOnly": true,
                 "targetableAtZeroHp": true,
                 "spawnWithParent": true,
                 "remainsOnFieldAtZeroHp": true
