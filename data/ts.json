@@ -793,7 +793,16 @@
                                 ]
                             },
                             {
-                                "skill_attribute": "causeOfSS"
+                                "skill_attribute": "sugarMagicalPower",
+                                "skill_tage": "sp0076",
+                                "duplicate": 5,
+                                "rate": [
+                                    1,
+                                    1,
+                                    1,
+                                    1,
+                                    1
+                                ]
                             }
                         ]
                     }
@@ -837,15 +846,14 @@
                         "hittime": 0.0,
                         "effect": [
                             {
-                                "skill_attribute": "sugarMagicalPower",
+                                "skill_attribute": "cost",
                                 "skill_tage": "sp0076",
-                                "duplicate": 5,
                                 "rate": [
-                                    1,
-                                    1,
-                                    1,
-                                    1,
-                                    1
+                                    3,
+                                    3,
+                                    3,
+                                    3,
+                                    3
                                 ]
                             }
                         ]

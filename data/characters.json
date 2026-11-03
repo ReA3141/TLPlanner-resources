@@ -2924,6 +2924,7 @@
                             },
                             {
                                 "skill_attribute": "costPlus",
+                                "amount": "evil",
                                 "skill_tage": "own",
                                 "rate": [
                                     0.5,
@@ -9290,6 +9291,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "costHeal",
+                                "fixed": true,
                                 "start": true,
                                 "skill_tage": "own",
                                 "rate": [
@@ -9307,6 +9309,7 @@
                             },
                             {
                                 "skill_attribute": "costHeal",
+                                "fixed": true,
                                 "start": true,
                                 "allow": "RW",
                                 "skill_tage": "own",
@@ -10625,7 +10628,7 @@
                             },
                             {
                                 "skill_attribute": "provoke",
-                                "skill_tage": "enemy",
+                                "skill_tage": "all",
                                 "skilltime": 6.2,
                                 "rate": [
                                     4.7,
@@ -10705,6 +10708,7 @@
                 "SS": {
                     "default": {
                         "skillname": "手慣れたリロード",
+                        "justAfterReload": true,
                         "effect": [
                             {
                                 "skill_attribute": "damage_up_baff",
@@ -10880,6 +10884,7 @@
                             },
                             {
                                 "skill_attribute": "formChange",
+                                "reloadLimit": 2,
                                 "skill_tage": "own",
                                 "skilltime": 25,
                                 "dps": {
@@ -15165,6 +15170,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "costHeal",
+                                "fixed": true,
                                 "skilltime": 5,
                                 "skill_tage": "own",
                                 "rate": [
@@ -15603,6 +15609,7 @@
                 "NS": {
                     "default": {
                         "skillname": "最後のひと口!",
+                        "justAfterReload": true,
                         "hittime": 3,
                         "effect": [
                             {
@@ -16286,6 +16293,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "costHeal",
+                                "fixed": true,
                                 "skilltime": 50,
                                 "skill_tage": "own",
                                 "rate": [
@@ -20976,50 +20984,6 @@
                                 ]
                             }
                         ]
-                    },
-                    "second": {
-                        "skillname": "真夏の情熱",
-                        "effect": [
-                            {
-                                "skill_attribute": "add_damage",
-                                "hitAmount": 1,
-                                "skill_tage": "enemy",
-                                "rate": [
-                                    51.6,
-                                    54.2,
-                                    56.8,
-                                    67.1,
-                                    69.7,
-                                    72.3,
-                                    82.6,
-                                    85.2,
-                                    87.8,
-                                    98.1
-                                ]
-                            }
-                        ]
-                    },
-                    "third": {
-                        "skillname": "真夏の情熱",
-                        "effect": [
-                            {
-                                "skill_attribute": "add_damage",
-                                "hitAmount": 1,
-                                "skill_tage": "enemy",
-                                "rate": [
-                                    51.6,
-                                    54.2,
-                                    56.8,
-                                    67.1,
-                                    69.7,
-                                    72.3,
-                                    82.6,
-                                    85.2,
-                                    87.8,
-                                    98.1
-                                ]
-                            }
-                        ]
                     }
                 }
             }
@@ -21241,7 +21205,7 @@
                             {
                                 "skill_attribute": "damage",
                                 "skill_pattern": "one",
-                                "skill_tage": "own",
+                                "skill_tage": "enemy",
                                 "skill_critical": true,
                                 "hitAmount": [
                                     0.233
@@ -21622,6 +21586,7 @@
                 "SS": {
                     "default": {
                         "skillname": "つまみ食い",
+                        "justAfterReload": true,
                         "hittime": 0.8,
                         "effect": [
                             {
@@ -25058,6 +25023,7 @@
                             },
                             {
                                 "skill_attribute": "damage",
+                                "everyUse": 3,
                                 "skill_pattern": "one",
                                 "skill_tage": "enemy",
                                 "hitAmount": [
@@ -25918,6 +25884,7 @@
                             },
                             {
                                 "skill_attribute": "formChange",
+                                "exLimit": 3,
                                 "skill_tage": "own",
                                 "dps": {
                                     "hit": 35,
@@ -27268,7 +27235,7 @@
                             {
                                 "skill_attribute": "atk",
                                 "skill_tage": "own",
-                                "skilltime": 40,
+                                "skilltime": 25,
                                 "rate": [
                                     27.4,
                                     28.6,
@@ -27284,6 +27251,7 @@
                             },
                             {
                                 "skill_attribute": "mei-kyou-si-sui",
+                                "skilltime": 25,
                                 "skill_tage": "own"
                             }
                         ]
@@ -27298,7 +27266,7 @@
                                 "skill_attribute": "atk",
                                 "skill_tage": "own",
                                 "start": true,
-                                "skilltime": 40,
+                                "skilltime": 25,
                                 "rate": [
                                     31.4,
                                     32.7,
@@ -27314,6 +27282,7 @@
                             },
                             {
                                 "skill_attribute": "mei-kyou-si-sui",
+                                "skilltime": 25,
                                 "start": true,
                                 "skill_tage": "own"
                             },
@@ -29144,6 +29113,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "costHeal",
+                                "fixed": true,
                                 "skilltime": 10,
                                 "skill_tage": "own",
                                 "rate": [
@@ -29389,6 +29359,7 @@
                             },
                             {
                                 "skill_attribute": "add_damage",
+                                "allow": "middle",
                                 "skill_tage": "all",
                                 "hitAmount": [
                                     1.434,
@@ -29636,6 +29607,10 @@
                     "default": {
                         "skillname": "決定的な手がかり",
                         "hittime": 4.233,
+                    "triggerStack": {
+                        "type": "clue",
+                        "count": 3
+                    },
                         "effect": [
                             {
                                 "skill_attribute": "sp_atk",
@@ -29653,10 +29628,6 @@
                                     25.8,
                                     28.9
                                 ]
-                            },
-                            {
-                                "skill_attribute": "otherUsed",
-                                "value": 6
                             }
                         ]
                     }
@@ -31517,7 +31488,8 @@
                                 ]
                             },
                             {
-                                "skill_attribute": "causeOfSS"
+                                "skill_attribute": "causeOfSS",
+                                "everyUse": 3
                             }
                         ]
                     }
@@ -31597,7 +31569,6 @@
                             {
                                 "skill_attribute": "damage",
                                 "skill_tage": "enemy",
-                                "skip": 2,
                                 "skill_pattern": "many",
                                 "hitAmount": [
                                     1.867
@@ -32427,6 +32398,7 @@
                                 "skill_attribute": "cri_damage",
                                 "skill_tage": "own",
                                 "judge": "prayer",
+                                "judgeEvery": 10,
                                 "skilltime": 15,
                                 "rate": [
                                     8.1,
@@ -34265,6 +34237,8 @@
                             },
                             {
                                 "skill_attribute": "formChange",
+                                "exLimit": 3,
+                                "exTimeout": 10,
                                 "skill_tage": "own",
                                 "dps": {
                                     "hit": 0,
@@ -36688,7 +36662,6 @@
                         "effect": [
                             {
                                 "skill_attribute": "atk_speed",
-                                "skilltime": 10,
                                 "skill_tage": "own",
                                 "rate": [
                                     53.2,
@@ -36699,9 +36672,45 @@
                                 ]
                             },
                             {
+                                "skill_attribute": "formChange",
+                                "skill_tage": "own",
+                                "reloadLimit": 1,
+                                "clearWith": [
+                                    "atk_speed",
+                                    "ignoreDelay",
+                                    "add_damage",
+                                    "amoRefill"
+                                ],
+                                "dps": {
+                                    "hit": 15,
+                                    "hits": 3,
+                                    "delay": 50,
+                                    "ignoreTime": 34,
+                                    "reload": 58,
+                                    "beforeTime": 107
+                                },
+                                "rate": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            {
+                                "skill_attribute": "ignoreDelay",
+                                "skill_tage": "own",
+                                "rate": [
+                                    100,
+                                    100,
+                                    100,
+                                    100,
+                                    100
+                                ]
+                            },
+                            {
                                 "skill_attribute": "add_damage",
-                                "hitAmount": 1,
-                                "skill_tage": "enemy",
+                                "skill_tage": "own",
                                 "rate": [
                                     29.5,
                                     33.9,
@@ -36789,7 +36798,7 @@
                         "skillname": "誤射注意！",
                         "effect": [
                             {
-                                "skill_attribute": "amo",
+                                "skill_attribute": "amoRefill",
                                 "skill_tage": "own",
                                 "rate": [
                                     2.5,
@@ -38511,6 +38520,7 @@
                 "SS": {
                     "default": {
                         "skillname": "制圧攻撃",
+                        "justAfterReload": true,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
@@ -39661,6 +39671,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "costHeal",
+                                "fixed": true,
                                 "skill_tage": "own",
                                 "skilltime": 5,
                                 "rate": [
@@ -41539,6 +41550,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "costHeal",
+                                "fixed": true,
                                 "skill_tage": "own",
                                 "skilltime": 30,
                                 "rate": [
@@ -41794,6 +41806,7 @@
                             },
                             {
                                 "skill_attribute": "costHeal",
+                                "fixed": true,
                                 "skill_tage": "own",
                                 "skilltime": 15,
                                 "rate": [
@@ -42268,18 +42281,6 @@
                         "cooltime": 4.634,
                         "effect": [
                             {
-                                "skill_attribute": "costChange",
-                                "skill_tage": "own",
-                                "skilltime": 70,
-                                "rate": [
-                                    4,
-                                    4,
-                                    4,
-                                    4,
-                                    4
-                                ]
-                            },
-                            {
                                 "skill_attribute": "vs",
                                 "skill_tage": "eachOther",
                                 "skilltime": 70,
@@ -42361,17 +42362,6 @@
                                     1121,
                                     1231,
                                     1469
-                                ]
-                            },
-                            {
-                                "skill_attribute": "costChange",
-                                "skilltime": 70,
-                                "rate": [
-                                    1,
-                                    1,
-                                    1,
-                                    1,
-                                    1
                                 ]
                             },
                             {
@@ -45235,7 +45225,8 @@
                                 ]
                             },
                             {
-                                "skill_attribute": "causeOfSS"
+                                "skill_attribute": "causeOfSS",
+                                "everyUse": 2
                             }
                         ]
                     }
@@ -45328,7 +45319,7 @@
                             },
                             {
                                 "skill_attribute": "costHeal",
-                                "skip": 1,
+                                "fixed": true,
                                 "skill_tage": "own",
                                 "skilltime": 10,
                                 "rate": [
@@ -47220,6 +47211,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "costHeal",
+                                "fixed": true,
                                 "start": true,
                                 "skill_tage": "own",
                                 "rate": [
@@ -47237,6 +47229,7 @@
                             },
                             {
                                 "skill_attribute": "costHeal",
+                                "fixed": true,
                                 "skill_tage": "own",
                                 "start": true,
                                 "allow": "def_attribute",
@@ -48036,6 +48029,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "costHeal",
+                                "fixed": true,
                                 "skill_tage": "own",
                                 "skilltime": 35,
                                 "rate": [
@@ -48875,6 +48869,7 @@
                             },
                             {
                                 "skill_attribute": "formChange",
+                                "everyUse": 3,
                                 "skill_tage": "own",
                                 "skilltime": 10,
                                 "dps": {
@@ -48893,7 +48888,9 @@
                                 ]
                             },
                             {
-                                "skill_attribute": "causeOfNS"
+                                "skill_attribute": "amoClip",
+                                "skill_tage": "own",
+                                "duplicate": 3
                             },
                             {
                                 "skill_attribute": "causeOfSS"
@@ -48904,13 +48901,12 @@
                 "NS": {
                     "default": {
                         "skillname": "薬莢回収",
-                        "hittime": 11.4,
+                        "hittime": 0.0,
+                        "triggerStack": {
+                            "type": "amoClip",
+                            "count": 3
+                        },
                         "effect": [
-                            {
-                                "skill_attribute": "amoClip",
-                                "skill_tage": "own",
-                                "duplicate": 3
-                            },
                             {
                                 "skill_attribute": "cri_damage",
                                 "skill_tage": "own",
@@ -51314,9 +51310,6 @@
                                     1.5,
                                     1.7
                                 ]
-                            },
-                            {
-                                "skill_attribute": "causeOfSS"
                             }
                         ]
                     }
@@ -51366,6 +51359,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "atk",
+                                "duringEX": true,
                                 "skilltime": 5.667,
                                 "skill_tage": "own",
                                 "rate": [
@@ -51383,6 +51377,7 @@
                             },
                             {
                                 "skill_attribute": "my_def",
+                                "duringEX": true,
                                 "skilltime": 5.667,
                                 "skill_tage": "own",
                                 "rate": [
@@ -51396,6 +51391,22 @@
                                     21.6,
                                     22,
                                     24.9
+                                ]
+                            },
+                            {
+                                "skill_attribute": "cost",
+                                "skill_tage": "own",
+                                "rate": [
+                                    1,
+                                    1,
+                                    1,
+                                    1,
+                                    1,
+                                    1,
+                                    1,
+                                    1,
+                                    1,
+                                    1
                                 ]
                             }
                         ]
@@ -52283,6 +52294,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "costHeal",
+                                "fixed": true,
                                 "start": true,
                                 "skill_tage": "own",
                                 "duplicate": 2,
@@ -52301,6 +52313,7 @@
                             },
                             {
                                 "skill_attribute": "costHeal",
+                                "fixed": true,
                                 "skilltime": 10,
                                 "skill_tage": "own",
                                 "duplicate": 2,
@@ -53274,6 +53287,7 @@
                             },
                             {
                                 "skill_attribute": "costHeal",
+                                "fixed": true,
                                 "skill_tage": "own",
                                 "skilltime": 5,
                                 "rate": [
@@ -53282,17 +53296,6 @@
                                     1240,
                                     1369,
                                     1625
-                                ]
-                            },
-                            {
-                                "skill_attribute": "costChange",
-                                "skill_tage": "own",
-                                "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
                                 ]
                             }
                         ]
@@ -53306,6 +53309,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "costHeal",
+                                "fixed": true,
                                 "skill_tage": "own",
                                 "skilltime": 5,
                                 "rate": [
