@@ -34678,7 +34678,7 @@
                             {
                                 "skill_attribute": "damage",
                                 "skill_pattern": "many",
-                                "skill_tage": "enemy",
+                                "skill_tage": "pierce",
                                 "decay": 45,
                                 "hitAmount": [
                                     0.667,
@@ -34715,7 +34715,7 @@
                             {
                                 "skill_attribute": "damage",
                                 "skill_pattern": "many",
-                                "skill_tage": "enemy",
+                                "skill_tage": "pierce",
                                 "decay": 45,
                                 "hitAmount": [
                                     0.634,
@@ -34752,7 +34752,7 @@
                             {
                                 "skill_attribute": "damage",
                                 "skill_pattern": "many",
-                                "skill_tage": "enemy",
+                                "skill_tage": "pierce",
                                 "decay": 45,
                                 "hitAmount": [
                                     0.7,
