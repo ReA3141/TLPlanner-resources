@@ -378,7 +378,7 @@
                         }
                     }
                 },
-                "EXTREAM": {
+                "EXTREME": {
                     "HP": 6000000,
                     "atk": 8000,
                     "def": 3900,
@@ -964,7 +964,7 @@
                         }
                     }
                 },
-                "EXTREAM": {
+                "EXTREME": {
                     "HP": 4500000,
                     "atk": 3700,
                     "def": 700,
@@ -1463,7 +1463,7 @@
                         }
                     }
                 },
-                "EXTREAM": {
+                "EXTREME": {
                     "HP": 6000000,
                     "atk": 4650,
                     "def": 2900,
@@ -2087,7 +2087,7 @@
                         }
                     }
                 },
-                "EXTREAM": {
+                "EXTREME": {
                     "HP": 7500000,
                     "atk": 3500,
                     "def": 420,
@@ -2720,7 +2720,7 @@
                         }
                     }
                 },
-                "EXTREAM": {
+                "EXTREME": {
                     "HP": 8000000,
                     "atk": 6000,
                     "def": 4000,
@@ -3506,7 +3506,7 @@
                         }
                     }
                 },
-                "EXTREAM": {
+                "EXTREME": {
                     "HP": 1600000,
                     "atk": 3300,
                     "def": 100,
@@ -4310,7 +4310,7 @@
                         }
                     }
                 },
-                "EXTREAM": {
+                "EXTREME": {
                     "HP": 13000000,
                     "atk": 4000,
                     "def": 100,
@@ -5128,7 +5128,7 @@
                         }
                     }
                 },
-                "EXTREAM": {
+                "EXTREME": {
                     "HP": 40000000,
                     "atk": 950,
                     "def": 1000,
@@ -5612,7 +5612,7 @@
                         }
                     }
                 },
-                "EXTREAM": {
+                "EXTREME": {
                     "HP": 8500000,
                     "atk": 2300,
                     "def": 420,
@@ -6087,7 +6087,7 @@
                         }
                     }
                 },
-                "EXTREAM": {
+                "EXTREME": {
                     "HP": 18000000,
                     "atk": 1250,
                     "def": 5000,
@@ -6669,7 +6669,7 @@
                         }
                     }
                 },
-                "EXTREAM": {
+                "EXTREME": {
                     "HP": 3000000,
                     "atk": 9000,
                     "def": 100,
@@ -7013,7 +7013,7 @@
                         }
                     }
                 },
-                "EXTREAM": {
+                "EXTREME": {
                     "HP": 6000000,
                     "atk": 3500,
                     "def": 700,
@@ -7257,7 +7257,7 @@
                         }
                     }
                 },
-                "EXTREAM": {
+                "EXTREME": {
                     "HP": 35002,
                     "atk": 0,
                     "def": 500,
@@ -7460,7 +7460,7 @@
                         }
                     }
                 },
-                "EXTREAM": {
+                "EXTREME": {
                     "HP": 35002,
                     "atk": 0,
                     "def": 500,
@@ -7750,7 +7750,7 @@
                         }
                     }
                 },
-                "EXTREAM": {
+                "EXTREME": {
                     "HP": 4000000,
                     "atk": 344,
                     "def": 1332,
@@ -7969,7 +7969,7 @@
                         }
                     }
                 },
-                "EXTREAM": {
+                "EXTREME": {
                     "HP": 4000000,
                     "atk": 187,
                     "def": 333,
@@ -8192,7 +8192,7 @@
                         }
                     }
                 },
-                "EXTREAM": {
+                "EXTREME": {
                     "HP": 4000000,
                     "atk": 331,
                     "def": 333,
@@ -8415,7 +8415,7 @@
                         }
                     }
                 },
-                "EXTREAM": {
+                "EXTREME": {
                     "HP": 4000000,
                     "atk": 458,
                     "def": 333,
@@ -8634,7 +8634,7 @@
                         }
                     }
                 },
-                "EXTREAM": {
+                "EXTREME": {
                     "HP": 4000000,
                     "atk": 595,
                     "def": 333,
@@ -8856,7 +8856,7 @@
                         }
                     }
                 },
-                "EXTREAM": {
+                "EXTREME": {
                     "HP": 228751,
                     "atk": 100,
                     "def": 4000,
@@ -9090,7 +9090,7 @@
                     "damage_regist": 0,
                     "skill": {}
                 },
-                "EXTREAM": {
+                "EXTREME": {
                     "HP": 108929,
                     "atk": 500,
                     "def": 2000,
@@ -9365,7 +9365,7 @@
                         }
                     }
                 },
-                "EXTREAM": {
+                "EXTREME": {
                     "HP": 450000,
                     "atk": 1650,
                     "def": 100,
@@ -9694,7 +9694,7 @@
                         }
                     }
                 },
-                "EXTREAM": {
+                "EXTREME": {
                     "HP": 44357,
                     "atk": 331,
                     "def": 807,
@@ -9901,7 +9901,7 @@
                         }
                     }
                 },
-                "EXTREAM": {
+                "EXTREME": {
                     "HP": 15421,
                     "atk": 113,
                     "def": 90,
@@ -10068,7 +10068,7 @@
                     "damage_regist": 0,
                     "skill": {}
                 },
-                "EXTREAM": {
+                "EXTREME": {
                     "HP": 160000,
                     "atk": 950,
                     "def": 1000,
@@ -10282,7 +10282,7 @@
                         }
                     }
                 },
-                "EXTREAM": {
+                "EXTREME": {
                     "HP": 16000,
                     "atk": 1,
                     "def": 1000,
@@ -10574,7 +10574,7 @@
                         }
                     }
                 },
-                "EXTREAM": {
+                "EXTREME": {
                     "HP": 5000000,
                     "atk": 4500,
                     "def": 420,
@@ -10769,7 +10769,7 @@
                     "damage_regist": 0,
                     "skill": {}
                 },
-                "EXTREAM": {
+                "EXTREME": {
                     "HP": 1500000,
                     "atk": 100,
                     "def": 420,
@@ -10889,7 +10889,7 @@
                     "damage_regist": 0,
                     "skill": {}
                 },
-                "EXTREAM": {
+                "EXTREME": {
                     "HP": 18000000,
                     "atk": 1250,
                     "def": 5000,
@@ -11011,7 +11011,7 @@
                     "damage_regist": 0,
                     "skill": {}
                 },
-                "EXTREAM": {
+                "EXTREME": {
                     "HP": 95000,
                     "atk": 9000,
                     "def": 100,
@@ -11133,7 +11133,7 @@
                     "damage_regist": 0,
                     "skill": {}
                 },
-                "EXTREAM": {
+                "EXTREME": {
                     "HP": 95000,
                     "atk": 9000,
                     "def": 100,
@@ -11266,7 +11266,7 @@
                     "damage_regist": 99,
                     "skill": {}
                 },
-                "EXTREAM": {
+                "EXTREME": {
                     "HP": 900000,
                     "atk": 9000,
                     "def": 5000,
@@ -11408,7 +11408,7 @@
                     "ccGaugeLoop": true,
                     "skill": {}
                 },
-                "EXTREAM": {
+                "EXTREME": {
                     "HP": 5000,
                     "atk": 9000,
                     "def": 100,
@@ -11546,7 +11546,7 @@
                     "damage_regist": 0,
                     "skill": {}
                 },
-                "EXTREAM": {
+                "EXTREME": {
                     "HP": 2000000,
                     "atk": 9000,
                     "def": 5000,
@@ -11675,7 +11675,7 @@
                     "damage_regist": 0,
                     "skill": {}
                 },
-                "EXTREAM": {
+                "EXTREME": {
                     "HP": 314159,
                     "atk": 11500,
                     "def": 100,
