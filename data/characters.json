@@ -11411,7 +11411,6 @@
                 "SS": {
                     "default": {
                         "skillname": "火照った身体",
-                        "hitttime": 2.0,
                         "effect": [
                             {
                                 "skill_attribute": "atk_speed",
@@ -55479,7 +55478,7 @@
                 },
                 "PS": [
                     {
-                        "skill_attribute": "heal",
+                        "skill_attribute": "healUp",
                         "rate": [
                             14,
                             14.7,
@@ -59163,7 +59162,6 @@
                                 "skill_attribute": "add_damage",
                                 "allow": "big",
                                 "skill_tage": "enemy",
-                                "hitAmount": 1,
                                 "rate": [
                                     481,
                                     481,
