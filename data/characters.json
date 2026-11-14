@@ -29949,10 +29949,10 @@
                     "default": {
                         "skillname": "決定的な手がかり",
                         "hittime": 4.233,
-                    "triggerStack": {
-                        "type": "clue",
-                        "count": 3
-                    },
+                        "triggerStack": {
+                            "type": "clue",
+                            "count": 3
+                        },
                         "effect": [
                             {
                                 "skill_attribute": "sp_atk",
@@ -34374,7 +34374,9 @@
                                 "skill_attribute": "damage",
                                 "skill_pattern": "many",
                                 "skill_tage": "all",
-                                "hitAmount": 1,
+                                "hitAmount": [
+                                    2.1
+                                ],
                                 "rate": [
                                     246,
                                     256,
@@ -51295,7 +51297,7 @@
                         "skillname": "シャープシューター",
                         "cycleForAA": 4,
                         "requiredBaff": "formChange",
-                        "hittime": 6.67,
+                        "hittime": 0,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
@@ -60291,7 +60293,7 @@
                     "default": {
                         "skillname": "探究に終わりはない！",
                         "cycleForSec": 30,
-                        "hittime": 3,
+                        "hittime": 0,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
