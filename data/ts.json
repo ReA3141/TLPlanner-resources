@@ -1139,6 +1139,176 @@
                     }
                 }
             }
+        },
+        {
+            "id": "ts0019",
+            "name": "子犬号",
+            "img": "standing/ラナ.png",
+            "icon": "face/ラナ.png",
+            "atk_attribute": "爆発",
+            "def_attribute": "特殊装甲",
+            "status": {
+                "atk": 1156.6,
+                "heal": 1649.7,
+                "hit": 351,
+                "avoid": 199,
+                "cri": 250,
+                "cri_damage": 200,
+                "penetrate": 0,
+                "balance": 1196
+            },
+            "dps": {
+                "hit": 6,
+                "hits": 1,
+                "delay": 100,
+                "reload": 60,
+                "beforeTime": 148
+            },
+            "connection": "sp0091",
+            "school": "RW",
+            "battleClass": "T.S",
+            "class": "ラナ",
+            "skill": {
+                "EX": {},
+                "NS": {
+                    "default": {
+                        "skillname": "1バイトバースト",
+                        "hittime": 1.667,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "one",
+                                "skill_tage": "enemy",
+                                "hitAmount": [
+                                    1.667
+                                ],
+                                "rate": [
+                                    161,
+                                    210,
+                                    307,
+                                    356,
+                                    453
+                                ]
+                            },
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "one",
+                                "skill_tage": "enemy",
+                                "hitAmount": [
+                                    1.833,
+                                    2.0,
+                                    2.167,
+                                    2.333,
+                                    2.5,
+                                    2.667,
+                                    2.833
+                                ],
+                                "rate": [
+                                    112.7,
+                                    147.0,
+                                    214.9,
+                                    249.2,
+                                    317.1
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "PS": {},
+                "PS+": {},
+                "SS": {
+                    "default": {
+                        "skillname": "",
+                        "hittime": 0,
+                        "effect": []
+                    }
+                }
+            }
+        },
+        {
+            "id": "ts0020",
+            "name": "応援中のアズサ",
+            "img": "standing/アズサ（レーシング）.png",
+            "icon": "face/アズサ（レーシング）.png",
+            "atk_attribute": "爆発",
+            "def_attribute": "特殊装甲",
+            "status": {
+                "atk": 289.1,
+                "heal": 1950.5,
+                "hit": 670,
+                "avoid": 774,
+                "cri": 257,
+                "cri_damage": 200,
+                "penetrate": 0,
+                "balance": 1555
+            },
+            "dps": {
+                "hit": 0,
+                "hits": 0,
+                "delay": 0,
+                "reload": 0,
+                "beforeTime": 0
+            },
+            "connection": "sp0090",
+            "school": "TR",
+            "battleClass": "T.S",
+            "class": "アズサ",
+            "skill": {
+                "EX": {},
+                "NS": {
+                    "default": {
+                        "skillname": "Plaudite",
+                        "atSummon": true,
+                        "cycleForSec": 12,
+                        "ownerSkill": "EX",
+                        "hittime": 0.0,
+                        "effect": [
+                            {
+                                "skill_attribute": "sp_atk_field",
+                                "skill_tage": "all",
+                                "skilltime": 11,
+                                "rate": [
+                                    68,
+                                    71.4,
+                                    74.8,
+                                    88.4,
+                                    91.8
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "PS": {
+                    "default": {
+                        "skillname": "みんな頑張れ",
+                        "atSummon": true,
+                        "ownerSkill": "EX",
+                        "hittime": 0.0,
+                        "effect": [
+                            {
+                                "skill_attribute": "atk_field",
+                                "skill_tage": "all",
+                                "skilltime": 44,
+                                "rate": [
+                                    16.4,
+                                    17.2,
+                                    18,
+                                    21.3,
+                                    22.2
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "PS+": {},
+                "SS": {
+                    "default": {
+                        "skillname": "",
+                        "hittime": 0,
+                        "effect": []
+                    }
+                }
+            }
         }
     ]
 }
