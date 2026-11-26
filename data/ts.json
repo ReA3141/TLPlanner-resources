@@ -1258,10 +1258,8 @@
                 "NS": {
                     "default": {
                         "skillname": "Plaudite",
-                        "manual": false,
                         "atSummon": true,
                         "cycleForSec": 12,
-                        "ownerSkill": "EX",
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -1282,9 +1280,7 @@
                 "PS": {
                     "default": {
                         "skillname": "みんな頑張れ",
-                        "manual": false,
                         "atSummon": true,
-                        "ownerSkill": "EX",
                         "hittime": 0.0,
                         "effect": [
                             {
