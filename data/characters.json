@@ -38575,6 +38575,7 @@
             "school": "AB",
             "battleClass": "tank",
             "class": "ホシノ",
+            "formationGroup": "st0132",
             "skill": {
                 "EX": {
                     "default": {
@@ -38735,7 +38736,6 @@
             "name": "ホシノ(臨戦):攻撃型",
             "img": "standing/ホシノ（臨戦）_攻撃型.png",
             "icon": "face/ホシノ(臨戦)_攻撃型.png",
-            "battleForm": true,
             "atk_attribute": "神秘",
             "def_attribute": "重装甲",
             "status": {
@@ -38852,6 +38852,7 @@
             "school": "AB",
             "battleClass": "attacker",
             "class": "ホシノ",
+            "formationGroup": "st0132",
             "skill": {
                 "EX": {
                     "default": {
@@ -54248,6 +54249,7 @@
             "school": "SKK",
             "battleClass": "attacker",
             "class": "シュン",
+            "formationGroup": "st0183",
             "skill": {
                 "EX": {
                     "default": {
@@ -54501,7 +54503,6 @@
             "name": "シュエリン（水着）",
             "img": "standing/シュン（水着_幼女）.png",
             "icon": "face/シュン（水着_幼女）.png",
-            "battleForm": true,
             "atk_attribute": "振動",
             "def_attribute": "軽装甲",
             "status": {
@@ -54618,6 +54619,7 @@
             "school": "HY",
             "battleClass": "attacker",
             "class": "シュン",
+            "formationGroup": "st0183",
             "skill": {
                 "EX": {
                     "default": {
